@@ -34,7 +34,7 @@ Chỉ ghi khi có nguồn thật: tin tuyển trên TopCV, VietnamWorks, Vieclam
 
 ### 30 ngày đầu sau layoff làm gì?
 
-Mỗi nghề trong repo có 1 checklist 30 ngày, 5 việc mỗi tuần. Tuần 1 tìm hiểu nghề và hỏi người đang làm, tuần 2 thử làm phụ hoặc đi xem lớp học, tuần 3 chốt 1 nghề và đăng ký học hoặc xin phụ việc, tuần 4 đi làm buổi đầu và ghi lại những gì chưa biết. Xem mẫu checklist của tuần điều hòa: [checklist 30 ngày](tho-lap-dat-sua-dieu-hoa/Info/checklist-30-ngay.md).
+Mỗi nghề trong repo có 1 checklist 30 ngày, 5 việc mỗi tuần. Tuần 1 tìm hiểu nghề và hỏi người đang làm, tuần 2 thử làm phụ hoặc đi xem lớp học, tuần 3 chốt 1 nghề và đăng ký học hoặc xin phụ việc, tuần 4 đi làm buổi đầu và ghi lại những gì chưa biết. Xem mẫu checklist của tuần điều hòa: [checklist 30 ngày](01-ky-thuat-sua-chua/tho-lap-dat-sua-dieu-hoa/Info/checklist-30-ngay.md).
 
 ### Cần bao nhiêu tiền dự phòng để chuyển nghề?
 
@@ -206,54 +206,54 @@ Bình luận dưới một video Facebook (6/2026): "Học cntt thì học đi�
 
 ### Thợ điều hòa: học vào mùa lạnh có dại không?
 
-Không. Mùa lạnh ít việc nên thợ chính rảnh, dạy kỹ hơn, học phí có khi rẻ hơn. Ra nghề đúng mùa lạnh thì 1, 2 tháng đầu ít job, cái này ai cũng gặp. Chi tiết trong [Tuần 1, Thợ điều hòa](tho-lap-dat-sua-dieu-hoa/). Có 15 câu hỏi riêng về nghề này trong [FAQ thợ điều hòa](tho-lap-dat-sua-dieu-hoa/FAQ.md): học ở đâu, học phí 3 miền, lương theo nấc, mùa vụ, AI báo giá từ ảnh.
+Không. Mùa lạnh ít việc nên thợ chính rảnh, dạy kỹ hơn, học phí có khi rẻ hơn. Ra nghề đúng mùa lạnh thì 1, 2 tháng đầu ít job, cái này ai cũng gặp. Chi tiết trong [Tuần 1, Thợ điều hòa](01-ky-thuat-sua-chua/tho-lap-dat-sua-dieu-hoa/tuan-1-tho-dieu-hoa-day-du.md). Có 15 câu hỏi riêng về nghề này trong [FAQ thợ điều hòa](01-ky-thuat-sua-chua/tho-lap-dat-sua-dieu-hoa/FAQ.md): học ở đâu, học phí 3 miền, lương theo nấc, mùa vụ, AI báo giá từ ảnh.
 
 ### Giáo viên dạy lái xe: chưa có bằng lái thì học nghề này được không?
 
-Được, nhưng đường dài. Bằng B phải đủ 3 năm mới được dạy hạng B (Nghị định 94/2026, hiệu lực 01/7/2026). Người chưa có bằng tốn khoảng 20, 24 triệu học phí bằng lái cộng 3 năm chờ, người đã có B2 trên 3 năm chỉ cần 2,5, 2,8 triệu chứng chỉ sư phạm. Chi tiết trong [Tuần 22, Giáo viên dạy lái xe](giao-vien-day-lai-xe/).
+Được, nhưng đường dài. Bằng B phải đủ 3 năm mới được dạy hạng B (Nghị định 94/2026, hiệu lực 01/7/2026). Người chưa có bằng tốn khoảng 20, 24 triệu học phí bằng lái cộng 3 năm chờ, người đã có B2 trên 3 năm chỉ cần 2,5, 2,8 triệu chứng chỉ sư phạm. Chi tiết trong [Tuần 22, Giáo viên dạy lái xe](05-day-hoc-dao-tao/giao-vien-day-lai-xe/tuan-22-giao-vien-day-lai-xe-day-du.md).
 
 ### Trồng nấm: sao 4 thành phố đều không có tin tuyển?
 
-Vì đây là nghề tự làm chủ, tự trồng tự bán, không có công ty nào tuyển người trồng nấm. Thu nhập là tiền bán nấm, bào ngư lẻ 40.000, 70.000đ/kg, trại 5.000 bịch phôi doanh thu 15, 40 triệu/tháng tùy giá (tra cứu 23/11/2026). Chi tiết trong [Tuần 24, Người trồng nấm](nguoi-trong-nam/).
+Vì đây là nghề tự làm chủ, tự trồng tự bán, không có công ty nào tuyển người trồng nấm. Thu nhập là tiền bán nấm, bào ngư lẻ 40.000, 70.000đ/kg, trại 5.000 bịch phôi doanh thu 15, 40 triệu/tháng tùy giá (tra cứu 23/11/2026). Chi tiết trong [Tuần 24, Người trồng nấm](08-nong-nghiep/nguoi-trong-nam/tuan-24-nguoi-trong-nam-day-du.md).
 
 ### Môi giới bất động sản: lương cứng bao nhiêu, hoa hồng tính sao?
 
-Lương cứng trong tin tuyển tra cứu 23/11/2026 là 6, 22 triệu/tháng tùy công ty, hoa hồng 1, 4% giá trị căn. Thu nhập ghi 15, 200 triệu/tháng là con số tin đăng khi đạt 100% KPI, chưa kiểm chứng, đừng lấy làm lương chắc chắn. Chi tiết trong [Tuần 14, Môi giới bất động sản](moi-gioi-bat-dong-san/).
+Lương cứng trong tin tuyển tra cứu 23/11/2026 là 6, 22 triệu/tháng tùy công ty, hoa hồng 1, 4% giá trị căn. Thu nhập ghi 15, 200 triệu/tháng là con số tin đăng khi đạt 100% KPI, chưa kiểm chứng, đừng lấy làm lương chắc chắn. Chi tiết trong [Tuần 14, Môi giới bất động sản](07-dich-vu-tu-van-huong-dan/moi-gioi-bat-dong-san/tuan-14-moi-gioi-bat-dong-san-day-du.md).
 
 ### Hướng dẫn viên du lịch: không biết ngoại ngữ thì làm được không?
 
-Làm được tour nội địa, lương cứng 9, 14 triệu/tháng. Nhưng ngoại ngữ quyết định lương: HDV tiếng Anh 15, 20 triệu, HDV quốc tế có kinh nghiệm tổng 30, 50 triệu (tra cứu 23/11/2026). Cần thẻ hành nghề, lệ phí 650.000đ/hồ sơ, thẻ 5 năm. Chi tiết trong [Tuần 23, Hướng dẫn viên du lịch](huong-dan-vien-du-lich/).
+Làm được tour nội địa, lương cứng 9, 14 triệu/tháng. Nhưng ngoại ngữ quyết định lương: HDV tiếng Anh 15, 20 triệu, HDV quốc tế có kinh nghiệm tổng 30, 50 triệu (tra cứu 23/11/2026). Cần thẻ hành nghề, lệ phí 650.000đ/hồ sơ, thẻ 5 năm. Chi tiết trong [Tuần 23, Hướng dẫn viên du lịch](07-dich-vu-tu-van-huong-dan/huong-dan-vien-du-lich/tuan-23-huong-dan-vien-du-lich-day-du.md).
 
 ### Shipper dịp Tết có nên chạy không?
 
-Tết đơn nhiều, GHN ghi thu nhập 12, 15 triệu/tháng, cao điểm 700.000, 800.000đ/ngày (tra cứu 23/11/2026). Sau Tết đơn ít đi, lúc đó tính tiếp: giữ app chạy lai rai hay chuyển sang nghề khác trong repo. Chi tiết trong [Tuần 10, Shipper / giao hàng](shipper-giao-hang/).
+Tết đơn nhiều, GHN ghi thu nhập 12, 15 triệu/tháng, cao điểm 700.000, 800.000đ/ngày (tra cứu 23/11/2026). Sau Tết đơn ít đi, lúc đó tính tiếp: giữ app chạy lai rai hay chuyển sang nghề khác trong repo. Chi tiết trong [Tuần 10, Shipper / giao hàng](04-van-tai-tu-do/shipper-giao-hang/tuan-10-shipper-giao-hang-day-du.md).
 
 ### Danh sách đủ 24 nghề trong repo
 
-- [Tuần 1, Thợ lắp đặt, sửa điều hòa](tho-lap-dat-sua-dieu-hoa/)
-- [Tuần 2, Thợ sửa điện gia dụng](tho-sua-dien-gia-dung/)
-- [Tuần 3, Thợ khóa](tho-khoa/)
-- [Tuần 4, Thợ sửa xe máy](tho-sua-xe-may/)
-- [Tuần 5, Chủ quán ăn đường phố](chu-quan-an-duong-pho/)
-- [Tuần 6, Thợ cắt tóc nam](tho-cat-toc-nam/)
-- [Tuần 7, Chăm sóc người già tại nhà](cham-soc-nguoi-gia/)
-- [Tuần 8, Cắt tỉa thú cưng](cat-tia-thu-cung/)
-- [Tuần 9, Gia sư tiếng Anh](gia-su-tieng-anh/)
-- [Tuần 10, Shipper / giao hàng](shipper-giao-hang/)
-- [Tuần 11, Chụp ảnh cưới / sự kiện](chup-anh-cuoi-su-kien/)
-- [Tuần 12, Dịch vụ vệ sinh](dich-vu-ve-sinh/)
-- [Tuần 13, Dịch vụ giặt ủi](dich-vu-giat-ui/)
-- [Tuần 14, Môi giới bất động sản](moi-gioi-bat-dong-san/)
-- [Tuần 15, Thợ diệt côn trùng](tho-diet-con-trung/)
-- [Tuần 16, Thợ điện dân dụng](tho-dien-dan-dung/)
-- [Tuần 17, Thợ ống nước](tho-ong-nuoc/)
-- [Tuần 18, Thợ lắp điện mặt trời mái nhà](tho-lap-dien-mat-troi/)
-- [Tuần 19, Quay phim cưới / sự kiện](quay-phim-cuoi-su-kien/)
-- [Tuần 20, Thợ làm tóc nữ](tho-lam-toc-nu/)
-- [Tuần 21, Thợ làm bánh](tho-lam-banh/)
-- [Tuần 22, Giáo viên dạy lái xe](giao-vien-day-lai-xe/)
-- [Tuần 23, Hướng dẫn viên du lịch](huong-dan-vien-du-lich/)
-- [Tuần 24, Người trồng nấm](nguoi-trong-nam/)
+- [Tuần 1, Thợ lắp đặt, sửa điều hòa](01-ky-thuat-sua-chua/tho-lap-dat-sua-dieu-hoa/tuan-1-tho-dieu-hoa-day-du.md)
+- [Tuần 2, Thợ sửa điện gia dụng](01-ky-thuat-sua-chua/tho-sua-dien-gia-dung/tuan-2-tho-sua-dien-gia-dung-day-du.md)
+- [Tuần 3, Thợ khóa](01-ky-thuat-sua-chua/tho-khoa/tuan-3-tho-khoa-day-du.md)
+- [Tuần 4, Thợ sửa xe máy](01-ky-thuat-sua-chua/tho-sua-xe-may/tuan-4-tho-sua-xe-may-day-du.md)
+- [Tuần 5, Chủ quán ăn đường phố](03-am-thuc-ban-le/chu-quan-an-duong-pho/tuan-5-chu-quan-an-duong-pho-day-du.md)
+- [Tuần 6, Thợ cắt tóc nam](02-dich-vu-cham-soc/tho-cat-toc-nam/tuan-6-tho-cat-toc-nam-day-du.md)
+- [Tuần 7, Chăm sóc người già tại nhà](02-dich-vu-cham-soc/cham-soc-nguoi-gia/tuan-7-cham-soc-nguoi-gia-day-du.md)
+- [Tuần 8, Cắt tỉa thú cưng](02-dich-vu-cham-soc/cat-tia-thu-cung/tuan-8-cat-tia-thu-cung-day-du.md)
+- [Tuần 9, Gia sư tiếng Anh](05-day-hoc-dao-tao/gia-su-tieng-anh/tuan-9-gia-su-tieng-anh-day-du.md)
+- [Tuần 10, Shipper / giao hàng](04-van-tai-tu-do/shipper-giao-hang/tuan-10-shipper-giao-hang-day-du.md)
+- [Tuần 11, Chụp ảnh cưới / sự kiện](06-sang-tao-truyen-thong/chup-anh-cuoi-su-kien/tuan-11-chup-anh-cuoi-su-kien-day-du.md)
+- [Tuần 12, Dịch vụ vệ sinh](02-dich-vu-cham-soc/dich-vu-ve-sinh/tuan-12-dich-vu-ve-sinh-day-du.md)
+- [Tuần 13, Dịch vụ giặt ủi](02-dich-vu-cham-soc/dich-vu-giat-ui/tuan-13-dich-vu-giat-ui-day-du.md)
+- [Tuần 14, Môi giới bất động sản](07-dich-vu-tu-van-huong-dan/moi-gioi-bat-dong-san/tuan-14-moi-gioi-bat-dong-san-day-du.md)
+- [Tuần 15, Thợ diệt côn trùng](01-ky-thuat-sua-chua/tho-diet-con-trung/tuan-15-tho-diet-con-trung-day-du.md)
+- [Tuần 16, Thợ điện dân dụng](01-ky-thuat-sua-chua/tho-dien-dan-dung/tuan-16-tho-dien-dan-dung-day-du.md)
+- [Tuần 17, Thợ ống nước](01-ky-thuat-sua-chua/tho-ong-nuoc/tuan-17-tho-ong-nuoc-day-du.md)
+- [Tuần 18, Thợ lắp điện mặt trời mái nhà](01-ky-thuat-sua-chua/tho-lap-dien-mat-troi/tuan-18-tho-lap-dien-mat-troi-day-du.md)
+- [Tuần 19, Quay phim cưới / sự kiện](06-sang-tao-truyen-thong/quay-phim-cuoi-su-kien/tuan-19-quay-phim-cuoi-su-kien-day-du.md)
+- [Tuần 20, Thợ làm tóc nữ](02-dich-vu-cham-soc/tho-lam-toc-nu/tuan-20-tho-lam-toc-nu-day-du.md)
+- [Tuần 21, Thợ làm bánh](03-am-thuc-ban-le/tho-lam-banh/tuan-21-tho-lam-banh-day-du.md)
+- [Tuần 22, Giáo viên dạy lái xe](05-day-hoc-dao-tao/giao-vien-day-lai-xe/tuan-22-giao-vien-day-lai-xe-day-du.md)
+- [Tuần 23, Hướng dẫn viên du lịch](07-dich-vu-tu-van-huong-dan/huong-dan-vien-du-lich/tuan-23-huong-dan-vien-du-lich-day-du.md)
+- [Tuần 24, Người trồng nấm](08-nong-nghiep/nguoi-trong-nam/tuan-24-nguoi-trong-nam-day-du.md)
 
 ---
 

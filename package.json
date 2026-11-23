@@ -1,0 +1,1 @@
+{"description":"Trang đọc tài liệu (VitePress) cho repo IT Chuyển Nghề Khi Bị Layoff — build ra docs/ để bật GitHub Pages.","devDependencies":{"vitepress":"^1.6.4"},"name":"it-chuyen-nghe-khi-bi-layoff-docs","private":true,"scripts":{"docs:build":"vitepress build","docs:dev":"vitepress dev","docs:preview":"vitepress preview"},"version":"1.0.0"}

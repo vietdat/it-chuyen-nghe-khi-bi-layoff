@@ -6,7 +6,7 @@
 - Câu hook chung TikTok: **"Dev bị layoff thì làm gì?"** + số tập - 6 clip TikTok là 6 tập tiếp nối 1 câu chuyện duy nhất (1 anh dev đi làm thợ ống nước, nhân vật kể chuyện hư cấu, không lấy từ trải nghiệm của Ngoc) + Tập 7 ngoại truyện về học ở đâu, học phí bao nhiêu. Reel Thứ 4 là tập tổng, kịch bản theo sườn 6 đoạn.
 - Nguồn số liệu: tra cứu ngày 23/11/2026, ghi trong `Info/nghien-cuu-thi-truong.md`. Mọi con số trong file này đều có nguồn + ngày. Chỗ nào chưa có số thì ghi "Chưa có số liệu", không bịa.
 - Lưu ý: số liệu tra cứu ngày 23/11/2026, tuần đăng là 22–28/03/2027, cách nhau 4 tháng. Trước ngày đăng, kiểm tra lại hạn tin tuyển và học phí.
-- File này chỉ để Ngoc đọc thử và duyệt. Chưa đẩy lên GitHub.
+- File này chỉ để Ngoc đọc thử và duyệt.
 
 ## Mục lục
 

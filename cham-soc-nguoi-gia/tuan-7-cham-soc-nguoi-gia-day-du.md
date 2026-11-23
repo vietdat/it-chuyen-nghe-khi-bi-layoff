@@ -5,7 +5,7 @@
 - Tổng: 15 bài đăng (YouTube 1 + Facebook 6 + TikTok 8 — thêm Tập 7 ngoại truyện Chủ nhật 20:00)
 - Câu hook chung TikTok: **"Dev bị layoff thì làm gì?"** + số tập — 6 clip TikTok là 6 tập tiếp nối 1 câu chuyện duy nhất (1 anh dev đi chăm sóc người già tại nhà, nhân vật kể chuyện, không phải người thật cụ thể, không phải trải nghiệm của Ngoc) + Tập 7 ngoại truyện về học ở đâu, học phí bao nhiêu. Reel Thứ 4 là tập tổng, kịch bản theo sườn flat 2D 6 đoạn, 150 từ.
 - Nguồn số liệu: tra cứu ngày 23/11/2026, ghi trong `Info/nghien-cuu-thi-truong.md`. Mọi con số trong file này đều có nguồn + ngày. Chỗ nào chưa có số thì ghi "Chưa có số liệu", không bịa.
-- File này chỉ để Ngoc đọc thử và duyệt. Chưa đẩy lên GitHub.
+- File này chỉ để Ngoc đọc thử và duyệt.
 
 ## Mục lục
 

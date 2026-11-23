@@ -6,7 +6,7 @@
 - Câu hook chung TikTok: **"Dev bị layoff thì làm gì?"** + số tập - 6 clip TikTok là 6 tập tiếp nối 1 câu chuyện duy nhất (1 anh dev đi trồng nấm, nhân vật kể chuyện hư cấu, không lấy từ trải nghiệm của Ngoc) + Tập 7 ngoại truyện về học ở đâu, học phí bao nhiêu. Reel Thứ 4 là tập tổng, chỉ có kịch bản (không render video).
 - Nguồn số liệu: tra cứu ngày 23/11/2026, ghi trong `Info/nghien-cuu-thi-truong.md`. Mọi con số trong file này đều có nguồn + ngày. Chỗ nào chưa có số thì ghi "Chưa có số liệu", không bịa.
 - **Lưu ý về thu nhập:** trồng nấm là nghề TỰ KINH DOANH, thu nhập đến từ việc BÁN NẤM, không phải lương tháng. Các con số là doanh thu / lãi của hộ trồng thật, ghi rõ quy mô.
-- File này chỉ để Ngoc đọc thử và duyệt. Chưa đẩy lên GitHub.
+- File này chỉ để Ngoc đọc thử và duyệt.
 
 ## Mục lục
 

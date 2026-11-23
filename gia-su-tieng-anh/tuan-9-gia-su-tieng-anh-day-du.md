@@ -6,7 +6,7 @@
 - Câu hook chung TikTok: **"Dev bị layoff thì làm gì?"** + số tập — 6 clip TikTok là 6 tập tiếp nối 1 câu chuyện duy nhất (1 anh dev đi làm gia sư tiếng Anh, nhân vật kể chuyện, không phải người thật cụ thể, không phải trải nghiệm của Ngoc) + Tập 7 ngoại truyện về học ở đâu, học phí bao nhiêu. Reel Thứ 4 là tập tổng, kịch bản 146 từ.
 - Nguồn số liệu: tra cứu ngày 23/11/2026, ghi trong `Info/nghien-cuu-thi-truong.md`. Mọi con số trong file này đều có nguồn + ngày. Chỗ nào chưa có số thì ghi "Chưa có số liệu", không bịa.
 - Lưu ý mùa vụ: tuần này là tuần cuối trước Tết Nguyên đán — mùng 1 Tết Đinh Mùi là thứ Bảy 06/02/2027 (nguồn: Thư viện Pháp luật; lịch nghỉ chính thức 04–10/02/2027). Ngày 30/01/2027 là 23 tháng Chạp (Ông Công Ông Táo). Nhiều học viên xin nghỉ dần, gia sư chốt lịch dạy lại sau Tết.
-- File này chỉ để Ngoc đọc thử và duyệt. Chưa đẩy lên GitHub.
+- File này chỉ để Ngoc đọc thử và duyệt.
 
 ## Mục lục
 

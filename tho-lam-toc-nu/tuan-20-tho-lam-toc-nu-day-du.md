@@ -6,7 +6,7 @@
 - Câu hook chung TikTok: **"Dev bị layoff thì làm gì?"** + số tập - 6 clip TikTok là 6 tập tiếp nối 1 câu chuyện duy nhất (1 anh dev đi làm thợ tóc nữ, nhân vật kể chuyện hư cấu, không lấy từ trải nghiệm của Ngoc) + Tập 7 ngoại truyện về học ở đâu, học phí bao nhiêu. Reel Thứ 4 là tập tổng, kịch bản theo sườn 6 đoạn.
 - Nguồn số liệu: tra cứu ngày 23/11/2026, ghi trong `Info/nghien-cuu-thi-truong.md`. Mọi con số trong file này đều có nguồn + ngày. Chỗ nào chưa có số thì ghi "Chưa có số liệu", không bịa.
 - Phân biệt với tuần 6 (thợ cắt tóc nam / barber): tuần này là tóc nữ — uốn, nhuộm, duỗi, phục hồi, thử dị ứng 48 giờ, khách nữ soi gương từng lọn tóc. Không copy nội dung tuần 6.
-- File này chỉ để Ngoc đọc thử và duyệt. Chưa đẩy lên GitHub.
+- File này chỉ để Ngoc đọc thử và duyệt.
 
 ## Mục lục
 

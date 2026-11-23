@@ -5,7 +5,7 @@
 - Tổng: 15 bài đăng (YouTube 1 + Facebook 6 + TikTok 8 — thêm Tập 7 ngoại truyện Chủ nhật 20:00)
 - Câu hook chung TikTok: **"Dev bị layoff thì làm gì?"** + số tập — 6 clip TikTok là 6 tập tiếp nối 1 câu chuyện duy nhất (1 anh dev, máy giặt nhà anh ấy hỏng, nhân vật kể chuyện, không phải người thật cụ thể, không phải trải nghiệm của Ngoc) + Tập 7 ngoại truyện về học ở đâu, học phí bao nhiêu. Reel Thứ 4 là tập tổng, kịch bản 149 từ theo sườn 6 đoạn.
 - Nguồn số liệu: tra cứu ngày 23/11/2026, ghi trong `Info/nghien-cuu-thi-truong.md`. Mọi con số trong file này đều có nguồn + ngày. Chỗ nào chưa có số thì ghi "Chưa có số liệu", không bịa.
-- File này chỉ để Ngoc đọc thử và duyệt. Chưa đẩy lên GitHub.
+- File này chỉ để Ngoc đọc thử và duyệt.
 
 ## Mục lục
 
@@ -459,4 +459,3 @@ File checklist đầy đủ: `Info/checklist-30-ngay.md`.
 - Reel đúng sườn `suon-chung-video.md` (flat 2D, Dapper Cuff tốc độ 100, 40–45s, 149 từ) — kịch bản xong, chưa render video.
 - Nghề thuộc nhóm A trong pool: làm thuê vẫn có thể bị layoff, làm tự do thì rủi ro là không có khách — không trình bày nghề này như nơi an toàn tuyệt đối.
 - Ngoc duyệt script + bài viết trước khi đăng.
-- Chưa đẩy lên GitHub — chỉ làm file local.

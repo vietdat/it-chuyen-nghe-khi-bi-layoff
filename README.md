@@ -10,15 +10,6 @@ Repo lưu toàn bộ kế hoạch nội dung cho dự án hỗ trợ các bạn 
 - Mỗi nghề được trình bày đầy đủ: công việc hàng ngày là gì, ai hợp / ai không hợp, kỹ năng IT mang sang được, cần học lại cái gì, career path, cách tìm việc / khách đầu tiên, thu nhập thật, và rủi ro thật của chính nghề đó.
 - Không bịa số liệu thu nhập. Số liệu Việt Nam chỉ ghi khi có nguồn thật (tin tuyển dụng, báo chí, trung tâm dạy nghề) kèm nguồn + ngày; số liệu Mỹ (BLS) chỉ để tham khảo, không dùng làm thu nhập Việt Nam.
 
-## Nội dung trong repo
-
-| Thư mục / File | Nội dung |
-|---|---|
-| `ke-hoach/ke-hoach-6-thang.md` | Kế hoạch 6 tháng: vision, 24 nghề (tuần 1–24), format từng tuần, KPI, rủi ro |
-| `ke-hoach/ke-hoach-chi-tiet-tung-ngay.md` | Lịch chi tiết từng ngày, từng tuần (24/11/2026 – 30/05/2027), kèm outline kịch bản video |
-| `nghien-cuu/pool-100-nghe-phi-tech.md` | Pool 100 nghề phi-tech cho dân IT: việc làm, lợi thế của dân IT, thời gian học, vốn, rủi ro |
-| `nghien-cuu/nghe-moi-my-va-moi-noi.md` | Nghiên cứu nghề mới tại Mỹ (WEF, BLS, LinkedIn) — đã thay bằng pool phi-tech, giữ lại để tham khảo |
-
 ## Lịch trình
 
 - **Tuần 0 (24/11/2026, 1 ngày):** setup kênh Facebook + TikTok + YouTube mới, bài ghim vision.

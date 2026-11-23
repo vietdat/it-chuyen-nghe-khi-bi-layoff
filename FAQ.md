@@ -206,7 +206,7 @@ Bình luận dưới một video Facebook (6/2026): "Học cntt thì học đi�
 
 ### Thợ điều hòa: học vào mùa lạnh có dại không?
 
-Không. Mùa lạnh ít việc nên thợ chính rảnh, dạy kỹ hơn, học phí có khi rẻ hơn. Ra nghề đúng mùa lạnh thì 1, 2 tháng đầu ít job, cái này ai cũng gặp. Chi tiết trong [Tuần 1, Thợ điều hòa](tho-lap-dat-sua-dieu-hoa/).
+Không. Mùa lạnh ít việc nên thợ chính rảnh, dạy kỹ hơn, học phí có khi rẻ hơn. Ra nghề đúng mùa lạnh thì 1, 2 tháng đầu ít job, cái này ai cũng gặp. Chi tiết trong [Tuần 1, Thợ điều hòa](tho-lap-dat-sua-dieu-hoa/). Có 15 câu hỏi riêng về nghề này trong [FAQ thợ điều hòa](tho-lap-dat-sua-dieu-hoa/FAQ.md): học ở đâu, học phí 3 miền, lương theo nấc, mùa vụ, AI báo giá từ ảnh.
 
 ### Giáo viên dạy lái xe: chưa có bằng lái thì học nghề này được không?
 

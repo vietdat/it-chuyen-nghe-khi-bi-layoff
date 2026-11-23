@@ -1,6 +1,8 @@
 # Câu hỏi thường gặp: IT bị layoff chuyển nghề phi-tech
 
 > Số liệu lương, học phí, thời gian học trong trang này tra cứu ngày 23/11/2026, lấy từ tin tuyển thật trên TopCV, VietnamWorks, Vieclamtot và trang của trung tâm dạy nghề. Tin tuyển hết hạn nhanh, con số chỉ đúng ở thời điểm tra cứu. Chỗ nào chưa có số thì ghi thẳng "Chưa có số liệu", không đoán.
+>
+> 11 câu trong trang này lấy từ câu hỏi thật trên Facebook, diễn đàn VOZ, Substack và báo Tuổi Trẻ (6–11/2026), mỗi câu có ghi nguồn dưới câu trả lời.
 
 ## 1. Về kênh này
 
@@ -42,6 +44,30 @@ Tùy nghề. Học phí khóa ngắn hạn 6, 15 triệu, cộng tiền sống 2
 
 Không có nghề nào hợp với tất cả mọi người. Người khỏe tay, thích ra ngoài thì hợp nghề kỹ thuật như điều hòa, điện, xe máy. Người thích nói chuyện, thích con người thì hợp chăm sóc người già, gia sư, hướng dẫn viên. Trong mỗi folder nghề có mục "Ai hợp / ai không hợp", đọc mục đó trước rồi hãy quyết.
 
+### Nộp đơn mấy tháng không ai trả lời thì làm gì?
+
+Đây là câu hỏi thật trong bình luận Facebook (9/2026): một bạn tìm việc hơn 2 tháng, không ai phản hồi hay nhắn tin gì cả. Nộp đơn tiếp mà không đổi gì thì kết quả thường cũng vậy. Cách nhiều người làm: vừa nộp đơn vừa đi làm phụ 1, 2 buổi/tuần ở nghề tay chân để có thu nhập và xem mình có hợp không, đồng thời luyện lại tiếng Anh giao tiếp và live code nếu vẫn muốn ở lại IT. Hai hướng chạy song song, hướng nào có tín hiệu trước thì theo hướng đó.
+
+*Nguồn câu hỏi: bình luận Facebook dưới bài về IT bị layoff, 9/2026.*
+
+### Có nên bỏ phố về quê làm nghề khác không?
+
+Một bạn IT 6 năm kinh nghiệm hỏi đúng câu này trên diễn đàn VOZ (11/2026), sau khi nộp 20 đơn mà hơn 10 đơn không phản hồi, vài lần trượt phỏng vấn tiếng Anh và live code, rồi viết: "Đến Tết không ổn chắc mình bỏ phố về quê làm việc khác". Về quê thì tiền nhà, tiền ăn nhẹ hơn, nhưng việc tay chân ở quê cũng ít hơn phố, khách cũng ít hơn. Nhiều người chọn cách ở lại phố thêm 1, 2 tháng, vừa tìm việc IT vừa thử làm phụ nghề tay chân, rồi mới quyết. Về quê hay ở lại, cái cần có trước là 1 nghề cầm tay, chứ không chỉ đổi chỗ ở.
+
+*Nguồn câu hỏi: bài đăng trên diễn đàn VOZ, 11/2026.*
+
+### Mất việc rồi, trong lúc học nghề thì sống bằng gì?
+
+Một bài đăng Facebook (11/2026) kể chồng làm front-end bị layoff, ban ngày làm việc vặt, tối làm kem chuối bán để phụ tiền nhà. Bình luận dưới bài cũng nhiều người kể chuyện tương tự: bán bóng bay, làm việc thời vụ. Học nghề 2, 4 tháng mà không có thu nhập thì khó trụ, nên nhiều người chọn nghề có lương phụ ngay từ đầu như shipper, thợ phụ, hoặc làm việc thời vụ ban ngày và học nghề buổi tối.
+
+*Nguồn câu hỏi: bài đăng Facebook về gia đình có chồng IT bị layoff, 11/2026.*
+
+### Code 10 năm rồi vẫn chật vật, chuyển nghề có muộn không?
+
+Bình luận dưới một video Facebook (6/2026): "E học bk, code 10 năm, vẫn chật vật lắm". 10 năm kinh nghiệm mà vẫn chật vật thì vấn đề không còn là thiếu kinh nghiệm, mà là thị trường đổi. Chuyển nghề lúc này vẫn mang theo được nhiều thứ: kỹ năng làm việc với khách, quản lý lịch hẹn, dùng app và bảng tính mang sang nghề tay chân được ngay. Cái phải học lại là tay nghề, mà tay nghề thì học 2, 4 tháng là làm phụ được.
+
+*Nguồn câu hỏi: bình luận Facebook dưới video về IT layoff, 6/2026.*
+
 ## 3. Học nghề
 
 ### Học nghề ở đâu?
@@ -71,6 +97,24 @@ Tùy nghề. Đa số nghề tay chân không đòi bằng, chỉ cần tay ngh�
 ### Không biết gì về điện, có học được nghề điện không?
 
 Được. Đây là câu hỏi gặp ở gần như mọi nghề kỹ thuật trong repo. Khóa sơ cấp dạy từ đầu, không yêu cầu biết trước. Cách nhanh nhất là xin làm thợ phụ 1, 2 tuần, xem mình có chịu được môi trường làm việc không, rồi mới đóng tiền học khóa dài.
+
+### Học nghề ở trung tâm hay học cao đẳng, cái nào xin việc dễ hơn?
+
+Một sinh viên IT cao đẳng hỏi trên diễn đàn VOZ (11/2026): đang làm trái ngành trong khu công nghiệp, ca 12 tiếng ngày đêm luân phiên, muốn ra ngoài học sửa điện. Bình luận dưới bài có người chia sẻ: học cao đẳng điện công nghiệp được giảm 70% học phí, chỉ đóng khoảng 3,1 triệu/kỳ, và nhiều nơi tuyển thì ưu tiên bằng cao đẳng hơn chứng chỉ trung tâm. Trung tâm thì nhanh hơn, 1, 3 tháng là ra nghề, hợp với người cần đi làm ngay. Chọn bên nào thì tùy bạn cần nhanh hay cần bằng cấp, cả hai đường đều có người đi được.
+
+*Nguồn câu hỏi: bài đăng trên diễn đàn VOZ, 11/2026.*
+
+### Gia đình phản đối bỏ việc văn phòng đi làm thợ thì sao?
+
+Báo Tuổi Trẻ (3/2026) kể anh Nguyễn Hữu Minh, quê Cà Mau, tốt nghiệp quản trị kinh doanh, làm văn phòng lương 8 triệu/tháng rồi nghỉ đi học sửa điện lạnh. Ban đầu gia đình lo vì nghĩ bỏ việc văn phòng là mạo hiểm. Sau vài năm, anh mở cửa hàng sửa chữa ở địa phương, mùa nắng nóng thu nhập 20, 30 triệu/tháng, lúc đó gia đình mới yên tâm. Người nhà lo là thật, và cách trả lời lo lắng đó cũng thật: có tay nghề, có khách quen, có thu nhập đều thì tự khắc hết lo.
+
+*Nguồn câu hỏi: bài báo Tuổi Trẻ về người trẻ chọn làm thợ, 3/2026.*
+
+### Học nghề xong bỏ giữa chừng, đổi hoài không ổn định thì sao?
+
+Cùng bài báo Tuổi Trẻ (3/2026): anh Trương Hoàng Giang, quê Đà Nẵng, bỏ dở đại học theo bạn học cơ khí, làm vài tháng thì nghỉ, chuyển sang học sửa xe cũng không theo lâu, sau đó làm thợ hồ, lao động thời vụ, vẫn chưa ổn định. Anh nói lúc đầu tưởng học nghề sẽ nhanh có thu nhập, làm rồi mới thấy việc rất cực mà mình không đủ kiên nhẫn theo đến cùng. Học nghề không khó bằng trụ lại với nghề: thử làm phụ 1, 2 tuần trước khi đóng học phí, xem mình có chịu được cái cực của nghề đó không rồi hãy học dài.
+
+*Nguồn câu hỏi: bài báo Tuổi Trẻ về người trẻ chọn làm thợ, 3/2026.*
 
 ## 4. Thu nhập và việc làm
 
@@ -116,6 +160,12 @@ Tin tuyển ở 2 thành phố này ít hơn Hà Nội và TP.HCM, nhiều việ
 
 Nghề đi làm thuê như shipper, thợ phụ thì tháng đầu đã có lương. Nghề học xong mới làm như điều hòa, cắt tóc thì 2, 4 tháng sau khi học. Nghề tự kinh doanh như trồng nấm, quán ăn thì lâu hơn, phải chờ lứa hàng đầu tiên bán được. Trong từng folder có checklist 30 ngày, ghi rõ ngày nào làm gì để tới được buổi làm đầu tiên.
 
+### Dân văn phòng quen ngồi máy lạnh, làm nghề tay chân có chịu nổi không?
+
+Đây là nỗi lo thật, nhiều người hỏi trên VOZ và Facebook: "thể lực công tử chịu sao thấu". Một người từng bỏ việc tech đi làm thợ điện phụ kể lại trên Substack (2025): có hôm đào rãnh 6 tiếng dưới nắng, có tuần chui gầm nhà cả ngày, hít bụi, dính mạng nhện. Mấy nghề leo trèo, đứng lâu, phơi nắng thì đúng là cực với người quen ngồi phòng lạnh. Cách thử rẻ nhất: xin làm phụ 1, 2 tuần, làm thử cái cực nhất của nghề đó, rồi hãy quyết. Người nào thử xong vẫn muốn làm tiếp thì thường trụ được.
+
+*Nguồn câu hỏi: bình luận trên diễn đàn VOZ và bài kể trên Substack, 2025–2026.*
+
 ## 5. AI và nghề tay chân
 
 ### AI có thay thế nghề tay chân không?
@@ -133,6 +183,24 @@ Kỹ năng làm việc với khách qua tin nhắn và quản lý lịch hẹn. 
 ### AI có giúp nghề tay chân không, hay chỉ là chuyện kể?
 
 Có, nhưng chỉ giúp việc phụ. Ví dụ thật trong tuần điều hòa: khách gửi ảnh máy kêu to lúc 11 giờ trưa, thợ dùng AI tra lỗi và báo giá trong 30 giây, khách nhắn lại "ừ, qua đi". Tiết kiệm 1 chuyến chạy tới tận nơi chỉ để báo giá.
+
+### Nghe nói 5 năm nữa AI thay hết code, có nên bỏ IT luôn không?
+
+Bình luận Facebook (9/2026): "Chỉ 5 năm nữa thôi, nghề code sẽ ko còn mấy nữa, AI sẽ thay thế phần lớn". Không ai biết chắc mốc 5 năm có đúng không, nhưng hướng đi thì rõ: code cơ bản ngày càng rẻ, người chỉ viết code theo mẫu thì khó cạnh tranh. Bỏ IT hay ở lại không quyết bằng tin đồn, mà bằng việc bạn có làm được phần khó của IT không: thiết kế hệ thống, hiểu nghiệp vụ, làm việc với khách. Làm được thì ở lại, không làm được thì học thêm 1 nghề tay chân làm đường lui, chứ không cần bỏ hết ngay hôm nay.
+
+*Nguồn câu hỏi: bình luận Facebook dưới bài về IT bị layoff, 9/2026.*
+
+### Nghề tay chân rồi AI cũng thay thì sao?
+
+Dưới một bài đăng Facebook về sa thải (10/2026), nhiều người gợi ý chuyển sang nghề tay chân, bán hàng online, làm nông, nhưng cũng có người hỏi lại: AI rồi cũng tự động hóa cả mấy nghề đó thì sao. Câu trả lời thật là: nghề nào cũng có phần AI làm được và phần AI chưa làm được. AI thay được phần tra lỗi, báo giá, đặt lịch, nhưng chưa leo mái lắp điều hòa, chưa cắt tóc, chưa đỡ người già dậy được. Chọn nghề thì chọn phần việc cần tay, cần mắt, cần có mặt tại chỗ, vì đó là phần khó thay nhất.
+
+*Nguồn câu hỏi: bình luận Facebook dưới bài về sa thải do AI, 10/2026.*
+
+### Học điện công nghiệp hay học nghề ngắn hạn, cái nào hơn?
+
+Bình luận dưới một video Facebook (6/2026): "Học cntt thì học điện công nghiệp hay hơn anh oi". Điện công nghiệp là đường dài: học cao đẳng 2, 3 năm, có bằng, xin vào nhà máy, khu công nghiệp, lương ổn định. Nghề ngắn hạn như điện lạnh, sửa xe thì 1, 3 tháng là ra làm phụ được, tiền về nhanh hơn nhưng phải tự lo khách và tay nghề. Người cần tiền ngay thì học ngắn hạn, người còn thời gian và muốn bằng cấp thì học điện công nghiệp. Cả hai đều là nghề tay chân, khác nhau ở tốc độ ra tiền và độ dài con đường.
+
+*Nguồn câu hỏi: bình luận Facebook dưới video về IT layoff, 6/2026.*
 
 ## 6. Từng nghề cụ thể
 

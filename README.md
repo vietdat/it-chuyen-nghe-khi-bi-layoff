@@ -21,6 +21,10 @@ Nơi tổng hợp kiến thức chuyển nghề phi-tech cho các bạn IT: th�
 7. Thu nhập thực tế + sự thật phũ phàng
 8. Rủi ro thật của nghề đó
 
+## Câu hỏi thường gặp
+
+Mới bị layoff, chưa biết bắt đầu từ đâu, học bao lâu, lương từng nghề bao nhiêu: đọc [Câu hỏi thường gặp](FAQ.md). Trang đó gom những câu hỏi gặp nhiều nhất trong 24 nghề, trả lời ngắn gọn kèm nguồn số liệu.
+
 ## Nguyên tắc của nội dung ở đây
 
 - Thu nhập chỉ ghi khi có nguồn thật (tin tuyển dụng, báo chí, trung tâm dạy nghề) kèm nguồn và ngày. Số liệu Mỹ chỉ để tham khảo, không dùng làm thu nhập Việt Nam.

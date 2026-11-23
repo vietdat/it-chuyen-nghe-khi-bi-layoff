@@ -27,12 +27,12 @@
 
 ### Facebook
 
-- Chưa đếm được — cần đếm thủ công. Facebook cần đăng nhập mới xem được Group, Muse không đăng nhập được nên không đếm số bài tìm thợ chụp cưới trong 30 ngày qua.
+- Chưa đếm được — cần đếm thủ công trước ngày đăng: vào Group Facebook, lọc bài tìm thợ chụp cưới trong 30 ngày qua rồi đếm.
 - Cách đếm thủ công trước Thứ 2 (08/02/2027): vào Group cư dân khu vực + Group việc làm nhiếp ảnh / Group photographer, tìm từ khóa "tuyển photographer", "tìm thợ chụp ảnh cưới", "second shooter", lọc 30 ngày gần nhất, đếm số bài tìm thợ + số comment xin việc.
 
 ### Google Maps
 
-- Chưa đếm được — cần đếm thủ công. Công cụ places của Muse chỉ tra cứu được từng địa điểm theo ID, không đếm số studio theo khu vực.
+- Chưa đếm được — cần đếm thủ công số studio trên Google Maps theo khu vực trước ngày đăng.
 - Cách đếm thủ công: mở Google Maps, tìm "studio ảnh cưới" hoặc "chụp ảnh cưới" tại 1 quận mẫu (ví dụ: Q.3, TP.HCM hoặc Cầu Giấy, Hà Nội), đếm số studio hiện ra, ghi quận + ngày đếm.
 
 ### TikTok

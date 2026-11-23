@@ -35,13 +35,13 @@
 
 ### Facebook
 
-- Chưa đếm được — cần đếm thủ công. Facebook cần đăng nhập mới xem được Group, Muse không đăng nhập được nên không đếm số bài tìm thợ trong 30 ngày qua.
+- Chưa đếm được — cần đếm thủ công trước ngày đăng: vào Group Facebook, lọc bài tìm thợ trong 30 ngày qua rồi đếm.
 - Bằng chứng nhu cầu có thật qua tìm kiếm công khai ngày 23/11/2026: tin tuyển 1 nhân viên giặt sấy tại Cần Thơ (5 triệu/tháng, đăng 22/11/2026) được tổng từ Facebook Group tìm việc Cần Thơ sang Việc Làm Tốt. Tin tuyển giặt ủi vẫn chạy qua Group cư dân và Group việc làm địa phương, không chỉ qua sàn lớn.
 - Cách đếm thủ công trước Thứ 2 (22/02/2027): vào Group cư dân khu vực + Group việc làm tay nghề, tìm từ khóa "nhân viên giặt ủi", "giặt sấy", "tuyển giặt là", lọc 30 ngày gần nhất, đếm số bài tìm người + số comment xin việc.
 
 ### Google Maps
 
-- Chưa đếm được — cần đếm thủ công. Công cụ places của Muse chỉ tra cứu được từng địa điểm theo ID, không đếm số cửa hàng theo khu vực.
+- Chưa đếm được — cần đếm thủ công số cửa hàng trên Google Maps theo khu vực trước ngày đăng.
 - Cách đếm thủ công: mở Google Maps, tìm "giặt ủi" hoặc "giặt sấy" tại 1 quận mẫu (ví dụ: Bình Thạnh, TP.HCM hoặc Cầu Giấy, Hà Nội), đếm số tiệm hiện ra, ghi quận + ngày đếm. Mật độ tiệm giặt ủi ở khu chung cư, khu sinh viên, khu văn phòng là thước đo cạnh tranh trực tiếp cho ai muốn mở tiệm.
 
 ### TikTok

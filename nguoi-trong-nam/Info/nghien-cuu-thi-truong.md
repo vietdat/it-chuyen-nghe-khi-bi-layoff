@@ -26,13 +26,13 @@
 
 ### Facebook
 
-- Chưa đếm được — cần đếm thủ công. Facebook cần đăng nhập mới xem được Group, Muse không đăng nhập được nên không đếm số bài tìm người làm trại nấm / mua bán phôi nấm trong 30 ngày qua.
+- Chưa đếm được — cần đếm thủ công trước ngày đăng: vào Group Facebook, lọc bài tìm người làm trại nấm / mua bán phôi nấm trong 30 ngày qua rồi đếm.
 - Tìm thấy qua tìm kiếm công khai ngày 23/11/2026 (bằng chứng nhu cầu có thật, không phải số đếm đầy đủ): các trại nấm và hợp tác xã đăng bán nấm tươi + phôi nấm trên Facebook (ví dụ HTX Nấm Hải Yến, Hương Khê, Hà Tĩnh bán lẻ trên Facebook, TikTok, Shopee — nguồn: checkvn.hatinh.gov.vn). Người mua nấm tìm trại nấm qua Facebook khá nhiều, nhưng đó là nhu cầu MUA nấm, không phải nhu cầu TUYỂN người trồng nấm.
 - Cách đếm thủ công trước Thứ 2 (10/05/2027): vào Group nông nghiệp / chợ nông sản khu vực, tìm từ khóa "trồng nấm", "phôi nấm", "mua nấm", lọc 30 ngày gần nhất, đếm số bài rao bán nấm + số bài hỏi mua phôi.
 
 ### Google Maps
 
-- Chưa đếm được — cần đếm thủ công. Công cụ places của Muse chỉ tra cứu được từng địa điểm theo ID, không đếm số trại nấm / cửa hàng bán nấm theo khu vực.
+- Chưa đếm được — cần đếm thủ công số trại nấm / cửa hàng bán nấm trên Google Maps theo khu vực trước ngày đăng.
 - Cách đếm thủ công: mở Google Maps, tìm "trại nấm" hoặc "nấm bào ngư" tại 1 quận mẫu (ví dụ: Thủ Đức, TP.HCM hoặc Sóc Sơn, Hà Nội), đếm số cơ sở hiện ra, ghi quận + ngày đếm.
 
 ### TikTok

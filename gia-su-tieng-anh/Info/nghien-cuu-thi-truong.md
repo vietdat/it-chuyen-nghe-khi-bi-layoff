@@ -43,12 +43,12 @@
 
 ### Facebook
 
-- Chưa đếm được — cần đếm thủ công. Facebook cần đăng nhập mới xem được Group, Muse không đăng nhập được nên không đếm số bài tìm gia sư trong 30 ngày qua.
+- Chưa đếm được — cần đếm thủ công trước ngày đăng: vào Group Facebook, lọc bài tìm gia sư trong 30 ngày qua rồi đếm.
 - Cách đếm thủ công trước Thứ 2 (25/01/2027): vào Group "Tìm gia sư", Group cư dân khu vực, Group việc làm part-time, tìm từ khóa "tìm gia sư tiếng Anh", "cần gia sư tiếng Anh", lọc 30 ngày gần nhất, đếm số bài tìm gia sư + số comment ứng tuyển.
 
 ### Google Maps
 
-- Chưa đếm được — cần đếm thủ công. Công cụ places của Muse chỉ tra cứu được từng địa điểm theo ID, không đếm số trung tâm theo khu vực.
+- Chưa đếm được — cần đếm thủ công số trung tâm trên Google Maps theo khu vực trước ngày đăng.
 - Cách đếm thủ công: mở Google Maps, tìm "trung tâm tiếng Anh" hoặc "gia sư tiếng Anh" tại 1 quận mẫu (ví dụ: Cầu Giấy, Hà Nội hoặc Bình Thạnh, TP.HCM), đếm số trung tâm hiện ra, ghi quận + ngày đếm. Số này đo mật độ cạnh tranh từ trung tâm, không phải số gia sư tự do.
 
 ### TikTok

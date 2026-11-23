@@ -26,15 +26,10 @@
 | Thứ 6 09/04 | TikTok | 20:00 | Video ngắn 30s | BOFU | Checklist 30 ngày đầu làm videographer cưới — tóm tắt 30 giây | Sáng thứ 7 đầu tiên đi quay phụ, bạn đứng sau thợ chính, tay cầm máy, không biết quay lúc nào | Comment "checklist" để nhận file đầy đủ |
 | Thứ 7 10/04 | TikTok | 19:00 | Clip 15–30s (cắt từ video dài) | TOFU | Sự thật phũ khi làm videographer cưới: đám cưới chỉ có 1 lần, quay hỏng là không quay lại được, dựng phim tốn nhiều giờ | Tháng 12, điện thoại bạn reo liên tục. Tháng 7, lịch trống cả tuần. | Comment nghề bạn muốn nghe tuần sau: thợ làm tóc nữ |
 | Thứ 7 10/04 | Facebook | — | Bài teaser cuối tuần | Retention | Tóm tắt tuần + hé nghề tuần sau (thợ làm tóc nữ) | Tuần này mình nói về quay phim cưới... tuần sau là nghề làm đẹp | Comment nghề bạn muốn nghe sau thợ làm tóc nữ |
-| Thứ 7 10/04 | — (chuẩn bị) | — | Quay batch tuần sau (video dài + reel) + ghi số liệu tuần (view, xem hết, lưu, chia sẻ, inbox) | — | Ngoc quay 1 buổi, Muse ghi số liệu | — | — |
+| Thứ 7 10/04 | — (chuẩn bị) | — | Quay batch tuần sau (video dài + reel) + ghi số liệu tuần (view, xem hết, lưu, chia sẻ, inbox) | — | Quay 1 buổi, ghi số liệu tuần | — | — |
 | Chủ nhật 11/04 | Facebook | 10:00 | Bài Q&A | Retention | Q&A: quay cưới mùa nào đông khách nhất, chưa có máy quay đắt tiền có học được không, flycam có cần xin phép không? | Quay cưới mùa nào đông khách nhất? | Comment câu hỏi của bạn, tuần sau trả lời tiếp |
 | Chủ nhật 11/04 | TikTok | — | Clip Q&A 30s | Retention | Trả lời nhanh: chưa có máy quay đắt tiền, có học quay cưới được không? | Có bạn comment: em chưa có máy quay, có học được không? | Comment câu hỏi của bạn, tuần sau mình trả lời tiếp |
 | Chủ nhật 11/04 | TikTok | 20:00 | Clip Tập 7 (ngoại truyện) 30–45s | MOFU | Học quay phim cưới ở đâu, học phí bao nhiêu từ Bắc đến Nam | Anh ấy mở điện thoại, tìm chỗ học quay phim cưới | Comment tỉnh của bạn, mình tìm khóa gần nhất |
-
-## Phân công
-
-- Ngoc làm (tối đa 2 buổi/tuần): quay batch Thứ 7 (video dài + reel tuần sau) + trả lời comment bài Thứ 2 (Thứ 3) và inbox (Thứ 5), mỗi lần 30–45 phút. Duyệt script + bài viết trước khi đăng.
-- Muse làm: soạn script video dài + bài viết dài + bài thực hành + Q&A + checklist 30 ngày; tìm 3 việc thật (ghi nguồn + ngày); cắt 3 clip từ video dài; ghi số liệu tuần (view, xem hết, lưu, chia sẻ, inbox).
 
 ## Tỉ lệ tuần
 

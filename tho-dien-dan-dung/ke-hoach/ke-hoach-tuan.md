@@ -32,11 +32,6 @@
 | Chủ nhật 21/03 | TikTok | — | Clip Q&A 30s | Retention | Trả lời nhanh: không có bằng điện thì xin làm thợ phụ được không? | Có bạn comment: em không có bằng điện, xin làm thợ phụ được không? | Comment câu hỏi của bạn, tuần sau mình trả lời tiếp |
 | Chủ nhật 21/03 | TikTok | 20:00 | Clip Tập 7 (ngoại truyện) 30–45s | MOFU | Học điện dân dụng ở đâu, học phí bao nhiêu từ Bắc đến Nam | Anh ấy mở điện thoại, tìm chỗ học nghề | Comment tỉnh của bạn, mình tìm khóa gần nhất |
 
-## Phân công
-
-- Ngoc làm (tối đa 2 buổi): buổi Thứ 7 quay batch tuần 17; trả lời comment bài Thứ 2 (Thứ 3) + inbox (Thứ 5), mỗi lần 30–45 phút. Duyệt script + bài viết trước khi đăng.
-- Muse làm: soạn script video dài + bài viết dài + bài thực hành + Q&A + checklist 30 ngày; tìm 3 việc thật (ghi nguồn + ngày); cắt 3 clip từ video dài; ghi số liệu tuần (view, xem hết, lưu, chia sẻ, inbox).
-
 ## Lưu ý trước khi đăng
 
 - 3 việc thật trong bài thực hành Thứ 6 được tìm thấy ngày 23/11/2026 — ngày đăng bài là 19/03/2027, cách nhau gần 4 tháng. **Trước khi đăng, kiểm tra lại link xem tin còn hạn không.** Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn.

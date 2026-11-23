@@ -40,12 +40,12 @@ Số tin dưới đây là số tin TÌM THẤY qua tìm kiếm công khai ngày
 
 ### Facebook
 
-- Chưa đếm được — cần đếm thủ công. Facebook cần đăng nhập mới xem được Group, Muse không đăng nhập được nên không đếm số bài tuyển shipper trong 30 ngày qua.
+- Chưa đếm được — cần đếm thủ công trước ngày đăng: vào Group Facebook, lọc bài tuyển shipper trong 30 ngày qua rồi đếm.
 - Cách đếm thủ công trước Thứ 2 (01/02/2027): vào Group việc làm shipper / Group cư dân khu vực, tìm từ khóa "tuyển shipper", "tuyển tài xế giao hàng", lọc 30 ngày gần nhất, đếm số bài tuyển + số comment xin việc.
 
 ### Google Maps
 
-- Chưa đếm được — cần đếm thủ công. Công cụ places của Muse chỉ tra cứu được từng địa điểm theo ID, không đếm số bưu cục / kho giao hàng theo khu vực.
+- Chưa đếm được — cần đếm thủ công số bưu cục / kho giao hàng trên Google Maps theo khu vực trước ngày đăng.
 - Cách đếm thủ công: mở Google Maps, tìm "bưu cục GHN", "GHTK", "Viettel Post" tại 1 quận mẫu, đếm số điểm hiện ra, ghi quận + ngày đếm.
 
 ### TikTok

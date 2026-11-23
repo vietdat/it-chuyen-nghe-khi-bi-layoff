@@ -32,11 +32,6 @@
 | Chủ nhật 02/05 | TikTok | 20:00 | Clip Tập 7 (ngoại truyện) 30–45s | MOFU | Học nghề dạy lái ở đâu, học phí bao nhiêu từ Bắc đến Nam | Anh ấy mở điện thoại, tìm chỗ học chứng chỉ sư phạm | Comment tỉnh của bạn, mình tìm khóa gần nhất |
 | Chủ nhật 02/05 | — (chuẩn bị) | Chiều | Quay batch tuần 23 (hướng dẫn viên du lịch) + ghi số liệu tuần 22 | — | Quay video dài + reel tuần 23 trong 1 buổi (dời từ Thứ 7 lễ sang Chủ nhật chiều) | — | — |
 
-## Phân công
-
-- Ngoc làm (tối đa 2 buổi): duyệt toàn bộ nội dung tuần 22 trước lễ (Thứ 5 29/04); trả lời comment bài Thứ 2 (Thứ 3) + inbox (Thứ 5), mỗi lần 30–45 phút. Chiều Chủ nhật 02/05 quay batch tuần 23.
-- Muse làm: soạn script video dài + bài viết dài + bài thực hành + Q&A + checklist 30 ngày; tìm 3 việc thật (ghi nguồn + ngày); cắt 3 clip từ video dài; ghi số liệu tuần (view, xem hết, lưu, chia sẻ, inbox).
-
 ## Tỉ lệ tuần
 
 - 15 bài đăng: YouTube 1, Facebook 6, TikTok 8

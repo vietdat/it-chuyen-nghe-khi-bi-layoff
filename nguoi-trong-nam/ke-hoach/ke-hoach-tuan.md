@@ -31,11 +31,6 @@
 | Chủ nhật 16/05 | TikTok | — | Clip Q&A 30s | Retention | Trả lời nhanh: ở thành phố, không có đất, trồng nấm được không? | Bạn comment: em ở chung cư, trồng nấm được không? | Comment câu hỏi của bạn, 2 tuần tổng kết mình trả lời tiếp |
 | Chủ nhật 16/05 | TikTok | 20:00 | Clip Tập 7 (ngoại truyện) 30–45s | MOFU | Học trồng nấm ở đâu, học phí bao nhiêu từ Bắc đến Nam | Anh ấy mở điện thoại, tìm chỗ học trồng nấm | Comment tỉnh của bạn, mình tìm khóa gần nhất |
 
-## Phân công
-
-- Ngoc làm (tối đa 2 buổi): buổi Thứ 7 quay batch 2 tuần tổng kết; trả lời comment bài Thứ 2 (Thứ 3) + inbox (Thứ 5), mỗi lần 30–45 phút. Duyệt script + bài viết trước khi đăng.
-- Muse làm: soạn script video dài + bài viết dài + bài thực hành + Q&A + checklist 30 ngày; tìm 3 việc thật gần nghề nhất + 3 đầu ra thật (ghi nguồn + ngày); cắt 3 clip từ video dài; ghi số liệu tuần (view, xem hết, lưu, chia sẻ, inbox).
-
 ## Tỉ lệ tuần
 
 - 15 bài đăng: YouTube 1, Facebook 6, TikTok 8

@@ -32,11 +32,6 @@
 | Chủ nhật 21/02 | TikTok | — | Clip Q&A 30s | Retention | Trả lời nhanh: nam làm dọn dẹp qua app có khó không? | Có bạn comment: em là nam, đăng ký app dọn dẹp có được nhận không? | Comment câu hỏi của bạn, tuần sau mình trả lời tiếp |
 | Chủ nhật 21/02 | TikTok | 20:00 | Clip Tập 7 (ngoại truyện) 30–45s | MOFU | Bắt đầu nghề vệ sinh ở đâu, chi phí ban đầu bao nhiêu từ Bắc đến Nam | Anh ấy mở điện thoại, tìm chỗ bắt đầu nghề vệ sinh | Comment tỉnh của bạn, mình tìm chỗ bắt đầu gần nhất |
 
-## Phân công
-
-- Ngoc làm (tối đa 2 buổi): buổi Thứ 7 quay batch tuần 13; trả lời comment bài Thứ 2 (Thứ 3) + inbox (Thứ 5), mỗi lần 30–45 phút. Duyệt script + bài viết trước khi đăng.
-- Muse làm: soạn script video dài + bài viết dài + bài thực hành + Q&A + checklist 30 ngày; tìm 3 việc thật (ghi nguồn + ngày); cắt 3 clip từ video dài; ghi số liệu tuần (view, xem hết, lưu, chia sẻ, inbox).
-
 ## Tỉ lệ tuần
 
 - 15 bài đăng: YouTube 1, Facebook 6, TikTok 8

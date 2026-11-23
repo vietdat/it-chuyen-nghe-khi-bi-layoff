@@ -31,11 +31,6 @@
 | Chủ nhật 14/02 | TikTok | — | Clip Q&A 30s | Retention | Trả lời nhanh: chưa có máy ảnh đắt tiền, có học chụp cưới được không? | Có bạn comment: em chưa có máy ảnh, có học được không? | Comment câu hỏi của bạn, tuần sau mình trả lời tiếp |
 | Chủ nhật 14/02 | TikTok | 20:00 | Clip Tập 7 (ngoại truyện) 30–45s | MOFU | Học chụp ảnh cưới ở đâu, học phí bao nhiêu từ Bắc đến Nam | Anh ấy mở điện thoại, tìm chỗ học chụp ảnh cưới | Comment tỉnh của bạn, mình tìm khóa gần nhất |
 
-## Phân công
-
-- Ngoc làm (tối đa 1 buổi, tuần làm nhẹ): trả lời comment bài Thứ 2 (Thứ 3) + inbox (Thứ 5), mỗi lần 30–45 phút. Duyệt script + bài viết trước khi đăng. Không quay batch trong tuần này.
-- Muse làm: soạn script video dài + bài viết dài + bài thực hành + Q&A + checklist 30 ngày; tìm 3 việc thật (ghi nguồn + ngày); cắt 3 clip từ video dài đã dựng sẵn; ghi số liệu tuần (view, xem hết, lưu, chia sẻ, inbox).
-
 ## Tỉ lệ tuần
 
 - 15 bài đăng: YouTube 1, Facebook 6, TikTok 8

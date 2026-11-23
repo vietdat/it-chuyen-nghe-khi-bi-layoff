@@ -83,11 +83,6 @@ Nghiên cứu đầy đủ: xem file `Info/nghien-cuu-thi-truong.md`.
 | Chủ nhật 07/02 | TikTok | — | Clip Q&A 30s (dựng sẵn) | Retention | Trả lời nhanh: sau Tết đơn ít đi thì làm gì? | Có bạn comment: qua Tết đơn ít hẳn, có phải mình chạy kém không? | Comment câu hỏi của bạn, tuần sau mình trả lời tiếp |
 | Chủ nhật 07/02 | TikTok | 20:00 | Clip Tập 7 (ngoại truyện) 30–45s (dựng sẵn) | MOFU | Đăng ký làm shipper ở đâu, chi phí ban đầu bao nhiêu từ Bắc đến Nam | Anh ấy mở điện thoại, tìm chỗ đăng ký chạy shipper | Comment tỉnh của bạn, mình tìm chỗ đăng ký gần nhất |
 
-## Phân công (tuần Tết — làm nhẹ)
-
-- Ngoc làm (tối đa 1 buổi ngắn, nếu rảnh): trả lời comment bài Thứ 2 (Thứ 3) + inbox (Thứ 5), mỗi lần 30 phút. Duyệt script + bài viết trước khi đăng (đã duyệt trước Tết càng tốt). **Không quay batch tuần này.**
-- Muse làm: soạn script video dài + bài viết dài + bài thực hành + Q&A + checklist 30 ngày; tìm 3 việc thật (ghi nguồn + ngày); kiểm tra lại hạn tin tuyển trước ngày đăng 05/02/2027; lên lịch đăng tự động cho cả tuần; ghi số liệu tuần (view, xem hết, lưu, chia sẻ, inbox) sau Tết.
-
 ## Tỉ lệ tuần
 
 - 15 bài đăng: YouTube 1, Facebook 6, TikTok 8

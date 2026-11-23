@@ -29,12 +29,12 @@
 
 ### Facebook
 
-- Chưa đếm được — cần đăng nhập mới xem được Group, Muse không đăng nhập được nên không đếm số bài tìm người chăm sóc trong 30 ngày qua.
+- Chưa đếm được — cần đếm thủ công trước ngày đăng: vào Group Facebook, lọc bài tìm người chăm sóc trong 30 ngày qua rồi đếm.
 - Cách đếm thủ công trước Thứ 2 (11/01/2027): vào Group cư dân khu vực + Group việc làm giúp việc / chăm sóc người già, tìm từ khóa "tìm người chăm ông", "tìm người chăm bà", "chăm sóc người già", lọc 30 ngày gần nhất, đếm số bài tìm người + số comment xin việc.
 
 ### Google Maps
 
-- Chưa đếm được — cần đếm thủ công. Công cụ places của Muse chỉ tra cứu được từng địa điểm theo ID, không đếm số cơ sở theo khu vực.
+- Chưa đếm được — cần đếm thủ công số cơ sở trên Google Maps theo khu vực trước ngày đăng.
 - Cách đếm thủ công: mở Google Maps, tìm "chăm sóc người già tại nhà", "dịch vụ chăm sóc người cao tuổi", "viện dưỡng lão" tại 1 quận mẫu (ví dụ: Bình Thạnh, TP.HCM), đếm số cơ sở hiện ra, ghi quận + ngày đếm.
 
 ### TikTok

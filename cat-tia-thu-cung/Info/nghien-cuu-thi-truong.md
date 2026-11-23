@@ -27,12 +27,12 @@
 
 ### Facebook
 
-- Chưa đếm được — cần đếm thủ công. Facebook cần đăng nhập mới xem được Group, Muse không đăng nhập được nên không đếm số bài tìm thợ grooming trong 30 ngày qua.
+- Chưa đếm được — cần đếm thủ công trước ngày đăng: vào Group Facebook, lọc bài tìm thợ grooming trong 30 ngày qua rồi đếm.
 - Cách đếm thủ công trước Thứ 2 (18/01/2027): vào Group cư dân khu vực + Group yêu chó mèo + Group việc làm spa thú cưng, tìm từ khóa "tuyển groomer", "tuyển thợ cắt tỉa", "tuyển nhân viên spa thú cưng", lọc 30 ngày gần nhất, đếm số bài tìm thợ + số comment xin việc.
 
 ### Google Maps
 
-- Chưa đếm được — cần đếm thủ công. Công cụ places của Muse chỉ tra cứu được từng địa điểm theo ID, không đếm số cửa hàng theo khu vực.
+- Chưa đếm được — cần đếm thủ công số cửa hàng trên Google Maps theo khu vực trước ngày đăng.
 - Cách đếm thủ công: mở Google Maps, tìm "spa thú cưng" hoặc "cắt tỉa lông chó mèo" tại 1 quận mẫu (ví dụ: Bình Thạnh, TP.HCM hoặc Cầu Giấy, Hà Nội), đếm số cửa hàng hiện ra, ghi quận + ngày đếm.
 
 ### TikTok

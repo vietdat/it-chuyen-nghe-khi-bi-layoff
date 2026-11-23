@@ -51,13 +51,13 @@
 
 ### Facebook
 
-- Chưa đếm được — cần đếm thủ công. Facebook cần đăng nhập mới xem được Group, Muse không đăng nhập được nên không đếm số bài tìm thợ trong 30 ngày qua.
+- Chưa đếm được — cần đếm thủ công trước ngày đăng: vào Group Facebook, lọc bài tìm thợ trong 30 ngày qua rồi đếm.
 - Bằng chứng nhu cầu có thật: tin SUSI HAIR SALON Bình Tân (ở trên) được Việc Làm Tốt tổng hợp từ bài đăng Facebook Group ngày 16/11/2026 — salon tuyển 20 người một đợt qua Facebook Group.
 - Cách đếm thủ công trước Thứ 2 (12/04/2027): vào Group cư dân khu vực + Group việc làm tay nghề + Group salon/tóc nữ, tìm từ khóa "tuyển thợ làm tóc nữ", "tuyển thợ phụ salon", lọc 30 ngày gần nhất, đếm số bài tìm thợ + số comment xin việc.
 
 ### Google Maps
 
-- Chưa đếm được — cần đếm thủ công. Công cụ places của Muse chỉ tra cứu được từng địa điểm theo ID, không đếm số salon theo khu vực.
+- Chưa đếm được — cần đếm thủ công số salon trên Google Maps theo khu vực trước ngày đăng.
 - Cách đếm thủ công: mở Google Maps, tìm "salon tóc nữ" hoặc "hair salon" tại 1 quận mẫu (ví dụ: Cầu Giấy, Hà Nội hoặc Bình Thạnh, TP.HCM), đếm số salon hiện ra, ghi quận + ngày đếm.
 
 ### TikTok

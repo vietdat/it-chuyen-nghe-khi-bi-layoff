@@ -39,12 +39,12 @@
 
 ### Facebook
 
-- Chưa đếm được — cần đếm thủ công. Facebook cần đăng nhập mới xem được Group, Muse không đăng nhập được nên không đếm số bài tìm thợ trong 30 ngày qua.
+- Chưa đếm được — cần đếm thủ công trước ngày đăng: vào Group Facebook, lọc bài tìm thợ trong 30 ngày qua rồi đếm.
 - Cách đếm thủ công trước Thứ 2 (14/12): vào Group cư dân khu vực + Group việc làm tay nghề, tìm từ khóa "thợ khóa", "thợ sửa khóa", "tuyển thợ khóa", lọc 30 ngày gần nhất, đếm số bài tìm thợ + số comment xin việc.
 
 ### Google Maps
 
-- Chưa đếm được — cần đếm thủ công. Công cụ places của Muse chỉ tra cứu được từng địa điểm theo ID, không đếm số cửa hàng theo khu vực.
+- Chưa đếm được — cần đếm thủ công số cửa hàng trên Google Maps theo khu vực trước ngày đăng.
 - Cách đếm thủ công: mở Google Maps, tìm "sửa khóa" hoặc "thợ khóa" tại 1 quận mẫu (ví dụ: Quận 10, TP.HCM hoặc quận Đống Đa, Hà Nội), đếm số cửa hàng hiện ra, ghi quận + ngày đếm.
 
 ### TikTok

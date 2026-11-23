@@ -32,11 +32,6 @@
 | Chủ nhật 24/01 | TikTok | — | Clip Q&A 30s | Retention | Trả lời nhanh: không thích chó mèo thì làm groomer được không? | Có bạn comment: em không thích chó mèo, làm nghề này được không? | Comment câu hỏi của bạn, tuần sau mình trả lời tiếp |
 | Chủ nhật 24/01 | TikTok | 20:00 | Clip Tập 7 (ngoại truyện) 30–45s | MOFU | Học cắt tỉa thú cưng ở đâu, học phí bao nhiêu từ Bắc đến Nam | Anh ấy mở điện thoại, tìm chỗ học nghề | Comment tỉnh của bạn, mình tìm khóa gần nhất |
 
-## Phân công
-
-- Ngoc làm (tối đa 2 buổi): buổi Thứ 7 quay batch tuần 9; trả lời comment bài Thứ 2 (Thứ 3) + inbox (Thứ 5), mỗi lần 30–45 phút. Duyệt script + bài viết trước khi đăng.
-- Muse làm: soạn script video dài + bài viết dài + bài thực hành + Q&A + checklist 30 ngày; tìm 3 việc thật (ghi nguồn + ngày); cắt 3 clip từ video dài; ghi số liệu tuần (view, xem hết, lưu, chia sẻ, inbox).
-
 ## Lưu ý riêng tuần 8 (kiểm tra lại trước khi đăng)
 
 - 3 việc thật trong bài thực hành Thứ 6 tìm thấy ngày 23/11/2026, trong đó 2 tin đã hiện "Hết hạn ứng tuyển" trong kết quả tìm kiếm — trước ngày đăng 22/01/2027 phải tìm lại 3 tin đang mở trên TopCV, tin nào hết hạn thì thay bằng tin khác, không đăng tin hết hạn.

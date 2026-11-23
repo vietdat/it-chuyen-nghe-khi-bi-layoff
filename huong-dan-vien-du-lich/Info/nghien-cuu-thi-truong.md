@@ -29,12 +29,12 @@
 
 ### Facebook
 
-- Chưa đếm được — cần đếm thủ công. Facebook cần đăng nhập mới xem được Group, Muse không đăng nhập được nên không đếm số bài tìm HDV trong 30 ngày qua.
+- Chưa đếm được — cần đếm thủ công trước ngày đăng: vào Group Facebook, lọc bài tìm HDV trong 30 ngày qua rồi đếm.
 - Cách đếm thủ công trước Thứ 2 (03/05/2027): vào Group việc làm du lịch + Group hướng dẫn viên du lịch + Group cư dân khu vực, tìm từ khóa "hướng dẫn viên du lịch", "tuyển HDV", lọc 30 ngày gần nhất, đếm số bài tìm người + số comment xin việc.
 
 ### Google Maps
 
-- Chưa đếm được — cần đếm thủ công. Công cụ places của Muse chỉ tra cứu được từng địa điểm theo ID, không đếm số công ty lữ hành theo khu vực.
+- Chưa đếm được — cần đếm thủ công số công ty lữ hành trên Google Maps theo khu vực trước ngày đăng.
 - Cách đếm thủ công: mở Google Maps, tìm "công ty du lịch" hoặc "công ty lữ hành" tại 1 quận mẫu (ví dụ: Quận 1, TP.HCM hoặc Hoàn Kiếm, Hà Nội), đếm số công ty hiện ra, ghi quận + ngày đếm.
 
 ### TikTok

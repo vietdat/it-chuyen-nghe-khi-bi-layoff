@@ -28,12 +28,12 @@
 
 ### Facebook
 
-- Chưa đếm được — cần đếm thủ công. Facebook cần đăng nhập mới xem được Group, Muse không đăng nhập được nên không đếm số bài tìm môi giới trong 30 ngày qua.
+- Chưa đếm được — cần đếm thủ công trước ngày đăng: vào Group Facebook, lọc bài tìm môi giới trong 30 ngày qua rồi đếm.
 - Cách đếm thủ công trước Thứ 2 (01/03/2027): vào Group mua bán nhà đất khu vực + Group việc làm BĐS, tìm từ khóa "tuyển môi giới", "tuyển sales BĐS", lọc 30 ngày gần nhất, đếm số bài tuyển + số comment xin việc.
 
 ### Google Maps
 
-- Chưa đếm được — cần đếm thủ công. Công cụ places của Muse chỉ tra cứu được từng địa điểm theo ID, không đếm số sàn giao dịch BĐS theo khu vực.
+- Chưa đếm được — cần đếm thủ công số sàn giao dịch BĐS trên Google Maps theo khu vực trước ngày đăng.
 - Cách đếm thủ công: mở Google Maps, tìm "sàn giao dịch bất động sản" hoặc "môi giới nhà đất" tại 1 quận mẫu (ví dụ: Bình Thạnh, TP.HCM hoặc Thanh Xuân, Hà Nội), đếm số kết quả hiện ra, ghi quận + ngày đếm.
 
 ### TikTok

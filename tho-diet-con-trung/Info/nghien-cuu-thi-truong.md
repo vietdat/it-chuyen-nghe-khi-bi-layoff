@@ -31,13 +31,13 @@
 
 ### Facebook
 
-- Chưa đếm được — cần đếm thủ công. Facebook cần đăng nhập mới xem được Group, Muse không đăng nhập được nên không đếm số bài tìm thợ trong 30 ngày qua.
+- Chưa đếm được — cần đếm thủ công trước ngày đăng: vào Group Facebook, lọc bài tìm thợ trong 30 ngày qua rồi đếm.
 - Tìm kiếm công khai ngày 23/11/2026 không thấy bài tuyển thợ diệt côn trùng nào hiện ra ngoài kết quả tìm kiếm — khác với nghề điện lạnh (tuần 1 tìm thấy bài tuyển kèm lương). Đây là dấu hiệu nghề này tuyển chủ yếu qua sàn việc làm và trang công ty, ít tuyển qua Facebook hơn.
 - Cách đếm thủ công trước Thứ 2 (08/03/2027): vào Group cư dân khu vực + Group việc làm tay nghề, tìm từ khóa "diệt côn trùng", "diệt mối", "phun muỗi", lọc 30 ngày gần nhất, đếm số bài tìm thợ + số comment xin việc.
 
 ### Google Maps
 
-- Chưa đếm được — cần đếm thủ công. Công cụ places của Muse chỉ tra cứu được từng địa điểm theo ID, không đếm số cửa hàng theo khu vực.
+- Chưa đếm được — cần đếm thủ công số cửa hàng trên Google Maps theo khu vực trước ngày đăng.
 - Cách đếm thủ công: mở Google Maps, tìm "diệt côn trùng" hoặc "diệt mối" tại 1 quận mẫu (ví dụ: Bình Thạnh, TP.HCM), đếm số cửa hàng hiện ra, ghi quận + ngày đếm.
 
 ### TikTok

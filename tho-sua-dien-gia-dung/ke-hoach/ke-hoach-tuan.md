@@ -32,11 +32,6 @@
 | Chủ nhật 13/12 | TikTok | — | Clip Q&A 30s | Retention | Trả lời nhanh: không biết gì về điện có học được không? | Có bạn comment: em không biết gì về điện, học được không? | Comment câu hỏi của bạn, tuần sau mình trả lời tiếp |
 | Chủ nhật 13/12 | TikTok | 20:00 | Clip Tập 7 (ngoại truyện) 30–45s | MOFU | Học nghề sửa điện gia dụng ở đâu, học phí bao nhiêu từ Bắc đến Nam | Anh ấy mở điện thoại, tìm chỗ học nghề | Comment tỉnh của bạn, mình tìm khóa gần nhất |
 
-## Phân công
-
-- Ngoc làm (tối đa 2 buổi): buổi Thứ 7 quay batch tuần 3; trả lời comment bài Thứ 2 (Thứ 3) + inbox (Thứ 5), mỗi lần 30–45 phút. Duyệt script + bài viết trước khi đăng.
-- Muse làm: soạn script video dài + bài viết dài + bài thực hành + Q&A + checklist 30 ngày; tìm 4 việc thật (ghi nguồn + ngày); cắt 3 clip từ video dài; ghi số liệu tuần (view, xem hết, lưu, chia sẻ, inbox).
-
 ## Tỉ lệ tuần
 
 - 15 bài đăng: YouTube 1, Facebook 6, TikTok 8 (6 tập truyện + 1 reel + 1 ngoại truyện)

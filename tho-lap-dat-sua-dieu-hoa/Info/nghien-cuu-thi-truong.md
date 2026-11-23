@@ -38,7 +38,7 @@
 
 ### Facebook
 
-- Chưa đếm được — cần đếm thủ công. Facebook cần đăng nhập mới xem được Group, Muse không đăng nhập được nên không đếm số bài tìm thợ trong 30 ngày qua.
+- Chưa đếm được — cần đếm thủ công trước ngày đăng: vào Group Facebook, lọc bài tìm thợ trong 30 ngày qua rồi đếm.
 - Tìm thấy qua tìm kiếm công khai ngày 23/11/2026 (bằng chứng nhu cầu có thật, không phải số đếm đầy đủ):
   - Điện Lạnh An Nam đăng tuyển ngày 17/10/2026: tuyển 4 thợ điện lạnh (9–12 triệu/tháng), 10 nhân viên bảo trì điện nước (11 triệu/tháng), 10 lao động phổ thông (8 triệu/tháng)
   - Quyền Vinamo đăng tuyển ngày 29/10/2026: tuyển thợ điện lạnh, lương cứng 8 triệu + 3 triệu phụ cấp xăng + ăn trưa + % doanh thu, trả lương 2 lần/tháng
@@ -47,7 +47,7 @@
 
 ### Google Maps
 
-- Chưa đếm được — cần đếm thủ công. Công cụ places của Muse chỉ tra cứu được từng địa điểm theo ID, không đếm số cửa hàng theo khu vực.
+- Chưa đếm được — cần đếm thủ công số cửa hàng trên Google Maps theo khu vực trước ngày đăng.
 - Cách đếm thủ công: mở Google Maps, tìm "sửa điều hòa" hoặc "điện lạnh" tại 1 quận mẫu (ví dụ: Bình Thạnh, TP.HCM), đếm số cửa hàng hiện ra, ghi quận + ngày đếm.
 
 ### TikTok

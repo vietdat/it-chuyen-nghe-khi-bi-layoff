@@ -10,14 +10,6 @@ Repo lưu toàn bộ kế hoạch nội dung cho dự án hỗ trợ các bạn 
 - Mỗi nghề được trình bày đầy đủ: công việc hàng ngày là gì, ai hợp / ai không hợp, kỹ năng IT mang sang được, cần học lại cái gì, career path, cách tìm việc / khách đầu tiên, thu nhập thật, và rủi ro thật của chính nghề đó.
 - Không bịa số liệu thu nhập. Số liệu Việt Nam chỉ ghi khi có nguồn thật (tin tuyển dụng, báo chí, trung tâm dạy nghề) kèm nguồn + ngày; số liệu Mỹ (BLS) chỉ để tham khảo, không dùng làm thu nhập Việt Nam.
 
-## Lịch trình
-
-- **Tuần 0 (24/11/2026, 1 ngày):** setup kênh Facebook + TikTok + YouTube mới, bài ghim vision.
-- **Tuần 1–15:** Top 15 nghề mạnh nhất (tuần 1 = thợ lắp đặt điều hòa).
-- **Tuần 16–24:** 9 nghề bổ sung (thợ điện dân dụng, thợ ống nước, điện mặt trời, quay phim cưới, làm tóc nữ, tiệm bánh, dạy lái xe, hướng dẫn viên, trồng nấm).
-- **Tuần 25–26:** tổng kết, so sánh 24 nghề từ số liệu đã thu thập.
-- Mỗi tuần 4 bài: Thứ 2 video dài + bài viết chính (8 mục bắt buộc), Thứ 4 reel 60 giây (3 kỹ năng mang sang + 3 cái học lại), Thứ 6 bài thực hành (JD thật + CV + checklist 30 ngày), Chủ nhật câu chuyện thật (chỉ khi có sự đồng ý) hoặc Q&A.
-
 ## 8 mục bắt buộc mỗi nghề
 
 1. Nghề này làm gì mỗi ngày

@@ -1,0 +1,85 @@
+# Script video dài Thứ 2 — Dev bị layoff mở quán ăn đường phố được không?
+
+- Đăng: Thứ 2 28/12/2026, 19:00, YouTube
+- Thời lượng: 5–10 phút (mục tiêu ~9 phút)
+- Định dạng: video dài, nói trực tiếp với người xem (hoạt hình flat 2D hoặc quay người thật đều dùng được script này)
+- Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026). Số nào trong script cũng có nguồn ở đó.
+- Giọng: nói với "bạn", không liệt kê Một/Hai/Ba, không bịa số liệu, không hứa "chắc chắn có khách".
+
+## Thumbnail gợi ý
+
+- Chữ trên thumbnail (≤ 50 ký tự): "Dev bị layoff mở quán ăn vỉa hè?"
+- Hình: dev ôm thùng đồ ra khỏi văn phòng, bên cạnh là xe đẩy bán phở buổi sáng — chia đôi màn hình, trước/sau.
+
+## Caption YouTube
+
+- Dòng 1: Dev bị layoff mở quán ăn đường phố được không? Bài đầy đủ 8 mục trong video.
+- Dòng 2: Trong video: nghề này làm gì mỗi ngày, ai hợp ai không hợp, lợi thế của dân IT, học ở đâu bao lâu, career path, tìm khách đầu tiên ở đâu, thu nhập bao nhiêu, rủi ro thật.
+- Dòng 3 (CTA): Lưu video lại, comment nghề bạn muốn nghe tuần sau: thợ cắt tóc nam.
+- Hashtag: #devbilayoff #chuyennghe #itrehhuong #bilayoff #nghemoi #vieclam #hocnghe #quananvuahe
+
+## Lời thoại đầy đủ
+
+### 0:00–0:30 — Hook
+
+[Hình: cận cảnh nồi nước dùng sôi, hơi bốc lên, tay chủ quán chan nước vào tô phở. Chữ trên màn hình: "Cả nước 329.500 quán ăn — hơn 50.000 quán đóng cửa nửa đầu 2025"]
+
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề bán món ăn mỗi ngày, tiền về trong ngày: chủ quán ăn đường phố. Cả nước có khoảng 329.500 quán ăn, doanh thu ngành hơn 726.000 tỷ đồng năm 2025. Nghe thì lớn lắm. Nhưng nửa đầu năm 2025, hơn 50.000 quán đã đóng cửa. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, vốn bao nhiêu, và cái khó thật sự là gì."
+
+### 0:30–2:00 — Nghề này là gì, 1 ngày làm việc thật
+
+"Chủ quán ăn đường phố bán 1 món chính mỗi ngày, từ xe đẩy vỉa hè hoặc quán nhỏ có vài bàn: phở, bún, cơm, hay món ăn vặt. Khách ăn tại chỗ hoặc mua mang đi, trả tiền ngay, không nợ.
+
+Một ngày của chủ quán ăn sáng bắt đầu rất sớm. Khoảng 3–4 giờ sáng dậy nhóm bếp, nấu nồi nước dùng, sơ chế nguyên liệu. 6 giờ dọn xe đẩy ra góc phố quen, bày bàn ghế nhựa. 6 giờ rưỡi khách đầu tiên tới: người đi làm ghé ăn nhanh 1 tô rồi đi. Buổi sáng là giờ bán chính. Trưa dọn bớt, nấu thêm mẻ mới nếu còn khách. Chiều rửa bát, dọn dẹp, đi chợ mua nguyên liệu cho ngày mai, tính lại hôm nay bán được bao nhiêu tô, còn thừa bao nhiêu. Tối ghi sổ: tiền nguyên liệu, tiền thuê điểm, tiền còn lại.
+
+Bạn không ngồi một chỗ. Bạn đứng bếp cả ngày, gặp khách trực tiếp từng tô, và khách nhớ vị quán bạn hay quên quán bạn cũng trong 1 tô đó."
+
+### 2:00–3:30 — Ai hợp, ai không hợp
+
+"Nghề này hợp với bạn nếu bạn thích nấu ăn, thích thấy khách ăn hết tô rồi quay lại hôm sau. Hợp nếu bạn chịu được dậy sớm, đứng bếp cả ngày, làm 6–7 ngày 1 tuần, và gặp khách trực tiếp — khách khen hay chê đều nói thẳng trước mặt bạn.
+
+Còn nếu bạn ghét dậy sớm thì đây là điểm phải nghĩ kỹ. Quán ăn sáng nấu từ 3–4 giờ sáng, không dậy sớm thì không có hàng bán. Nếu bạn không chịu được nóng, khói, dầu mỡ, đứng bếp giữa trưa hè, thì nghề này sẽ rất mệt. Và nếu bạn muốn thu nhập cố định mỗi tháng như lương văn phòng, thì đây không phải nghề đó: nghề này thuộc nhóm tự làm chủ, không ai trả lương bạn khi không có khách. Nói thẳng như vậy để bạn khỏi mất vốn rồi mới biết mình không hợp."
+
+### 3:30–5:30 — Lợi thế của dân IT
+
+"Dân IT mở quán ăn có một cái lợi mà chủ quán thường không có: bạn quen làm việc với số liệu, với hệ thống, với khách hàng online.
+
+Cái lợi đầu tiên là bảng tính giá vốn. Bạn biết 1 tô bán ra hết bao nhiêu tiền nguyên liệu, vì bạn tính từng món trong tô: bánh phở, thịt, hành, nước dùng. Giá vốn món ăn Việt thường ở khoảng 35–40% giá bán — bán 1 tô 40.000đ thì tiền nguyên liệu khoảng 14.000–16.000đ. Chủ quán không tính thì bán đông mà không biết mình lãi hay lỗ. Bạn tính được thì biết tô nào lãi, món nào trong tô tốn tiền nhất, bỏ món nào đi thì tô vẫn ngon mà rẻ hơn.
+
+Đặt món online cũng là 1 cái lợi. Khách đặt trước qua Zalo hoặc Facebook, bạn nấu đúng số suất, không thừa không thiếu. Quán vỉa hè thường chỉ bán cho khách đi ngang, bạn bán thêm cho khách đặt trước thì ngày mưa vẫn có đơn.
+
+Quảng cáo theo khu vực cũng là 1 cái lợi. Bạn đăng video lúc nấu, ảnh tô thật, lên TikTok và Facebook theo quận mình bán — khách trong khu vực thấy quán bạn mỗi ngày thì nhớ. Và bạn ghi lại khách quen: ai ăn sáng mỗi ngày, ai thích ít hành, ai ăn chay thứ sáu. Khách nhớ mình là nhờ cái này, không phải nhờ bán rẻ hơn quán bên cạnh.
+
+Bạn làm nghề bằng tay, nhưng quản lý bằng cách của dân IT. Đó là điểm khác biệt."
+
+### 5:30–7:00 — Học gì, học ở đâu, bao lâu
+
+"Học nghề này chia làm 3 nấc. Nấc đầu tiên là nấu được 1 món cho ra hồn: vị ổn định, nấu 10 lần như 1. Học tập trung thì khoảng 1–2 tháng là đạt mốc này, theo ước lượng trong pool nghiên cứu của kênh. Bạn học qua chuyên đề theo món, vài buổi là xong 1 món: chuyên đề phở bò của Hướng Nghiệp Á Âu kéo dài 3 buổi, học phí 2,8–7 triệu đồng; chuyên đề phở gà 1 buổi, 1,4–3 triệu đồng; module món ăn đường phố 1,7 triệu và 2,1 triệu cho 2 module.
+
+Nấc tiếp theo là học vận hành quán thật: mua nguyên liệu lúc nào, nấu số lượng lớn ra sao, dọn dẹp cuối ngày như thế nào. Nấc này không học trong lớp, học bằng cách đi làm phụ bếp hoặc phụ quán ở quán đang bán tốt 1–2 tháng. Nhiều quán không yêu cầu kinh nghiệm, lương phụ bếp 8–10 triệu 1 tháng, phụ quán 5–8 triệu 1 tháng, theo tin tuyển Việc Làm Tốt tháng 11/2026. Vừa có lương, vừa học được cả nấu và vận hành.
+
+Nấc cao hơn là học mở quán và quản lý: tính giá vốn, điểm hòa vốn, quản lý dòng tiền. Khóa Mở Quán Kinh Doanh của Hướng Nghiệp Á Âu học phí niêm yết 11 triệu đồng; khóa Khởi Sự Kinh Doanh Nhà Hàng 20–22 triệu đồng, dạy tính food cost, đưa ra giá bán, điểm hòa vốn. Trường Saigontourist ở TP.HCM có khóa Chế biến món ăn Việt 2, 1,5 tháng, học phí 12 triệu đồng trọn gói. Trước khi đóng tiền khóa nào, bạn gọi hỏi lại trường để chốt học phí hiện hành, vì giá ưu đãi trên trang có thời hạn."
+
+### 7:00–8:30 — Career path + tìm việc, tìm khách ở đâu
+
+"Đường đi thường là như thế này. 0–1 tháng đầu: học nấu 1 món, nấu thử nhiều lần, làm bảng tính giá vốn. 1–3 tháng: đi làm phụ bếp hoặc phụ quán, học vận hành quán thật, lương 5–10 triệu 1 tháng tùy ca. 3–6 tháng: bán thử nhỏ — nấu cho người quen ăn thử, bán thử 1 ngày cuối tuần, tính lại lãi lỗ ngày đó. 6–12 tháng: mở xe đẩy hoặc quán nhỏ nếu bán thử ổn, giữ vị ổn định và xây khách quen. Sau 1–2 năm: quán có khách quen thì tính chuyện mở rộng — thêm món, thêm giờ bán, hoặc thuê mặt bằng lớn hơn. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn nấu và bán bao nhiêu ngày mỗi tuần.
+
+Tìm khách đầu tiên ở đâu? Khách đi ngang là nguồn đầu tiên: chọn điểm đặt xe hoặc mặt bằng gần trường, khu văn phòng, khu dân cư đông — khách ăn vì tiện đường. Khách đặt trước qua Zalo và Facebook là nguồn tiếp theo: đăng ảnh món thật, ghi rõ món, giá, giờ bán, khu vực giao. Khách quen giới thiệu khách mới thì chậm mà chắc: 1 khách ăn ngon giới thiệu 1 khách mới. Đừng mở quán lớn ngay khi chưa có khách quen — vốn lớn mà không có khách thì vốn cạn rất nhanh."
+
+### 8:30–9:30 — Thu nhập + sự thật + nhu cầu thị trường
+
+"Giờ tới phần bạn hỏi nhiều nhất: thu nhập bao nhiêu. Mình nói thẳng: thu nhập của chủ quán ăn đường phố, tra ngày 23/11/2026, là chưa có số liệu. Không có khảo sát hay tin tuyển nào ghi doanh thu thực tế của 1 quán vỉa hè cụ thể. Mình không bịa 1 con số doanh thu nào cho bạn.
+
+Những gì có số thật là lương đi làm thuê — đường vào nghề. Phụ bếp toàn thời gian lương phổ biến 8–10 triệu 1 tháng, theo 1.804 tin trên Việc Làm Tốt cập nhật 18/11/2026. Phụ bếp quán cơm trung bình toàn quốc 8,7 triệu, Hà Nội 10,1 triệu, TP.HCM 8,9 triệu. Phục vụ quán ăn 7–9,5 triệu 1 tháng, trung bình 8,1 triệu, theo 7.298 tin cập nhật 21/11/2026. Phụ quán bún, phụ quán cơm thì 5–8 triệu 1 tháng tùy ca.
+
+Còn làm chủ thì tiền của bạn tính được bằng bảng tính, không hứa bằng miệng: giá bán 1 tô trừ giá vốn nguyên liệu — khoảng 35–40% giá bán — trừ tiền thuê điểm hoặc mặt bằng, điện nước gas, nhân viên, còn lại mới là tiền của bạn. Xe đẩy thuê điểm đặt 1,5–4 triệu 1 tháng thì nhẹ; mặt tiền Hà Nội 20–80 triệu 1 tháng, TP.HCM 15–60 triệu 1 tháng thì nặng. Vốn mở quán theo nấc, tra ngày 23/11/2026: xe đẩy 20–35 triệu, quán nhỏ có chỗ ngồi 30–60 triệu, quán bình dân 150–300 triệu, quán 30m² ở phố tỉnh 176 triệu, ở thành phố lớn 352 triệu — đã gồm vốn lưu động 3 tháng và dự phòng.
+
+Về nhu cầu: doanh thu ngành F&B năm 2025 khoảng 726.500 tỷ đồng, tăng 5,5%, cả nước khoảng 329.500 cửa hàng. Nhưng nửa đầu năm 2025, hơn 50.000 cửa hàng đã đóng cửa do áp lực chi phí. Người Việt ăn ngoài mỗi ngày, tiền vẫn chảy vào ngành — nhưng quán mở ra rồi đóng cửa cũng rất nhiều. Quán sống được là quán giữ được khách quen, không phải quán mở to nhất."
+
+### 9:30–10:00 — Checklist 5 việc + CTA
+
+"Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới.
+
+Chọn 1 món duy nhất để bán, nấu thử 3 lần và ghi lại từng lần. Làm bảng tính giá vốn 1 tô, đừng bán theo cảm tính. Đi ăn thử 5 quán bán cùng món gần nhà, ghi giá và giờ đông khách. Đi xin làm phụ bếp hoặc phụ quán ở 1–2 quán đang bán tốt để học vận hành thật. Và hỏi 3 chỗ cho thuê điểm đặt xe hoặc mặt bằng nhỏ, hỏi UBND phường về thủ tục an toàn thực phẩm cho mô hình của bạn.
+
+Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau mình nói về thợ cắt tóc nam. Comment nghề bạn muốn nghe, mình đọc hết."

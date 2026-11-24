@@ -52,7 +52,10 @@
 - Link: https://www.topcv.vn/viec-lam/tho-dien-dan-dung/1343553.html
 - Hợp với bạn nếu: bạn ở TP.HCM và đã biết việc điện cơ bản, muốn lương cứng ổn định.
 
-Lưu ý: 4 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 11/12/2026 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Tin JobsGo Tiệm Sửa Nhanh Sài Gòn (thợ chính 11–15 triệu, thợ phụ 6–9 triệu) hết hạn 06/12/2026 nên KHÔNG dùng ở đây. Ở Đà Nẵng, tin Vieclamtot Anh Hoàng Minh tuyển 2 thợ + 1 học việc, 8,5–15 triệu/tháng, đăng 23/11/2026 — bạn ở Đà Nẵng thì tìm tin này trên Vieclamtot. Ở Cần Thơ chưa tìm thấy tin riêng cho nghề này trên TopCV hay VietnamWorks ngày 23/11/2026 — nếu bạn ở Cần Thơ thì tìm việc qua sàn việc làm địa phương và hỏi trực tiếp cửa hàng sửa chữa gần nhà.
+Lưu ý: 4 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 11/12/2026 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. **Lưu ý thêm (kiểm tra lại 23/11/2026):** 4 tin TopCV trên vẫn hiển thị khi tra lại ngày 23/11/2026 và nội dung khớp với file, nhưng **hạn ứng tuyển không hiện trong bản text** của TopCV — không xác minh được hạn có tới 11/12/2026 hay không. **Bắt buộc bấm vào từng link trước ngày đăng** để xem hạn; tin nào hết hạn thì thay bằng tin dự phòng dưới đây.
+- Tin dự phòng 1: Việt Fix — thợ phụ 7–8 triệu/tháng (web công ty, tra 23/11/2026).
+- Tin dự phòng 2: Đức Tín — "Thợ - Phụ Điện Lạnh" 4–12 triệu/tháng (JobsGO, tra 23/11/2026) — khoảng lương rộng, chỉ dùng để đối chiếu, không dùng làm số chính.
+- Lưu ý phân biệt: ORRO HOME còn có 1 tin khác ở Hà Nội ("Nhân Viên Kỹ Thuật Bảo Hành Tại Hà Nội", 12–14 triệu + KPI) đã hết hạn nộp 28/06/2026 — đó là tin khác, không phải tin máy lọc nước trong bài này, đừng nhầm lẫn. Tin JobsGo Tiệm Sửa Nhanh Sài Gòn (thợ chính 11–15 triệu, thợ phụ 6–9 triệu) hết hạn 06/12/2026 nên KHÔNG dùng ở đây. Ở Đà Nẵng, tin Vieclamtot Anh Hoàng Minh tuyển 2 thợ + 1 học việc, 8,5–15 triệu/tháng, đăng 23/11/2026 — bạn ở Đà Nẵng thì tìm tin này trên Vieclamtot. Ở Cần Thơ chưa tìm thấy tin riêng cho nghề này trên TopCV hay VietnamWorks ngày 23/11/2026 — nếu bạn ở Cần Thơ thì tìm việc qua sàn việc làm địa phương và hỏi trực tiếp cửa hàng sửa chữa gần nhà.
 
 ---
 

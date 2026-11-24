@@ -2,7 +2,7 @@
 
 - Dành cho: dev vừa bị layoff, đang học nghề hoặc mới xin làm thợ phụ / học việc
 - Mục tiêu 30 ngày: nắm được việc cơ bản (sửa rò rỉ nhẹ, thông tắc đơn giản, phụ lắp đặt), có 1 nơi làm việc cố định (cửa hàng hoặc đội thợ), biết cách báo giá và giữ khách
-- Căn cứ: lộ trình học pool nghiên cứu (6–12 tháng để làm được việc, ước lượng) + tin tuyển TopCV ngày 23/11/2026 (có tin tuyển thợ điện nước không yêu cầu kinh nghiệm, 9–18 triệu/tháng)
+- Căn cứ: lộ trình học (ước lượng: học tập trung 3–6 tháng làm được việc phụ/việc đơn giản; làm chính việc dân dụng thường gặp sau 3–6 tháng; nhận job độc lập sau 6–12 tháng) + tin tuyển TopCV ngày 23/11/2026 (có tin tuyển thợ điện nước không yêu cầu kinh nghiệm, 9–18 triệu/tháng)
 
 ## Tuần 1 (ngày 1–7): Học cái gốc + tìm chỗ làm
 

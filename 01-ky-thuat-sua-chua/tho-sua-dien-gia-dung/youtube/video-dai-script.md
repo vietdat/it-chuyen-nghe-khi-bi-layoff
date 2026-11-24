@@ -24,7 +24,7 @@
 
 [Hình: cận cảnh máy giặt đứng im, quần áo ướt sũng trong lồng, màn hình báo lỗi. Chữ trên màn hình: "Máy giặt không vắt: lỗi ở đây"]
 
-"Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần, hỏng là khách gọi ngay: thợ sửa điện gia dụng. Tối thứ 2, máy giặt không vắt, quần áo ướt sũng trong lồng. Thợ tới mở máy ra, đo vài chỗ rồi nói: dây curoa đứt, thay là chạy. Mười lăm phút mà biết ngay bệnh. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần, hỏng là khách gọi ngay: thợ sửa điện gia dụng. Tối thứ 2, máy giặt không vắt, quần áo ướt sũng trong lồng. Thợ tới mở máy ra, đo từng chỗ theo quy trình rồi nói: dây curoa đứt, thay là chạy. Thợ chính làm lâu năm, gặp bệnh này nhiều lần rồi, mới đoán nhanh được như vậy — người mới thì đo từng bước, không đoán nhanh được. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30–2:00 — Nghề này là gì, 1 ngày làm việc thật
 
@@ -64,7 +64,7 @@ Học ở đâu thì có 3 đường. Đường nhanh nhất: xin làm thợ ph�
 
 ### 7:00–8:30 — Career path + tìm việc, tìm khách ở đâu
 
-"Đường đi thường là như thế này. 0–3 tháng đầu: học + làm phụ, nhận việc nhỏ, lương thợ phụ khoảng 6–9 triệu một tháng. 3–6 tháng: làm chính, có khách quen, lương kỹ thuật viên bảo hành khoảng 8–13 triệu lương cứng. 6–12 tháng: lên tay nghề, nhận ca độc lập, thu nhập thêm theo ca và KPI. Sau 1–2 năm: có thể nhận khách riêng, mở tiệm nhỏ, rồi dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+"Đường đi thường là như thế này. 0–3 tháng đầu: học + làm phụ, nhận việc nhỏ, lương thợ phụ khoảng 7–9 triệu một tháng (NACADIVI thợ phụ chính thức 7–9 triệu, cập nhật 28/10/2026; Việt Fix thợ phụ 7–8 triệu — tra ngày 23/11/2026). 3–6 tháng: làm chính, có khách quen, lương kỹ thuật viên bảo hành khoảng 8–13 triệu lương cứng. 6–12 tháng: lên tay nghề, nhận ca độc lập, thu nhập thêm theo ca và KPI. Sau 1–2 năm: có thể nhận khách riêng, mở tiệm nhỏ, rồi dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 Tìm việc đầu tiên ở đâu? Có 3 chỗ. Một là xin làm thợ phụ cho cửa hàng sửa chữa gần nhà — tìm trên Google Maps và Group cư dân khu vực. Hai là nộp đơn lên TopCV: ngày 23/11 mình đếm thấy có tin tuyển kỹ thuật viên bảo hành dưới 1 năm kinh nghiệm, lương cứng 10–13 triệu cộng KPI. Ba là khi đã cứng tay: đăng video và bài lên TikTok, Facebook theo quận mình làm, để khách khu vực biết bạn. Đừng nhận khách riêng khi chưa cứng tay — sửa xong hỏng lại trong thời gian bảo hành, bạn phải quay lại sửa miễn phí, vừa mất tiền vừa mất khách."
 
@@ -72,13 +72,13 @@ Tìm việc đầu tiên ở đâu? Có 3 chỗ. Một là xin làm thợ phụ 
 
 "Giờ tới phần bạn hỏi nhiều nhất: lương bao nhiêu. Mình nói bằng tin tuyển thật, tra ngày 23/11/2026.
 
-Thợ phụ, chưa biết việc, vừa làm vừa học: 6–9 triệu một tháng. Kỹ thuật viên bảo hành, thợ chính, biết sửa lỗi thường gặp: lương cứng 8–10 triệu, hoặc 10–13 triệu cộng KPI thì thu nhập thực tế đến 16–20 triệu một tháng, hoặc thu nhập 10–15 triệu tùy công ty. Thợ chính làm điện lạnh kèm máy giặt, tủ lạnh: 11–15 triệu, hoặc 12–20 triệu cộng phần trăm doanh số. Kỹ thuật viên bảo trì nhà máy thì 7–10 triệu, nhưng đó không phải thợ gia dụng dân dụng, mình chỉ nhắc để bạn đối chiếu.
+Thợ phụ, chưa biết việc, vừa làm vừa học: 7–9 triệu một tháng (NACADIVI 7–9 triệu; Việt Fix 7–8 triệu). Kỹ thuật viên bảo hành, thợ chính, biết sửa lỗi thường gặp: lương cứng 8–10 triệu, hoặc 10–13 triệu cộng KPI thì thu nhập thực tế đến 16–20 triệu một tháng (ORRO HOME — tin tuyển, chưa kiểm chứng), hoặc thu nhập 10–15 triệu tùy công ty, hoặc lương cứng 8–10 triệu cộng trợ cấp, thu nhập tối thiểu 12–18 triệu một tháng (SIMIGO — tin tuyển, chưa kiểm chứng). Thợ chính làm điện lạnh kèm máy giặt, tủ lạnh: 11–15 triệu, hoặc 12–20 triệu cộng phần trăm doanh số. Kỹ thuật viên bảo trì nhà máy thì 7–10 triệu, nhưng đó không phải thợ gia dụng dân dụng, mình chỉ nhắc để bạn đối chiếu.
 
 Còn thu nhập thợ tự nhận khách riêng theo tháng thì chưa có số liệu — không có tin tuyển hay khảo sát nào kiểm chứng được. Mình chỉ nói được giá 1 ca khách trả, tra ngày 23/11/2026: sửa máy giặt không vắt 250–550 nghìn, thay dây curoa 150–280 nghìn, sửa bo mạch 350–900 nghìn, bơm gas tủ lạnh 350–600 nghìn. Đây là giá khách trả cho 1 ca, chưa trừ linh kiện và phần của cửa hàng, nên đừng lấy giá ca nhân với số ca rồi tưởng đó là lương của bạn.
 
 Về nhu cầu: ngày 23/11 mình đếm thấy TopCV có 7 tin liên quan tới thợ sửa điện gia dụng, trong đó 2 tin đã hết hạn. VietnamWorks thì tìm thấy 5 tin liên quan, nhưng không có tin nào là thợ gia dụng dân dụng thuần — toàn bảo trì nhà máy và công trình. Nhu cầu có thật, nhưng tin tuyển ít và lẫn với điện lạnh, điện nước, nên bạn tìm việc bằng nhiều từ khóa khác nhau sẽ thấy nhiều hơn.
 
-Về nhu cầu theo thành phố, tra ngày 23/11: Hà Nội và TP.HCM tuyển nhiều nhất — Hà Nội nhiều tin kỹ thuật viên bảo hành hãng và nhà phân phối, lương 8–15 triệu; TP.HCM thêm tin từ JobsGo và web công ty, thợ phụ 6–9 triệu, thợ chính 11–20 triệu. Đà Nẵng ít tin hơn, chủ yếu qua Vieclamtot và tin của hãng, lương 8,5–15 triệu. Cần Thơ thì chưa tìm thấy tin riêng cho nghề này trên TopCV hay VietnamWorks — đây là khoảng trống số liệu, không phải bằng chứng là Cần Thơ không có việc, nên bạn ở Cần Thơ thì hỏi trực tiếp cửa hàng gần nhà sẽ nhanh hơn nộp đơn online.
+Về nhu cầu theo thành phố, tra ngày 23/11: Hà Nội và TP.HCM tuyển nhiều nhất — Hà Nội nhiều tin kỹ thuật viên bảo hành hãng và nhà phân phối, lương 8–15 triệu; TP.HCM thêm tin từ JobsGo và web công ty, thợ phụ 7–9 triệu, thợ chính 11–20 triệu. Đà Nẵng ít tin hơn, chủ yếu qua Vieclamtot và tin của hãng, lương 8,5–15 triệu. Cần Thơ thì chưa tìm thấy tin riêng cho nghề này trên TopCV hay VietnamWorks — đây là khoảng trống số liệu, không phải bằng chứng là Cần Thơ không có việc, nên bạn ở Cần Thơ thì hỏi trực tiếp cửa hàng gần nhà sẽ nhanh hơn nộp đơn online.
 
 Và một điều nữa: số Mỹ để so sánh, không phải lương VN. Cục Thống kê Lao động Mỹ, thợ sửa điện gia dụng, lương trung vị 49.410 đô la một năm, tháng 5 năm 2024, việc làm tăng 2,6% giai đoạn 2024–2034. Số này chỉ để bạn biết nghề này ở Mỹ được trả ra sao, không phải thu nhập ở Việt Nam."
 

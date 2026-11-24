@@ -15,11 +15,11 @@ Học được, nhưng phải học an toàn điện trước khi đụng vào m
 
 **Học bao lâu thì đi làm được?**
 
-Khóa sửa điện gia dụng khoảng 2–4 tháng theo ước lượng trong pool nghiên cứu của kênh — đây là ước lượng, chưa phải số liệu từ trường. Mốc thợ phụ thì khoảng 1–3 tháng học tập trung là đi theo thợ chính được. Làm độc lập lỗi thường gặp thì thường mất 6–12 tháng, vừa học vừa đi làm thật. Sửa bo mạch Inverter thì thường sau 1,5–3 năm. Nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+Khóa sửa điện gia dụng khoảng 2–4 tháng — mốc này đã kiểm chứng với 1 trường: khóa sửa chữa điện lạnh của HPcom tại TP.HCM, 2–4 tháng, học phí ưu đãi 8,3 triệu 1 khóa trên trang hiện tại ngày 23/11/2026; khóa Nghề Điện Dân Dụng tại 451 Hoàng Quốc Việt, Hà Nội, 3–6 tháng, học phí 5 triệu 1 khóa. Mốc thợ phụ thì khoảng 1–3 tháng học tập trung là đi theo thợ chính được. Làm độc lập lỗi thường gặp thì thường mất 6–12 tháng, vừa học vừa đi làm thật. Sửa bo mạch Inverter thì thường sau 1,5–3 năm. Nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 **Cần vốn bao nhiêu để bắt đầu?**
 
-Đi làm thuê thì vốn gần như bằng 0: xin làm thợ phụ, cửa hàng có đồ nghề, bạn chỉ cần thời gian đi học việc. Tin tuyển tra ngày 23/11/2026 cho thấy thợ phụ lương 6–9 triệu một tháng, vị trí kỹ thuật viên bảo hành dưới 1 năm kinh nghiệm lương cứng 10–13 triệu cộng KPI. Nếu học khóa ngắn hạn thì học phí khoảng 5–15 triệu đồng tùy nơi, khóa 2–4 tháng. Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1–2 năm: đồ nghề đầy đủ, linh kiện dự trữ, xe chở đồ.
+Đi làm thuê thì vốn gần như bằng 0: xin làm thợ phụ, cửa hàng có đồ nghề, bạn chỉ cần thời gian đi học việc. Tin tuyển tra ngày 23/11/2026 cho thấy thợ phụ lương 7–9 triệu một tháng (NACADIVI 7–9 triệu; Việt Fix 7–8 triệu), vị trí kỹ thuật viên bảo hành dưới 1 năm kinh nghiệm lương cứng 10–13 triệu cộng KPI. Nếu học khóa ngắn hạn thì học phí khoảng 5–15 triệu đồng tùy nơi, khóa 2–4 tháng. Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1–2 năm: đồ nghề đầy đủ, linh kiện dự trữ, xe chở đồ.
 
 **Nghề này có theo mùa như thợ điều hòa không?**
 

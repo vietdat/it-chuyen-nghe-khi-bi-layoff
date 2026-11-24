@@ -13,8 +13,8 @@
 | Ngày | Kênh | Giờ đăng | Định dạng | Tầng phễu | Chủ đề | Hook | CTA |
 |---|---|---|---|---|---|---|---|
 | Thứ 2 30/11 | TikTok | — | Clip teaser 15–30s | TOFU | Teaser kéo sang video dài tối Thứ 2 | 9 giờ tối, nhà có tiệc ngày mai, điều hòa chảy nước xuống sàn | Xem video đầy đủ trên YouTube tối nay 19 giờ |
-| Thứ 2 30/11 | YouTube | 19:00 | Video dài 5–10 phút | MOFU | Thợ lắp đặt / sửa điều hòa — Dev bị layoff chuyển sang được không? (đủ 8 mục) | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? | Xem hết video rồi comment nghề bạn muốn nghe tuần sau |
-| Thứ 2 30/11 | Facebook | 20:00 | Bài viết dài | MOFU | Thợ lắp đặt / sửa điều hòa — bản đầy đủ 8 mục (lưu lại) | Điều hòa chạy cả đêm, phòng vẫn nóng. Thợ tới nhìn 5 phút là biết bệnh. | Lưu bài này lại, comment "Thợ điều hòa" để nhận checklist 30 ngày |
+| Thứ 2 30/11 | YouTube | 19:00 | Video dài 5–10 phút | MOFU | Thợ lắp đặt / sửa điều hòa — Dev bị layoff chuyển sang được không? (đủ 12 mục) | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? | Xem hết video rồi comment nghề bạn muốn nghe tuần sau |
+| Thứ 2 30/11 | Facebook | 20:00 | Bài viết dài | MOFU | Thợ lắp đặt / sửa điều hòa — bản đầy đủ 12 mục (lưu lại) | Điều hòa chạy cả đêm, phòng vẫn nóng. Thợ tới nhìn 5 phút là biết bệnh. | Lưu bài này lại, comment "Thợ điều hòa" để nhận checklist 30 ngày |
 | Thứ 3 01/12 | TikTok | 12:00 | Clip 15–30s (cắt từ video dài) | TOFU | 1 lỗi hay gặp nhất khi mới vào nghề thợ điều hòa | Máy mới lắp xong, chạy 1 tuần thì hết mát. Khách gọi lại, giọng bực. | Follow để xem clip #2 |
 | Thứ 3 01/12 | Facebook | — | Bài tương tác ngắn (poll) | Retention | Sau layoff, bạn đang ở bước nào? (4 lựa chọn) | Bị layoff rồi, bạn không cô đơn đâu | Comment số của bạn bên dưới |
 | Thứ 3 01/12 | — (chuẩn bị) | — | Chuẩn bị reel Thứ 4 + trả lời comment bài Thứ 2 | — | Reel "3 kỹ năng mang sang + 3 học lại" đã có sẵn (kịch bản v3, flat 2D) | — | — |

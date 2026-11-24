@@ -4,7 +4,7 @@ export default defineConfig({
   lang: 'vi',
   title: 'IT Chuyển Nghề Khi Bị Layoff',
   description:
-    'Bị layoff không phải hết nghề — mà là hết 1 công việc. Kiến thức chuyển nghề phi-tech cho các bạn IT: 24 nghề, 8 lĩnh vực.',
+    'Bị layoff không phải hết nghề — mà là cơ hội bắt đầu một nghề mới. Kiến thức chuyển nghề phi-tech cho các bạn IT: 24 nghề, 8 lĩnh vực.',
   // Repo GitHub Pages: https://<user>.github.io/it-chuyen-nghe-khi-bi-layoff/
   base: '/it-chuyen-nghe-khi-bi-layoff/',
   srcDir: '.',
@@ -13,12 +13,18 @@ export default defineConfig({
     'README.md': 'index.md'
   },
   // Loại khỏi site: kế hoạch nội bộ (root + từng tuần), nghiên cứu thô,
-  // template, issue template, và chính thư mục output của build.
+  // bài đăng mạng xã hội (fb/tiktok/youtube), template, issue template,
+  // và chính thư mục output của build. Site chỉ giữ file tổng từng nghề
+  // + các trang gốc (README, FAQ, ROADMAP, CONTRIBUTING, AUDIT,
+  // START-HERE, _TEMPLATE, 13-nguon-du-lieu).
   srcExclude: [
     'ke-hoach/**',
     'nghien-cuu/**',
     '**/ke-hoach/**',
-    '_TEMPLATE.md',
+    '**/Info/**',
+    '**/fb/**',
+    '**/tiktok/**',
+    '**/youtube/**',
     '.github/**',
     'docs/**'
   ],
@@ -27,6 +33,8 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Trang chủ', link: '/' },
+      { text: 'Bắt đầu từ đây', link: '/START-HERE' },
+      { text: 'Công cụ', link: '/11-cong-cu/career-reality-check' },
       { text: 'FAQ', link: '/FAQ' },
       { text: 'Lộ trình', link: '/ROADMAP' }
     ],
@@ -59,9 +67,32 @@ export default defineConfig({
         text: 'Giới thiệu',
         items: [
           { text: 'Trang chủ', link: '/' },
+          { text: 'Bắt đầu từ đây', link: '/START-HERE' },
           { text: 'Câu hỏi thường gặp', link: '/FAQ' },
           { text: 'Lộ trình 24 tuần', link: '/ROADMAP' },
-          { text: 'Đóng góp', link: '/CONTRIBUTING' }
+          { text: 'Đóng góp', link: '/CONTRIBUTING' },
+          { text: 'Mẫu bài nghề (12 mục)', link: '/_TEMPLATE' },
+          { text: 'Kiểm chứng (Audit)', link: '/AUDIT' }
+        ]
+      },
+      {
+        text: 'Nguồn dữ liệu',
+        items: [
+          { text: 'Nguồn lương / thu nhập', link: '/13-nguon-du-lieu/salary-sources' },
+          { text: 'Nguồn học nghề', link: '/13-nguon-du-lieu/training-sources' },
+          { text: 'Nguồn tìm việc', link: '/13-nguon-du-lieu/job-sources' },
+          { text: 'Nguồn pháp lý', link: '/13-nguon-du-lieu/legal-sources' }
+        ]
+      },
+      {
+        text: 'Công cụ',
+        items: [
+          { text: 'Kiểm tra thực tế trước khi chuyển nghề', link: '/11-cong-cu/career-reality-check' },
+          { text: 'Bảng so sánh nghề', link: '/11-cong-cu/so-sanh-nghe' },
+          { text: 'Công cụ tính vốn', link: '/11-cong-cu/tinh-von' },
+          { text: 'Công cụ tính lợi nhuận', link: '/11-cong-cu/tinh-loi-nhuan' },
+          { text: 'Kế hoạch chuyển nghề 90 ngày', link: '/11-cong-cu/ke-hoach-90-ngay' },
+          { text: 'Phản hồi — khảo sát 9 câu', link: '/FEEDBACK' }
         ]
       },
       {

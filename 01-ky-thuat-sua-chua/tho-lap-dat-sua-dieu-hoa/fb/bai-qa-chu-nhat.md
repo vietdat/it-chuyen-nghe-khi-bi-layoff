@@ -21,7 +21,7 @@ Học được, nhưng phải học an toàn điện trước khi đụng vào m
 
 **Cần vốn bao nhiêu để bắt đầu?**
 
-Đi làm thuê thì vốn gần như bằng 0. Xin làm thợ phụ, cửa hàng có đồ nghề, bạn chỉ cần thời gian đi học việc. Tin tuyển TopCV ngày 23/11/2026 cho thấy thợ phụ không yêu cầu kinh nghiệm, lương 7-8 triệu một tháng, có nơi hỗ trợ nhà ở và ăn uống. Học khóa sơ cấp nghề thì học phí khoảng 6-10 triệu đồng tùy nơi, khóa 3-6 tháng. Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1-2 năm: đồ nghề đầy đủ, thang, máy hút chân không, xe chở đồ.
+Đi làm thuê thì vốn gần như bằng 0. Xin làm thợ phụ, cửa hàng có đồ nghề, bạn chỉ cần thời gian đi học việc. Tin tuyển TopCV ngày 23/11/2026 cho thấy thợ phụ không yêu cầu kinh nghiệm, lương 7-8 triệu một tháng, có nơi hỗ trợ nhà ở và ăn uống. Học khóa sơ cấp nghề thì học phí khoảng 6-10 triệu đồng tùy nơi, khóa 3-6 tháng (Thanh Xuân: số chuẩn 10 triệu một khóa 6 tháng — gọi xác nhận lại trước khi đóng tiền, vì các trang của trung tâm ghi 5 số khác nhau). Tự mua đủ đồ nghề để làm độc lập thì khoảng 10.438.000đ theo giá 1 model cụ thể tìm được công khai ngày 23/11/2026, cộng học phí 10 triệu thì tổng khởi điểm là 20.438.000đ, chưa tính tiền dự phòng sinh hoạt 2 tháng đầu (chưa có số liệu). Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1-2 năm: lúc đó đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã, lệ phí 0 đồng khi nộp trực tuyến, giải quyết trong 03 ngày làm việc.
 
 **Thợ điều hòa có bị AI thay thế không?**
 

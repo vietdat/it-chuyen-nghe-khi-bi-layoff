@@ -13,7 +13,7 @@ Mùa mưa, khoảng tháng 5 đến tháng 10 ở miền Nam, tháng 6 đến th
 
 **Thuốc diệt côn trùng có độc không, làm nghề này có hại sức khỏe không?**
 
-Có, thuốc diệt côn trùng là hóa chất độc. Đây là rủi ro thật nhất của nghề, mình nói thẳng trong bài Thứ 2. Tiếp xúc hàng ngày qua da, qua đường thở, pha sai liều hoặc không đeo đồ bảo hộ đều có thể gây ngộ độc. Vì vậy phải học an toàn hóa chất, đọc nhãn chế phẩm và đeo đủ đồ bảo hộ trước khi đụng vào thuốc thật. Công ty lớn như Rentokil cấp đồ bảo hộ theo tiêu chuẩn quốc tế và đào tạo bài bản. Sức khỏe yếu, hay dị ứng, không chịu được mùi thuốc thì nên cân nhắc kỹ trước khi vào nghề.
+Có, thuốc diệt côn trùng là hóa chất độc. Đây là rủi ro thật nhất của nghề, mình nói thẳng trong bài Thứ 2. Tiếp xúc hàng ngày qua da, qua đường thở, pha sai liều hoặc không đeo đồ bảo hộ đều có thể gây ngộ độc. Vì vậy phải học an toàn hóa chất, đọc nhãn chế phẩm và đeo đủ đồ bảo hộ trước khi đụng vào thuốc thật. Công ty lớn như Rentokil cấp đồ bảo hộ theo tiêu chuẩn quốc tế và đào tạo bài bản. Đồ bảo hộ gồm: quần áo chống thấm, mặt nạ nửa mặt có phin lọc than hoạt tính (khẩu trang vải không đủ), kính bảo hộ kín, găng tay cao su nitrile, ủng cao su cổ cao, mũ trùm đầu. Nếu ngộ độc: đưa ra khỏi khu vực nhiễm độc, cởi quần áo dính thuốc, rửa da bằng xà phòng và nhiều nước trong 10 phút, mang bao bì/nhãn thuốc tới bệnh viện ngay (nguồn: Bộ Y tế, tra 23/11/2026). Sức khỏe yếu, hay dị ứng, không chịu được mùi thuốc thì nên cân nhắc kỹ trước khi vào nghề.
 
 **Không biết gì về hóa chất, có học được không?**
 
@@ -21,7 +21,7 @@ Học được, nhưng phải học an toàn hóa chất trước khi đụng v�
 
 **Cần vốn bao nhiêu để bắt đầu?**
 
-Đi làm thuê thì vốn gần như bằng 0. Xin làm kỹ thuật viên, công ty có bình phun, có thuốc, có đồ bảo hộ, bạn chỉ cần thời gian đi học việc. Tin tuyển TopCV ngày 23/11/2026 cho thấy kỹ thuật viên không yêu cầu kinh nghiệm, lương khởi điểm từ 10 triệu một tháng. Vốn lớn chỉ cần khi bạn tự mở dịch vụ riêng sau 1-2 năm: bình phun, thuốc, xe chở đồ, và phải làm thủ tục công bố đủ điều kiện với Sở Y tế theo Nghị định 91/2016.
+Đi làm thuê thì vốn gần như bằng 0. Xin làm kỹ thuật viên, công ty có bình phun, có thuốc, có đồ bảo hộ, bạn chỉ cần thời gian đi học việc. Tin tuyển TopCV ngày 23/11/2026 cho thấy kỹ thuật viên không yêu cầu kinh nghiệm, lương khởi điểm từ 10 triệu một tháng. Vốn lớn chỉ cần khi bạn tự mở dịch vụ riêng sau 1-2 năm: bình phun, thuốc, xe chở đồ, đồ bảo hộ, và phải làm thủ tục công bố đủ điều kiện với Sở Y tế theo Nghị định 91/2016. Giá tham khảo bình phun điện 16–20 lít khoảng 810.000–1.609.000đ (điện máy Hải Anh, tra 23/11/2026); giá thuốc và đồ bảo hộ: Chưa có số liệu (xem file nghiên cứu mục 10).
 
 **Thợ diệt côn trùng có bị AI thay thế không?**
 

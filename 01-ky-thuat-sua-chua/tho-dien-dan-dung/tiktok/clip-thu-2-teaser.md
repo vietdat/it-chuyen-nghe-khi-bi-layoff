@@ -7,7 +7,7 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 1. Chín giờ tối, nhà có tiệc ngày mai, cả nhà mất điện. Tủ lạnh ngừng chạy, CB nhảy liên tục, bật lên lại nhảy xuống. Chủ nhà gọi thợ điện, giọng gấp. Anh ấy đứng bên cạnh thợ chính, nhìn thợ mở tủ điện ra, đo vài chỗ rồi nói: mạch bếp quá tải, dây cũ chịu không nổi. Mười lăm phút mà biết ngay bệnh. Tối nay 19 giờ, video đầy đủ trên YouTube, anh ấy kể hết nghề này làm gì mỗi ngày."
+"Dev bị layoff thì làm gì? Tập 1. Chín giờ tối, nhà có tiệc ngày mai, cả nhà mất điện. Tủ lạnh ngừng chạy, CB nhảy liên tục, bật lên lại nhảy xuống. Chủ nhà gọi thợ điện, giọng gấp. Anh ấy đứng bên cạnh thợ chính, nhìn thợ mở tủ điện ra, đo từng chỗ theo quy trình rồi nói: mạch bếp quá tải, dây cũ chịu không nổi. Thợ chính làm lâu năm, gặp bệnh này nhiều lần rồi, mới đoán nhanh được như vậy. Tối nay 19 giờ, video đầy đủ trên YouTube, anh ấy kể hết nghề này làm gì mỗi ngày."
 
 ## Chữ trên màn hình
 

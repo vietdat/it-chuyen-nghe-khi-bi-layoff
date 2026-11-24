@@ -7,7 +7,7 @@
 
 ---
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền, mà khách gọi là cần ngay, không đợi được đến mai: thợ khóa.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề khách gọi là cần ngay, không đợi được đến mai: thợ khóa. Học 1–3 tháng mới làm được việc cơ bản — làm độc lập thì cần 6–12 tháng.
 
 Hai giờ sáng, bạn đứng ngoài cửa nhà, chìa khóa nằm trong nhà. Bạn gọi ai? Người tới mở cửa cho bạn trong 15 phút, đó là thợ khóa. Bài này nói hết về nghề thợ khóa: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì — trong đó có chuyện khóa điện tử đang thay đổi nghề. Lưu lại đọc từ từ.
 
@@ -33,25 +33,25 @@ Khách nhắn "khóa cửa kẹt, báo giá giúp em", bạn xin khách 1 tấm 
 
 Chia làm 3 nấc. Nấc đầu là làm được việc cơ bản: cắt chìa, mở khóa đơn giản, thay ổ khóa cửa — học tập trung thì khoảng 1–3 tháng (theo lộ trình MasterKeys và khóa Minh Phát). Nấc thứ hai là làm độc lập: tự nhận ca gọi, tự xác minh khách, tự báo giá, tự mở khóa khó mà không làm hỏng cửa — thường mất 6–12 tháng. Nấc thứ ba là làm mảng giá cao: khóa điện tử, khóa vân tay, smartkey xe máy và ô tô, két sắt — thường sau 1–2 năm.
 
-Học ở đâu thì có 3 đường. Nhanh nhất: nộp vào vị trí kỹ thuật lắp đặt khóa điện tử — ngày 23/11/2026 mình đếm thấy có tin tuyển không yêu cầu kinh nghiệm, được đào tạo từ đầu, lương 7–12 triệu. Thứ hai: học khóa nghề khóa 1–3 tháng — ví dụ MasterKeys ở Tân Phú, TP.HCM, khóa 1–3 tháng, học phí 19 triệu trọn gói đã gồm bộ đồ nghề; Minh Phát ở Đà Nẵng, khóa 1–2 tháng, học phí 10–15 triệu (lưu ý: ở Hà Nội mình chưa tìm thấy khóa học nào có tên trung tâm và học phí công khai). Thứ ba: xin làm thợ phụ tại tiệm khóa, không mất học phí, học trên việc thật.
+Học ở đâu thì có 3 đường. Đường thứ nhất: nộp vào vị trí kỹ thuật lắp đặt khóa điện tử — ngày 23/11/2026 mình đếm thấy có tin tuyển không yêu cầu kinh nghiệm, được đào tạo từ đầu, lương 7–12 triệu (lưu ý: tin này đã hiển thị 'Hết hạn ứng tuyển' khi kiểm chứng lại cùng ngày 23/11 — trước khi nộp, tìm tin mới đang mở). Mảng khóa điện tử là mảng giống IT nhất trong nghề, vì liên quan điện tử, cài đặt, hướng dẫn khách dùng app — nhưng nghề chính ở đây là thợ khóa cơ + điện tử, không phải chỉ khóa điện tử. Thứ hai: học khóa nghề khóa 1–3 tháng — ví dụ MasterKeys ở Tân Phú, TP.HCM, khóa 1–3 tháng, học phí 19 triệu trọn gói đã gồm bộ đồ nghề; Minh Phát ở Đà Nẵng, khóa 1–2 tháng, học phí 10–15 triệu (lưu ý: ở Hà Nội mình chưa tìm thấy khóa học nào có tên trung tâm và học phí công khai — bạn ở Hà Nội thì xin học việc tại tiệm khóa gần nhà, hoặc tới làng khóa Tương Chúc ở Thanh Trì, làng nghề khóa hơn 100 năm, học theo kiểu truyền nghề). Thứ ba: xin làm thợ phụ tại tiệm khóa, không mất học phí, học trên việc thật.
 
 **Career path**
 
-0–3 tháng đầu: học + làm phụ, lương kỹ thuật khóa điện tử khoảng 7–12 triệu một tháng. 3–6 tháng: làm chính, có khách quen, lương khoảng 8–15 triệu. 6–12 tháng: lên tay nghề, nhận job độc lập, thu nhập thêm theo job. Sau 1–2 năm: có thể mở tiệm nhỏ hoặc nhận khách riêng, rồi học thêm khóa điện tử và smartkey để nhận job giá cao. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+0–3 tháng đầu: học + làm phụ, lương kỹ thuật khóa điện tử khoảng 7–12 triệu một tháng. 3–6 tháng: làm chính việc cơ bản — tự cắt chìa, mở khóa đơn giản, thay ổ khóa, có người kiểm tra lại, lương khoảng 7–12 triệu. 6–12 tháng: lên tay nghề, tự nhận ca gọi, tự báo giá, nhận job độc lập, thu nhập thêm theo job. Sau 1–2 năm: học thêm khóa điện tử và smartkey để nhận job giá cao, rồi có thể mở tiệm nhỏ hoặc nhận khách riêng. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 **Tìm việc, tìm khách đầu tiên ở đâu**
 
-Nộp đơn lên TopCV và Joboko: ngày 23/11/2026 mình đếm thấy tin kỹ thuật lắp đặt khóa điện tử không yêu cầu kinh nghiệm, và 1 tin Joboko còn hạn tới 31/12/2026, lương 8–14 triệu. Xin làm thợ phụ cho tiệm khóa gần nhà — tìm trên Google Maps và Group cư dân khu vực, đi hỏi trực tiếp, vì thợ khóa cơ gần như không đăng tin tuyển lên sàn. Khi đã cứng tay: đăng video và bài lên TikTok, Facebook theo quận mình làm, để khách khu vực biết bạn. Đừng nhận job mở khóa một mình khi chưa cứng tay — mở sai 1 ổ, khách không quay lại nữa, mà còn mất tiền đền.
+Nộp đơn lên TopCV và Joboko: ngày 23/11/2026 mình đếm thấy tin kỹ thuật lắp đặt khóa điện tử không yêu cầu kinh nghiệm (tin CETS — đã hiển thị 'Hết hạn ứng tuyển' khi kiểm chứng lại cùng ngày 23/11, nên trước khi nộp bạn tìm tin mới đang mở), và 1 tin Joboko còn hạn tới 31/12/2026, lương 8–14 triệu. Xin làm thợ phụ cho tiệm khóa gần nhà — tìm trên Google Maps và Group cư dân khu vực, đi hỏi trực tiếp, vì thợ khóa cơ gần như không đăng tin tuyển lên sàn. Khi đã cứng tay: đăng video và bài lên TikTok, Facebook theo quận mình làm, để khách khu vực biết bạn. Đừng nhận job mở khóa một mình khi chưa cứng tay — mở sai 1 ổ, khách không quay lại nữa, mà còn mất tiền đền.
 
 **Lương bao nhiêu**
 
-Nói bằng tin tuyển thật, tra ngày 23/11/2026. Kỹ thuật lắp đặt khóa điện tử, chưa có kinh nghiệm: 7–12 triệu một tháng, cộng thưởng. Kỹ thuật lắp đặt máy chấm công và khóa từ, 1 năm kinh nghiệm: 8–14 triệu. Kỹ thuật khóa cửa điện tử thông minh, 2 năm kinh nghiệm: lương cứng 10–15 triệu cộng thêm phần trăm doanh thu. Kỹ thuật bảo hành khóa thông minh ở TP.HCM: 10–15 triệu.
+Nói bằng tin tuyển thật, tra ngày 23/11/2026. Kỹ thuật lắp đặt khóa điện tử, chưa có kinh nghiệm: 7–12 triệu một tháng, cộng thưởng. Kỹ thuật lắp đặt máy chấm công và khóa từ, 1 năm kinh nghiệm: 8–14 triệu. Kỹ thuật khóa cửa điện tử thông minh, 2 năm kinh nghiệm: lương cứng 10–15 triệu cộng thêm phần trăm doanh thu. Kỹ thuật bảo hành khóa thông minh ở TP.HCM: 10–15 triệu. Lưu ý: 4 tin TopCV trên (CETS, Elecom, Demax, Locker & Lock) đều đã hiển thị 'Hết hạn ứng tuyển' khi mình mở lại trang ngày 23/11/2026 — chỉ dùng để tham khảo lương, không nộp được nữa. Tin duy nhất còn hạn là Joboko, hạn 31/12/2026.
 
 Thợ khóa cơ thì lương lấy từ số tổng hợp của sàn Vieclam24h (không phải tin tuyển riêng lẻ): Hà Nội 7–15 triệu một tháng, Cần Thơ 5–8 triệu, các tỉnh khác mới vào nghề 5–7 triệu, có kinh nghiệm 8–12 triệu.
 
 Thợ tự nhận khách thì thu nhập theo job: cắt chìa tận nơi 150–300 nghìn, chìa cơ xe máy còn mẫu 50–150 nghìn, mất hết chìa 200–400 nghìn, sao chép thêm smartkey 500–900 nghìn, làm lại smartkey mất hết chìa và mất mã 800 nghìn đến 1,5 triệu, làm chìa ô tô mới khi mất hết chìa 1,5–4 triệu. Job nhỏ thì rẻ, job khó thì đắt — số job mỗi ngày không đều, nên không có con số cố định.
 
-Về nhu cầu: ngày 23/11 mình đếm thấy TopCV có 4 tin liên quan tới khóa, nhưng tất cả đều là khóa điện tử, không có tin nào tuyển thợ khóa cơ. VietnamWorks không tìm thấy tin nào. Joboko có 1 tin còn hạn tới 31/12/2026. Nhu cầu tuyển làm thuê trên sàn là ít — nhưng nhu cầu khách gọi thợ khóa thì có quanh năm.
+Về nhu cầu: ngày 23/11 mình đếm thấy TopCV có 4 tin liên quan tới khóa, nhưng tất cả đều là khóa điện tử, không có tin nào tuyển thợ khóa cơ. Kiểm chứng lại cùng ngày 23/11: cả 4 tin TopCV đều đã hiển thị 'Hết hạn ứng tuyển' — chỉ còn tin Joboko là đang mở. VietnamWorks không tìm thấy tin nào. Joboko có 1 tin còn hạn tới 31/12/2026. Nhu cầu tuyển làm thuê trên sàn là ít — nhưng nhu cầu khách gọi thợ khóa thì có quanh năm.
 
 Về nhu cầu theo thành phố, tra ngày 23/11: Hà Nội là nơi có nhiều tin khóa điện tử nhất, lương 7–15 triệu; TP.HCM có tin khóa thông minh lương 10–17 triệu. Đà Nẵng và Cần Thơ gần như không có tin tuyển thợ khóa trên sàn — Đà Nẵng chưa có số liệu lương, Cần Thơ theo số tổng hợp của sàn là 5–8 triệu.
 

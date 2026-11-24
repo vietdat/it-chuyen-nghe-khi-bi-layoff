@@ -9,11 +9,11 @@
 
 ## Mục lục
 
-1. [Lịch tuần 15 - 7 ngày, 15 bài](#1-lịch-tuần-15--7-ngày-15-bài)
+1. [Lịch tuần 15 - 7 ngày, 15 bài](#1-lịch-tuần-15---7-ngày-15-bài)
 2. [Nghiên cứu thị trường tóm tắt](#2-nghiên-cứu-thị-trường-tóm-tắt)
-3. [YouTube - Script video dài Thứ 2](#3-youtube--script-video-dài-thứ-2)
-4. [Facebook - 6 bài](#4-facebook--6-bài)
-5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok--8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
+3. [YouTube - Script video dài Thứ 2](#3-youtube---script-video-dài-thứ-2)
+4. [Facebook - 6 bài](#4-facebook---6-bài)
+5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok---8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
 6. [Checklist 30 ngày đầu](#6-checklist-30-ngày-đầu)
 7. [Lưu ý trước khi đăng](#7-lưu-ý-trước-khi-đăng)
 
@@ -24,7 +24,7 @@
 |---|---|---|---|---|
 | Thứ 2 08/03 | TikTok | - | Clip Tập 1: tháng đầu làm thợ diệt côn trùng được bao nhiêu? | Dev bị layoff thì làm gì? - Tập 1 |
 | Thứ 2 08/03 | YouTube | 19:00 | Video dài 5-10 phút, đủ 8 mục | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? |
-| Thứ 2 08/03 | Facebook | 20:00 | Bài viết dài, đủ 8 mục | Muỗi bay đầy nhà, gián chạy trong bếp, mối ăn tủ gỗ. Thợ tới nhìn 5 phút là biết xử lý từ đâu. |
+| Thứ 2 08/03 | Facebook | 20:00 | Bài viết dài, đủ 8 mục | Muỗi bay đầy nhà, gián chạy trong bếp, mối ăn tủ gỗ. Thợ khảo sát rồi mới biết xử lý từ đâu. |
 | Thứ 3 09/03 | TikTok | 12:00 | Clip Tập 2: phun xong 1 tuần, muỗi quay lại | Dev bị layoff thì làm gì? - Tập 2 |
 | Thứ 3 09/03 | Facebook | - | Bài tương tác: Sau layoff, bạn đang ở bước nào? | Layoff rồi, nhiều dev đang đứng đúng chỗ bạn đang đứng |
 | Thứ 4 10/03 | TikTok / Reels / Shorts | 20:00 | Reel 40-45s (hoạt hình flat 2D), kịch bản 150 từ | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? |
@@ -62,25 +62,46 @@ Tóm tắt từ `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026). Bản đ
 ### Học ở đâu (3 miền, tra cứu 23/11/2026 - bản đầy đủ trong `Info/nghien-cuu-thi-truong.md` mục 2)
 
 - Đường vào chính: công ty đào tạo từ đầu có hưởng lương (Rentokil, Sanitec) — 0đ học phí.
-- VPMA (Hội Quản lý Dịch hại Việt Nam): có khung đào tạo kỹ thuật viên cơ bản, khóa an toàn hóa chất, khóa IPM — nhưng học phí và lịch khai giảng chưa công bố ("[To be updated]" trên trang vpma.info ngày 23/11/2026).
+- VPMA (Hội Quản lý Dịch hại Việt Nam): có khung đào tạo kỹ thuật viên cơ bản, khóa an toàn hóa chất, khóa IPM — nhưng học phí và lịch khai giảng chưa công bố ("[To be updated]" trên trang vpma.info — kiểm chứng lại ngày 23/11/2026 buổi trưa, vẫn "[To be updated]").
 - Không tìm thấy khóa kiểm soát côn trùng nào có học phí công khai ở cả 3 miền ngày 23/11/2026. Khóa bồi dưỡng chuyên môn thuốc BVTV: 7.000.000đ, 2,5 tháng, online cuối tuần (Trung tâm Miền Nam) — đây là khóa thuốc BVTV nông nghiệp, chỉ liên quan một phần, không phải khóa diệt côn trùng gia dụng / y tế.
 - Tự mở dịch vụ riêng: phải công bố đủ điều kiện với Sở Y tế theo Nghị định 91/2016/NĐ-CP, chỉ dùng chế phẩm đã đăng ký lưu hành.
 
 ### Lương theo nấc (tin tuyển thật, tra cứu 23/11/2026)
 
 - Mới vào / chưa có kinh nghiệm: lương khởi điểm từ 10 triệu/tháng (Sanitec, Hà Nội + TP.HCM), 8-12 triệu/tháng (Trần Nhân Eco Green, TP.HCM).
-- Thợ kỹ thuật viên: 14 triệu/tháng + phụ cấp + thưởng dịch vụ (Rentokil, Hà Nội + Bắc Ninh, không yêu cầu kinh nghiệm).
+- Thợ kỹ thuật viên: 14 triệu/tháng + phụ cấp + thưởng dịch vụ (Rentokil, Hà Nội + Bắc Ninh, không yêu cầu kinh nghiệm). Lưu ý: 14 triệu cho vị trí không yêu cầu kinh nghiệm cao hơn cả vị trí giám sát Six Senses (8–15 triệu + 2,4 triệu phụ cấp, cần ít nhất 1 năm kinh nghiệm) — các mức này tới từ công ty khác nhau, không phải thang lương thăng tiến thẳng. Tin 13–15 triệu ở Hà Nội đã hết hạn, đã bỏ khỏi thang lương chính.
 - Giám sát: 8-15 triệu/tháng + phụ cấp 2,4 triệu/tháng (Six Senses Côn Đảo, VietnamWorks, yêu cầu ít nhất 1 năm kinh nghiệm).
 - Giá dịch vụ (không phải lương thợ): phun muỗi nhà dưới 100m² trọn gói 550.000đ/lần (PCS, Trần Long); diệt mối nhà đến 100m² trọn gói 900.000-1.200.000đ/đợt (Khử Trùng Toàn Cầu).
 - Số Mỹ (không phải thu nhập VN): BLS, tháng 5/2025, thợ diệt côn trùng median 45.250 USD/năm, tăng trưởng 6% giai đoạn 2025-2035.
 
 ### Rủi ro thật + mùa vụ
 
-- Hóa chất độc hại là rủi ro lớn nhất: tiếp xúc hàng ngày qua da, qua đường thở; pha sai liều, không đeo đồ bảo hộ có thể gây ngộ độc. Phải học an toàn hóa chất trước khi đụng vào thuốc thật.
+- Hóa chất độc hại là rủi ro lớn nhất: tiếp xúc hàng ngày qua da, qua đường thở; pha sai liều, không đeo đồ bảo hộ có thể gây ngộ độc. Phải học an toàn hóa chất trước khi đụng vào thuốc thật. Đồ bảo hộ gồm: quần áo chống thấm, mặt nạ nửa mặt có phin lọc than hoạt tính (khẩu trang vải không đủ), kính bảo hộ kín, găng tay cao su nitrile, ủng cao su cổ cao, mũ trùm đầu. Nếu ngộ độc: đưa ra khỏi khu vực nhiễm độc, cởi quần áo dính thuốc, rửa da bằng xà phòng và nhiều nước trong 10 phút, mang bao bì/nhãn thuốc tới bệnh viện ngay (nguồn: Bộ Y tế, tra 23/11/2026).
 - Làm ca đêm và làm ngoài giờ: nhiều ca phun phải làm buổi tối hoặc ban đêm, vì trung tâm thương mại, nhà hàng chỉ phun được khi vắng người.
 - Chạy xe máy nhiều: có tin tuyển ghi rõ đi xe máy 50-90km/ngày (SGS).
 - Mùa vụ: mùa mưa đông việc lẻ, mùa khô dựa vào hợp đồng định kỳ. Thợ làm thuê ít bị ảnh hưởng vì lương tháng, thợ tự nhận khách riêng thấy rõ mùa vụ.
 - Pháp lý khi tự làm riêng: phải công bố đủ điều kiện với Sở Y tế, chỉ dùng chế phẩm đã đăng ký lưu hành (Nghị định 91/2016/NĐ-CP).
+
+
+### Lộ trình học (mục 9 file nghiên cứu)
+
+Tuần đầu học an toàn hóa chất + cách đọc nhãn chế phẩm, học nhận diện 5 loài hay gặp, liệt kê 5 công ty pest control gần nhà, xin làm kỹ thuật viên / học việc 2–3 chỗ. Tháng đầu đi theo kỹ thuật viên chính, tự đặt và kiểm tra bẫy có người kèm. Tháng 2 học bảng giá, tập báo giá từ ảnh. Tháng 3 tự đi job theo lịch công ty có người kiểm tra lại. Sau 6 tháng làm độc lập (tự xử lý cả muỗi, gián, kiến, chuột, mối). Lên giám sát hoặc tự mở dịch vụ sau 1–2 năm (cần học thêm IPM + tập huấn an toàn hóa chất theo Nghị định 91/2016/NĐ-CP). Học xong khóa 1–3 tháng chỉ làm được việc cơ bản có người kèm, không phải đi job độc lập được ngay.
+
+### Thử nghề (mục 10)
+
+Theo thợ 1 ngày (0 đồng, đi theo xem); xin làm phụ / học việc thử 1–2 tuần trước khi theo nghề (nhiều công ty nhận người không yêu cầu kinh nghiệm, vẫn trả lương trong lúc đào tạo); sau 1 tháng làm phụ, xin tự làm 1 job phun muỗi trọn vẹn có kỹ thuật viên chính kiểm tra liều pha và quy trình. Tiếp tục nếu chịu được mùi thuốc và đồ bảo hộ cả ngày, tự đặt được bẫy có người kèm. Dừng lại nếu dị ứng, không chịu được mùi thuốc hoặc đồ bảo hộ, sợ hóa chất tới mức không dám đụng vào thuốc thật.
+
+### Chi phí khởi điểm (mục 10 file nghiên cứu)
+
+Dụng cụ — bình phun điện 16–20 lít 810.000–1.609.000đ (điện máy Hải Anh, tra 23/11/2026); máy phun thuốc chạy xăng Stihl SR430 15.200.000đ; thuốc/hóa chất, đồ bảo hộ, xe máy chở đồ: Chưa có số liệu. Học phí — công ty đào tạo từ đầu 0đ (Rentokil/Sanitec); VPMA: Chưa có số liệu (trang ghi "[To be updated]", kiểm chứng lại 23/11/2026); khóa BVTV 7 triệu là khóa thuốc nông nghiệp, chỉ liên quan một phần, KHÔNG phải khóa diệt côn trùng. Dự phòng 2 tháng đầu: Chưa có số liệu. Tổng (bình phun điện mức thấp nhất 810.000đ + học phí 0đ, chưa tính dự phòng): 810.000đ.
+
+### Kết luận (mục 11)
+
+Cửa vào rất mở (không yêu cầu kinh nghiệm, không yêu cầu bằng cấp, công ty đào tạo từ đầu có hưởng lương); nhu cầu có thật và dài hạn (sốt xuất huyết tăng, hợp đồng định kỳ chạy quanh năm); nhưng hóa chất độc hại là rủi ro lớn nhất, giờ giấc thất thường, làm ca đêm, mùa vụ rõ rệt, làm độc lập cần 6–12 tháng, tự mở dịch vụ phải công bố đủ điều kiện với Sở Y tế. Phù hợp nhất khi xin vào công ty lớn trước, học trên ca thật, dùng lợi thế IT để giữ khách.
+
+### Nguồn tham khảo (mục 12)
+
+Xem file nghiên cứu mục 11 — tin tuyển TopCV/Vieclamtot/VietnamWorks (Rentokil, Sanitec, TTNA, Trần Nhân Eco Green, Six Senses, SGS), VPMA (học phí/lịch "[To be updated]", kiểm chứng lại 23/11/2026), khóa BVTV 7 triệu (Trung tâm Miền Nam), giá bình phun (điện máy Hải Anh), đồ bảo hộ + sơ cứu ngộ độc (tongkhoz.com.vn, Bộ Y tế, TTYT Nho Quan), giá dịch vụ (PCS, Trần Long, TKT, Khử Trùng Toàn Cầu), sốt xuất huyết (Bộ Y tế qua VietnamPlus), Nghị định 91/2016/NĐ-CP, thủ tục đăng ký hộ kinh doanh (Nghị định 168/2025/NĐ-CP), số BLS Mỹ.
 
 
 ## 3. YouTube - Script video dài Thứ 2
@@ -111,7 +132,7 @@ Tóm tắt từ `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026). Bản đ
 
 [Hình: cận cảnh tay thợ đeo găng tay, cầm bình phun, sương thuốc phủ lên góc bếp có gián chạy. Chữ trên màn hình: "Muỗi bay đầy nhà, gián chạy trong bếp: xử lý từ đâu?"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền, mà ít người nghĩ tới: thợ diệt côn trùng. Muỗi bay đầy nhà, gián chạy trong bếp, mối ăn tủ gỗ. Thợ tới nhìn năm phút rồi nói: chỗ này phun, chỗ kia đặt bẫy, tuần sau quay lại kiểm tra. Năm phút mà biết ngay phải xử lý từ đâu. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề ít người nghĩ tới, mà khách gọi là cần ngay: thợ diệt côn trùng. Học 1–3 tháng mới làm được việc cơ bản — làm độc lập thì cần 6–12 tháng. Muỗi bay đầy nhà, gián chạy trong bếp, mối ăn tủ gỗ. Thợ tới khảo sát rồi nói: chỗ này phun, chỗ kia đặt bẫy, tuần sau quay lại kiểm tra. Phải khảo sát rồi mới biết xử lý từ đâu. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30-2:00 - Nghề này là gì, 1 ngày làm việc thật
 
@@ -125,7 +146,7 @@ Cả ngày bạn chạy theo ca gọi, mỗi nhà một loài khác nhau. Có ca
 
 "Nghề này hợp với người thích làm việc ngoài trời, gặp khách trực tiếp. Mỗi ca là một nơi khác nhau, một loài khác nhau, không ngồi một chỗ cả ngày. Làm xong, khách thấy muỗi bớt hẳn, gián không còn chạy trong bếp, thấy kết quả ngay trong tuần. Hợp đồng định kỳ với nhà máy, khách sạn thì việc đều, không phải đi tìm khách từng ngày.
 
-Còn nếu bạn sợ hóa chất thì nên suy nghĩ lại. Thuốc diệt côn trùng là hóa chất độc, bạn tiếp xúc hàng ngày, phải đeo đủ đồ bảo hộ, pha đúng liều, đọc kỹ nhãn trước khi phun. Sức khỏe yếu, hay dị ứng, không chịu được mùi thuốc thì nghề này sẽ rất mệt. Làm ca đêm cũng là chuyện thường, phun ở trung tâm thương mại sau khi đóng cửa. Muốn giờ giấc cố định, ngồi văn phòng 8 tiếng thì tìm nghề khác. Nói thẳng như vậy để bạn khỏi mất thời gian học rồi mới biết mình không hợp."
+Còn nếu bạn sợ hóa chất thì nên suy nghĩ lại. Thuốc diệt côn trùng là hóa chất độc, bạn tiếp xúc hàng ngày, phải đeo đủ đồ bảo hộ (quần áo chống thấm, mặt nạ nửa mặt có phin lọc than hoạt tính, kính bảo hộ kín, găng tay cao su nitrile, ủng cao su cổ cao), pha đúng liều, đọc kỹ nhãn trước khi phun. Sức khỏe yếu, hay dị ứng, không chịu được mùi thuốc thì nghề này sẽ rất mệt. Làm ca đêm cũng là chuyện thường, phun ở trung tâm thương mại sau khi đóng cửa. Muốn giờ giấc cố định, ngồi văn phòng 8 tiếng thì tìm nghề khác. Nói thẳng như vậy để bạn khỏi mất thời gian học rồi mới biết mình không hợp."
 
 ### 3:30-5:30 - Lợi thế của dân IT
 
@@ -155,7 +176,7 @@ Một điều cần nhớ: tự mở dịch vụ riêng thì phải làm thủ t
 
 ### 7:00-8:30 - Career path + tìm việc, tìm khách ở đâu
 
-"Đường đi thường là như thế này. 0-3 tháng đầu: học và làm phụ theo kỹ thuật viên chính, lương khởi điểm từ 10 triệu một tháng. 3-6 tháng: làm chính theo lịch công ty, lương khoảng 13-15 triệu. 6-12 tháng: lên tay nghề, xử lý được cả mối, nhận job độc lập, thu nhập thêm thưởng dịch vụ theo tháng. Sau 1-2 năm: có thể lên giám sát, hoặc nhận khách riêng, rồi dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+"Đường đi thường là như thế này. 0-3 tháng đầu: học và làm phụ theo kỹ thuật viên chính, lương khởi điểm từ 10 triệu một tháng. 3-6 tháng: làm chính theo lịch công ty, lương theo tin còn mở cao nhất là Rentokil 14 triệu cộng phụ cấp và thưởng dịch vụ — vị trí này không yêu cầu kinh nghiệm, nhưng ghi rõ đây là 1 tin riêng, không phải mốc lương chung. 6-12 tháng: lên tay nghề, xử lý được cả mối, nhận job độc lập, thu nhập thêm thưởng dịch vụ theo tháng. Sau 1-2 năm: có thể lên giám sát, hoặc nhận khách riêng, rồi dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 Tìm việc đầu tiên ở đâu? Có 3 chỗ để bắt đầu. Nộp vào Rentokil hoặc Sanitec trên TopCV: ngày 23/11 mình đếm thấy có tin tuyển không yêu cầu kinh nghiệm, không yêu cầu bằng cấp, công ty đào tạo từ đầu có hưởng lương. Tìm trên Vieclamtot: ngày 23/11 mình thấy tin tuyển kỹ thuật viên diệt côn trùng, diệt chuột làm việc tại siêu thị, nhà máy, lương 8-12 triệu. Khi đã cứng tay thì đăng video và bài lên TikTok, Facebook theo quận mình làm, để khách khu vực biết bạn. Đừng nhận khách riêng khi chưa cứng tay, nhất là chưa thuộc quy trình an toàn hóa chất. Phun sai liều, khách không quay lại nữa, mà còn có thể ảnh hưởng sức khỏe của khách."
 
@@ -163,7 +184,7 @@ Tìm việc đầu tiên ở đâu? Có 3 chỗ để bắt đầu. Nộp vào R
 
 "Giờ tới phần bạn hỏi nhiều nhất: lương bao nhiêu. Mình nói bằng tin tuyển thật, tra ngày 23/11/2026.
 
-Mới vào, chưa có kinh nghiệm, được đào tạo từ đầu: lương khởi điểm từ 10 triệu một tháng, theo tin tuyển của Sanitec ở cả Hà Nội và TP.HCM. Một công ty khác ở TP.HCM tuyển kỹ thuật viên diệt côn trùng, diệt chuột làm việc tại siêu thị, nhà máy, lương 8-12 triệu một tháng. Thợ kỹ thuật viên đã biết việc: Rentokil ghi lương 14 triệu một tháng cộng phụ cấp và thưởng dịch vụ, vị trí này không yêu cầu kinh nghiệm. Có tin ở Hà Nội ghi thu nhập 13-15 triệu, tăng ca có thể 18-19 triệu, nhưng tin này đã hết hạn, mình chỉ nhắc để bạn đối chiếu. Giám sát diệt côn trùng ở khách sạn: 8-15 triệu cộng phụ cấp 2,4 triệu một tháng, theo tin tuyển của Six Senses Côn Đảo trên VietnamWorks, yêu cầu ít nhất 1 năm kinh nghiệm.
+Mới vào, chưa có kinh nghiệm, được đào tạo từ đầu: lương khởi điểm từ 10 triệu một tháng, theo tin tuyển của Sanitec ở cả Hà Nội và TP.HCM. Một công ty khác ở TP.HCM tuyển kỹ thuật viên diệt côn trùng, diệt chuột làm việc tại siêu thị, nhà máy, lương 8-12 triệu một tháng. Thợ kỹ thuật viên đã biết việc: Rentokil ghi lương 14 triệu một tháng cộng phụ cấp và thưởng dịch vụ, vị trí này không yêu cầu kinh nghiệm. Lưu ý: 14 triệu cho vị trí không yêu cầu kinh nghiệm cao hơn cả vị trí giám sát ở khách sạn (8-15 triệu cộng phụ cấp 2,4 triệu, cần ít nhất 1 năm kinh nghiệm) — các mức này tới từ công ty khác nhau, không phải thang lương thăng tiến thẳng. Có tin ở Hà Nội ghi thu nhập 13-15 triệu, tăng ca có thể 18-19 triệu, nhưng tin này đã hết hạn, mình chỉ nhắc để bạn đối chiếu. Giám sát diệt côn trùng ở khách sạn: 8-15 triệu cộng phụ cấp 2,4 triệu một tháng, theo tin tuyển của Six Senses Côn Đảo trên VietnamWorks, yêu cầu ít nhất 1 năm kinh nghiệm.
 
 Còn giá dịch vụ, để bạn hiểu 1 job bán được bao nhiêu: phun muỗi nhà dưới 100 mét vuông, trọn gói 550.000 đồng một lần, theo bảng giá công khai của PCS Việt Nam và Diệt mối Trần Long. Diệt mối nhà đến 100 mét vuông, trọn gói 900.000 đến 1.200.000 đồng một đợt, theo bảng giá của Khử Trùng Toàn Cầu, gồm khảo sát, đặt trạm nhử, nghiệm thu sau 7-14 ngày, bảo hành 6 tháng. Nhớ là đây là giá bán của công ty, chưa trừ thuốc, xăng xe, nhân công. Thợ làm thuê không nhận trọn số này, thợ nhận lương tháng cộng phụ cấp và thưởng.
 
@@ -194,9 +215,9 @@ Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau m
 - Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026)
 - Giọng: nói với "bạn", không liệt kê Một/Hai/Ba, không bịa số liệu
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền, mà ít người nghĩ tới: thợ diệt côn trùng.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề ít người nghĩ tới, mà khách gọi là cần ngay: thợ diệt côn trùng. Học 1–3 tháng mới làm được việc cơ bản — làm độc lập thì cần 6–12 tháng.
 
-Muỗi bay đầy nhà, gián chạy trong bếp, mối ăn tủ gỗ. Thợ tới nhìn năm phút rồi nói: chỗ này phun, chỗ kia đặt bẫy, tuần sau quay lại kiểm tra. Năm phút mà biết ngay phải xử lý từ đâu. Bài này nói hết về nghề thợ diệt côn trùng: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
+Muỗi bay đầy nhà, gián chạy trong bếp, mối ăn tủ gỗ. Thợ tới khảo sát rồi nói: chỗ này phun, chỗ kia đặt bẫy, tuần sau quay lại kiểm tra. Phải khảo sát rồi mới biết xử lý từ đâu. Bài này nói hết về nghề thợ diệt côn trùng: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
 **Nghề này làm gì mỗi ngày**
 
@@ -210,7 +231,7 @@ Có ca làm ban ngày, có ca phải làm buổi tối hoặc ban đêm, vì tru
 
 Nghề này hợp với người thích làm việc ngoài trời, gặp khách trực tiếp. Mỗi ca là một nơi khác nhau, một loài khác nhau, không ngồi một chỗ cả ngày. Làm xong, khách thấy muỗi bớt hẳn, gián không còn chạy trong bếp, thấy kết quả ngay trong tuần. Hợp đồng định kỳ với nhà máy, khách sạn thì việc đều, không phải đi tìm khách từng ngày.
 
-Còn hóa chất thì sao. Thuốc diệt côn trùng là hóa chất độc, bạn tiếp xúc hàng ngày, phải đeo đủ đồ bảo hộ, pha đúng liều, đọc kỹ nhãn trước khi phun. Sức khỏe yếu, hay dị ứng, không chịu được mùi thuốc thì nghề này sẽ rất mệt. Làm ca đêm cũng là chuyện thường, phun ở trung tâm thương mại sau khi đóng cửa. Muốn ngồi văn phòng 8 tiếng, giờ giấc cố định thì nghề này không dành cho bạn.
+Còn hóa chất thì sao. Thuốc diệt côn trùng là hóa chất độc, bạn tiếp xúc hàng ngày, phải đeo đủ đồ bảo hộ (quần áo chống thấm, mặt nạ nửa mặt có phin lọc than hoạt tính, kính bảo hộ kín, găng tay cao su nitrile, ủng cao su cổ cao), pha đúng liều, đọc kỹ nhãn trước khi phun. Sức khỏe yếu, hay dị ứng, không chịu được mùi thuốc thì nghề này sẽ rất mệt. Làm ca đêm cũng là chuyện thường, phun ở trung tâm thương mại sau khi đóng cửa. Muốn ngồi văn phòng 8 tiếng, giờ giấc cố định thì nghề này không dành cho bạn.
 
 **Lợi thế của dân IT**
 
@@ -246,7 +267,7 @@ Một điều cần nhớ: tự mở dịch vụ riêng thì phải làm thủ t
 
 **Career path**
 
-0-3 tháng đầu, bạn học và làm phụ theo kỹ thuật viên chính, lương khởi điểm từ 10 triệu một tháng. 3-6 tháng thì làm chính theo lịch công ty, lương khoảng 13-15 triệu. 6-12 tháng, lên tay nghề, xử lý được cả mối, nhận job độc lập, thu nhập thêm thưởng dịch vụ theo tháng. Sau 1-2 năm, có người lên giám sát, có người nhận khách riêng, rồi dạy lại cho thợ mới. Mấy mốc này là ước lượng thôi, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+0-3 tháng đầu, bạn học và làm phụ theo kỹ thuật viên chính, lương khởi điểm từ 10 triệu một tháng. 3-6 tháng thì làm chính theo lịch công ty, lương theo tin còn mở cao nhất là Rentokil 14 triệu cộng phụ cấp và thưởng dịch vụ — vị trí này không yêu cầu kinh nghiệm, nhưng ghi rõ đây là 1 tin riêng, không phải mốc lương chung. 6-12 tháng, lên tay nghề, xử lý được cả mối, nhận job độc lập, thu nhập thêm thưởng dịch vụ theo tháng. Sau 1-2 năm, có người lên giám sát, có người nhận khách riêng, rồi dạy lại cho thợ mới. Mấy mốc này là ước lượng thôi, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 **Tìm việc, tìm khách đầu tiên ở đâu**
 
@@ -254,7 +275,7 @@ Nộp vào Rentokil hoặc Sanitec trên TopCV: ngày 23/11/2026 mình đếm th
 
 **Lương bao nhiêu**
 
-Mình nói bằng tin tuyển thật, tra ngày 23/11/2026. Mới vào, chưa có kinh nghiệm, được đào tạo từ đầu: lương khởi điểm từ 10 triệu một tháng, theo tin tuyển của Sanitec ở cả Hà Nội và TP.HCM. Một công ty khác ở TP.HCM tuyển kỹ thuật viên diệt côn trùng, diệt chuột làm việc tại siêu thị, nhà máy, lương 8-12 triệu một tháng. Thợ kỹ thuật viên đã biết việc: Rentokil ghi lương 14 triệu một tháng cộng phụ cấp và thưởng dịch vụ, vị trí này không yêu cầu kinh nghiệm. Có tin ở Hà Nội ghi thu nhập 13-15 triệu, tăng ca có thể 18-19 triệu, nhưng tin này đã hết hạn, mình chỉ nhắc để bạn đối chiếu. Giám sát diệt côn trùng ở khách sạn: 8-15 triệu cộng phụ cấp 2,4 triệu một tháng, theo tin tuyển của Six Senses Côn Đảo trên VietnamWorks, yêu cầu ít nhất 1 năm kinh nghiệm.
+Mình nói bằng tin tuyển thật, tra ngày 23/11/2026. Mới vào, chưa có kinh nghiệm, được đào tạo từ đầu: lương khởi điểm từ 10 triệu một tháng, theo tin tuyển của Sanitec ở cả Hà Nội và TP.HCM. Một công ty khác ở TP.HCM tuyển kỹ thuật viên diệt côn trùng, diệt chuột làm việc tại siêu thị, nhà máy, lương 8-12 triệu một tháng. Thợ kỹ thuật viên đã biết việc: Rentokil ghi lương 14 triệu một tháng cộng phụ cấp và thưởng dịch vụ, vị trí này không yêu cầu kinh nghiệm. Lưu ý: 14 triệu cho vị trí không yêu cầu kinh nghiệm cao hơn cả vị trí giám sát ở khách sạn (8-15 triệu cộng phụ cấp 2,4 triệu, cần ít nhất 1 năm kinh nghiệm) — các mức này tới từ công ty khác nhau, không phải thang lương thăng tiến thẳng. Có tin ở Hà Nội ghi thu nhập 13-15 triệu, tăng ca có thể 18-19 triệu, nhưng tin này đã hết hạn, mình chỉ nhắc để bạn đối chiếu. Giám sát diệt côn trùng ở khách sạn: 8-15 triệu cộng phụ cấp 2,4 triệu một tháng, theo tin tuyển của Six Senses Côn Đảo trên VietnamWorks, yêu cầu ít nhất 1 năm kinh nghiệm.
 
 Còn giá dịch vụ, để bạn hiểu 1 job bán được bao nhiêu: phun muỗi nhà dưới 100 mét vuông, trọn gói 550.000 đồng một lần, theo bảng giá công khai của PCS Việt Nam và Diệt mối Trần Long. Diệt mối nhà đến 100 mét vuông, trọn gói 900.000 đến 1.200.000 đồng một đợt, theo bảng giá của Khử Trùng Toàn Cầu, gồm khảo sát, đặt trạm nhử, nghiệm thu sau 7-14 ngày, bảo hành 6 tháng. Nhớ là đây là giá bán của công ty, chưa trừ thuốc, xăng xe, nhân công. Thợ làm thuê không nhận trọn số này, thợ nhận lương tháng cộng phụ cấp và thưởng.
 
@@ -268,7 +289,7 @@ Còn số Mỹ để so sánh, không phải thu nhập Việt Nam: BLS, tháng 
 
 **Rủi ro thật**
 
-Hóa chất độc hại là rủi ro lớn nhất. Thuốc diệt côn trùng là hóa chất độc, tiếp xúc hàng ngày qua da, qua đường thở. Pha sai liều, không đeo đồ bảo hộ, phun trong phòng kín không thông gió đều có thể gây ngộ độc. Phải học an toàn hóa chất, đọc nhãn chế phẩm và đeo đủ đồ bảo hộ trước khi đụng vào thuốc thật.
+Hóa chất độc hại là rủi ro lớn nhất. Thuốc diệt côn trùng là hóa chất độc, tiếp xúc hàng ngày qua da, qua đường thở. Pha sai liều, không đeo đồ bảo hộ, phun trong phòng kín không thông gió đều có thể gây ngộ độc. Phải học an toàn hóa chất, đọc nhãn chế phẩm và đeo đủ đồ bảo hộ trước khi đụng vào thuốc thật. Đồ bảo hộ gồm: quần áo chống thấm, mặt nạ nửa mặt có phin lọc than hoạt tính (khẩu trang vải không đủ), kính bảo hộ kín, găng tay cao su nitrile, ủng cao su cổ cao, mũ trùm đầu. Nếu ngộ độc: đưa ra khỏi khu vực nhiễm độc, cởi quần áo dính thuốc, rửa da bằng xà phòng và nhiều nước trong 10 phút, rửa mắt bằng nước sạch 5 phút, mang bao bì/nhãn thuốc tới bệnh viện ngay (nguồn: Bộ Y tế, tra 23/11/2026).
 
 Làm ca đêm và làm ngoài giờ cũng là chuyện thường, phun ở trung tâm thương mại sau khi đóng cửa. Chạy xe máy nhiều, có tin tuyển ghi rõ đi xe máy 50-90km mỗi ngày. Mùa vụ rõ rệt: mùa mưa đông việc lẻ, mùa khô ít việc lẻ hơn, thợ tự nhận khách riêng sẽ thấy rõ điều này. Nghề này làm ra tiền bằng tay, theo mùa, tiếp xúc hóa chất hàng ngày, và phải xây khách quen cùng hợp đồng định kỳ dần. Không có chuyện chắc chắn có việc hay làm giàu nhanh.
 
@@ -317,7 +338,7 @@ Mẹo này tiết kiệm cho bạn 1 chuyến đi khảo sát. Khách cũng thí
 # Bài thực hành Thứ 6 - 3 việc thật + CV trước/sau + checklist 30 ngày
 
 - Đăng: Thứ 6 12/03/2027, 12:00, Facebook (carousel / bài viết)
-- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV, Vieclamtot, trang tuyển dụng Rentokil). **Lưu ý: tin tìm thấy ngày 23/11/2026, còn ngày đăng bài là 12/03/2027 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn.**
+- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV, Vieclamtot, trang tuyển dụng Rentokil). **Lưu ý: tin tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 12/03/2027 — PHẢI tra lại sát ngày đăng. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Cách tìm tin thay thế: TopCV, Vieclamtot; từ khóa "kiểm soát côn trùng", "diệt côn trùng", "phun thuốc diệt côn trùng"; tiêu chí: còn hạn sau 12/03/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm".**
 - Giọng: nói với "bạn", không bịa số liệu
 
 
@@ -354,7 +375,7 @@ Mẹo này tiết kiệm cho bạn 1 chuyến đi khảo sát. Khách cũng thí
 - Link: https://www.vieclamtot.com/viec-lam-quan-12-tp-ho-chi-minh/135487989.htm
 - Hợp với bạn nếu: bạn đã có chút kinh nghiệm hoặc muốn làm việc tại siêu thị, nhà máy theo giờ hành chính, thứ 2 đến thứ 6.
 
-3 tin trên là tin tìm thấy ngày 23/11/2026 (việc 3 đăng ngày 21/11/2026). Ngày đăng bài là 12/03/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Ở Đà Nẵng, Rentokil có tuyển kỹ thuật viên khu vực Quảng Nam – Đà Nẵng trên trang tuyển dụng của công ty (không ghi lương công khai). Ở Cần Thơ, SGS tuyển Field Technician làm kiểm soát côn trùng khu vực Đồng bằng sông Cửu Long (không ghi lương công khai). Bạn ở Đà Nẵng hay Cần Thơ thì nộp thẳng vào Rentokil hoặc SGS, hoặc hỏi trực tiếp công ty diệt côn trùng gần nhà.
+3 tin trên là tin tìm thấy ngày 23/11/2026 (việc 3 đăng ngày 21/11/2026). **Tin tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 12/03/2027 — PHẢI tra lại sát ngày đăng.** Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Cách tìm tin thay thế: TopCV, Vieclamtot; từ khóa "kiểm soát côn trùng", "diệt côn trùng", "phun thuốc diệt côn trùng"; tiêu chí: còn hạn sau 12/03/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm", có tên công ty + lương + link. Ở Đà Nẵng, Rentokil có tuyển kỹ thuật viên khu vực Quảng Nam – Đà Nẵng trên trang tuyển dụng của công ty (không ghi lương công khai). Ở Cần Thơ, SGS tuyển Field Technician làm kiểm soát côn trùng khu vực Đồng bằng sông Cửu Long (không ghi lương công khai). Bạn ở Đà Nẵng hay Cần Thơ thì nộp thẳng vào Rentokil hoặc SGS, hoặc hỏi trực tiếp công ty diệt côn trùng gần nhà.
 
 
 ## CV mẫu: trước và sau
@@ -435,7 +456,7 @@ Mùa mưa, khoảng tháng 5 đến tháng 10 ở miền Nam, tháng 6 đến th
 
 **Thuốc diệt côn trùng có độc không, làm nghề này có hại sức khỏe không?**
 
-Có, thuốc diệt côn trùng là hóa chất độc. Đây là rủi ro thật nhất của nghề, mình nói thẳng trong bài Thứ 2. Tiếp xúc hàng ngày qua da, qua đường thở, pha sai liều hoặc không đeo đồ bảo hộ đều có thể gây ngộ độc. Vì vậy phải học an toàn hóa chất, đọc nhãn chế phẩm và đeo đủ đồ bảo hộ trước khi đụng vào thuốc thật. Công ty lớn như Rentokil cấp đồ bảo hộ theo tiêu chuẩn quốc tế và đào tạo bài bản. Sức khỏe yếu, hay dị ứng, không chịu được mùi thuốc thì nên cân nhắc kỹ trước khi vào nghề.
+Có, thuốc diệt côn trùng là hóa chất độc. Đây là rủi ro thật nhất của nghề, mình nói thẳng trong bài Thứ 2. Tiếp xúc hàng ngày qua da, qua đường thở, pha sai liều hoặc không đeo đồ bảo hộ đều có thể gây ngộ độc. Vì vậy phải học an toàn hóa chất, đọc nhãn chế phẩm và đeo đủ đồ bảo hộ trước khi đụng vào thuốc thật. Công ty lớn như Rentokil cấp đồ bảo hộ theo tiêu chuẩn quốc tế và đào tạo bài bản. Đồ bảo hộ gồm: quần áo chống thấm, mặt nạ nửa mặt có phin lọc than hoạt tính (khẩu trang vải không đủ), kính bảo hộ kín, găng tay cao su nitrile, ủng cao su cổ cao, mũ trùm đầu. Nếu ngộ độc: đưa ra khỏi khu vực nhiễm độc, cởi quần áo dính thuốc, rửa da bằng xà phòng và nhiều nước trong 10 phút, mang bao bì/nhãn thuốc tới bệnh viện ngay (nguồn: Bộ Y tế, tra 23/11/2026). Sức khỏe yếu, hay dị ứng, không chịu được mùi thuốc thì nên cân nhắc kỹ trước khi vào nghề.
 
 **Không biết gì về hóa chất, có học được không?**
 
@@ -443,7 +464,7 @@ Học được, nhưng phải học an toàn hóa chất trước khi đụng v�
 
 **Cần vốn bao nhiêu để bắt đầu?**
 
-Đi làm thuê thì vốn gần như bằng 0. Xin làm kỹ thuật viên, công ty có bình phun, có thuốc, có đồ bảo hộ, bạn chỉ cần thời gian đi học việc. Tin tuyển TopCV ngày 23/11/2026 cho thấy kỹ thuật viên không yêu cầu kinh nghiệm, lương khởi điểm từ 10 triệu một tháng. Vốn lớn chỉ cần khi bạn tự mở dịch vụ riêng sau 1-2 năm: bình phun, thuốc, xe chở đồ, và phải làm thủ tục công bố đủ điều kiện với Sở Y tế theo Nghị định 91/2016.
+Đi làm thuê thì vốn gần như bằng 0. Xin làm kỹ thuật viên, công ty có bình phun, có thuốc, có đồ bảo hộ, bạn chỉ cần thời gian đi học việc. Tin tuyển TopCV ngày 23/11/2026 cho thấy kỹ thuật viên không yêu cầu kinh nghiệm, lương khởi điểm từ 10 triệu một tháng. Vốn lớn chỉ cần khi bạn tự mở dịch vụ riêng sau 1-2 năm: bình phun, thuốc, xe chở đồ, đồ bảo hộ, và phải làm thủ tục công bố đủ điều kiện với Sở Y tế theo Nghị định 91/2016. Giá tham khảo bình phun điện 16–20 lít khoảng 810.000–1.609.000đ (điện máy Hải Anh, tra 23/11/2026); giá thuốc và đồ bảo hộ: Chưa có số liệu (xem file nghiên cứu mục 10).
 
 **Thợ diệt côn trùng có bị AI thay thế không?**
 
@@ -468,21 +489,21 @@ Còn câu hỏi nào về nghề thợ diệt côn trùng, bạn comment bên d�
 
 | Đoạn | Thời gian | Lời thoại | Chữ trên màn hình | Hình gợi ý |
 |---|---|---|---|---|
-| 01 HOOK | 0-3s | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Thợ diệt côn trùng, bạn từng nghĩ tới chưa? | "Dev bị layoff thì làm gì?" | Dev ôm thùng đồ ra khỏi văn phòng, nền navy |
-| 02 CONTEXT | 3-8s | Anh ấy theo thợ chính tới nhà khách, muỗi bay đầy nhà, gián chạy trong bếp. Thợ nhìn năm phút là biết phun đâu, bẫy đâu. | "Nhìn 5 phút là biết phun đâu, bẫy đâu" | Thợ đeo găng tay, cầm bình phun, sương thuốc phủ góc bếp, nền xanh lá |
-| 03 VALUE 1 | 8-16s | Học bao lâu thì làm được? Công ty đào tạo từ đầu, có hưởng lương, 1 tới 3 tháng là đi job được. | "1-3 tháng là đi job được" | Lịch đào tạo, bình phun, đồ bảo hộ, nền nâu |
-| 04 VALUE 2 | 16-26s | Dân IT mang sang được gì? Khách gửi ảnh côn trùng lạ, anh ấy tra AI trước, tới nơi xử lý đúng loài. Báo giá từ ảnh, nhắc khách đúng hẹn. | "Tra AI trước, tới nơi xử lý đúng loài" | Điện thoại hiện ảnh côn trùng, AI nhận diện, nền cam |
-| 05 VALUE 3 | 26-32s | Cái phải học lại, không né được: hóa chất độc. Pha sai liều, thiếu đồ bảo hộ là ngộ độc. | "Hóa chất độc: học an toàn trước" | Bình thuốc, nhãn chế phẩm, đồ bảo hộ, nền tím |
-| 06 PAYOFF + CTA | 32-45s | Bị layoff không có nghĩa là hết nghề. Bài đầy đủ ở bài ghim. Tuần sau: thợ điện dân dụng. Comment 1 nếu từng nghĩ tới, 2 nếu chưa. | "Bị layoff không có nghĩa là hết nghề" | Dev cũ giờ mặc đồ bảo hộ, đứng trước nhà khách, nền vàng |
+| 01 HOOK | 0-3s | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Thợ diệt côn trùng — nghĩ tới chưa? | "Dev bị layoff thì làm gì?" | Dev ôm thùng đồ ra khỏi văn phòng, nền navy |
+| 02 CONTEXT | 3-8s | Anh ấy theo thợ chính, muỗi bay đầy nhà, gián chạy trong bếp. Thợ khảo sát rồi mới biết phun đâu, bẫy đâu. | "Khảo sát rồi mới biết phun đâu, bẫy đâu" | Thợ đeo găng tay, cầm bình phun, sương thuốc phủ góc bếp, nền xanh lá |
+| 03 VALUE 1 | 8-16s | Học bao lâu thì làm được? Công ty đào tạo từ đầu, có hưởng lương, 1 tới 3 tháng là đi job phụ được. | "1-3 tháng là đi job được" | Lịch đào tạo, bình phun, đồ bảo hộ, nền nâu |
+| 04 VALUE 2 | 16-26s | Dân IT mang sang được gì? Khách gửi ảnh côn trùng lạ, anh ấy tra AI trước, xử lý đúng loài. Báo giá từ ảnh, nhắc khách đúng hẹn. | "Tra AI trước, tới nơi xử lý đúng loài" | Điện thoại hiện ảnh côn trùng, AI nhận diện, nền cam |
+| 05 VALUE 3 | 26-32s | Cái phải học lại: hóa chất độc. Pha sai liều, thiếu đồ bảo hộ là ngộ độc. | "Hóa chất độc: học an toàn trước" | Bình thuốc, nhãn chế phẩm, đồ bảo hộ, nền tím |
+| 06 PAYOFF + CTA | 32-45s | Bị layoff không phải hết nghề — mà là cơ hội bắt đầu một nghề mới. Bài đầy đủ ở bài ghim. Tuần sau: thợ điện dân dụng. Comment 1 nếu từng nghĩ tới, 2 nếu chưa. | "Bị layoff không phải hết nghề — mà là cơ hội bắt đầu một nghề mới" | Dev cũ giờ mặc đồ bảo hộ, đứng trước nhà khách, nền vàng |
 
 ## Tổng số từ lời thoại: 150 từ
 
-- Đoạn 01: 21 từ
-- Đoạn 02: 26 từ
-- Đoạn 03: 23 từ
-- Đoạn 04: 31 từ
-- Đoạn 05: 20 từ
-- Đoạn 06: 29 từ (tổng 150 từ, trong khung 140-150 từ)
+- Đoạn 01: 20 từ
+- Đoạn 02: 23 từ
+- Đoạn 03: 24 từ
+- Đoạn 04: 29 từ
+- Đoạn 05: 17 từ
+- Đoạn 06: 37 từ (tổng 150 từ, trong khung 140-150 từ)
 
 ## CTA
 
@@ -712,7 +733,7 @@ Comment tỉnh của bạn, mình tìm khóa học gần nhất cho bạn.
 
 ### 3 tin tuyển cần kiểm tra lại trước 12/03 (ngày đăng bài thực hành Thứ 6)
 
-- Tin tìm thấy ngày 23/11/2026, còn ngày đăng bài là 12/03/2027 — cách nhau gần 4 tháng. Trước khi đăng ngày 12/03, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn.
+- Tin tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 12/03/2027 — PHẢI tra lại sát ngày đăng. Trước khi đăng ngày 12/03, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Cách tìm tin thay thế: TopCV, Vieclamtot; từ khóa "kiểm soát côn trùng", "diệt côn trùng", "phun thuốc diệt côn trùng"; tiêu chí: còn hạn sau 12/03/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm".
 - Tin Rentokil lương 14 triệu: đã mở đọc trực tiếp trang tin ngày 23/11/2026, tin đang mở, trang không ghi hạn ứng tuyển cụ thể — kiểm tra lại trước ngày đăng.
 
 ### Các điểm chưa chốt

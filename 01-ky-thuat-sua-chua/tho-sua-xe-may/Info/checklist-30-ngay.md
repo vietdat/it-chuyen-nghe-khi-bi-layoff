@@ -2,7 +2,7 @@
 
 - Dành cho: dev vừa bị layoff, đang học nghề hoặc mới xin làm thợ phụ / học việc tại tiệm sửa xe
 - Mục tiêu 30 ngày: nắm được việc cơ bản (rửa xe, thay nhớt, vá săm, phụ sửa), có 1 tiệm làm việc cố định, biết cách báo giá và giữ khách
-- Căn cứ: khung khóa học 2–4 tháng trong pool nghiên cứu + tin tuyển Việc Làm Tốt ngày 23/11/2026 (thợ phụ 8,5–11 triệu/tháng, có tin tuyển phụ việc không yêu cầu kinh nghiệm ở Cần Thơ)
+- Căn cứ: khóa sơ cấp nghề 6 tháng (Thanh Xuân Hà Nội, 14,9 triệu; TP.HCM 7–9 tháng, 13,9 triệu) + đối chiếu Nambin (bảo dưỡng cơ bản 3–6 tháng; thợ chính 1–2 năm; mở tiệm 3–5 năm) + tin tuyển Việc Làm Tốt ngày 23/11/2026 (thợ phụ 8,5–11 triệu/tháng, có tin tuyển phụ việc không yêu cầu kinh nghiệm ở Cần Thơ)
 
 ## Tuần 1 (ngày 1–7): Học cái gốc + tìm chỗ làm
 

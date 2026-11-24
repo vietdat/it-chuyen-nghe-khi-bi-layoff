@@ -8,7 +8,7 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Ở Hà Nội, khóa sơ cấp 6 tháng gần 15 triệu. Vào Đà Nẵng, khóa trọn gói khoảng 7 đến 15 triệu. Xuống Sài Gòn, khóa 6 tháng gần 14 triệu. Học thêm xe điện thì 4 đến 6 tuần, 12 triệu, có khóa 5 ngày từ gần 5 triệu. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong là cầm đồ nghề đi làm được ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Ở Hà Nội, khóa sơ cấp 6 tháng gần 15 triệu. Vào Đà Nẵng, khóa trọn gói khoảng 7 đến 15 triệu. Xuống Sài Gòn, khóa 7 tới 9 tháng gần 14 triệu. Học thêm xe điện thì 4 đến 6 tuần, 12 triệu, có khóa 5 ngày từ gần 5 triệu. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong khóa sơ cấp mới làm được việc cơ bản thôi — làm độc lập cần 6 tới 12 tháng vừa học vừa làm thật. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 

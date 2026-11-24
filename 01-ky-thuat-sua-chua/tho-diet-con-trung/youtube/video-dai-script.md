@@ -24,7 +24,7 @@
 
 [Hình: cận cảnh tay thợ đeo găng tay, cầm bình phun, sương thuốc phủ lên góc bếp có gián chạy. Chữ trên màn hình: "Muỗi bay đầy nhà, gián chạy trong bếp: xử lý từ đâu?"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền, mà ít người nghĩ tới: thợ diệt côn trùng. Muỗi bay đầy nhà, gián chạy trong bếp, mối ăn tủ gỗ. Thợ tới nhìn năm phút rồi nói: chỗ này phun, chỗ kia đặt bẫy, tuần sau quay lại kiểm tra. Năm phút mà biết ngay phải xử lý từ đâu. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề ít người nghĩ tới, mà khách gọi là cần ngay: thợ diệt côn trùng. Học 1–3 tháng mới làm được việc cơ bản — làm độc lập thì cần 6–12 tháng. Muỗi bay đầy nhà, gián chạy trong bếp, mối ăn tủ gỗ. Thợ tới khảo sát rồi nói: chỗ này phun, chỗ kia đặt bẫy, tuần sau quay lại kiểm tra. Phải khảo sát rồi mới biết xử lý từ đâu. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30-2:00 - Nghề này là gì, 1 ngày làm việc thật
 
@@ -38,7 +38,7 @@ Cả ngày bạn chạy theo ca gọi, mỗi nhà một loài khác nhau. Có ca
 
 "Nghề này hợp với người thích làm việc ngoài trời, gặp khách trực tiếp. Mỗi ca là một nơi khác nhau, một loài khác nhau, không ngồi một chỗ cả ngày. Làm xong, khách thấy muỗi bớt hẳn, gián không còn chạy trong bếp, thấy kết quả ngay trong tuần. Hợp đồng định kỳ với nhà máy, khách sạn thì việc đều, không phải đi tìm khách từng ngày.
 
-Còn nếu bạn sợ hóa chất thì nên suy nghĩ lại. Thuốc diệt côn trùng là hóa chất độc, bạn tiếp xúc hàng ngày, phải đeo đủ đồ bảo hộ, pha đúng liều, đọc kỹ nhãn trước khi phun. Sức khỏe yếu, hay dị ứng, không chịu được mùi thuốc thì nghề này sẽ rất mệt. Làm ca đêm cũng là chuyện thường, phun ở trung tâm thương mại sau khi đóng cửa. Muốn giờ giấc cố định, ngồi văn phòng 8 tiếng thì tìm nghề khác. Nói thẳng như vậy để bạn khỏi mất thời gian học rồi mới biết mình không hợp."
+Còn nếu bạn sợ hóa chất thì nên suy nghĩ lại. Thuốc diệt côn trùng là hóa chất độc, bạn tiếp xúc hàng ngày, phải đeo đủ đồ bảo hộ (quần áo chống thấm, mặt nạ nửa mặt có phin lọc than hoạt tính, kính bảo hộ kín, găng tay cao su nitrile, ủng cao su cổ cao), pha đúng liều, đọc kỹ nhãn trước khi phun. Sức khỏe yếu, hay dị ứng, không chịu được mùi thuốc thì nghề này sẽ rất mệt. Làm ca đêm cũng là chuyện thường, phun ở trung tâm thương mại sau khi đóng cửa. Muốn giờ giấc cố định, ngồi văn phòng 8 tiếng thì tìm nghề khác. Nói thẳng như vậy để bạn khỏi mất thời gian học rồi mới biết mình không hợp."
 
 ### 3:30-5:30 - Lợi thế của dân IT
 
@@ -68,7 +68,7 @@ Một điều cần nhớ: tự mở dịch vụ riêng thì phải làm thủ t
 
 ### 7:00-8:30 - Career path + tìm việc, tìm khách ở đâu
 
-"Đường đi thường là như thế này. 0-3 tháng đầu: học và làm phụ theo kỹ thuật viên chính, lương khởi điểm từ 10 triệu một tháng. 3-6 tháng: làm chính theo lịch công ty, lương khoảng 13-15 triệu. 6-12 tháng: lên tay nghề, xử lý được cả mối, nhận job độc lập, thu nhập thêm thưởng dịch vụ theo tháng. Sau 1-2 năm: có thể lên giám sát, hoặc nhận khách riêng, rồi dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+"Đường đi thường là như thế này. 0-3 tháng đầu: học và làm phụ theo kỹ thuật viên chính, lương khởi điểm từ 10 triệu một tháng. 3-6 tháng: làm chính theo lịch công ty, lương theo tin còn mở cao nhất là Rentokil 14 triệu cộng phụ cấp và thưởng dịch vụ — vị trí này không yêu cầu kinh nghiệm, nhưng ghi rõ đây là 1 tin riêng, không phải mốc lương chung. 6-12 tháng: lên tay nghề, xử lý được cả mối, nhận job độc lập, thu nhập thêm thưởng dịch vụ theo tháng. Sau 1-2 năm: có thể lên giám sát, hoặc nhận khách riêng, rồi dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 Tìm việc đầu tiên ở đâu? Có 3 chỗ để bắt đầu. Nộp vào Rentokil hoặc Sanitec trên TopCV: ngày 23/11 mình đếm thấy có tin tuyển không yêu cầu kinh nghiệm, không yêu cầu bằng cấp, công ty đào tạo từ đầu có hưởng lương. Tìm trên Vieclamtot: ngày 23/11 mình thấy tin tuyển kỹ thuật viên diệt côn trùng, diệt chuột làm việc tại siêu thị, nhà máy, lương 8-12 triệu. Khi đã cứng tay thì đăng video và bài lên TikTok, Facebook theo quận mình làm, để khách khu vực biết bạn. Đừng nhận khách riêng khi chưa cứng tay, nhất là chưa thuộc quy trình an toàn hóa chất. Phun sai liều, khách không quay lại nữa, mà còn có thể ảnh hưởng sức khỏe của khách."
 
@@ -76,7 +76,7 @@ Tìm việc đầu tiên ở đâu? Có 3 chỗ để bắt đầu. Nộp vào R
 
 "Giờ tới phần bạn hỏi nhiều nhất: lương bao nhiêu. Mình nói bằng tin tuyển thật, tra ngày 23/11/2026.
 
-Mới vào, chưa có kinh nghiệm, được đào tạo từ đầu: lương khởi điểm từ 10 triệu một tháng, theo tin tuyển của Sanitec ở cả Hà Nội và TP.HCM. Một công ty khác ở TP.HCM tuyển kỹ thuật viên diệt côn trùng, diệt chuột làm việc tại siêu thị, nhà máy, lương 8-12 triệu một tháng. Thợ kỹ thuật viên đã biết việc: Rentokil ghi lương 14 triệu một tháng cộng phụ cấp và thưởng dịch vụ, vị trí này không yêu cầu kinh nghiệm. Có tin ở Hà Nội ghi thu nhập 13-15 triệu, tăng ca có thể 18-19 triệu, nhưng tin này đã hết hạn, mình chỉ nhắc để bạn đối chiếu. Giám sát diệt côn trùng ở khách sạn: 8-15 triệu cộng phụ cấp 2,4 triệu một tháng, theo tin tuyển của Six Senses Côn Đảo trên VietnamWorks, yêu cầu ít nhất 1 năm kinh nghiệm.
+Mới vào, chưa có kinh nghiệm, được đào tạo từ đầu: lương khởi điểm từ 10 triệu một tháng, theo tin tuyển của Sanitec ở cả Hà Nội và TP.HCM. Một công ty khác ở TP.HCM tuyển kỹ thuật viên diệt côn trùng, diệt chuột làm việc tại siêu thị, nhà máy, lương 8-12 triệu một tháng. Thợ kỹ thuật viên đã biết việc: Rentokil ghi lương 14 triệu một tháng cộng phụ cấp và thưởng dịch vụ, vị trí này không yêu cầu kinh nghiệm. Lưu ý: 14 triệu cho vị trí không yêu cầu kinh nghiệm cao hơn cả vị trí giám sát ở khách sạn (8-15 triệu cộng phụ cấp 2,4 triệu, cần ít nhất 1 năm kinh nghiệm) — các mức này tới từ công ty khác nhau, không phải thang lương thăng tiến thẳng. Có tin ở Hà Nội ghi thu nhập 13-15 triệu, tăng ca có thể 18-19 triệu, nhưng tin này đã hết hạn, mình chỉ nhắc để bạn đối chiếu. Giám sát diệt côn trùng ở khách sạn: 8-15 triệu cộng phụ cấp 2,4 triệu một tháng, theo tin tuyển của Six Senses Côn Đảo trên VietnamWorks, yêu cầu ít nhất 1 năm kinh nghiệm.
 
 Còn giá dịch vụ, để bạn hiểu 1 job bán được bao nhiêu: phun muỗi nhà dưới 100 mét vuông, trọn gói 550.000 đồng một lần, theo bảng giá công khai của PCS Việt Nam và Diệt mối Trần Long. Diệt mối nhà đến 100 mét vuông, trọn gói 900.000 đến 1.200.000 đồng một đợt, theo bảng giá của Khử Trùng Toàn Cầu, gồm khảo sát, đặt trạm nhử, nghiệm thu sau 7-14 ngày, bảo hành 6 tháng. Nhớ là đây là giá bán của công ty, chưa trừ thuốc, xăng xe, nhân công. Thợ làm thuê không nhận trọn số này, thợ nhận lương tháng cộng phụ cấp và thưởng.
 

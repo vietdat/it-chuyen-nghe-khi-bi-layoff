@@ -10,11 +10,11 @@
 
 ## Mục lục
 
-1. [Lịch tuần 17 - 7 ngày, 15 bài](#1-lịch-tuần-17--7-ngày-15-bài)
+1. [Lịch tuần 17 - 7 ngày, 15 bài](#1-lịch-tuần-17---7-ngày-15-bài)
 2. [Nghiên cứu thị trường tóm tắt](#2-nghiên-cứu-thị-trường-tóm-tắt)
-3. [YouTube - Script video dài Thứ 2](#3-youtube--script-video-dài-thứ-2)
-4. [Facebook - 6 bài](#4-facebook--6-bài)
-5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok--8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
+3. [YouTube - Script video dài Thứ 2](#3-youtube---script-video-dài-thứ-2)
+4. [Facebook - 6 bài](#4-facebook---6-bài)
+5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok---8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
 6. [Checklist 30 ngày đầu](#6-checklist-30-ngày-đầu)
 7. [Lưu ý trước khi đăng](#7-lưu-ý-trước-khi-đăng)
 
@@ -46,7 +46,12 @@ Tóm tắt từ `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026). Bản đ
 
 ### Nhu cầu tuyển (đếm ngày 23/11/2026 - chỉ đúng ở thời điểm đếm)
 
-- TopCV tìm thấy 8 tin thợ điện nước đang mở; VietnamWorks tìm thấy 4 tin nhưng toàn là kỹ sư/giám sát thiết kế cấp thoát nước (cần bằng đại học + 2–5 năm kinh nghiệm), không có tin thợ dân dụng tay nghề. Vieclamtot + Careerlink có thêm 3 tin (sửa đường ống riêng 15–20 triệu, kỹ thuật cấp thoát nước 10–15 triệu, kỹ thuật viên điện nước Đà Nẵng 7–15 triệu).
+- TopCV tìm thấy 8 tin thợ điện nước, nhưng 2 tin đã hết hạn (An Nhơn, Anmes) — thực chất chỉ còn **6 tin dùng được**; VietnamWorks tìm thấy 4 tin nhưng toàn là kỹ sư/giám sát thiết kế cấp thoát nước (cần bằng đại học + 2–5 năm kinh nghiệm), không có tin thợ dân dụng tay nghề. Vieclamtot + Careerlink có thêm 3 tin (sửa đường ống riêng 15–20 triệu, kỹ thuật cấp thoát nước 10–15 triệu, kỹ thuật viên điện nước Đà Nẵng 7–15 triệu).
+
+### Tin tuyển — PHẢI tra lại sát ngày đăng (đăng 26/03/2027)
+
+- **Cảnh báo hết hạn:** 3 tin thực hành trong tuần này (Đông Vinh 10–18tr; Alpha Plus 9–11tr; Đức Lộc 15–20tr) đều tra ngày **23/11/2026**, còn ngày đăng bài là **26/03/2027** — cách nhau 4 tháng. **Gần như chắc chắn các tin này đã hết hạn trước ngày đăng — PHẢI tra lại sát ngày đăng, không đăng tin hết hạn.**
+- **Cách tìm tin thay thế sát ngày đăng (làm trước 26/03/2027):** (1) Mở TopCV, tìm từ khóa "thợ điện nước", "thợ sửa ống nước", "thợ ống nước", "công nhân sửa chữa đường ống" — lọc tin còn hạn sau 26/03/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm", ghi lương rõ. (2) Mở Vieclamtot, tìm "thợ điện nước" / "sửa chữa đường ống" theo khu vực TP.HCM / Hà Nội / Đà Nẵng. (3) Mở Sàn Việc làm Đà Nẵng (vieclamdanang.edu.vn) và Sàn Việc làm Cần Thơ (sanvieclamcantho.com) cho 2 thành phố này. (4) Hỏi trực tiếp cửa hàng điện nước / đội thợ điện nước gần nhà — nhiều đội tuyển thợ phụ qua hỏi trực tiếp, không đăng sàn. (5) Tiêu chí tin thay thế: còn hạn sau ngày đăng, ghi lương, ghi yêu cầu kinh nghiệm rõ ràng; tin nào gộp điện + nước thì ghi rõ phần điện, phần nước trong mô tả.
 - Cửa vào nhanh nhất cho người mới: vị trí không yêu cầu kinh nghiệm (Đông Vinh 10–18 triệu, Alpha Plus 9–11 triệu, HVC 14–25 triệu, Đức Lộc 15–20 triệu).
 - Khác với thợ điều hòa, nghề này không có mùa vụ rõ rệt: ống vỡ, rò rỉ, tắc cống xảy ra quanh năm.
 - Facebook, Google Maps, TikTok: chưa đếm được, cần đếm thủ công (xem file nghiên cứu).
@@ -83,6 +88,46 @@ Tóm tắt từ `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026). Bản đ
 - Nước bẩn và không gian chật: thông tắc chạm vào nước thải, bùn, dầu mỡ; làm trong gầm bếp, hố ga, trần nhà chật.
 - Gọi gấp, làm ngoài giờ: ống vỡ lúc nửa đêm, nhà ngập nước thì khách gọi ngay.
 - Làm sai thì hậu quả thấy ngay: siết ống không chặt thì rò rỉ lại sau vài ngày, khách gọi lại và mất uy tín.
+- An toàn điện — nghề thực tế là điện + nước: tin tuyển gần như luôn gộp "thợ điện nước", rất ít tin chỉ tuyển riêng thợ nước. Làm việc với nước mà gần dây điện, máy bơm, bình nóng lạnh thì nguy cơ điện giật cao: nước dẫn điện, tay ướt chạm vào dây hở là giật. Quy tắc: cắt điện khu vực làm việc trước khi đụng vào ống gần thiết bị điện; đo điện còn hay hết bằng bút thử điện / đồng hồ vạn năng trước khi chạm tay; không dùng máy khoan, máy cắt điện khi sàn ướt, tay ướt. Hóa chất thông tắc: bột / nước thông cống chứa kiềm hoặc acid mạnh — bỏng da, hỏng mắt nếu bắn vào; không trộn hóa chất thông cống với chất tẩy khác (có thể sinh khí độc); ưu tiên thông cơ học (dây lò xo, áp suất) trước khi dùng hóa chất. Bệnh từ nước thải: nước thải chứa vi khuẩn, virus có thể gây bệnh đường ruột, viêm gan; cống thoát nước chứa khí độc (metan, hydro sunfua, cacbon đioxit, amoniac) và có thể thiếu oxy — không chui một mình vào hố ga / cống sâu; rửa tay, sát trùng vết thương hở ngay sau khi chạm vào nước thải. Đồ bảo hộ: găng tay chống hóa chất / chống cắt, kính bảo hộ, ủng chống nước, khẩu trang hoặc thiết bị bảo vệ hô hấp khi làm hố ga / cống, quần áo bảo hộ (nguồn: laodongcongdoan.vn, hsestudyguide.com, tra cứu 23/11/2026).
+
+### Lộ trình học theo tuần/tháng (mục 9 — tóm tắt, đầy đủ trong file nghiên cứu mục 6)
+
+- **Tuần đầu:** học an toàn điện (cắt điện khu vực làm việc trước khi đụng vào ống gần thiết bị điện) và an toàn với nước thải / hóa chất thông tắc; xem lại các loại ống (đồng, PVC, PPR), nối ống, van khóa; liệt kê 5 đội thợ điện nước gần nhà; đi xin làm thợ phụ ở 2–3 chỗ, hỏi rõ lương theo tháng hay công theo ngày và ai kèm mình.
+- **Tháng đầu:** đi theo thợ chính, chỉ làm việc phụ (phụ lắp đặt, phụ thông tắc, đưa đồ nghề, giữ ống); tự làm 1 việc đơn giản có người kèm (thay vòi, siết lại khớp nối rò rỉ); ghi sổ 10 lỗi hay gặp.
+- **Tháng 2:** học bảng giá của đội, tập báo giá từ ảnh khách gửi, làm file nhắc khách kiểm tra định kỳ.
+- **Tháng 3:** tự sửa rò rỉ, lắp bồn cầu, thông tắc cống có người kiểm tra lại; hỏi thợ chính cần thêm kỹ năng gì để lên nấc tiếp theo.
+- Mốc thống nhất (ước lượng, chưa kiểm chứng với trường): học tập trung 3–6 tháng làm được việc phụ / việc đơn giản; làm chính việc dân dụng thường gặp sau 3–6 tháng; nhận job độc lập sau 6–12 tháng; hệ thống nhà mới sau 1–2 năm.
+
+### Thử nghề (mục 10 — tóm tắt, đầy đủ trong file nghiên cứu mục 7)
+
+- **Theo thợ 1 ngày:** xin đi theo 1 thợ chính / đội thợ điện nước gần nhà 1 ngày để xem công việc thật. Chi phí: 0 đồng.
+- **Xin làm phụ thử 1–2 tuần trước khi đóng học phí:** xin làm thợ phụ thử trước khi đóng học phí khóa học — xem mình có chịu được bẩn, mùi nước thải, khuân vác ống, làm trong môi trường ẩm ướt, làm tối, làm cuối tuần không. Nhiều đội nhận thợ phụ không yêu cầu kinh nghiệm, lương 9–11 triệu/tháng. **Đây là bước bắt buộc trước khi đóng học phí** — đừng đóng học phí rồi mới phát hiện mình không chịu được mùi cống.
+- **Học thử:** Chưa có số liệu về khóa nào cho học thử miễn phí — đã tra các trang trung tâm ngày 23/11/2026, không nơi nào ghi "học thử miễn phí".
+- **Làm thử quy mô nhỏ:** sau 1 tháng làm phụ, tự làm 1 job nhỏ trọn vẹn có thợ chính kiểm tra lại.
+- **Tiêu chí dừng/tiếp — đánh giá sau 2 tuần làm phụ và sau 1 tháng:** tiếp tục nếu chịu được bẩn, mùi nước thải, khuân vác ống và tự sửa được 1 rò rỉ đơn giản, thông được 1 cống có người kèm; dừng lại nếu không chịu được mùi cống / nước thải tới mức không dám chạm vào ống sau khi đã đeo đồ bảo hộ, hoặc sợ điện tới mức không dám làm việc gần thiết bị điện sau khi đã học an toàn điện, hoặc chi phí học + đồ nghề vượt quá tiền dự phòng của bạn.
+
+### Chi phí khởi điểm (tóm tắt, đầy đủ trong file nghiên cứu mục 10)
+
+- **A. Dụng cụ / thiết bị:** tổng mức thấp nhất 3.510.000đ (dây thông cống lò xo 5m 190.000đ, dây lò xo 3A phi 16 5m 450.000đ, trọn bộ dụng cụ thông tắc 3A 5m 870.000đ, dụng cụ áp suất Viisco 350.000đ, dây gắp rác 150.000đ, máy khoan Total TRHLI1601 1,5 triệu thân máy chưa pin sạc). Máy thông lò xo GQ150 7,8 triệu mua sau khi đã làm chính. Đồ bảo hộ và bảo hiểm trách nhiệm: Chưa có số liệu.
+- **B. Học phí:** Seoul Academy 10–17 triệu (tham khảo, chưa kiểm chứng trực tiếp — gọi hỏi lại trước khi đóng tiền). Các trường dạy nghề khác: Chưa có số liệu.
+- **C. Dự phòng 2 tháng đầu:** Chưa có số liệu.
+- **D. Tổng cộng (A + B, chưa tính C):** 13.510.000đ cho nấc Seoul Academy mức thấp (3,51 triệu đồ nghề + 10 triệu học phí). Nấc rẻ nhất (tự học việc 0đ + đồ nghề mức thấp, chỉ mua 1 loại dây lò xo): 3.060.000đ. Nấc Seoul Academy mức cao (17tr): 20.510.000đ.
+
+### Kết luận (mục 11 — tóm tắt, đầy đủ trong file nghiên cứu mục 8)
+
+- **Ưu điểm:** cửa vào có thật (tin ghi không yêu cầu kinh nghiệm, lương thợ phụ 9–11 triệu); việc quanh năm, ít theo mùa rõ rệt; tay nghề thấy kết quả ngay trong ngày; lợi thế IT thật (tìm khách bằng quảng cáo online, tính giá theo ca, nhắc khách kiểm tra định kỳ).
+- **Nhược điểm:** nghề thực tế là điện + nước — thợ chỉ biết nước mà không biết điện sẽ hẹp cửa hơn người biết cả hai; bẩn, mùi nước thải, nguy cơ bệnh từ nước thải và khí độc trong cống; nhận job độc lập cần 6–12 tháng, thợ chính cần 1–2 năm — không có đường tắt; lỗi nằm trong tường nhà khách — làm ẩu 1 nhà là mất cả khu phố; làm thuê vẫn có thể bị layoff.
+- **Ai nên thử:** người thích sửa chữa bằng tay, không ngại bẩn; chấp nhận thu nhập tháng đầu chỉ 9–11 triệu; có ít vốn (đi làm thuê thì vốn gần như bằng 0); muốn làm tự do sau 1–2 năm.
+- **Ai không nên thử:** người sợ bẩn, sợ mùi nước thải; sợ điện; muốn giờ giấc cố định, ngồi văn phòng; cần thu nhập ổn định ngay tháng đầu; không đủ tiền dự phòng cho 2 tháng đầu ít việc.
+- **Chứng chỉ sơ cấp có bắt buộc không:** không tìm thấy quy định bắt buộc chứng chỉ hay giấy phép hành nghề cho thợ tự nhận việc sửa ống nước nhà ở (đã tra cứu công khai ngày 23/11/2026). Chứng chỉ sơ cấp nghề là giấy tờ giúp xin việc ở công ty/đội thi công và tạo niềm tin với khách, không phải giấy phép hành nghề.
+
+### Thủ tục mở tiệm (mục 9 file nghiên cứu)
+
+- Chỉ cần khi mở đội riêng / nhận khách riêng sau 1–2 năm. Đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã (hoặc online bằng VNeID mức 2), giải quyết 03 ngày làm việc, lệ phí 0 đồng online / 100.000đ một lần nộp trực tiếp (mức này có thể khác theo địa phương); doanh thu từ 1 tỷ đồng một năm trở xuống không phải nộp thuế GTGT, thuế TNCN (Nghị định 141/2026/NĐ-CP, hiệu lực từ 01/01/2026).
+
+### Nguồn tham khảo (mục 12)
+
+- Bản đầy đủ có link + ngày truy cập + loại nguồn + độ tin cậy trong `Info/nghien-cuu-thi-truong.md` mục 11: tin tuyển TopCV (Đông Vinh, Alpha Plus, Đức Lộc, HVC), giá dụng cụ (alothongtac.com, thongcaucongdanang.vn), an toàn (laodongcongdoan.vn, hsestudyguide.com, Nghị định 44/2016), pháp lý đăng ký hộ kinh doanh (Nghị định 168/2025/NĐ-CP).
 
 
 ## 3. YouTube - Script video dài Thứ 2
@@ -114,7 +159,7 @@ Tóm tắt từ `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026). Bản đ
 
 [Hình: cận cảnh vòi nước rỉ từng giọt xuống chậu, sàn nhà ướt một vũng. Chữ trên màn hình: "2 giờ sáng, ống nước vỡ: ai tới sửa?"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: thợ ống nước. 2 giờ sáng, ống nước vỡ, nước tràn ra sàn nhà. Chủ nhà gọi thợ, thợ tới khóa nước tổng, thay đoạn ống vỡ, nước ngừng chảy. Nửa đêm mà vẫn có người gọi thợ. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm được việc cơ bản, nhận job độc lập cần 6–12 tháng: thợ ống nước. 2 giờ sáng, ống nước vỡ, nước tràn ra sàn nhà. Chủ nhà gọi thợ, thợ tới khóa nước tổng, thay đoạn ống vỡ, nước ngừng chảy. Nửa đêm mà vẫn có người gọi thợ. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30-2:00 - Nghề này là gì, 1 ngày làm việc thật
 
@@ -128,7 +173,7 @@ Cả ngày bạn chạy theo ca gọi. Mỗi nhà một việc khác nhau, và k
 
 "Nghề này hợp với người thích làm bằng tay. Vòi hết rỉ, cống hết tắc, bồn cầu xả mạnh lại, thấy kết quả ngay trong ngày. Gặp khách trực tiếp, nói chuyện với chủ nhà cũng là một phần việc. Giờ giấc thì thất thường, khách gọi gấp là đi, cuối tuần vẫn có việc.
 
-Còn nếu bạn ngại bẩn thì suy nghĩ lại. Thông tắc là việc chạm vào nước thải, bùn, dầu mỡ. Làm trong gầm bếp, hố ga, trần nhà chật, phải cúi, quỳ, nằm dưới sàn. Không chịu được mùi, sợ không gian hẹp, thì nghề này sẽ rất mệt. Muốn ngồi văn phòng 8 tiếng, giờ giấc cố định thì tìm nghề khác. Nói thẳng như vậy để bạn khỏi mất thời gian học rồi mới biết mình không hợp."
+Còn nếu bạn ngại bẩn thì suy nghĩ lại. Thông tắc là việc chạm vào nước thải, bùn, dầu mỡ. Làm trong gầm bếp, hố ga, trần nhà chật, phải cúi, quỳ, nằm dưới sàn. Không chịu được mùi, sợ không gian hẹp, thì nghề này sẽ rất mệt. Và một phần nhiều người mới bỏ qua: an toàn điện — nghề thực tế là điện + nước, tin tuyển gần như luôn gộp "thợ điện nước". Làm việc với nước gần dây điện, máy bơm, bình nóng lạnh thì nguy cơ điện giật cao: cắt điện khu vực làm việc trước khi đụng vào ống gần thiết bị điện, đo điện còn hay hết trước khi chạm tay. Hóa chất thông tắc chứa kiềm hoặc acid mạnh — bỏng da, hỏng mắt nếu bắn vào; không trộn với chất tẩy khác vì có thể sinh khí độc; ưu tiên thông cơ học (dây lò xo, áp suất) trước. Nước thải chứa vi khuẩn, virus có thể gây bệnh; cống thoát nước chứa khí độc và có thể thiếu oxy — không chui một mình vào hố ga / cống sâu. Đồ bảo hộ: găng tay chống hóa chất / chống cắt, kính bảo hộ, ủng chống nước, khẩu trang phòng độc khi làm hố ga. Muốn ngồi văn phòng 8 tiếng, giờ giấc cố định thì tìm nghề khác. Nói thẳng như vậy để bạn khỏi mất thời gian học rồi mới biết mình không hợp."
 
 ### 3:30-5:30 - Lợi thế của dân IT
 
@@ -146,7 +191,7 @@ Còn bảng tính chi phí từng job. Bạn biết mỗi job lãi bao nhiêu sa
 
 "Học nghề này có 3 nấc, mỗi nấc một kiểu làm việc khác nhau.
 
-Nấc đầu là làm được việc cơ bản: sửa rò rỉ nhẹ, thông tắc đơn giản, phụ lắp đặt. Học tập trung thì khoảng vài tháng, theo ước lượng trong pool nghiên cứu là 6–12 tháng để làm được việc. Bạn học hệ thống nước trong nhà trước, rồi học cách khóa nước tổng, rồi mới đụng vào ống thật.
+Nấc đầu là làm được việc cơ bản: sửa rò rỉ nhẹ, thông tắc đơn giản, phụ lắp đặt. Học tập trung 3–6 tháng thì làm được việc phụ và việc đơn giản — pool nghiên cứu ước lượng 6–12 tháng để làm được việc, cả hai đều là ước lượng, chưa kiểm chứng với trường. Bạn học hệ thống nước trong nhà trước, rồi học cách khóa nước tổng, rồi mới đụng vào ống thật.
 
 Lên nấc hai, bạn làm độc lập: tự lắp thiết bị vệ sinh, tự xử lý tắc nặng, không cần người kèm. Mốc này thường mất 6–12 tháng, vừa học vừa đi làm thật.
 
@@ -156,7 +201,7 @@ Còn học ở đâu thì có 3 đường đi. Nhanh nhất là xin làm thợ p
 
 ### 7:00-8:30 - Career path + tìm việc, tìm khách ở đâu
 
-"Đường đi thường là như thế này. 0–3 tháng đầu: học + làm phụ, nhận việc nhỏ, lương vị trí không yêu cầu kinh nghiệm khoảng 9–11 triệu một tháng. 3–6 tháng: làm chính, có khách quen, lương thợ điện nước khoảng 10–15 triệu. 6–12 tháng: lên tay nghề, nhận job độc lập, thu nhập thêm hoa hồng theo job. Sau 1–2 năm: có thể nhận khách riêng hoặc mở tiệm nhỏ, rồi dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+"Đường đi thường là như thế này. 0–3 tháng đầu: học + làm phụ, nhận việc nhỏ, lương vị trí không yêu cầu kinh nghiệm khoảng 9–11 triệu một tháng. 3–6 tháng: làm chính những việc dân dụng thường gặp, có người kiểm tra lại, lương thợ điện nước khoảng 10–15 triệu. 6–12 tháng: nhận job độc lập không cần kèm, thu nhập thêm hoa hồng theo job. Sau 1–2 năm: có thể nhận khách riêng hoặc mở tiệm nhỏ, rồi dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 Tìm việc đầu tiên ở đâu? Có 3 chỗ để bắt đầu. Xin làm thợ phụ cho đội thợ hoặc cửa hàng điện nước gần nhà, tìm trên Google Maps và Group cư dân khu vực. Nộp đơn lên TopCV: ngày 23/11 mình đếm thấy có tin tuyển thợ điện nước không yêu cầu kinh nghiệm, vừa làm vừa học vẫn có lương. Khi đã cứng tay thì đăng video và bài lên TikTok, Facebook theo quận mình làm, để khách khu vực biết bạn. Đừng nhận khách riêng khi chưa cứng tay. Làm sai 1 job, khách không quay lại nữa."
 
@@ -168,7 +213,7 @@ Mới vào nghề, không yêu cầu kinh nghiệm: 9–11 triệu một tháng.
 
 Còn kỹ sư cấp thoát nước thì khác: 18–26 triệu một tháng, có tin ghi 20–40 triệu, nhưng cần bằng đại học và kinh nghiệm 2–5 năm, khác hẳn thợ dân dụng.
 
-Về nhu cầu: ngày 23/11 mình đếm thấy TopCV có 8 tin đang tuyển thợ điện nước, VietnamWorks có 4 tin nhưng nghiêng về kỹ sư. Vieclamtot và Careerlink có thêm tin sửa đường ống riêng. Nhu cầu có thật, và khác với thợ điều hòa, nghề này không có mùa vụ rõ rệt: ống vỡ, rò rỉ, tắc cống xảy ra quanh năm.
+Về nhu cầu: ngày 23/11 mình đếm thấy TopCV tìm thấy 8 tin thợ điện nước, nhưng 2 tin đã hết hạn (An Nhơn, Anmes) — thực chất chỉ còn 6 tin dùng được, VietnamWorks có 4 tin nhưng nghiêng về kỹ sư. Vieclamtot và Careerlink có thêm tin sửa đường ống riêng. Nhu cầu có thật, và khác với thợ điều hòa, nghề này không có mùa vụ rõ rệt: ống vỡ, rò rỉ, tắc cống xảy ra quanh năm.
 
 Về nhu cầu theo thành phố, tra ngày 23/11: Hà Nội và TP.HCM tuyển nhiều nhất. Hà Nội có cả tin thợ dân dụng 10–18 triệu lẫn tin kỹ sư 18–40 triệu, nhưng kỹ sư thì cần bằng cấp. TP.HCM có tin sửa ống riêng hiếm hoi, 15–20 triệu, không yêu cầu kinh nghiệm. Đà Nẵng tuyển đều qua sàn địa phương và Vieclamtot, lương phổ biến 7–15 triệu, có tin đến 20 triệu. Cần Thơ thì ngày 23/11 mình không tìm thấy tin thợ ống nước dân dụng nào trên TopCV, VietnamWorks hay sàn địa phương. Bạn ở Cần Thơ thì hỏi trực tiếp cửa hàng gần nhà sẽ nhanh hơn nộp đơn online.
 
@@ -180,7 +225,7 @@ Còn số Mỹ để so sánh: BLS tháng 5/2024, thợ ống nước median 62.
 
 "Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới.
 
-Học hệ thống nước trong nhà và cách khóa nước tổng trước khi đụng vào ống thật. Liệt kê 5 cửa hàng hoặc đội thợ điện nước gần nhà. Đi xin làm thợ phụ hoặc học việc ở 2–3 chỗ, hỏi rõ phụ cấp và ai kèm mình. Mua đồ nghề cơ bản, nhưng hỏi trước xem cửa hàng có cấp không. Và bắt đầu ghi sổ lỗi: mỗi lỗi gặp trong ngày ghi lại 1 dòng và cách xử lý.
+Học hệ thống nước trong nhà và cách khóa nước tổng trước khi đụng vào ống thật — và học an toàn điện trước khi đụng vào ống gần thiết bị điện. Liệt kê 5 cửa hàng hoặc đội thợ điện nước gần nhà. Đi xin làm thợ phụ thử 1–2 tuần ở 2–3 chỗ trước khi đóng học phí, hỏi rõ phụ cấp và ai kèm mình, xem mình có chịu được bẩn, mùi nước thải, khuân vác ống không. Mua đồ nghề cơ bản, nhưng hỏi trước xem cửa hàng có cấp không. Vốn khởi điểm: bộ đồ nghề tối thiểu khoảng 3,5 triệu, máy thông lò xo 7,8 triệu mua sau; học phí khóa học nghề ống nước tham khảo 10–17 triệu; dự phòng sinh hoạt 2 tháng đầu chưa có số liệu, tự tính trước khi nghỉ việc. Chỉ khi mở tiệm riêng sau 1–2 năm mới cần đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã, giải quyết 03 ngày làm việc, lệ phí 0 đồng online. Và bắt đầu ghi sổ lỗi: mỗi lỗi gặp trong ngày ghi lại 1 dòng và cách xử lý.
 
 Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau mình nói về thợ lắp điện mặt trời mái nhà. Comment nghề bạn muốn nghe, mình đọc hết."
 
@@ -195,7 +240,7 @@ Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau m
 - Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026 — kiểm tra lại hạn tin tuyển trước ngày đăng)
 - Giọng: nói với "bạn", không liệt kê Một/Hai/Ba, không bịa số liệu
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: thợ ống nước.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm được việc cơ bản, nhận job độc lập cần 6–12 tháng: thợ ống nước.
 
 2 giờ sáng, ống nước vỡ, nước tràn ra sàn nhà. Chủ nhà gọi thợ, thợ tới khóa nước tổng, thay đoạn ống vỡ, nước ngừng chảy. Nửa đêm mà vẫn có người gọi thợ. Bài này nói hết về nghề thợ ống nước: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
@@ -227,7 +272,7 @@ Còn một cái nữa: bạn tính được mỗi job lãi bao nhiêu sau khi tr
 
 Học nghề này có 3 nấc, mỗi nấc một kiểu làm việc khác nhau.
 
-Nấc đầu là làm được việc cơ bản: sửa rò rỉ nhẹ, thông tắc đơn giản, phụ lắp đặt. Học tập trung thì khoảng vài tháng, theo ước lượng trong pool nghiên cứu là 6–12 tháng để làm được việc.
+Nấc đầu là làm được việc cơ bản: sửa rò rỉ nhẹ, thông tắc đơn giản, phụ lắp đặt. Học tập trung 3–6 tháng thì làm được việc phụ và việc đơn giản — pool nghiên cứu ước lượng 6–12 tháng để làm được việc, cả hai đều là ước lượng, chưa kiểm chứng với trường.
 
 Lên nấc hai, bạn làm độc lập: tự lắp thiết bị vệ sinh, tự xử lý tắc nặng, không cần người kèm. Thường mất 6–12 tháng, vừa học vừa đi làm thật.
 
@@ -243,7 +288,7 @@ Còn học ở đâu thì có 3 đường đi.
 
 **Career path**
 
-0–3 tháng đầu, bạn học và làm phụ, lương vị trí không yêu cầu kinh nghiệm khoảng 9–11 triệu một tháng. 3–6 tháng thì làm chính, có khách quen, lương thợ điện nước khoảng 10–15 triệu. 6–12 tháng, lên tay nghề, nhận job độc lập, thu nhập thêm hoa hồng theo job. Sau 1–2 năm, có người nhận khách riêng hoặc mở tiệm nhỏ, rồi dạy lại cho thợ mới. Mấy mốc này là ước lượng thôi, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+0–3 tháng đầu, bạn học và làm phụ, lương vị trí không yêu cầu kinh nghiệm khoảng 9–11 triệu một tháng. 3–6 tháng thì làm chính những việc dân dụng thường gặp, có người kiểm tra lại, lương thợ điện nước khoảng 10–15 triệu. 6–12 tháng, nhận job độc lập không cần kèm, thu nhập thêm hoa hồng theo job. Sau 1–2 năm, có người nhận khách riêng hoặc mở tiệm nhỏ, rồi dạy lại cho thợ mới. Mấy mốc này là ước lượng thôi, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 **Tìm việc, tìm khách đầu tiên ở đâu**
 
@@ -253,7 +298,7 @@ Xin làm thợ phụ cho đội thợ hoặc cửa hàng điện nước gần n
 
 Mình nói bằng tin tuyển thật, tra ngày 23/11/2026. Mới vào nghề, không yêu cầu kinh nghiệm: 9–11 triệu một tháng. Thợ điện nước dân dụng: thu nhập trung bình 10 triệu một tháng, hoặc 12–15 triệu tùy công ty. Thợ sửa đường ống riêng, không gộp điện: 15–20 triệu một tháng, tin này không yêu cầu kinh nghiệm. Thợ công trình: 12–18 triệu một tháng, cần 1 năm kinh nghiệm. Kỹ sư cấp thoát nước thì 18–26 triệu, có tin ghi 20–40 triệu, nhưng cần bằng đại học và kinh nghiệm 2–5 năm, khác hẳn thợ dân dụng.
 
-Về nhu cầu: ngày 23/11 mình đếm thấy TopCV có 8 tin đang tuyển thợ điện nước, VietnamWorks có 4 tin nhưng nghiêng về kỹ sư. Vieclamtot và Careerlink có thêm tin sửa đường ống riêng. Nhu cầu có thật, và khác với thợ điều hòa, nghề này không có mùa vụ rõ rệt: ống vỡ, rò rỉ, tắc cống xảy ra quanh năm.
+Về nhu cầu: ngày 23/11 mình đếm thấy TopCV tìm thấy 8 tin thợ điện nước, nhưng 2 tin đã hết hạn (An Nhơn, Anmes) — thực chất chỉ còn 6 tin dùng được, VietnamWorks có 4 tin nhưng nghiêng về kỹ sư. Vieclamtot và Careerlink có thêm tin sửa đường ống riêng. Nhu cầu có thật, và khác với thợ điều hòa, nghề này không có mùa vụ rõ rệt: ống vỡ, rò rỉ, tắc cống xảy ra quanh năm.
 
 Về nhu cầu theo thành phố, tra ngày 23/11: Hà Nội và TP.HCM tuyển nhiều nhất. Hà Nội có cả tin thợ dân dụng 10–18 triệu lẫn tin kỹ sư 18–40 triệu, nhưng kỹ sư thì cần bằng cấp. TP.HCM có tin sửa ống riêng hiếm hoi, 15–20 triệu, không yêu cầu kinh nghiệm. Đà Nẵng tuyển đều qua sàn địa phương và Vieclamtot, lương phổ biến 7–15 triệu, có tin đến 20 triệu. Cần Thơ thì ngày 23/11 mình không tìm thấy tin thợ ống nước dân dụng nào trên TopCV, VietnamWorks hay sàn địa phương. Bạn ở Cần Thơ thì hỏi trực tiếp cửa hàng gần nhà sẽ nhanh hơn nộp đơn online.
 
@@ -263,7 +308,11 @@ Còn số Mỹ để so sánh: BLS tháng 5/2024, thợ ống nước median 62.
 
 **Rủi ro thật**
 
-Không có mùa vụ rõ rệt như thợ điều hòa, nhưng việc vẫn theo đợt, thu nhập thợ tự làm lên xuống theo tuần. Nước bẩn và không gian chật: thông tắc là việc chạm vào nước thải, bùn, dầu mỡ, làm trong gầm bếp, hố ga, trần nhà chật. Gọi gấp, làm ngoài giờ: ống vỡ lúc nửa đêm, nhà ngập nước thì khách gọi ngay, không đợi được đến sáng. Làm sai thì hậu quả thấy ngay: siết ống không chặt thì rò rỉ lại sau vài ngày, khách gọi lại và mất uy tín. Nghề này làm ra tiền bằng tay, việc đến theo từng ca gọi, và phải xây khách quen dần. Không có chuyện chắc chắn có việc hay làm giàu nhanh.
+Không có mùa vụ rõ rệt như thợ điều hòa, nhưng việc vẫn theo đợt, thu nhập thợ tự làm lên xuống theo tuần. Nước bẩn và không gian chật: thông tắc là việc chạm vào nước thải, bùn, dầu mỡ, làm trong gầm bếp, hố ga, trần nhà chật. An toàn điện — nghề thực tế là điện + nước: tin tuyển gần như luôn gộp "thợ điện nước", rất ít tin chỉ tuyển riêng thợ nước. Làm việc với nước mà gần dây điện, máy bơm, bình nóng lạnh thì nguy cơ điện giật cao: nước dẫn điện, tay ướt chạm vào dây hở là giật. Quy tắc: cắt điện khu vực làm việc trước khi đụng vào ống gần thiết bị điện; đo điện còn hay hết bằng bút thử điện / đồng hồ vạn năng trước khi chạm tay; không dùng máy khoan, máy cắt điện khi sàn ướt, tay ướt. Hóa chất thông tắc: bột / nước thông cống chứa kiềm hoặc acid mạnh — bỏng da, hỏng mắt nếu bắn vào; không trộn hóa chất thông cống với chất tẩy khác (có thể sinh khí độc); ưu tiên thông cơ học (dây lò xo, áp suất) trước khi dùng hóa chất. Bệnh từ nước thải: nước thải chứa vi khuẩn, virus có thể gây bệnh đường ruột, viêm gan; cống thoát nước chứa khí độc (metan, hydro sunfua, cacbon đioxit, amoniac) và có thể thiếu oxy — không chui một mình vào hố ga / cống sâu; rửa tay, sát trùng vết thương hở ngay sau khi chạm vào nước thải. Đồ bảo hộ: găng tay chống hóa chất / chống cắt, kính bảo hộ, ủng chống nước, khẩu trang hoặc thiết bị bảo vệ hô hấp khi làm hố ga / cống, quần áo bảo hộ (nguồn: laodongcongdoan.vn, hsestudyguide.com, tra cứu 23/11/2026). Gọi gấp, làm ngoài giờ: ống vỡ lúc nửa đêm, nhà ngập nước thì khách gọi ngay, không đợi được đến sáng. Làm sai thì hậu quả thấy ngay: siết ống không chặt thì rò rỉ lại sau vài ngày, khách gọi lại và mất uy tín. Nghề này làm ra tiền bằng tay, việc đến theo từng ca gọi, và phải xây khách quen dần. Không có chuyện chắc chắn có việc hay làm giàu nhanh.
+
+**Thử nghề, vốn và thủ tục mở tiệm (tóm tắt)**
+
+Thử trước khi đóng học phí: xin làm thợ phụ thử 1–2 tuần trước khi đóng học phí khóa học — xem mình có chịu được bẩn, mùi nước thải, khuân vác ống, làm trong môi trường ẩm ướt không. Nhiều đội nhận thợ phụ không yêu cầu kinh nghiệm, lương 9–11 triệu/tháng. Đi làm thuê thì vốn gần như bằng 0: xin làm thợ phụ, đội thợ có đồ nghề. Bộ đồ nghề tối thiểu khoảng 3,5 triệu (dây thông cống lò xo 5m 190 nghìn, trọn bộ dụng cụ thông tắc 3A 5m 870 nghìn, dụng cụ áp suất Viisco 350 nghìn, dây gắp rác 150 nghìn, máy khoan Total TRHLI1601 1,5 triệu thân máy chưa pin sạc — giá tham khảo công khai, tra ngày 23/11/2026); máy thông lò xo GQ150 7,8 triệu mua sau khi đã làm chính. Học phí khóa học nghề ống nước tham khảo 10–17 triệu (Seoul Academy, chưa kiểm chứng trực tiếp — gọi hỏi lại trước khi đóng tiền). Dự phòng sinh hoạt 2 tháng đầu: chưa có số liệu — tự tính tiền nhà + ăn uống + xăng xe thực tế của bạn trước khi nghỉ việc. Chỉ khi mở tiệm riêng sau 1–2 năm mới cần đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã (hoặc online bằng VNeID mức 2), giải quyết 03 ngày làm việc, lệ phí 0 đồng online / 100.000đ một lần nộp trực tiếp (mức này có thể khác theo địa phương); doanh thu từ 1 tỷ đồng một năm trở xuống không phải nộp thuế GTGT, thuế TNCN (Nghị định 141/2026/NĐ-CP, hiệu lực từ 01/01/2026). Chứng chỉ sơ cấp nghề là giấy tờ giúp xin việc ở công ty/đội thi công và tạo niềm tin với khách, không phải giấy phép hành nghề — đã tra cứu công khai ngày 23/11/2026, không tìm thấy quy định bắt buộc chứng chỉ hành nghề cho thợ ống nước tự do. Chi tiết đủ ở file nghiên cứu, mục 9 và mục 10.
 
 Lưu bài này lại, comment "Thợ ống nước" để nhận checklist 30 ngày đầu làm thợ ống nước. Tuần sau mình nói về thợ lắp điện mặt trời mái nhà.
 
@@ -347,7 +396,8 @@ Xong 1 job, bạn làm thêm 1 việc nữa: ghi ngày sửa ống nước của
 - Link: https://www.vieclamtot.com/viec-lam-quan-8-tp-ho-chi-minh/135947082.htm?_ga=2.1795156374903.484253801.1795156373&ctfp=d556b17a-09c8-4ddc-931d-b9f14290341d
 - Hợp với bạn nếu: bạn muốn làm riêng thợ nước, không gộp điện, và chịu được việc đào đất, làm ngoài công trình.
 
-3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 26/03/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV hoặc Vieclamtot, không đăng tin hết hạn. Ở Đà Nẵng, bạn tìm thêm tin Thợ Điện – Nước của Công ty CP Kỹ thuật Trung Phong (lương đến 20 triệu/tháng, không yêu cầu kinh nghiệm, 518 Văn Tiến Dũng, Hòa Xuân) trên Sàn Việc làm Đà Nẵng (vieclamdanang.edu.vn), và tin Kỹ Thuật Viên – Điện Nước của Công ty TNHH Betaplus (7–15 triệu/tháng, Thanh Khê) trên Vieclamtot. Ở Cần Thơ, ngày 23/11/2026 mình không tìm thấy tin thợ ống nước dân dụng nào trên TopCV hay VietnamWorks — bạn ở Cần Thơ thì tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com) và hỏi trực tiếp cửa hàng điện nước gần nhà.
+3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 26/03/2027 — cách ngày tìm tin 4 tháng. **Gần như chắc chắn các tin này đã hết hạn trước ngày đăng — PHẢI tra lại sát ngày đăng, không đăng tin hết hạn.**
+- Cách tìm tin thay thế sát ngày đăng (làm trước 26/03/2027): (1) Mở TopCV, tìm từ khóa "thợ điện nước", "thợ sửa ống nước", "thợ ống nước", "công nhân sửa chữa đường ống" — lọc tin còn hạn sau 26/03/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm", ghi lương rõ. (2) Mở Vieclamtot, tìm "thợ điện nước" / "sửa chữa đường ống" theo khu vực TP.HCM / Hà Nội / Đà Nẵng. (3) Mở Sàn Việc làm Đà Nẵng (vieclamdanang.edu.vn) và Sàn Việc làm Cần Thơ (sanvieclamcantho.com) cho 2 thành phố này. (4) Hỏi trực tiếp cửa hàng điện nước / đội thợ điện nước gần nhà — nhiều đội tuyển thợ phụ qua hỏi trực tiếp, không đăng sàn. (5) Tiêu chí tin thay thế: còn hạn sau ngày đăng, ghi lương, ghi yêu cầu kinh nghiệm rõ ràng; tin nào gộp điện + nước thì ghi rõ phần điện, phần nước trong mô tả. Ở Đà Nẵng, bạn tìm thêm tin Thợ Điện – Nước của Công ty CP Kỹ thuật Trung Phong (lương đến 20 triệu/tháng, không yêu cầu kinh nghiệm, 518 Văn Tiến Dũng, Hòa Xuân) trên Sàn Việc làm Đà Nẵng (vieclamdanang.edu.vn), và tin Kỹ Thuật Viên – Điện Nước của Công ty TNHH Betaplus (7–15 triệu/tháng, Thanh Khê) trên Vieclamtot. Ở Cần Thơ, ngày 23/11/2026 mình không tìm thấy tin thợ ống nước dân dụng nào trên TopCV hay VietnamWorks — bạn ở Cần Thơ thì tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com) và hỏi trực tiếp cửa hàng điện nước gần nhà.
 
 
 ## CV mẫu: trước và sau
@@ -437,6 +487,14 @@ Học được, nhưng phải học hệ thống nước trong nhà trước khi
 
 Đi làm thuê thì vốn gần như bằng 0. Xin làm thợ phụ, cửa hàng có đồ nghề, bạn chỉ cần thời gian đi học việc. Tin tuyển TopCV ngày 23/11/2026 cho thấy có vị trí không yêu cầu kinh nghiệm, lương 9–11 triệu một tháng. Học khóa sơ cấp nghề thì học phí phải gọi hỏi từng nơi, vì ngày 23/11/2026 mình tra cứu không nơi nào niêm yết học phí công khai cho khóa này. Bài tổng hợp của Seoul Academy ghi trung bình khóa điện dân dụng khoảng 10–17 triệu một khóa, đó là số tổng hợp, không phải giá niêm yết của 1 khóa cụ thể. Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1–2 năm: đồ nghề đầy đủ, máy thông tắc, xe chở đồ.
 
+**Có cần chứng chỉ sơ cấp nghề mới được làm thợ ống nước không?**
+
+Không bắt buộc. Đã tra cứu công khai ngày 23/11/2026, không tìm thấy văn bản nào quy định thợ ống nước tự do phải có chứng chỉ hành nghề mới được làm việc. Chứng chỉ sơ cấp nghề là giấy tờ giúp bạn xin việc ở công ty/đội thi công và tạo niềm tin với khách, không phải giấy phép hành nghề. Cái bắt buộc theo Nghị định 44/2016 là huấn luyện an toàn lao động nhóm 3 (24 giờ, cấp Thẻ an toàn 2 năm) — nhưng đó là yêu cầu đối với người lao động làm thuê; thợ tự làm thì không ai cấp thẻ, nhưng học đúng nội dung nhóm 3 vẫn là cách để làm việc an toàn.
+
+**Làm ống nước có nguy hiểm gì về điện và nước thải không?**
+
+Có, và đây là phần nhiều người mới bỏ qua. Nghề thực tế là điện + nước: tin tuyển gần như luôn gộp "thợ điện nước". Làm việc với nước gần dây điện, máy bơm, bình nóng lạnh thì nguy cơ điện giật cao — cắt điện khu vực làm việc trước khi đụng vào ống gần thiết bị điện, đo điện còn hay hết trước khi chạm tay. Hóa chất thông tắc chứa kiềm hoặc acid mạnh — bỏng da, hỏng mắt nếu bắn vào; không trộn với chất tẩy khác vì có thể sinh khí độc; ưu tiên thông cơ học (dây lò xo, áp suất) trước. Nước thải chứa vi khuẩn, virus có thể gây bệnh; cống thoát nước chứa khí độc (metan, hydro sunfua) và có thể thiếu oxy — không chui một mình vào hố ga / cống sâu. Đồ bảo hộ: găng tay chống hóa chất / chống cắt, kính bảo hộ, ủng chống nước, khẩu trang phòng độc khi làm hố ga.
+
 **Thợ ống nước có bị AI thay thế không?**
 
 Không. Việc này làm bằng tay tại nhà khách: cúi xuống gầm bếp, tháo bẫy mùi, siết đầu nối, thông đoạn ống tắc. AI không chui xuống gầm bếp được. Nhưng AI thay đổi cách thợ làm việc. Thợ biết dùng AI tra lỗi, báo giá từ video, nhắc khách đúng hẹn sẽ làm nhanh hơn và giữ khách tốt hơn thợ không dùng. AI không thay được đôi tay này, nó chỉ giúp thợ làm nghề tay chân tốt hơn.
@@ -452,7 +510,7 @@ Còn câu hỏi nào về nghề thợ ống nước, bạn comment bên dưới
 - Đăng: Thứ 4 24/03/2027, 20:00, TikTok / Reels / Shorts
 - Thời lượng: 40-45 giây (143 từ, theo sườn 6 đoạn trong `suon-chung-video.md`)
 - Định dạng: hoạt hình 2D phẳng, giọng Dapper Cuff tốc độ 100, dọc 1080x1920, 30fps
-- Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026) - học vài tháng làm được việc cơ bản (pool nghiên cứu ước lượng 6-12 tháng)
+- Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026) - học tập trung 3–6 tháng làm được việc phụ và việc đơn giản; nhận job độc lập sau 6–12 tháng (cả hai đều là ước lượng, chưa kiểm chứng với trường)
 - Giọng: nói với "bạn", không liệt kê Một/Hai/Ba, không bịa số liệu
 
 ## Bảng kịch bản (lời thoại | chữ trên màn hình | hình gợi ý)
@@ -648,7 +706,7 @@ Comment tỉnh của bạn, mình tìm khóa học gần nhất cho bạn.
 
 - Dành cho: dev vừa bị layoff, đang học nghề hoặc mới xin làm thợ phụ / học việc
 - Mục tiêu 30 ngày: nắm được việc cơ bản (sửa rò rỉ nhẹ, thông tắc đơn giản, phụ lắp đặt), có 1 nơi làm việc cố định (cửa hàng hoặc đội thợ), biết cách báo giá và giữ khách
-- Căn cứ: lộ trình học pool nghiên cứu (6–12 tháng để làm được việc, ước lượng) + tin tuyển TopCV ngày 23/11/2026 (có tin tuyển thợ điện nước không yêu cầu kinh nghiệm, 9–18 triệu/tháng)
+- Căn cứ: lộ trình học (ước lượng: học tập trung 3–6 tháng làm được việc phụ/việc đơn giản; làm chính việc dân dụng thường gặp sau 3–6 tháng; nhận job độc lập sau 6–12 tháng) + tin tuyển TopCV ngày 23/11/2026 (có tin tuyển thợ điện nước không yêu cầu kinh nghiệm, 9–18 triệu/tháng)
 
 ## Tuần 1 (ngày 1–7): Học cái gốc + tìm chỗ làm
 
@@ -698,7 +756,7 @@ Comment tỉnh của bạn, mình tìm khóa học gần nhất cho bạn.
 
 ### 3 tin tuyển cần kiểm tra lại trước 26/03/2027 (ngày đăng bài thực hành Thứ 6)
 
-- Số liệu tra cứu ngày 23/11/2026, cách ngày đăng 4 tháng. Kiểm tra lại cả 3 link trong `fb/bai-thuc-hanh-thu-6.md` (Đông Vinh, Alpha Plus, Đức Lộc) xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV hoặc Vieclamtot, không đăng tin hết hạn.
+- Số liệu tra cứu ngày 23/11/2026, cách ngày đăng 4 tháng. **Gần như chắc chắn cả 3 tin đã hết hạn trước ngày đăng — PHẢI tra lại sát ngày đăng.** Kiểm tra lại cả 3 link trong `fb/bai-thuc-hanh-thu-6.md` (Đông Vinh, Alpha Plus, Đức Lộc) xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV hoặc Vieclamtot, không đăng tin hết hạn. Cách tìm tin thay thế: TopCV từ khóa "thợ điện nước", "thợ sửa ống nước", "thợ ống nước", "công nhân sửa chữa đường ống", lọc còn hạn sau 26/03/2027; Vieclamtot theo khu vực; Sàn Việc làm Đà Nẵng / Cần Thơ; hỏi trực tiếp cửa hàng điện nước gần nhà.
 - 2 tin TopCV đã hết hạn ngày 23/11/2026 (An Nhơn 13–18 triệu, Anmes 10–15 triệu) đã loại khỏi bài thực hành, chỉ ghi trong file nghiên cứu để đối chiếu.
 
 ### Các điểm chưa chốt

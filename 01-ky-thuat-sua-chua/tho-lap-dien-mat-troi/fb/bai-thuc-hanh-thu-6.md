@@ -1,7 +1,7 @@
 # Bài thực hành Thứ 6 - 3 việc thật + CV trước/sau + checklist 30 ngày
 
 - Đăng: Thứ 6 02/04/2027, 12:00, Facebook (carousel / bài viết)
-- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). LƯU Ý: tuần này đăng 02/04/2027, tin tìm thấy ngày 23/11/2026 có thể đã hết hạn. Trước khi đăng, kiểm tra lại từng link xem tin còn hạn không - tin hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn.
+- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). LƯU Ý: tuần này đăng 02/04/2027. **Tin tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 02/04/2027 — PHẢI tra lại sát ngày đăng.** Kiểm chứng lại ngày 23/11/2026 (buổi trưa): cả 3 link TopCV dưới đây đều hiển thị "Hết hạn ứng tuyển" — chỉ dùng làm tham khảo lương. Trước khi đăng, thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Cách tìm tin thay thế: TopCV, VietnamWorks; từ khóa "thi công điện mặt trời", "kỹ thuật điện mặt trời", "lắp đặt điện mặt trời"; tiêu chí: còn hạn sau 02/04/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm".
 - Giọng: nói với "bạn", không bịa số liệu
 
 
@@ -9,7 +9,7 @@
 
 ### Việc 1: Nhân Viên Thi Công Điện Mặt Trời (không yêu cầu kinh nghiệm) - TP.HCM
 
-- Công ty: chưa ghi tên công ty trong kết quả tìm kiếm (xem link để biết tên nhà tuyển dụng)
+- Công ty: Công ty TNHH Đầu tư và Thương mại Năng lượng SE Solar — xác minh qua tin tuyển khác của cùng nhà tuyển dụng tại cùng địa chỉ 49/13 Hoàng Dư Khương, P. Hòa Hưng, TP.HCM ("Tuyển Thực Tập Sinh Kỹ Thuật Điện Mặt Trời (Có Lương)"); kiểm tra lại link trước ngày đăng.
 - Lương: khởi điểm 8 triệu/tháng, thưởng theo năng lực, lương tháng 13
 - Yêu cầu: không yêu cầu kinh nghiệm, trung cấp trở lên, nam. Được đào tạo chuyên môn khi trúng tuyển.
 - Công việc: khảo sát trực tiếp dự án, thi công lắp đặt thiết bị điện mặt trời; bảo trì, bảo dưỡng định kỳ, giám sát hệ thống bằng phần mềm chuyên dụng, cảnh báo và khắc phục khi có sự cố
@@ -21,7 +21,7 @@
 
 ### Việc 2: Nhân Viên Kỹ Thuật Điện Năng Lượng Mặt Trời (không yêu cầu kinh nghiệm) - TP.HCM
 
-- Công ty: chưa ghi tên công ty trong kết quả tìm kiếm (xem link để biết tên nhà tuyển dụng)
+- Công ty: Chưa có số liệu (trang TopCV tra ngày 23/11/2026 không hiện tên nhà tuyển dụng)
 - Lương: 10–15 triệu/tháng, lương tháng 13, BHXH/BHYT/BHTN theo quy định
 - Yêu cầu: không yêu cầu kinh nghiệm, trung cấp trở lên, nam, tuổi 18–40
 - Công việc: thi công lắp đặt các thiết bị điện năng lượng mặt trời, phối hợp với nhân viên kỹ thuật khác lên kế hoạch sửa chữa, bảo trì, sửa chữa thiết bị biến tần
@@ -33,7 +33,7 @@
 
 ### Việc 3: Kỹ Thuật Điện Thi Công Điện Mặt Trời (dưới 1 năm kinh nghiệm) - Hà Nội
 
-- Công ty: chưa ghi tên công ty trong kết quả tìm kiếm (xem link để biết tên nhà tuyển dụng)
+- Công ty: Chưa có số liệu (trang TopCV tra ngày 23/11/2026 không hiện tên nhà tuyển dụng)
 - Lương: 9–16 triệu/tháng (theo tay nghề + công trình + tăng ca)
 - Yêu cầu: dưới 1 năm kinh nghiệm, trung cấp trở lên, nam, tay nghề điện dân dụng hoặc công nghiệp bậc 3/7 trở lên, ưu tiên người đã từng thi công hệ thống điện mặt trời
 - Công việc: thi công đấu nối hệ thống điện năng lượng mặt trời áp mái cho hộ gia đình và dự án công nghiệp, lắp đặt và đấu nối tủ điện AC/DC, aptomat, chống sét, dây dẫn, máng cáp
@@ -42,7 +42,7 @@
 - Link: https://www.topcv.vn/viec-lam/ky-thuat-dien-thi-cong-dien-mat-troi/1982551.html
 - Hợp với bạn nếu: bạn ở Hà Nội và đã biết điện dân dụng hoặc điện công nghiệp cơ bản, muốn lương theo tay nghề và công trình.
 
-3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 02/04/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Ở Đà Nẵng còn có tin Nhân Viên Bảo Trì Điện Mặt Trời của Powertech (10–15 triệu/tháng, không yêu cầu kinh nghiệm, làm việc tại Đà Nẵng, Hà Nội và TP.HCM, 111 Trần Thúc Nhẫn, Hòa Xuân, Đà Nẵng) và tin Chuyên Viên Thiết Kế Hệ Thống NLMT (16–22 triệu, cần 2 năm kinh nghiệm, 103 Lê Sát, Hòa Cường, Đà Nẵng). Ở Cần Thơ gần như không có tin trên TopCV hay VietnamWorks. Bạn ở Cần Thơ thì tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com): Công ty TNHH KBA.2018 tuyển Kỹ Thuật Thi Công Dự Án Solar, nhận hồ sơ đến 31/12/2026; Công ty TNHH Redpower Vietnam tuyển Thực Tập Sinh Nhân Viên Kỹ Thuật thi công lắp đặt điện mặt trời, không yêu cầu kinh nghiệm, có hỗ trợ lương thực tập.
+3 tin trên là tin tìm thấy ngày 23/11/2026 — kiểm chứng lại cùng ngày (buổi trưa) thì cả 3 link đều hiển thị "Hết hạn ứng tuyển". Ngày đăng bài là 02/04/2027, nên trước khi đăng, PHẢI thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Cách tìm tin thay thế: TopCV, VietnamWorks; từ khóa "thi công điện mặt trời", "kỹ thuật điện mặt trời", "lắp đặt điện mặt trời"; tiêu chí: còn hạn sau 02/04/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm". Ở Đà Nẵng còn có tin Nhân Viên Bảo Trì Điện Mặt Trời của Powertech (10–15 triệu/tháng, không yêu cầu kinh nghiệm, làm việc tại Đà Nẵng, Hà Nội và TP.HCM, 111 Trần Thúc Nhẫn, Hòa Xuân, Đà Nẵng) và tin Chuyên Viên Thiết Kế Hệ Thống NLMT (16–22 triệu, cần 2 năm kinh nghiệm, 103 Lê Sát, Hòa Cường, Đà Nẵng) — 2 tin này cũng tra ngày 23/11/2026, kiểm tra lại hạn trước ngày đăng. Ở Cần Thơ gần như không có tin trên TopCV hay VietnamWorks. Bạn ở Cần Thơ thì tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com): Công ty TNHH KBA.2018 tuyển Kỹ Thuật Thi Công Dự Án Solar, nhận hồ sơ đến 31/12/2026 (hết hạn trước ngày đăng 02/04/2027); Công ty TNHH Redpower Vietnam tuyển Thực Tập Sinh Nhân Viên Kỹ Thuật thi công lắp đặt điện mặt trời, hạn nộp 28/11/2026 (đã hết hạn ngay sau ngày tra cứu), không yêu cầu kinh nghiệm, có hỗ trợ lương thực tập. Cả 2 tin Cần Thơ đều chỉ dùng làm tham khảo — trước ngày đăng, tìm tin thay thế trên Sàn Việc làm Cần Thơ với từ khóa "thi công solar", "điện mặt trời", tiêu chí còn hạn sau 02/04/2027.
 
 
 ## CV mẫu: trước và sau

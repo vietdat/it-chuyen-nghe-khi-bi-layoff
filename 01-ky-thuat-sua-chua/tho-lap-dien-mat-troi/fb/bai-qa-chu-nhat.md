@@ -9,7 +9,7 @@ Tuần này mình nói về nghề thợ lắp điện mặt trời mái nhà. �
 
 **Lắp điện mặt trời có cần bằng cấp không?**
 
-Đi làm thi công thì nhiều tin tuyển không yêu cầu bằng cấp cao, chỉ cần trung cấp trở lên, có tin không yêu cầu kinh nghiệm. Tin tuyển TopCV ngày 23/11/2026 cho thấy 2 tin ở TP.HCM tuyển thi công không yêu cầu kinh nghiệm, được đào tạo khi trúng tuyển. Nhưng lên vị trí kỹ sư, chuyên viên thiết kế hay giám sát thì cần bằng cao đẳng hoặc đại học ngành điện, cộng kinh nghiệm 1-3 năm. Bằng cấp không phải cửa duy nhất để vào nghề, mà là cửa để lên vị trí cao hơn.
+Đi làm thi công thì nhiều tin tuyển không yêu cầu bằng cấp cao, chỉ cần trung cấp trở lên, có tin không yêu cầu kinh nghiệm. Tin tuyển TopCV ngày 23/11/2026 cho thấy 2 tin ở TP.HCM tuyển thi công không yêu cầu kinh nghiệm, được đào tạo khi trúng tuyển. Thợ thi công lắp điện cho nhà dân cũng không cần chứng chỉ hành nghề điện riêng — sửa chữa, lắp điện nhà dân không có điều kiện riêng, chỉ cần làm đúng yêu cầu an toàn điện (theo bài phân tích mã ngành 4321, cập nhật 20/11/2026 — nguồn công ty kế toán, độ tin cậy trung bình, kiểm tra lại với cơ quan địa phương trước khi mở tiệm). Thủ tục đấu nối thì chủ nhà làm thủ tục thông báo với UBND cấp xã trước khi lắp ít nhất 10 ngày làm việc, đơn vị lắp đặt cung cấp hồ sơ kỹ thuật và biên bản nghiệm thu; thực tế nhiều công ty lắp đặt làm hồ sơ giúp khách. Nhưng lên vị trí kỹ sư, chuyên viên thiết kế hay giám sát thì cần bằng cao đẳng hoặc đại học ngành điện, cộng kinh nghiệm 1-3 năm. Bằng cấp không phải cửa duy nhất để vào nghề, mà là cửa để lên vị trí cao hơn.
 
 **Bán điện dư được bao nhiêu?**
 

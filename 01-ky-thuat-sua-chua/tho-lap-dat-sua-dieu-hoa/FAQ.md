@@ -6,7 +6,7 @@ Nghề đầu tiên trong repo: thợ điện lạnh dân dụng. Mọi con số
 
 ### Học nghề điều hòa ở đâu, học phí bao nhiêu?
 
-Có 3 đường đi. Nhanh nhất là xin làm thợ phụ hoặc học việc tại cửa hàng điện lạnh, 3 đến 12 tháng, nhiều nơi không thu học phí mà còn trả phụ cấp, học trên công trình thật. Đường thứ hai là khóa sơ cấp nghề, 3 đến 6 tháng, học phí khoảng 6 đến 10 triệu. Ví dụ ở Hà Nội: khóa tại 451 Hoàng Quốc Việt, Cầu Giấy, 6 triệu một khóa, học xong được cấp chứng chỉ sơ cấp. Trung tâm Dạy nghề Thanh Xuân ở Xa La, Hà Đông, khóa 6 tháng, trang hiện tại ghi 10 triệu một khóa, nhưng các trang khác của cùng trung tâm ghi hệ sơ cấp 14,9 triệu và trung cấp 19,9 triệu. Gọi hỏi lại trung tâm trước khi đóng tiền. Đường thứ ba là trung cấp hoặc cao đẳng ngành kỹ thuật máy lạnh, 1,5 đến 3 năm, có bằng, hợp với người trẻ muốn làm kỹ sư HVAC cho công ty.
+Có 3 đường đi. Nhanh nhất là xin làm thợ phụ hoặc học việc tại cửa hàng điện lạnh, 3 đến 12 tháng, nhiều nơi không thu học phí mà còn trả phụ cấp, học trên công trình thật. Đường thứ hai là khóa sơ cấp nghề, 3 đến 6 tháng, học phí khoảng 6 đến 10 triệu. Ví dụ ở Hà Nội: khóa tại 451 Hoàng Quốc Việt, Cầu Giấy, 6 triệu một khóa, học xong được cấp chứng chỉ sơ cấp. Trung tâm Dạy nghề Thanh Xuân ở Xa La, Hà Đông, khóa 6 tháng — **số chuẩn dùng trong bài là 10 triệu một khóa** (trang hiện tại của trung tâm đang công khai, tra cứu 23/11/2026). Nhưng các trang khác của cùng trung tâm ghi khác nhau: hệ sơ cấp 14,9 triệu và trung cấp 19,9 triệu (bài 12/2024), trang cũ ghi 12,5 triệu, trang .edu.vn cũ ghi 9,5 triệu. Cả 5 số đều ghi đủ trong file nghiên cứu (mục 2) để đối chiếu. **Gọi xác nhận lại học phí trước khi đăng và trước khi đóng tiền.** Đường thứ ba là trung cấp hoặc cao đẳng ngành kỹ thuật máy lạnh, 1,5 đến 3 năm, có bằng, hợp với người trẻ muốn làm kỹ sư HVAC cho công ty.
 
 Học phí 3 miền cũng khác nhau. Tra cứu 23/11/2026, khóa ngắn hạn dao động khoảng 6 đến 15 triệu tùy nơi và hệ đào tạo. Miền Bắc, Hà Nội: khóa sơ cấp 451 Hoàng Quốc Việt 6 triệu, Thanh Xuân 10 triệu một khóa 6 tháng. Miền Trung, Đà Nẵng: Hướng Nghiệp Á Âu, khóa Kỹ thuật viên Điện lạnh dân dụng 51 buổi, 15 triệu; Công ty Ánh Dương khoảng 10 đến 15 triệu. Miền Nam, TP.HCM: Trường Kỹ thuật JUN OPEN 5,9 triệu, 30 buổi; HPcom Việt Nam 10,3 triệu, 2 đến 4 tháng. Đà Nẵng đắt nhất trong các ví dụ tìm thấy, TP.HCM có lựa chọn rẻ nhất. Học phí trên web có thể đã cũ hoặc là giá ưu đãi có thời hạn, gọi hỏi lại 1 nơi trước khi đóng tiền.
 
@@ -52,13 +52,15 @@ Có. Lắp cục nóng ngoài ban công, trên mái, trèo thang là việc thư
 
 ### Cần vốn và đồ nghề gì để bắt đầu?
 
-Đi làm thuê thì vốn gần như bằng 0. Xin làm thợ phụ, cửa hàng có đồ nghề, bạn chỉ cần thời gian đi học việc. Học khóa sơ cấp nghề thì học phí khoảng 6 đến 10 triệu tùy nơi, khóa 3 đến 6 tháng. Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1 đến 2 năm: đồ nghề đầy đủ, thang, máy hút chân không, xe chở đồ.
+Đi làm thuê thì vốn gần như bằng 0. Xin làm thợ phụ, cửa hàng có đồ nghề, bạn chỉ cần thời gian đi học việc. Học khóa sơ cấp nghề thì học phí khoảng 6 đến 10 triệu tùy nơi, khóa 3 đến 6 tháng (Thanh Xuân: số chuẩn 10 triệu một khóa 6 tháng — xem câu học phí ở trên, gọi xác nhận lại trước khi đóng tiền).
+
+Nếu tự mua đủ đồ nghề để làm độc lập (máy hút chân không, đồng hồ sạc gas, thang nhôm, máy khoan, đồng hồ vạn năng, máy xịt rửa vệ sinh): khoảng **10.438.000đ** theo giá 1 model cụ thể tìm được công khai ngày 23/11/2026 — chưa gồm pin + sạc máy khoan, gas/ống đồng/vật tư theo job và bộ dụng cụ cầm tay (chưa có số liệu). Cộng học phí nấc chuẩn 10 triệu thì tổng khởi điểm là **20.438.000đ, chưa tính tiền dự phòng sinh hoạt 2 tháng đầu** (chưa có số liệu — xem chi tiết trong file nghiên cứu, mục 10 Chi phí khởi điểm). Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1 đến 2 năm. Mở tiệm thì đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã (phường/xã nơi đặt tiệm) hoặc nộp trực tuyến bằng VNeID, lệ phí 0 đồng khi nộp trực tuyến, giải quyết trong 03 ngày làm việc — xem chi tiết trong file nghiên cứu, mục 9.
 
 ## 4. AI và dân IT
 
 ### AI báo giá từ ảnh có thật không?
 
-Có, và đã có ví dụ thật. 11 giờ trưa, khách nhắn: máy kêu to, báo giá giúp em. Thợ dùng AI tra lỗi và báo giá trong 30 giây từ ảnh khách gửi, khách nhắn lại: ừ, qua đi. Tiết kiệm 1 chuyến chạy tới tận nơi chỉ để báo giá. Giá cuối cùng vẫn chốt sau khi thợ tới kiểm tra máy thật, AI chỉ giúp báo nhanh và đúng hướng.
+Có — đây là **ví dụ minh họa**, không phải ca thật. Tình huống minh họa: 11 giờ trưa, khách nhắn: máy kêu to, báo giá giúp em. Thợ dùng AI tra lỗi và báo giá trong 30 giây từ ảnh khách gửi, khách nhắn lại: ừ, qua đi. Tiết kiệm 1 chuyến chạy tới tận nơi chỉ để báo giá. Giá cuối cùng vẫn chốt sau khi thợ tới kiểm tra máy thật, AI chỉ giúp báo nhanh và đúng hướng. (Tình huống này lấy từ clip TikTok Tập 3 tuần 1, nhân vật "anh ấy" trong clip là nhân vật kể chuyện hư cấu — xem ghi chú ở file tổng tuần 1.)
 
 ### Dân IT có lợi thế gì so với thợ thường?
 

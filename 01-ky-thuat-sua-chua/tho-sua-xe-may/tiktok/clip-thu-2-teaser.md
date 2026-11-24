@@ -7,7 +7,7 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Sáng hôm sau, xe ga của anh ấy chết máy giữa đường, đề mãi không nổ. Anh ấy dắt xe vào tiệm gần nhà, thợ nghe tiếng đề rồi nói: hết bình, thay bình là chạy. Nghe tiếng mà biết ngay bệnh. Tháng đầu làm thợ phụ sửa xe, anh ấy được bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
+"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Sáng hôm sau, xe ga của anh ấy chết máy giữa đường, đề mãi không nổ. Anh ấy dắt xe vào tiệm gần nhà, thợ nghe tiếng đề rồi nói: hết bình, thay bình là chạy. Thợ chính nghe tiếng đề nhiều năm rồi mới đoán được. Tháng đầu làm thợ phụ sửa xe, anh ấy được bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
 
 ## Chữ trên màn hình
 

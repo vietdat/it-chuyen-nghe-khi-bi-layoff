@@ -3,7 +3,7 @@
 - Đăng: Thứ 4 24/03/2027, 20:00, TikTok / Reels / Shorts
 - Thời lượng: 40-45 giây (143 từ, theo sườn 6 đoạn trong `suon-chung-video.md`)
 - Định dạng: hoạt hình 2D phẳng, giọng Dapper Cuff tốc độ 100, dọc 1080x1920, 30fps
-- Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026) - học vài tháng làm được việc cơ bản (pool nghiên cứu ước lượng 6-12 tháng)
+- Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026) - học tập trung 3–6 tháng làm được việc phụ và việc đơn giản; nhận job độc lập sau 6–12 tháng (cả hai đều là ước lượng, chưa kiểm chứng với trường)
 - Giọng: nói với "bạn", không liệt kê Một/Hai/Ba, không bịa số liệu
 
 ## Bảng kịch bản (lời thoại | chữ trên màn hình | hình gợi ý)

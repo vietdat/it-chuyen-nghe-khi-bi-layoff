@@ -1,7 +1,7 @@
 # Bài thực hành Thứ 6 - 3 việc thật + CV trước/sau + checklist 30 ngày
 
 - Đăng: Thứ 6 12/03/2027, 12:00, Facebook (carousel / bài viết)
-- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV, Vieclamtot, trang tuyển dụng Rentokil). **Lưu ý: tin tìm thấy ngày 23/11/2026, còn ngày đăng bài là 12/03/2027 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn.**
+- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV, Vieclamtot, trang tuyển dụng Rentokil). **Lưu ý: tin tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 12/03/2027 — PHẢI tra lại sát ngày đăng. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Cách tìm tin thay thế: TopCV, Vieclamtot; từ khóa "kiểm soát côn trùng", "diệt côn trùng", "phun thuốc diệt côn trùng"; tiêu chí: còn hạn sau 12/03/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm".**
 - Giọng: nói với "bạn", không bịa số liệu
 
 
@@ -38,7 +38,7 @@
 - Link: https://www.vieclamtot.com/viec-lam-quan-12-tp-ho-chi-minh/135487989.htm
 - Hợp với bạn nếu: bạn đã có chút kinh nghiệm hoặc muốn làm việc tại siêu thị, nhà máy theo giờ hành chính, thứ 2 đến thứ 6.
 
-3 tin trên là tin tìm thấy ngày 23/11/2026 (việc 3 đăng ngày 21/11/2026). Ngày đăng bài là 12/03/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Ở Đà Nẵng, Rentokil có tuyển kỹ thuật viên khu vực Quảng Nam – Đà Nẵng trên trang tuyển dụng của công ty (không ghi lương công khai). Ở Cần Thơ, SGS tuyển Field Technician làm kiểm soát côn trùng khu vực Đồng bằng sông Cửu Long (không ghi lương công khai). Bạn ở Đà Nẵng hay Cần Thơ thì nộp thẳng vào Rentokil hoặc SGS, hoặc hỏi trực tiếp công ty diệt côn trùng gần nhà.
+3 tin trên là tin tìm thấy ngày 23/11/2026 (việc 3 đăng ngày 21/11/2026). **Tin tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 12/03/2027 — PHẢI tra lại sát ngày đăng.** Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Cách tìm tin thay thế: TopCV, Vieclamtot; từ khóa "kiểm soát côn trùng", "diệt côn trùng", "phun thuốc diệt côn trùng"; tiêu chí: còn hạn sau 12/03/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm", có tên công ty + lương + link. Ở Đà Nẵng, Rentokil có tuyển kỹ thuật viên khu vực Quảng Nam – Đà Nẵng trên trang tuyển dụng của công ty (không ghi lương công khai). Ở Cần Thơ, SGS tuyển Field Technician làm kiểm soát côn trùng khu vực Đồng bằng sông Cửu Long (không ghi lương công khai). Bạn ở Đà Nẵng hay Cần Thơ thì nộp thẳng vào Rentokil hoặc SGS, hoặc hỏi trực tiếp công ty diệt côn trùng gần nhà.
 
 
 ## CV mẫu: trước và sau

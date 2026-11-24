@@ -8,7 +8,7 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Miền Trung thì Trường Cao đẳng Nghề Ninh Thuận có khóa điện mặt trời mái nhà 80 giờ, cấp chứng chỉ. Sài Gòn thì Vũ Phong cùng Solplanet mở lớp cơ bản hằng tháng, nhận cả người chưa có kinh nghiệm. Học phí 2 nơi này chưa công khai, gọi hỏi mới biết. Còn muốn đi làm nhanh nhất, anh ấy nộp vị trí thi công không cần kinh nghiệm, công ty đào tạo khi trúng tuyển. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Miền Trung thì Trường Cao đẳng Nghề Ninh Thuận có khóa điện mặt trời mái nhà 80 giờ, cấp chứng chỉ. Sài Gòn thì Vũ Phong cùng Solplanet mở lớp cơ bản hằng tháng, nhận cả người chưa có kinh nghiệm — Lớp Cơ bản Khóa 1 đã tổ chức thành công. Học phí 2 nơi này chưa công khai, gọi hỏi mới biết. Còn muốn đi làm nhanh nhất, anh ấy nộp vị trí thi công không cần kinh nghiệm, công ty đào tạo khi trúng tuyển. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 

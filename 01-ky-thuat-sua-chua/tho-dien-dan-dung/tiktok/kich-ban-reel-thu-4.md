@@ -12,7 +12,7 @@
 | Đoạn | Thời gian | Lời thoại | Chữ trên màn hình | Hình gợi ý |
 |---|---|---|---|---|
 | 01 HOOK | 0–3s | Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần: thợ điện dân dụng. | "Dev bị layoff thì làm gì?" | Dev ôm thùng đồ ra khỏi văn phòng, bên cạnh là tủ điện trong nhà |
-| 02 CONTEXT | 3–8s | Cả nhà mất điện, CB nhảy liên tục. Thợ tới nhà, mở tủ điện ra, đo vài chỗ là biết bệnh. | "Mở tủ điện ra, đo vài chỗ là biết bệnh" | Thợ mở tủ điện, tay cầm đồng hồ vạn năng đo |
+| 02 CONTEXT | 3–8s | Cả nhà mất điện, CB nhảy liên tục. Thợ chính tới nhà, mở tủ điện ra, đo vài chỗ là biết bệnh. | "Thợ chính mở tủ điện ra, đo vài chỗ là biết bệnh" | Thợ mở tủ điện, tay cầm đồng hồ vạn năng đo |
 | 03 VALUE 1 | 8–16s | Học nghề này mất khoảng 3 tới 6 tháng là cầm đồ nghề đi làm thợ phụ được, theo Nambin. Học trên công trình thật. | "Học 3–6 tháng, làm trên công trình thật" | Lịch 3–6 tháng, tay thợ kéo dây điện trên công trình |
 | 04 VALUE 2 | 16–26s | Dân IT có cái lợi riêng: khách gửi ảnh tủ điện và sơ đồ nhà, bạn báo giá nháp trước khi tới, đỡ 1 chuyến đi. | "Ảnh tủ điện + sơ đồ nhà → báo giá nháp" | Điện thoại hiện ảnh tủ điện, màn hình hiện bảng báo giá nháp |
 | 05 VALUE 3 | 26–32s | Cái phải học lại: an toàn điện. Đo sai 1 chỗ, cắt nhầm CB là giật. Không học qua loa được. | "An toàn điện: đo sai 1 chỗ là giật" | Tay thợ cắt điện trước khi mở tủ, biển cảnh báo điện |
@@ -20,7 +20,7 @@
 
 ## Lời thoại đầy đủ (146 từ)
 
-"Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần: thợ điện dân dụng. Cả nhà mất điện, CB nhảy liên tục. Thợ tới nhà, mở tủ điện ra, đo vài chỗ là biết bệnh. Học nghề này mất khoảng 3 tới 6 tháng là cầm đồ nghề đi làm thợ phụ được, theo Nambin. Học trên công trình thật. Dân IT có cái lợi riêng: khách gửi ảnh tủ điện và sơ đồ nhà, bạn báo giá nháp trước khi tới, đỡ 1 chuyến đi. Cái phải học lại: an toàn điện. Đo sai 1 chỗ, cắt nhầm CB là giật. Không học qua loa được. Layoff rồi, giờ làm gì? Có người đổi sang nghề mà điện hỏng là khách gọi ngay. Bài đầy đủ ở bài ghim, tuần sau mình nói về thợ ống nước."
+"Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần: thợ điện dân dụng. Cả nhà mất điện, CB nhảy liên tục. Thợ chính tới nhà, mở tủ điện ra, đo vài chỗ là biết bệnh. Học nghề này mất khoảng 3 tới 6 tháng là cầm đồ nghề đi làm thợ phụ được, theo Nambin. Học trên công trình thật. Dân IT có cái lợi riêng: khách gửi ảnh tủ điện và sơ đồ nhà, bạn báo giá nháp trước khi tới, đỡ 1 chuyến đi. Cái phải học lại: an toàn điện. Đo sai 1 chỗ, cắt nhầm CB là giật. Không học qua loa được. Layoff rồi, giờ làm gì? Có người đổi sang nghề mà điện hỏng là khách gọi ngay. Bài đầy đủ ở bài ghim, tuần sau mình nói về thợ ống nước."
 
 ## CTA
 

@@ -15,8 +15,8 @@ body:
     id: link-file
     attributes:
       label: "Link file chứa thông tin sai"
-      description: "Đường dẫn file trong repo, kèm số dòng nếu biết (ví dụ: tho-lap-dat-sua-dieu-hoa/Info/nghien-cuu-thi-truong.md, dòng 42)."
-      placeholder: "Ví dụ: tho-lap-dat-sua-dieu-hoa/Info/nghien-cuu-thi-truong.md"
+      description: "Đường dẫn file trong repo, kèm số dòng nếu biết (ví dụ: 01-ky-thuat-sua-chua/tho-lap-dat-sua-dieu-hoa/Info/nghien-cuu-thi-truong.md, dòng 42)."
+      placeholder: "Ví dụ: 01-ky-thuat-sua-chua/tho-lap-dat-sua-dieu-hoa/Info/nghien-cuu-thi-truong.md"
     validations:
       required: true
   - type: textarea

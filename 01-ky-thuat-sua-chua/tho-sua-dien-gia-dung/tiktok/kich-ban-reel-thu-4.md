@@ -13,14 +13,14 @@
 |---|---|---|---|---|
 | 01 HOOK | 0–3s | Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần: thợ sửa điện gia dụng. | "Dev bị layoff thì làm gì?" | Dev ôm thùng đồ ra khỏi văn phòng, bên cạnh là máy giặt, tủ lạnh |
 | 02 CONTEXT | 3–8s | Máy giặt không vắt, tủ lạnh không lạnh. Thợ tới nhà, mở máy ra, đo vài chỗ là biết bệnh. | "Mở máy ra, đo vài chỗ là biết bệnh" | Thợ mở máy giặt, tay cầm đồng hồ vạn năng đo |
-| 03 VALUE 1 | 8–16s | Học nghề này mất khoảng 2 tới 4 tháng là cầm đồ nghề đi làm được, theo ước lượng trong nghiên cứu. Học trên máy thật. | "Học 2–4 tháng, làm trên máy thật" | Lịch 2–4 tháng, tay thợ cầm tua vít mở máy thật |
+| 03 VALUE 1 | 8–16s | Học nghề này mất khoảng 2 tới 4 tháng là làm được việc phụ và lỗi đơn giản thôi — khóa 2–4 tháng của HPcom đã kiểm chứng, nhận ca độc lập thì cần 6 tới 12 tháng. Học trên máy thật. | "Học 2–4 tháng, làm được việc phụ" | Lịch 2–4 tháng, tay thợ cầm tua vít mở máy thật |
 | 04 VALUE 2 | 16–26s | Dân IT có cái lợi riêng: khách gửi mã lỗi trên màn hình máy giặt, bạn tra AI đoán hướng trước, báo giá nháp từ ảnh tem máy. | "Mã lỗi + ảnh tem máy → báo giá nháp" | Điện thoại hiện mã lỗi máy giặt, màn hình AI gợi ý hướng lỗi |
 | 05 VALUE 3 | 26–32s | Cái phải học lại: an toàn điện. Máy nào cũng cắm điện, đo sai 1 chỗ là giật. Không học qua loa được. | "An toàn điện: đo sai 1 chỗ là giật" | Tay thợ cắt điện trước khi mở máy, biển cảnh báo điện |
 | 06 PAYOFF + CTA | 32–45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề mà hỏng là khách gọi ngay. Bài đầy đủ ở bài ghim, tuần sau mình nói về thợ khóa. | "Hỏng là khách gọi ngay — Bài đầy đủ ở bài ghim" | Điện thoại reo, khách gọi; chữ "Tuần sau: thợ khóa" |
 
 ## Lời thoại đầy đủ (149 từ)
 
-"Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần: thợ sửa điện gia dụng. Máy giặt không vắt, tủ lạnh không lạnh. Thợ tới nhà, mở máy ra, đo vài chỗ là biết bệnh. Học nghề này mất khoảng 2 tới 4 tháng là cầm đồ nghề đi làm được, theo ước lượng trong nghiên cứu. Học trên máy thật. Dân IT có cái lợi riêng: khách gửi mã lỗi trên màn hình máy giặt, bạn tra AI đoán hướng trước, báo giá nháp từ ảnh tem máy. Cái phải học lại: an toàn điện. Máy nào cũng cắm điện, đo sai 1 chỗ là giật. Không học qua loa được. Layoff rồi, giờ làm gì? Có người đổi sang nghề mà hỏng là khách gọi ngay. Bài đầy đủ ở bài ghim, tuần sau mình nói về thợ khóa."
+"Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần: thợ sửa điện gia dụng. Máy giặt không vắt, tủ lạnh không lạnh. Thợ tới nhà, mở máy ra, đo vài chỗ là biết bệnh. Học nghề này mất khoảng 2 tới 4 tháng là làm được việc phụ và lỗi đơn giản thôi — khóa 2–4 tháng của HPcom đã kiểm chứng, nhận ca độc lập thì cần 6 tới 12 tháng. Học trên máy thật. Dân IT có cái lợi riêng: khách gửi mã lỗi trên màn hình máy giặt, bạn tra AI đoán hướng trước, báo giá nháp từ ảnh tem máy. Cái phải học lại: an toàn điện. Máy nào cũng cắm điện, đo sai 1 chỗ là giật. Không học qua loa được. Layoff rồi, giờ làm gì? Có người đổi sang nghề mà hỏng là khách gọi ngay. Bài đầy đủ ở bài ghim, tuần sau mình nói về thợ khóa."
 
 ## CTA
 

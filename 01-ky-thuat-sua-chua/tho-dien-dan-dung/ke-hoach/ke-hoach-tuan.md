@@ -15,7 +15,7 @@
 |---|---|---|---|---|---|---|---|
 | Thứ 2 15/03 | TikTok | — | Clip teaser 15–30s | TOFU | Teaser kéo sang video dài tối Thứ 2 | 9 giờ tối, cả nhà mất điện, tủ lạnh ngừng chạy, CB nhảy liên tục | Xem video đầy đủ trên YouTube tối nay 19 giờ |
 | Thứ 2 15/03 | YouTube | 19:00 | Video dài 5–10 phút | MOFU | Thợ điện dân dụng — Dev bị layoff chuyển sang được không? (đủ 8 mục) | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? | Xem hết video rồi comment nghề bạn muốn nghe tuần sau |
-| Thứ 2 15/03 | Facebook | 20:00 | Bài viết dài | MOFU | Thợ điện dân dụng — bản đầy đủ 8 mục (lưu lại) | Cả nhà mất điện, CB nhảy liên tục. Thợ tới mở tủ điện ra, đo 5 phút là biết bệnh. | Lưu bài này lại, comment "Thợ điện dân dụng" để nhận checklist 30 ngày |
+| Thứ 2 15/03 | Facebook | 20:00 | Bài viết dài | MOFU | Thợ điện dân dụng — bản đầy đủ 8 mục (lưu lại) | Cả nhà mất điện, CB nhảy liên tục. Thợ chính tới mở tủ điện ra, đo từng chỗ theo quy trình rồi mới biết bệnh. | Lưu bài này lại, comment "Thợ điện dân dụng" để nhận checklist 30 ngày |
 | Thứ 3 16/03 | TikTok | 12:00 | Clip 15–30s (cắt từ video dài) | TOFU | 1 lỗi hay gặp nhất khi mới vào nghề thợ điện dân dụng | Nhà mới đi điện xong 1 tuần, bật bếp từ thì CB nhảy | Follow để xem clip #2 |
 | Thứ 3 16/03 | Facebook | — | Bài tương tác ngắn (poll) | Retention | Sau layoff, bạn đang ở bước nào? (4 lựa chọn) | Bị layoff rồi, bạn không cô đơn đâu | Comment số của bạn bên dưới |
 | Thứ 3 16/03 | — (chuẩn bị) | — | Chuẩn bị reel Thứ 4 + trả lời comment bài Thứ 2 | — | Reel "3 kỹ năng mang sang + 3 học lại" theo sườn 6 đoạn | — | — |

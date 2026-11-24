@@ -47,9 +47,9 @@ Tóm tắt từ `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026). Bản đ
 
 ### Nhu cầu tuyển (đếm ngày 23/11/2026 — chỉ đúng ở thời điểm đếm)
 
-- **TopCV:** tìm thấy 7 tin liên quan, trong đó 2 tin đã hết hạn. Cửa vào cho người mới: kỹ thuật viên bảo hành dưới 1 năm kinh nghiệm (ORRO HOME, lương cứng 10–13 triệu + KPI, thu nhập thực tế đến 16–20 triệu) và vị trí bảo trì dưới 1 năm kinh nghiệm (TKS, 10–15 triệu + bao ăn trưa).
+- **TopCV:** tìm thấy 7 tin liên quan, trong đó 2 tin đã hết hạn. Cửa vào cho người mới: kỹ thuật viên bảo hành dưới 1 năm kinh nghiệm (ORRO HOME, lương cứng 10–13 triệu + KPI, thu nhập thực tế đến 16–20 triệu — **tin tuyển, chưa kiểm chứng**: con số 16–20 triệu là thu nhập theo KPI ghi trong tin) và vị trí bảo trì dưới 1 năm kinh nghiệm (TKS, 10–15 triệu + bao ăn trưa).
 - **VietnamWorks:** tìm thấy 5 tin liên quan, nhưng 0 tin là thợ sửa điện gia dụng dân dụng thuần — toàn bảo trì nhà máy / công trình (Datalogic Khu công nghệ cao TP.HCM 7–10 triệu, Takane Hưng Yên từ 9 triệu, Mỹ Kim đến 18 triệu).
-- **Nguồn khác:** JobsGo Tiệm Sửa Nhanh Sài Gòn (thợ chính 11–15 triệu, thợ phụ 6–9 triệu, đăng 06/11/2026, hạn 06/12/2026 — hết hạn trước ngày đăng bài thực hành nên không dùng làm việc thật); NACADIVI (thợ chính 12–20 triệu + % doanh số, thợ phụ chính thức 7–9 triệu, cập nhật 28/10/2026); Số Đỏ claim thợ kỹ thuật 15–30 triệu (chưa kiểm chứng).
+- **Nguồn khác:** JobsGo Tiệm Sửa Nhanh Sài Gòn (thợ chính 11–15 triệu, thợ phụ 6–9 triệu, đăng 06/11/2026, hạn 06/12/2026 — hết hạn trước ngày đăng bài thực hành nên không dùng làm việc thật); NACADIVI (thợ chính 12–20 triệu + % doanh số, thợ phụ chính thức 7–9 triệu, cập nhật 28/10/2026); Việt Fix (thợ phụ 7–8 triệu, web công ty, tra 23/11/2026); Số Đỏ claim thợ kỹ thuật 15–30 triệu (chưa kiểm chứng).
 - **Facebook:** chưa đếm được số bài tìm thợ trong 30 ngày (cần đăng nhập Group).
 - **Google Maps:** chưa đếm được số cửa hàng theo quận (cần đếm thủ công).
 - **TikTok:** chưa đếm được lượt xem hashtag (cần đăng nhập).
@@ -62,12 +62,12 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026, K
 | Thành phố | TopCV (tin tìm thấy) | VietnamWorks (tin tìm thấy) | Nguồn địa phương / khác | Lương phổ biến |
 |---|---|---|---|---|
 | Hà Nội | 5 tin liên quan (2 hết hạn) | 0 tin thợ gia dụng dân dụng | — | 8–15 triệu; thợ phụ chưa có số riêng |
-| TP.HCM | 4 tin liên quan (1 hết hạn) | 1 tin bảo trì nhà máy | JobsGo 1 tin (hạn 06/12), NACADIVI, Số Đỏ | 9–15 triệu; thợ phụ 6–9 triệu |
-| Đà Nẵng | 1 tin (FUJIHOME, chung HN + ĐN) | 0 tin riêng Đà Nẵng | Vieclamtot 1 tin 8,5–15 triệu (đăng 23/11/2026); Điện Tử HT dạy nghề miễn phí | 8,5–20 triệu (ít tin, khoảng rộng) |
+| TP.HCM | 4 tin liên quan (1 hết hạn) | 1 tin bảo trì nhà máy | JobsGo 1 tin (hạn 06/12), NACADIVI, Số Đỏ | 9–15 triệu; thợ phụ 7–9 triệu |
+| Đà Nẵng | 1 tin (FUJIHOME, chung HN + ĐN) | 0 tin riêng Đà Nẵng | Vieclamtot 1 tin 8,5–15 triệu (đăng 23/11/2026); Điện Tử HT dạy nghề miễn phí (giới hạn độ tuổi 13–25 — người lớn tuổi hơn gọi hỏi trước) | 8,5–20 triệu (ít tin, khoảng rộng) |
 | Cần Thơ | 0 tin | 0 tin | 123job chỉ có tin thợ điện nước công trình, không ghi lương thợ gia dụng | Chưa có số liệu |
 
-- **Hà Nội:** TopCV 5 tin liên quan (SPORT1 10–15 triệu hết hạn; ORRO HOME 10–13 triệu + KPI; Nam Việt 8–10 triệu hết hạn; TKS 10–15 triệu; SIMIGO 8–10 triệu cứng, thu nhập tối thiểu 12–18 triệu; VINFIX trung bình 10 triệu). VietnamWorks: 0 tin thợ gia dụng dân dụng riêng.
-- **TP.HCM:** TopCV 4 tin liên quan (ORRO HOME, Nam Việt hết hạn, SIMIGO, THE TIME DECOR 9–12 triệu, Q7). JobsGo Tiệm Sửa Nhanh thợ chính 11–15 triệu, thợ phụ 6–9 triệu (hạn 06/12). NACADIVI thợ chính 12–20 triệu + % doanh số, thợ phụ 7–9 triệu.
+- **Hà Nội:** TopCV 5 tin liên quan (SPORT1 10–15 triệu hết hạn; ORRO HOME 10–13 triệu + KPI; Nam Việt 8–10 triệu hết hạn; TKS 10–15 triệu; SIMIGO 8–10 triệu cứng, thu nhập tối thiểu 12–18 triệu (tin tuyển, chưa kiểm chứng); VINFIX trung bình 10 triệu). VietnamWorks: 0 tin thợ gia dụng dân dụng riêng.
+- **TP.HCM:** TopCV 4 tin liên quan (ORRO HOME, Nam Việt hết hạn, SIMIGO, THE TIME DECOR 9–12 triệu, Q7). JobsGo Tiệm Sửa Nhanh thợ chính 11–15 triệu, thợ phụ 6–9 triệu (hạn 06/12 — tin đã hết hạn, chỉ để đối chiếu; lương thợ phụ hiện tại 7–9 triệu theo NACADIVI và Việt Fix). NACADIVI thợ chính 12–20 triệu + % doanh số, thợ phụ 7–9 triệu.
 - **Đà Nẵng:** FUJIHOME 12–20 triệu (HN + ĐN, sửa máy hút ẩm, nồi chiên không dầu, lọc không khí...); Vieclamtot Anh Hoàng Minh 8,5–15 triệu, tuyển 2 thợ + 1 học việc, đăng 23/11/2026.
 - **Cần Thơ:** chưa tìm thấy tin riêng cho nghề này trên TopCV hay VietnamWorks — khoảng trống số liệu, không phải bằng chứng là Cần Thơ không có việc. Lương thợ sửa điện gia dụng tại Cần Thơ: Chưa có số liệu.
 
@@ -75,15 +75,15 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026, K
 
 - **Nhanh nhất:** xin làm thợ phụ / học việc tại cửa hàng sửa chữa — nhiều nơi không thu học phí, còn trả phụ cấp, học trên máy thật.
 - **Bắc (Hà Nội):** CĐ Duyên Hải, 451 Hoàng Quốc Việt, khóa Nghề Điện Dân Dụng 3–6 tháng, 5 triệu/khóa; Thanh Xuân, Xa La, khóa sửa chữa điện lạnh 6 tháng, 10 triệu/khóa (trang hiện tại); Thanh Xuân hệ cao đẳng, khóa sửa chữa điện dân dụng 6 tháng, 36,65 triệu (nộp lẻ) — cao gấp nhiều lần các khóa khác, gọi hỏi lại trước khi đóng tiền.
-- **Trung (Đà Nẵng):** Hướng Nghiệp Á Âu, KTV Điện dân dụng 44 buổi 13 triệu, KTV Điện lạnh dân dụng 51 buổi 15 triệu, KTV Điện tử chuyên ngành Điện – Điện lạnh dân dụng trọn khóa 86 buổi 25 triệu; Điện Tử HT Đà Nẵng dạy nghề sửa điện tử / điện lạnh miễn phí 100% (theo trang trung tâm, có phụ cấp ăn + tiêu vặt, sau 6 tháng có lương).
+- **Trung (Đà Nẵng):** Hướng Nghiệp Á Âu, KTV Điện dân dụng 44 buổi 13 triệu, KTV Điện lạnh dân dụng 51 buổi 15 triệu, KTV Điện tử chuyên ngành Điện – Điện lạnh dân dụng trọn khóa 86 buổi 25 triệu; Điện Tử HT Đà Nẵng dạy nghề sửa điện tử / điện lạnh miễn phí 100% (theo trang trung tâm, có phụ cấp ăn + tiêu vặt, sau 6 tháng có lương) — **lưu ý: trung tâm này giới hạn độ tuổi 13–25**, người lớn tuổi hơn thì gọi hỏi trước xem có nhận không, đừng nộp đơn rồi mới biết mình quá tuổi.
 - **Nam (TP.HCM):** HPcom, khóa sửa chữa điện lạnh 2–4 tháng, 8,3 triệu/khóa giá ưu đãi (tuần 1 ghi 10,3 triệu — giá ưu đãi thay đổi theo đợt); Hướng Nghiệp Á Âu chi nhánh TP.HCM (13 / 15 / 25 triệu như trên); Nam Việt Gò Vấp, khóa điện nước 3 tháng — chưa tìm thấy học phí công khai.
 - **Học phí 3 miền tóm tắt:** Bắc 5–10 triệu (khóa ngắn hạn; chưa tính hệ cao đẳng 36,65 triệu), Trung 0 (miễn phí, Điện Tử HT) – 15 triệu, Nam 8,3–15 triệu. Miền Bắc có lựa chọn rẻ nhất (Duyên Hải 5 triệu), miền Trung có lựa chọn miễn phí.
-- **Lộ trình (ước lượng, chưa kiểm chứng với trường):** mốc thợ phụ 1–3 tháng, mốc làm độc lập lỗi thường gặp 6–12 tháng, mốc sửa bo mạch Inverter 1,5–3 năm.
+- **Lộ trình (ước lượng, chưa kiểm chứng với trường):** mốc thợ phụ 1–3 tháng, mốc làm độc lập lỗi thường gặp 6–12 tháng, mốc sửa bo mạch Inverter 1,5–3 năm. Mốc khóa ngắn 2–4 tháng đã kiểm chứng với 1 trường: khóa sửa chữa điện lạnh của HPcom tại TP.HCM, 2–4 tháng, học phí ưu đãi 8,3 triệu 1 khóa trên trang hiện tại ngày 23/11/2026.
 
 ### Lương theo nấc (tin tuyển thật, tra cứu 23/11/2026)
 
-- Thợ phụ / học việc (chưa biết việc, vừa làm vừa học): **6–9 triệu/tháng** (Tiệm Sửa Nhanh Sài Gòn, JobsGo; NACADIVI thợ phụ chính thức 7–9 triệu, thử việc 5 triệu).
-- Kỹ thuật viên bảo hành / thợ chính (biết sửa lỗi thường gặp, làm độc lập): lương cứng **8–10 triệu/tháng** (SIMIGO, Nam Việt), lương cứng **10–13 triệu + KPI, thu nhập thực tế đến 16–20 triệu/tháng** (ORRO HOME), thu nhập **10–15 triệu/tháng** (TKS, SPORT1), lương cứng **9–12 triệu + thưởng** (THE TIME DECOR), thợ chính **11–15 triệu/tháng** (Tiệm Sửa Nhanh), thợ chính **12–20 triệu/tháng + % doanh số** (NACADIVI, FUJIHOME).
+- Thợ phụ / học việc (chưa biết việc, vừa làm vừa học): **7–9 triệu/tháng** (NACADIVI thợ phụ chính thức 7–9 triệu, cập nhật 28/10/2026; Việt Fix thợ phụ 7–8 triệu, tra 23/11/2026; tin JobsGo Tiệm Sửa Nhanh 6–9 triệu đã hết hạn 06/12/2026, chỉ để đối chiếu).
+- Kỹ thuật viên bảo hành / thợ chính (biết sửa lỗi thường gặp, làm độc lập): lương cứng **8–10 triệu/tháng** (SIMIGO, Nam Việt) — SIMIGO ghi thêm thu nhập tối thiểu 12–18 triệu/tháng (tin tuyển, chưa kiểm chứng), lương cứng **10–13 triệu + KPI, thu nhập thực tế đến 16–20 triệu/tháng** (ORRO HOME — tin tuyển, chưa kiểm chứng), thu nhập **10–15 triệu/tháng** (TKS, SPORT1), lương cứng **9–12 triệu + thưởng** (THE TIME DECOR), thợ chính **11–15 triệu/tháng** (Tiệm Sửa Nhanh), thợ chính **12–20 triệu/tháng + % doanh số** (NACADIVI, FUJIHOME).
 - Kỹ thuật viên bảo trì nhà máy / công trình (VietnamWorks, không phải thợ gia dụng dân dụng — chỉ đối chiếu): 7–10 triệu (Datalogic), 9–12 triệu (Hop Toan), đến 18 triệu (Mỹ Kim).
 - Giá 1 ca sửa khách trả (tham khảo, tra 23/11/2026 — CHƯA phải thu nhập thợ vì còn trừ linh kiện và phần cửa hàng): sửa máy giặt không vắt 250–550 nghìn, thay dây curoa 150–280 nghìn, sửa bo mạch 350–900 nghìn, bơm gas tủ lạnh 350–600 nghìn, sửa quạt 100–250 nghìn, sửa lò vi sóng 200–400 nghìn (Điện Lạnh Hưng Phú, danlanh.com; timthodienlanh.com; 1Fix.vn).
 - Thu nhập thợ tự nhận khách riêng theo tháng: **Chưa có số liệu**.
@@ -99,6 +99,43 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026, K
 - Làm tự do thì rủi ro là không có khách: thu nhập theo ca, không có khách gọi thì không có tiền.
 - Giờ giấc thất thường: tủ lạnh hỏng là khách cần gấp, không đợi được đến mai. Bảo hành sau sửa: sửa xong hỏng lại trong thời gian bảo hành thì thợ phải quay lại sửa miễn phí.
 - Không có chuyện "chắc chắn có việc" hay "làm giàu nhanh".
+
+### Lộ trình học tóm tắt (mục 6 file nghiên cứu)
+
+- **Tuần đầu:** học an toàn điện, mua đồ nghề cơ bản, liệt kê 5 cửa hàng gần nhà, đi xin làm thợ phụ ở 2–3 chỗ.
+- **Tháng đầu:** đi theo thợ chính, chỉ làm việc phụ, tự xử lý 1 lỗi đơn giản có người kèm, ghi sổ 10 lỗi hay gặp.
+- **Tháng 2:** hỏi bảng giá cửa hàng, tập báo giá từ ảnh tem máy và mã lỗi khách gửi, làm file theo dõi bảo hành.
+- **Tháng 3:** tự làm 1 ca sửa trọn vẹn, hỏi thợ chính xem bao giờ được nhận ca độc lập.
+- Mốc khóa ngắn 2–4 tháng đã kiểm chứng với HPcom (xem trên). Làm độc lập lỗi thường gặp thường mất 6–12 tháng; sửa bo mạch Inverter thường sau 1,5–3 năm (các mốc này là ước lượng).
+
+### Thử nghề (mục 7 file nghiên cứu)
+
+- **Theo thợ 1 ngày:** xin đi theo 1 thợ chính / cửa hàng sửa chữa gần nhà 1 ngày để xem công việc thật. Chi phí: 0 đồng.
+- **Xin làm phụ thử 1–2 tuần:** xin làm thợ phụ thử trước khi đóng học phí khóa ngắn hạn — xem mình có chịu được chạy nhiều nhà, mang đồ nghề nặng, làm tối, làm cuối tuần không. Nhiều nơi không thu học phí, còn trả phụ cấp.
+- **Làm thử quy mô nhỏ:** sau 1 tháng làm phụ, tự làm 1 ca sửa trọn vẹn có thợ chính kiểm tra lại.
+- **Tiêu chí dừng/tiếp — đánh giá sau 2 tuần làm phụ và sau 1 tháng:** tiếp tục nếu chịu được giờ giấc thất thường và tự xử lý được 1 lỗi đơn giản có người kèm; dừng lại nếu sợ điện tới mức không dám chạm vào máy sau khi đã học an toàn điện, hoặc không chịu được chạy nhiều nhà / làm tối, làm cuối tuần, hoặc chi phí học + đồ nghề vượt quá tiền dự phòng của bạn.
+
+### Kết luận (mục 8 file nghiên cứu)
+
+- **Ưu điểm:** cửa vào có thật (tin ghi dưới 1 năm kinh nghiệm, lương 8–13 triệu lương cứng); việc quanh năm, ít theo mùa rõ rệt; tay nghề thấy kết quả ngay trong ngày; lợi thế IT thật (tra lỗi bằng AI từ mã lỗi, báo giá từ ảnh tem máy, nhắc khách kiểm tra định kỳ).
+- **Nhược điểm:** điện giật là rủi ro lớn nhất; đồ rẻ khách mua mới thay vì sửa; bo mạch ngày càng phức tạp; làm độc lập cần 6–12 tháng, sửa bo mạch cần 1,5–3 năm — không có đường tắt; làm thuê vẫn có thể bị layoff.
+- **Ai nên thử:** người thích làm bằng tay, chịu được giờ giấc thất thường; chấp nhận thu nhập tháng đầu chỉ 7–9 triệu; có ít vốn (đi làm thuê thì vốn gần như bằng 0).
+- **Ai không nên thử:** người sợ điện; muốn giờ giấc cố định, ngồi văn phòng; cần thu nhập ổn định ngay tháng đầu; không đủ tiền dự phòng cho 2 tháng đầu ít việc.
+
+### Chi phí khởi điểm (mục 10 file nghiên cứu)
+
+- **A. Dụng cụ / thiết bị:** bộ đồ nghề tối thiểu 1.538.000đ (đồng hồ vạn năng Sanwa CD800A 688.000đ + tua vít cách điện 250.000đ + kìm 300.000đ + bút thử điện 100.000đ + kìm bấm cos 200.000đ; mức cao 2.788.000đ). Đi làm thuê thì không cần mua ngay — cửa hàng có đồ nghề.
+- **B. Học phí:** HPcom 8,3 triệu (2–4 tháng); Duyên Hải 5 triệu (3–6 tháng); Hướng Nghiệp Á Âu 13 triệu (44 buổi); chuyên sâu 25 triệu (86 buổi).
+- **C. Dự phòng 2 tháng đầu:** Chưa có số liệu.
+- **D. Tổng cộng (A + B, chưa tính C):** 9.838.000đ cho nấc HPcom (1.538.000đ đồ nghề + 8,3 triệu học phí).
+
+### Thủ tục mở tiệm (mục 9 file nghiên cứu)
+
+- Chỉ cần khi mở tiệm riêng sau 1–2 năm. Đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã (hoặc online bằng VNeID mức 2), giải quyết 03 ngày làm việc, lệ phí 0 đồng online / 100.000đ một lần nộp trực tiếp (mức này có thể khác theo địa phương); doanh thu từ 1 tỷ đồng một năm trở xuống không phải nộp thuế GTGT, thuế TNCN (Nghị định 141/2026/NĐ-CP, hiệu lực từ 01/01/2026).
+
+### Nguồn tham khảo (mục 11 file nghiên cứu)
+
+- Bản đầy đủ có link + ngày truy cập + loại nguồn + độ tin cậy trong `Info/nghien-cuu-thi-truong.md` mục 11: tin tuyển TopCV (ORRO HOME, SIMIGO, TKS, THE TIME DECOR), web công ty (NACADIVI, Việt Fix), bảng học phí trung tâm (HPcom, Duyên Hải, Hướng Nghiệp Á Âu), bảng giá dụng cụ (Nambin), hướng dẫn đăng ký hộ kinh doanh (Nghị định 168/2025/NĐ-CP).
 
 ---
 
@@ -126,7 +163,7 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026, K
 
 ### 0:00–0:30 — Hook
 
-"Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần, hỏng là khách gọi ngay: thợ sửa điện gia dụng. Tối thứ 2, máy giặt không vắt, quần áo ướt sũng trong lồng. Thợ tới mở máy ra, đo vài chỗ rồi nói: dây curoa đứt, thay là chạy. Mười lăm phút mà biết ngay bệnh. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần, hỏng là khách gọi ngay: thợ sửa điện gia dụng. Tối thứ 2, máy giặt không vắt, quần áo ướt sũng trong lồng. Thợ tới mở máy ra, đo từng chỗ theo quy trình rồi nói: dây curoa đứt, thay là chạy. Thợ chính làm lâu năm, gặp bệnh này nhiều lần rồi, mới đoán nhanh được như vậy — người mới thì đo từng bước, không đoán nhanh được. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30–2:00 — Nghề này là gì, 1 ngày làm việc thật
 
@@ -166,7 +203,7 @@ Học ở đâu thì có 3 đường. Đường nhanh nhất: xin làm thợ ph�
 
 ### 7:00–8:30 — Career path + tìm việc, tìm khách ở đâu
 
-"Đường đi thường là như thế này. 0–3 tháng đầu: học + làm phụ, nhận việc nhỏ, lương thợ phụ khoảng 6–9 triệu một tháng. 3–6 tháng: làm chính, có khách quen, lương kỹ thuật viên bảo hành khoảng 8–13 triệu lương cứng. 6–12 tháng: lên tay nghề, nhận ca độc lập, thu nhập thêm theo ca và KPI. Sau 1–2 năm: có thể nhận khách riêng, mở tiệm nhỏ, rồi dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+"Đường đi thường là như thế này. 0–3 tháng đầu: học + làm phụ, nhận việc nhỏ, lương thợ phụ khoảng 7–9 triệu một tháng (NACADIVI thợ phụ chính thức 7–9 triệu, cập nhật 28/10/2026; Việt Fix thợ phụ 7–8 triệu — tra ngày 23/11/2026). 3–6 tháng: làm chính, có khách quen, lương kỹ thuật viên bảo hành khoảng 8–13 triệu lương cứng. 6–12 tháng: lên tay nghề, nhận ca độc lập, thu nhập thêm theo ca và KPI. Sau 1–2 năm: có thể nhận khách riêng, mở tiệm nhỏ, rồi dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 Tìm việc đầu tiên ở đâu? Có 3 chỗ. Một là xin làm thợ phụ cho cửa hàng sửa chữa gần nhà — tìm trên Google Maps và Group cư dân khu vực. Hai là nộp đơn lên TopCV: ngày 23/11 mình đếm thấy có tin tuyển kỹ thuật viên bảo hành dưới 1 năm kinh nghiệm, lương cứng 10–13 triệu cộng KPI. Ba là khi đã cứng tay: đăng video và bài lên TikTok, Facebook theo quận mình làm, để khách khu vực biết bạn. Đừng nhận khách riêng khi chưa cứng tay — sửa xong hỏng lại trong thời gian bảo hành, bạn phải quay lại sửa miễn phí, vừa mất tiền vừa mất khách."
 
@@ -174,13 +211,13 @@ Tìm việc đầu tiên ở đâu? Có 3 chỗ. Một là xin làm thợ phụ 
 
 "Giờ tới phần bạn hỏi nhiều nhất: lương bao nhiêu. Mình nói bằng tin tuyển thật, tra ngày 23/11/2026.
 
-Thợ phụ, chưa biết việc, vừa làm vừa học: 6–9 triệu một tháng. Kỹ thuật viên bảo hành, thợ chính, biết sửa lỗi thường gặp: lương cứng 8–10 triệu, hoặc 10–13 triệu cộng KPI thì thu nhập thực tế đến 16–20 triệu một tháng, hoặc thu nhập 10–15 triệu tùy công ty. Thợ chính làm điện lạnh kèm máy giặt, tủ lạnh: 11–15 triệu, hoặc 12–20 triệu cộng phần trăm doanh số. Kỹ thuật viên bảo trì nhà máy thì 7–10 triệu, nhưng đó không phải thợ gia dụng dân dụng, mình chỉ nhắc để bạn đối chiếu.
+Thợ phụ, chưa biết việc, vừa làm vừa học: 7–9 triệu một tháng (NACADIVI 7–9 triệu; Việt Fix 7–8 triệu). Kỹ thuật viên bảo hành, thợ chính, biết sửa lỗi thường gặp: lương cứng 8–10 triệu, hoặc 10–13 triệu cộng KPI thì thu nhập thực tế đến 16–20 triệu một tháng (ORRO HOME — tin tuyển, chưa kiểm chứng), hoặc thu nhập 10–15 triệu tùy công ty, hoặc lương cứng 8–10 triệu cộng trợ cấp, thu nhập tối thiểu 12–18 triệu một tháng (SIMIGO — tin tuyển, chưa kiểm chứng). Thợ chính làm điện lạnh kèm máy giặt, tủ lạnh: 11–15 triệu, hoặc 12–20 triệu cộng phần trăm doanh số. Kỹ thuật viên bảo trì nhà máy thì 7–10 triệu, nhưng đó không phải thợ gia dụng dân dụng, mình chỉ nhắc để bạn đối chiếu.
 
 Còn thu nhập thợ tự nhận khách riêng theo tháng thì chưa có số liệu — không có tin tuyển hay khảo sát nào kiểm chứng được. Mình chỉ nói được giá 1 ca khách trả, tra ngày 23/11/2026: sửa máy giặt không vắt 250–550 nghìn, thay dây curoa 150–280 nghìn, sửa bo mạch 350–900 nghìn, bơm gas tủ lạnh 350–600 nghìn. Đây là giá khách trả cho 1 ca, chưa trừ linh kiện và phần của cửa hàng, nên đừng lấy giá ca nhân với số ca rồi tưởng đó là lương của bạn.
 
 Về nhu cầu: ngày 23/11 mình đếm thấy TopCV có 7 tin liên quan tới thợ sửa điện gia dụng, trong đó 2 tin đã hết hạn. VietnamWorks thì tìm thấy 5 tin liên quan, nhưng không có tin nào là thợ gia dụng dân dụng thuần — toàn bảo trì nhà máy và công trình. Nhu cầu có thật, nhưng tin tuyển ít và lẫn với điện lạnh, điện nước, nên bạn tìm việc bằng nhiều từ khóa khác nhau sẽ thấy nhiều hơn.
 
-Về nhu cầu theo thành phố, tra ngày 23/11: Hà Nội và TP.HCM tuyển nhiều nhất — Hà Nội nhiều tin kỹ thuật viên bảo hành hãng và nhà phân phối, lương 8–15 triệu; TP.HCM thêm tin từ JobsGo và web công ty, thợ phụ 6–9 triệu, thợ chính 11–20 triệu. Đà Nẵng ít tin hơn, chủ yếu qua Vieclamtot và tin của hãng, lương 8,5–15 triệu. Cần Thơ thì chưa tìm thấy tin riêng cho nghề này trên TopCV hay VietnamWorks — đây là khoảng trống số liệu, không phải bằng chứng là Cần Thơ không có việc, nên bạn ở Cần Thơ thì hỏi trực tiếp cửa hàng gần nhà sẽ nhanh hơn nộp đơn online.
+Về nhu cầu theo thành phố, tra ngày 23/11: Hà Nội và TP.HCM tuyển nhiều nhất — Hà Nội nhiều tin kỹ thuật viên bảo hành hãng và nhà phân phối, lương 8–15 triệu; TP.HCM thêm tin từ JobsGo và web công ty, thợ phụ 7–9 triệu, thợ chính 11–20 triệu. Đà Nẵng ít tin hơn, chủ yếu qua Vieclamtot và tin của hãng, lương 8,5–15 triệu. Cần Thơ thì chưa tìm thấy tin riêng cho nghề này trên TopCV hay VietnamWorks — đây là khoảng trống số liệu, không phải bằng chứng là Cần Thơ không có việc, nên bạn ở Cần Thơ thì hỏi trực tiếp cửa hàng gần nhà sẽ nhanh hơn nộp đơn online.
 
 Và một điều nữa: số Mỹ để so sánh, không phải lương VN. Cục Thống kê Lao động Mỹ, thợ sửa điện gia dụng, lương trung vị 49.410 đô la một năm, tháng 5 năm 2024, việc làm tăng 2,6% giai đoạn 2024–2034. Số này chỉ để bạn biết nghề này ở Mỹ được trả ra sao, không phải thu nhập ở Việt Nam."
 
@@ -208,7 +245,7 @@ Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau m
 
 Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần, hỏng là khách gọi ngay: thợ sửa điện gia dụng.
 
-Tối thứ 2, máy giặt không vắt, quần áo ướt sũng trong lồng. Thợ tới mở máy ra, đo vài chỗ rồi nói: dây curoa đứt, thay là chạy. Mười lăm phút mà biết ngay bệnh. Bài này nói hết về nghề thợ sửa điện gia dụng: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
+Tối thứ 2, máy giặt không vắt, quần áo ướt sũng trong lồng. Thợ tới mở máy ra, đo từng chỗ theo quy trình rồi nói: dây curoa đứt, thay là chạy. Thợ chính làm lâu năm, gặp bệnh này nhiều lần rồi, mới đoán nhanh được như vậy — người mới thì đo từng bước, không đoán nhanh được. Bài này nói hết về nghề thợ sửa điện gia dụng: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
 **Nghề này làm gì mỗi ngày**
 
@@ -236,7 +273,7 @@ Học ở đâu thì có 3 đường. Nhanh nhất: xin làm thợ phụ hoặc 
 
 **Career path**
 
-0–3 tháng đầu: học + làm phụ, lương thợ phụ khoảng 6–9 triệu một tháng. 3–6 tháng: làm chính, có khách quen, lương kỹ thuật viên bảo hành khoảng 8–13 triệu lương cứng. 6–12 tháng: lên tay nghề, nhận ca độc lập, thu nhập thêm theo ca và KPI. Sau 1–2 năm: có thể nhận khách riêng, mở tiệm nhỏ, rồi dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+0–3 tháng đầu: học + làm phụ, lương thợ phụ khoảng 7–9 triệu một tháng (NACADIVI thợ phụ chính thức 7–9 triệu, cập nhật 28/10/2026; Việt Fix thợ phụ 7–8 triệu — tra ngày 23/11/2026). 3–6 tháng: làm chính, có khách quen, lương kỹ thuật viên bảo hành khoảng 8–13 triệu lương cứng. 6–12 tháng: lên tay nghề, nhận ca độc lập, thu nhập thêm theo ca và KPI. Sau 1–2 năm: có thể nhận khách riêng, mở tiệm nhỏ, rồi dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 **Tìm việc, tìm khách đầu tiên ở đâu**
 
@@ -244,13 +281,13 @@ Xin làm thợ phụ cho cửa hàng sửa chữa gần nhà — tìm trên Goog
 
 **Lương bao nhiêu**
 
-Nói bằng tin tuyển thật, tra ngày 23/11/2026. Thợ phụ, chưa biết việc: 6–9 triệu một tháng. Kỹ thuật viên bảo hành, thợ chính: lương cứng 8–10 triệu, hoặc 10–13 triệu cộng KPI thì thu nhập thực tế đến 16–20 triệu một tháng, hoặc thu nhập 10–15 triệu tùy công ty. Thợ chính làm điện lạnh kèm máy giặt, tủ lạnh: 11–15 triệu, hoặc 12–20 triệu cộng phần trăm doanh số.
+Nói bằng tin tuyển thật, tra ngày 23/11/2026. Thợ phụ, chưa biết việc: 7–9 triệu một tháng (NACADIVI 7–9 triệu; Việt Fix 7–8 triệu). Kỹ thuật viên bảo hành, thợ chính: lương cứng 8–10 triệu, hoặc 10–13 triệu cộng KPI thì thu nhập thực tế đến 16–20 triệu một tháng (ORRO HOME — tin tuyển, chưa kiểm chứng), hoặc thu nhập 10–15 triệu tùy công ty, hoặc lương cứng 8–10 triệu cộng trợ cấp, thu nhập tối thiểu 12–18 triệu một tháng (SIMIGO — tin tuyển, chưa kiểm chứng). Thợ chính làm điện lạnh kèm máy giặt, tủ lạnh: 11–15 triệu, hoặc 12–20 triệu cộng phần trăm doanh số.
 
 Còn thu nhập thợ tự nhận khách riêng theo tháng thì chưa có số liệu — không có tin tuyển hay khảo sát nào kiểm chứng được. Mình chỉ nói được giá 1 ca khách trả, tra ngày 23/11/2026: sửa máy giặt không vắt 250–550 nghìn, thay dây curoa 150–280 nghìn, sửa bo mạch 350–900 nghìn, bơm gas tủ lạnh 350–600 nghìn. Đây là giá khách trả cho 1 ca, chưa trừ linh kiện và phần của cửa hàng, nên đừng lấy giá ca nhân với số ca rồi tưởng đó là lương của bạn.
 
 Về nhu cầu: ngày 23/11 mình đếm thấy TopCV có 7 tin liên quan tới thợ sửa điện gia dụng, trong đó 2 tin đã hết hạn. VietnamWorks thì tìm thấy 5 tin liên quan, nhưng không có tin nào là thợ gia dụng dân dụng thuần — toàn bảo trì nhà máy và công trình.
 
-Về nhu cầu theo thành phố, tra ngày 23/11: Hà Nội và TP.HCM tuyển nhiều nhất — Hà Nội nhiều tin kỹ thuật viên bảo hành hãng và nhà phân phối, lương 8–15 triệu; TP.HCM thêm tin từ JobsGo và web công ty, thợ phụ 6–9 triệu, thợ chính 11–20 triệu. Đà Nẵng ít tin hơn, chủ yếu qua Vieclamtot và tin của hãng, lương 8,5–15 triệu. Cần Thơ thì chưa tìm thấy tin riêng cho nghề này trên TopCV hay VietnamWorks — đây là khoảng trống số liệu, không phải bằng chứng là Cần Thơ không có việc, nên bạn ở Cần Thơ thì hỏi trực tiếp cửa hàng gần nhà sẽ nhanh hơn nộp đơn online.
+Về nhu cầu theo thành phố, tra ngày 23/11: Hà Nội và TP.HCM tuyển nhiều nhất — Hà Nội nhiều tin kỹ thuật viên bảo hành hãng và nhà phân phối, lương 8–15 triệu; TP.HCM thêm tin từ JobsGo và web công ty, thợ phụ 7–9 triệu, thợ chính 11–20 triệu. Đà Nẵng ít tin hơn, chủ yếu qua Vieclamtot và tin của hãng, lương 8,5–15 triệu. Cần Thơ thì chưa tìm thấy tin riêng cho nghề này trên TopCV hay VietnamWorks — đây là khoảng trống số liệu, không phải bằng chứng là Cần Thơ không có việc, nên bạn ở Cần Thơ thì hỏi trực tiếp cửa hàng gần nhà sẽ nhanh hơn nộp đơn online.
 
 Số Mỹ để so sánh, không phải lương VN: Cục Thống kê Lao động Mỹ, thợ sửa điện gia dụng, lương trung vị 49.410 đô la một năm, tháng 5 năm 2024, việc làm tăng 2,6% giai đoạn 2024–2034.
 
@@ -259,6 +296,10 @@ Số Mỹ để so sánh, không phải lương VN: Cục Thống kê Lao độn
 Điện giật là rủi ro lớn nhất: máy nào cũng cắm điện, đo sai 1 chỗ là giật — phải học an toàn điện trước khi đụng vào máy thật. Đồ rẻ, khách mua mới thay vì sửa: quạt, nồi cơm, ấm siêu tốc hỏng thì tiền sửa gần bằng tiền mua mới, nhiều khách chọn mua mới — thợ sống được nhờ sửa đồ đắt tiền hơn (tủ lạnh, máy giặt, máy lọc nước) và nhờ khách quen. Bo mạch ngày càng phức tạp: máy đời mới dùng board Inverter, cảm biến, kết nối thông minh — thợ chỉ biết sửa cơ thì càng ngày càng khó nhận job máy mới. Hãng đổi mẫu nhanh, linh kiện khó tìm: máy cũ 5–10 năm hỏng board thì linh kiện chính hãng nhiều khi không còn. Làm thuê vẫn có thể bị layoff: nghề này thuộc nhóm A trong pool — làm cho công ty, trung tâm bảo hành hay nhà phân phối thì vẫn là việc làm thuê, công ty cắt giảm thì thợ cũng bị ảnh hưởng. Đây không phải nơi trú ẩn an toàn tuyệt đối khỏi layoff. Làm tự do thì rủi ro là không có khách: thu nhập theo ca, không có khách gọi thì không có tiền. Và không có chuyện "chắc chắn có việc" hay "làm giàu nhanh" — nghề này làm ra tiền bằng tay, theo ca, và phải xây khách quen dần.
 
 ---
+
+**Vốn và thủ tục mở tiệm (tóm tắt)**
+
+Đi làm thuê thì vốn gần như bằng 0: xin làm thợ phụ, cửa hàng có đồ nghề. Bộ đồ nghề tối thiểu để làm việc phụ và lỗi đơn giản khoảng 1,8–4,5 triệu (tua vít cách điện 250–600 nghìn, kìm 300–700 nghìn, bút thử điện 100–300 nghìn, đồng hồ vạn năng 400 nghìn–1,2 triệu, kìm bấm cos 200–500 nghìn — Nambin, bảng giá tham khảo 2026, tra ngày 23/11/2026). Học phí khóa ngắn hạn 5–15 triệu tùy nơi. Dự phòng sinh hoạt 2 tháng đầu: chưa có số liệu — tự tính tiền nhà + ăn uống + xăng xe thực tế của bạn trước khi nghỉ việc. Chỉ khi mở tiệm riêng sau 1–2 năm mới cần đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã (hoặc online bằng VNeID mức 2), giải quyết 03 ngày làm việc, lệ phí 0 đồng online / 100.000đ một lần nộp trực tiếp (mức này có thể khác theo địa phương); doanh thu từ 1 tỷ đồng một năm trở xuống không phải nộp thuế GTGT, thuế TNCN (Nghị định 141/2026/NĐ-CP, hiệu lực từ 01/01/2026). Chi tiết đủ ở file nghiên cứu, mục 9 và mục 10.
 
 Lưu bài này lại, comment "Điện gia dụng" để nhận checklist 30 ngày đầu làm thợ sửa điện gia dụng. Tuần sau mình nói về thợ khóa.
 
@@ -320,7 +361,7 @@ Mẹo này tiết kiệm cho bạn 1 chuyến đi xem máy, và khách cũng th�
 - Địa điểm: 171 Nguyễn Thị Thập, Quận 7, TP.HCM
 - Link: https://www.topcv.vn/viec-lam/tho-dien-dan-dung/1343553.html
 
-Lưu ý: tin JobsGo Tiệm Sửa Nhanh Sài Gòn (thợ chính 11–15 triệu, thợ phụ 6–9 triệu) hết hạn 06/12/2026 nên KHÔNG dùng ở đây. Đà Nẵng: Vieclamtot Anh Hoàng Minh tuyển 2 thợ + 1 học việc, 8,5–15 triệu, đăng 23/11/2026. Cần Thơ: chưa tìm thấy tin riêng cho nghề này trên TopCV hay VietnamWorks ngày 23/11/2026.
+Lưu ý: tin JobsGo Tiệm Sửa Nhanh Sài Gòn (thợ chính 11–15 triệu, thợ phụ 6–9 triệu) hết hạn 06/12/2026 nên KHÔNG dùng ở đây. **Lưu ý thêm (kiểm tra lại 23/11/2026):** 4 tin TopCV trên vẫn hiển thị khi tra lại ngày 23/11/2026 và nội dung khớp với file, nhưng **hạn ứng tuyển không hiện trong bản text** của TopCV — không xác minh được hạn có tới 11/12/2026 hay không. **Bắt buộc bấm vào từng link trước ngày đăng** để xem hạn; tin nào hết hạn thì thay bằng tin dự phòng: Việt Fix — thợ phụ 7–8 triệu/tháng (web công ty, tra 23/11/2026); Đức Tín — "Thợ - Phụ Điện Lạnh" 4–12 triệu/tháng (JobsGO, tra 23/11/2026) — khoảng lương rộng, chỉ dùng để đối chiếu. Đà Nẵng: Vieclamtot Anh Hoàng Minh tuyển 2 thợ + 1 học việc, 8,5–15 triệu, đăng 23/11/2026. Cần Thơ: chưa tìm thấy tin riêng cho nghề này trên TopCV hay VietnamWorks ngày 23/11/2026.
 
 ## CV mẫu: trước và sau
 
@@ -340,7 +381,7 @@ Lưu carousel này lại, comment "checklist" để nhận file checklist 30 ng�
 
 ### 4.5. Bài teaser Thứ 7 — Tóm tắt tuần + hé nghề tuần sau
 
-Tuần này mình nói về nghề thợ sửa điện gia dụng: làm gì mỗi ngày, ai hợp ai không hợp, học ở đâu bao lâu, lương thợ phụ khoảng 6–9 triệu, kỹ thuật viên bảo hành khoảng 8–13 triệu lương cứng, và sự thật phũ là đồ rẻ khách mua mới thay vì sửa — thợ sống được nhờ sửa tủ lạnh, máy giặt, máy lọc nước và nhờ khách quen. Bài đầy đủ 8 mục vẫn ở bài ghim, bạn nào chưa đọc thì đọc lại cuối tuần này.
+Tuần này mình nói về nghề thợ sửa điện gia dụng: làm gì mỗi ngày, ai hợp ai không hợp, học ở đâu bao lâu, lương thợ phụ khoảng 7–9 triệu, kỹ thuật viên bảo hành khoảng 8–13 triệu lương cứng, và sự thật phũ là đồ rẻ khách mua mới thay vì sửa — thợ sống được nhờ sửa tủ lạnh, máy giặt, máy lọc nước và nhờ khách quen. Bài đầy đủ 8 mục vẫn ở bài ghim, bạn nào chưa đọc thì đọc lại cuối tuần này.
 
 Tuần sau mình nói về 1 nghề mà khóa cửa mở không được là gọi ngay, nửa đêm cũng gọi: thợ khóa. Bạn đoán thợ khóa kiếm tiền bằng cách nào mà khách gọi là tới ngay, không mặc cả?
 
@@ -356,11 +397,11 @@ Học được, nhưng phải học an toàn điện trước khi đụng vào m
 
 **Học bao lâu thì đi làm được?**
 
-Khóa sửa điện gia dụng khoảng 2–4 tháng theo ước lượng trong pool nghiên cứu của kênh — đây là ước lượng, chưa phải số liệu từ trường. Mốc thợ phụ thì khoảng 1–3 tháng học tập trung là đi theo thợ chính được. Làm độc lập lỗi thường gặp thì thường mất 6–12 tháng, vừa học vừa đi làm thật. Sửa bo mạch Inverter thì thường sau 1,5–3 năm. Nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+Khóa sửa điện gia dụng khoảng 2–4 tháng — mốc này đã kiểm chứng với 1 trường: khóa sửa chữa điện lạnh của HPcom tại TP.HCM, 2–4 tháng, học phí ưu đãi 8,3 triệu 1 khóa trên trang hiện tại ngày 23/11/2026; khóa Nghề Điện Dân Dụng tại 451 Hoàng Quốc Việt, Hà Nội, 3–6 tháng, học phí 5 triệu 1 khóa. Mốc thợ phụ thì khoảng 1–3 tháng học tập trung là đi theo thợ chính được. Làm độc lập lỗi thường gặp thì thường mất 6–12 tháng, vừa học vừa đi làm thật. Sửa bo mạch Inverter thì thường sau 1,5–3 năm. Nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 **Cần vốn bao nhiêu để bắt đầu?**
 
-Đi làm thuê thì vốn gần như bằng 0: xin làm thợ phụ, cửa hàng có đồ nghề, bạn chỉ cần thời gian đi học việc. Tin tuyển tra ngày 23/11/2026 cho thấy thợ phụ lương 6–9 triệu một tháng, vị trí kỹ thuật viên bảo hành dưới 1 năm kinh nghiệm lương cứng 10–13 triệu cộng KPI. Nếu học khóa ngắn hạn thì học phí khoảng 5–15 triệu đồng tùy nơi, khóa 2–4 tháng. Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1–2 năm: đồ nghề đầy đủ, linh kiện dự trữ, xe chở đồ.
+Đi làm thuê thì vốn gần như bằng 0: xin làm thợ phụ, cửa hàng có đồ nghề, bạn chỉ cần thời gian đi học việc. Tin tuyển tra ngày 23/11/2026 cho thấy thợ phụ lương 7–9 triệu một tháng (NACADIVI 7–9 triệu; Việt Fix 7–8 triệu), vị trí kỹ thuật viên bảo hành dưới 1 năm kinh nghiệm lương cứng 10–13 triệu cộng KPI. Nếu học khóa ngắn hạn thì học phí khoảng 5–15 triệu đồng tùy nơi, khóa 2–4 tháng. Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1–2 năm: đồ nghề đầy đủ, linh kiện dự trữ, xe chở đồ.
 
 **Nghề này có theo mùa như thợ điều hòa không?**
 
@@ -388,7 +429,7 @@ Câu hook chung mọi clip: **"Dev bị layoff thì làm gì?"** + số tập. 6
 
 File kịch bản: `tiktok/kich-ban-reel-thu-4.md` — 149 từ, sườn 6 đoạn, hoạt hình flat 2D, dọc 1080x1920, 30fps, 40–45s, giọng Dapper Cuff tốc độ 100.
 
-Hook: "Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần: thợ sửa điện gia dụng." Tóm tắt: Context (máy giặt không vắt, tủ lạnh không lạnh, thợ đo vài chỗ là biết bệnh) → 3 ý giá trị (học 2–4 tháng là cầm đồ nghề đi làm được, theo ước lượng trong nghiên cứu; tra AI từ mã lỗi, báo giá nháp từ ảnh tem máy; an toàn điện phải học lại) → Payoff: "Layoff rồi, giờ làm gì? Có người đổi sang nghề mà hỏng là khách gọi ngay." CTA: comment "1" nếu đã từng nghĩ tới nghề này, "2" nếu chưa; bài đầy đủ ở bài ghim, tuần sau thợ khóa.
+Hook: "Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần: thợ sửa điện gia dụng." Tóm tắt: Context (máy giặt không vắt, tủ lạnh không lạnh, thợ chính đo vài chỗ là biết bệnh) → 3 ý giá trị (học 2–4 tháng là làm được việc phụ và lỗi đơn giản, theo ước lượng trong nghiên cứu; tra AI từ mã lỗi, báo giá nháp từ ảnh tem máy; an toàn điện phải học lại) → Payoff: "Layoff rồi, giờ làm gì? Có người đổi sang nghề mà hỏng là khách gọi ngay." CTA: comment "1" nếu đã từng nghĩ tới nghề này, "2" nếu chưa; bài đầy đủ ở bài ghim, tuần sau thợ khóa.
 
 Lưu ý: file này chỉ là kịch bản, chưa render video. Render theo quy trình `suon-chung-video.md` mục 5, Ngoc duyệt rồi mới đăng.
 
@@ -396,7 +437,7 @@ Lưu ý: file này chỉ là kịch bản, chưa render video. Render theo quy t
 
 # Clip TikTok Thứ 2 — Tập 1: Tối thứ 2, máy giặt không vắt
 
-"Dev bị layoff thì làm gì? Tập 1. Tối thứ 2, máy giặt nhà anh ấy không vắt, quần áo ướt sũng trong lồng. Anh ấy gọi thợ. Thợ tới mở máy ra, đo vài chỗ rồi nói: dây curoa đứt, thay là chạy. Mười lăm phút, máy chạy lại. Tối đó, anh ấy mở tin tuyển thợ sửa điện gia dụng: thợ phụ 6 đến 9 triệu một tháng, kỹ thuật viên bảo hành lương cứng 10 đến 13 triệu cộng KPI. Nhà nào cũng có máy giặt, tủ lạnh. Hỏng là gọi ngay. Nghề này sống được không? Tối nay 19 giờ trên YouTube, mình kể hết."
+"Dev bị layoff thì làm gì? Tập 1. Tối thứ 2, máy giặt nhà anh ấy không vắt, quần áo ướt sũng trong lồng. Anh ấy gọi thợ. Thợ tới mở máy ra, đo từng chỗ theo quy trình rồi nói: dây curoa đứt, thay là chạy. Thợ chính làm lâu năm mới đoán nhanh được như vậy. Tối đó, anh ấy mở tin tuyển thợ sửa điện gia dụng: thợ phụ 7 đến 9 triệu một tháng, kỹ thuật viên bảo hành lương cứng 10 đến 13 triệu cộng KPI. Nhà nào cũng có máy giặt, tủ lạnh. Hỏng là gọi ngay. Nghề này sống được không? Tối nay 19 giờ trên YouTube, mình kể hết."
 
 ### 5.2. Tập 2 — Thứ 3
 
@@ -432,7 +473,7 @@ Lưu ý: file này chỉ là kịch bản, chưa render video. Render theo quy t
 
 # Clip TikTok — Tập 7 (ngoại truyện): Học nghề sửa điện gia dụng ở đâu, học phí bao nhiêu từ Bắc đến Nam?
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Ở Hà Nội, khóa 3 tới 6 tháng khoảng 5 triệu, có chỗ 10 triệu. Vào Đà Nẵng, khóa 44 buổi 13 triệu, khóa 51 buổi 15 triệu, có chỗ dạy miễn phí. Xuống Sài Gòn, khóa 2 tới 4 tháng khoảng 8 triệu, giá ưu đãi. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong là cầm đồ nghề đi làm được ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Ở Hà Nội, khóa 3 tới 6 tháng khoảng 5 triệu, có chỗ 10 triệu. Vào Đà Nẵng, khóa 44 buổi 13 triệu, khóa 51 buổi 15 triệu, có chỗ dạy miễn phí. Xuống Sài Gòn, khóa 2 tới 4 tháng khoảng 8 triệu, giá ưu đãi. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong khóa ngắn chỉ làm được việc phụ và lỗi đơn giản thôi — nhận ca độc lập thì cần 6 tới 12 tháng vừa học vừa làm thật. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ---
 
@@ -454,7 +495,7 @@ File checklist đầy đủ: `Info/checklist-30-ngay.md`.
 - Đủ 8 mục, mỗi mục có nguồn/ngày hoặc ghi rõ "chưa có số liệu" — thu nhập thợ tự làm theo tháng: Chưa có số liệu; lương thợ sửa điện gia dụng tại Cần Thơ: Chưa có số liệu; học phí Nam Việt Gò Vấp: chưa tìm thấy công khai.
 - Phân tích nhu cầu đã đếm thật (TopCV 7 tin tìm thấy, VietnamWorks 5 tin liên quan / 0 tin thợ gia dụng dân dụng; Facebook, Google Maps, TikTok chưa đếm được — ghi rõ lý do).
 - Hook Thứ 2 và hook reel đều nhắc layoff + tên nghề trong 3 giây đầu.
-- 4 việc thật trong bài thực hành tìm thấy ngày 23/11/2026 — kiểm tra lại hạn trước ngày đăng 11/12/2026, tin hết hạn thì thay bằng tin khác, không đăng tin hết hạn. Tin JobsGo Tiệm Sửa Nhanh Sài Gòn hết hạn 06/12/2026, KHÔNG dùng.
+- 4 việc thật trong bài thực hành tìm thấy ngày 23/11/2026 — kiểm tra lại hạn trước ngày đăng 11/12/2026, tin hết hạn thì thay bằng tin khác, không đăng tin hết hạn. Tin JobsGo Tiệm Sửa Nhanh Sài Gòn hết hạn 06/12/2026, KHÔNG dùng. Lưu ý: hạn ứng tuyển của 4 tin TopCV không hiện trong bản text — bắt buộc bấm vào từng link trước ngày đăng để xem hạn; tin dự phòng: Việt Fix (thợ phụ 7–8 triệu), Đức Tín (JobsGO, 4–12 triệu, khoảng rộng chỉ để đối chiếu).
 - CV trước/sau đã sửa đúng nghề, không để sót thông tin dev không liên quan.
 - Reel đúng sườn `suon-chung-video.md` (flat 2D, Dapper Cuff tốc độ 100, 40–45s, 149 từ) — kịch bản xong, chưa render video.
 - Nghề thuộc nhóm A trong pool: làm thuê vẫn có thể bị layoff, làm tự do thì rủi ro là không có khách — không trình bày nghề này như nơi an toàn tuyệt đối.

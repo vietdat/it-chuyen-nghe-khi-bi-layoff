@@ -14,7 +14,7 @@
 |---|---|---|---|---|---|---|---|
 | Thứ 2 08/03 | TikTok | — | Clip teaser 15–30s | TOFU | Teaser kéo sang video dài tối Thứ 2 | 9 giờ tối, nhà có tiệc ngày mai, muỗi bay đầy nhà, khách gọi thợ phun gấp | Xem video đầy đủ trên YouTube tối nay 19 giờ |
 | Thứ 2 08/03 | YouTube | 19:00 | Video dài 5–10 phút | MOFU | Thợ diệt côn trùng — Dev bị layoff chuyển sang được không? (đủ 8 mục) | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? | Xem hết video rồi comment nghề bạn muốn nghe tuần sau |
-| Thứ 2 08/03 | Facebook | 20:00 | Bài viết dài | MOFU | Thợ diệt côn trùng — bản đầy đủ 8 mục (lưu lại) | Muỗi bay đầy nhà, gián chạy trong bếp, mối ăn tủ gỗ. Thợ tới nhìn 5 phút là biết xử lý từ đâu. | Lưu bài này lại, comment "Diệt côn trùng" để nhận checklist 30 ngày |
+| Thứ 2 08/03 | Facebook | 20:00 | Bài viết dài | MOFU | Thợ diệt côn trùng — bản đầy đủ 8 mục (lưu lại) | Muỗi bay đầy nhà, gián chạy trong bếp, mối ăn tủ gỗ. Thợ khảo sát rồi mới biết xử lý từ đâu. | Lưu bài này lại, comment "Diệt côn trùng" để nhận checklist 30 ngày |
 | Thứ 3 09/03 | TikTok | 12:00 | Clip 15–30s (cắt từ video dài) | TOFU | 1 lỗi hay gặp nhất khi mới vào nghề diệt côn trùng | Phun xong 1 tuần, muỗi quay lại. Khách gọi lại, giọng bực. | Follow để xem clip #2 |
 | Thứ 3 09/03 | Facebook | — | Bài tương tác ngắn (poll) | Retention | Sau layoff, bạn đang ở bước nào? (4 lựa chọn) | Bị layoff rồi, bạn không cô đơn đâu | Comment số của bạn bên dưới |
 | Thứ 3 09/03 | — (chuẩn bị) | — | Chuẩn bị reel Thứ 4 + trả lời comment bài Thứ 2 | — | Reel "3 kỹ năng mang sang + 3 học lại" theo sườn video chung | — | — |
@@ -38,5 +38,5 @@
 
 ## Lưu ý riêng tuần này
 
-- Tin tuyển trong bài thực hành Thứ 6 được tìm thấy ngày 23/11/2026, còn ngày đăng bài là 12/03/2027 — cách nhau gần 4 tháng. Trước khi đăng ngày 12/03, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn.
+- Tin tuyển trong bài thực hành Thứ 6 được tìm thấy ngày 23/11/2026, còn ngày đăng bài là 12/03/2027 — cách nhau gần 4 tháng. **Tin tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 12/03/2027 — PHẢI tra lại sát ngày đăng.** Trước khi đăng ngày 12/03, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Cách tìm tin thay thế: TopCV, Vieclamtot; từ khóa "kiểm soát côn trùng", "diệt côn trùng", "phun thuốc diệt côn trùng"; tiêu chí: còn hạn sau 12/03/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm".
 - Học phí khóa học: ngày 23/11/2026 không tìm thấy khóa kiểm soát côn trùng nào có học phí công khai ở cả 3 miền (VPMA ghi "[To be updated]"). Trong bài đăng, nói rõ đường vào chính là công ty đào tạo từ đầu có hưởng lương, không bịa học phí khóa học.

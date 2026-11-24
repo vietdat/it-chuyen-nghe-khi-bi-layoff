@@ -1,11 +1,11 @@
 # Bài viết dài Facebook Thứ 2 - Dev bị layoff chuyển sang làm thợ điều hòa được không?
 
 - Đăng: Thứ 2 30/11/2026, 20:00, Facebook
-- Dạng: bài viết dài, đủ 8 mục, viết để lưu lại được
+- Dạng: bài viết dài, đủ 12 mục, viết để lưu lại được
 - Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026)
 - Giọng: nói với "bạn", không liệt kê Một/Hai/Ba, không bịa số liệu
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: thợ điều hòa.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề bắt đầu bằng làm thợ phụ có lương, rồi 6 tới 12 tháng mới làm độc lập được: thợ điều hòa.
 
 Điều hòa chạy cả đêm, phòng vẫn nóng. Thợ tới nhìn năm phút rồi nói: hết gas, châm thêm là mát. Năm phút mà biết ngay bệnh. Bài này nói hết về nghề thợ lắp đặt và sửa điều hòa: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
@@ -47,13 +47,13 @@ Còn học ở đâu thì có 3 đường đi.
 
 Đường nhanh nhất là xin làm thợ phụ hoặc học việc tại cửa hàng điện lạnh. Nhiều nơi không thu học phí, còn trả phụ cấp. Bạn học trên công trình thật, 3-12 tháng.
 
-Đường thứ hai là khóa sơ cấp nghề, 3-6 tháng, học phí khoảng 6-10 triệu đồng. Khóa tại 451 Hoàng Quốc Việt, Cầu Giấy, Hà Nội, 6 triệu 1 khóa, học xong được cấp chứng chỉ sơ cấp. Trung tâm Dạy nghề Thanh Xuân ở Xa La, Hà Đông, khóa 6 tháng, học phí 10 triệu 1 khóa. Nhưng 2 nguồn của cùng trung tâm Thanh Xuân ghi học phí khác nhau, nên bạn gọi hỏi lại trước khi đóng tiền.
+Đường thứ hai là khóa sơ cấp nghề, 3-6 tháng, học phí khoảng 6-10 triệu đồng. Khóa tại 451 Hoàng Quốc Việt, Cầu Giấy, Hà Nội, 6 triệu 1 khóa, học xong được cấp chứng chỉ sơ cấp. Trung tâm Dạy nghề Thanh Xuân ở Xa La, Hà Đông, khóa 6 tháng, số chuẩn dùng trong bài là 10 triệu 1 khóa (trang hiện tại của trung tâm đang công khai). Nhưng các trang khác của cùng trung tâm ghi khác nhau: hệ sơ cấp 14,9 triệu, trung cấp 19,9 triệu, trang cũ ghi 12,5 triệu, trang .edu.vn cũ ghi 9,5 triệu. Cả 5 số đều ghi đủ trong file nghiên cứu để đối chiếu. Gọi xác nhận lại học phí trước khi đăng và trước khi đóng tiền.
 
 Đường thứ ba là học trung cấp hoặc cao đẳng ngành kỹ thuật máy lạnh, 1,5-3 năm, có bằng. Đường này hợp với người trẻ muốn làm kỹ sư HVAC cho công ty, còn ai muốn đi làm nhanh thì chọn đường thợ phụ hoặc khóa sơ cấp.
 
 **Career path**
 
-0-3 tháng đầu, bạn học và làm phụ, lương thợ phụ khoảng 7-8 triệu một tháng. 3-6 tháng thì làm chính, có khách quen, lương thợ chính khoảng 9-14 triệu. 6-12 tháng, lên tay nghề, nhận job độc lập, thu nhập thêm hoa hồng theo job. Sau 1-2 năm, có người mở tiệm nhỏ hoặc nhận khách riêng, rồi dạy lại cho thợ mới. Mấy mốc này là ước lượng thôi, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+0-3 tháng đầu, bạn học và làm phụ, lương thợ phụ khoảng 7-8 triệu một tháng. 3-6 tháng thì làm chính: tự vệ sinh trọn vẹn 1 job, lắp đặt có người kèm, lương thợ chính khoảng 9-14 triệu. 6-12 tháng, lắp đặt và bảo dưỡng độc lập, nhận job có hoa hồng theo job. Sau 1,5-3 năm mới tới nấc sửa chữa: tự bắt bệnh, sửa board inverter. Sau 1-2 năm, có người mở tiệm nhỏ hoặc nhận khách riêng, rồi dạy lại cho thợ mới. Mấy mốc này là ước lượng thôi, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần. Nói thẳng: học xong khóa ngắn hạn chỉ làm được việc phụ và vệ sinh, không phải cầm đồ nghề đi làm độc lập được ngay.
 
 **Tìm việc, tìm khách đầu tiên ở đâu**
 
@@ -72,5 +72,25 @@ Còn số cũ trong nghiên cứu trước: trung tâm nói trung bình 7-10 tri
 **Rủi ro thật**
 
 Mùa vụ rõ rệt nhất. Mùa nóng kín lịch, mùa lạnh ít việc. Leo cao, làm ngoài trời nắng là chuyện thường ngày. Điện và gas thì làm sai có thể chập điện, rò gas, nên phải học an toàn trước khi đụng vào máy thật. Giờ giấc thất thường, khách gọi gấp là đi, làm tối, làm cuối tuần. Nghề này làm ra tiền bằng tay, theo mùa, và phải xây khách quen dần. Không có chuyện chắc chắn có việc hay làm giàu nhanh.
+
+**Lộ trình học theo tuần/tháng**
+
+Tuần đầu: học an toàn điện và môi chất lạnh, liệt kê 5 cửa hàng gần nhà, đi xin làm thợ phụ ở 2-3 chỗ. Tháng đầu: đi theo thợ chính, tự vệ sinh 1 máy có người kèm, ghi sổ 10 lỗi hay gặp. Tháng 2: học bảng giá cửa hàng, tập báo giá từ ảnh khách gửi, làm file nhắc khách 6 tháng sau. Tháng 3: tự vệ sinh trọn vẹn, xin lên lắp đặt có người kèm — chưa nhận khách riêng. Sau 6 tháng: lắp đặt, bảo dưỡng độc lập. Sau 1,5-3 năm: tự bắt bệnh, sửa board inverter. Học xong khóa ngắn hạn chỉ làm được việc phụ, 6-12 tháng mới làm độc lập.
+
+**Thử nghề trước khi đóng học phí**
+
+Đừng đóng học phí lớn hay nghỉ việc trước khi thử. Xin đi theo thợ chính 1 ngày để xem việc thật: leo thang, nắng nóng, khách ra sao. Rồi xin làm thợ phụ thử 1-2 tuần — nhiều nơi nhận người chưa biết việc, vẫn trả lương 7-8 triệu một tháng. Đánh giá sau 2 tuần làm phụ: tiếp tục nếu bạn chịu được leo thang, nắng nóng, giờ giấc thất thường và tự vệ sinh được 1 máy có người kèm; dừng lại nếu sợ độ cao tới mức không dám trèo thang, hoặc không chịu được làm ngoài trời. Chưa có khóa nào ghi học thử miễn phí để giới thiệu ở đây — đã tra ngày 23/11/2026, không nơi nào ghi.
+
+**Chi phí khởi điểm**
+
+Đi làm thuê thì vốn gần như bằng 0, cửa hàng có đồ nghề. Tự mua đủ bộ để làm độc lập (máy hút chân không, đồng hồ sạc gas, thang nhôm, máy khoan, đồng hồ vạn năng, máy xịt rửa vệ sinh): khoảng 10.438.000đ theo giá 1 model cụ thể tìm được công khai ngày 23/11/2026 — chưa gồm pin + sạc máy khoan, gas/ống đồng và bộ dụng cụ cầm tay (chưa có số liệu). Cộng học phí nấc chuẩn Thanh Xuân 10 triệu thì tổng khởi điểm là 20.438.000đ, chưa tính tiền dự phòng sinh hoạt 2 tháng đầu (chưa có số liệu — các nguồn tìm được đều là bảng chi phí cho người nước ngoài, không áp dụng được). Mở tiệm riêng sau 1-2 năm thì đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã (phường/xã nơi đặt tiệm) hoặc nộp trực tuyến bằng VNeID, lệ phí 0 đồng khi nộp trực tuyến, giải quyết trong 03 ngày làm việc.
+
+**Kết luận**
+
+Nghề này hợp với người chịu được lao động tay chân, leo cao, nắng nóng, chấp nhận thu nhập tháng đầu chỉ 7-8 triệu và mùa lạnh ít việc. Không hợp với người cần thu nhập ổn định ngay tháng đầu, sợ độ cao, hay muốn giờ giấc cố định. Với dân IT, đường đúng là đi làm thuê trước, học trên công trình thật, dùng lợi thế báo giá từ ảnh và nhắc khách đúng hẹn để giữ khách — chứ không phải học vài tháng rồi mở tiệm ngay. Bị layoff không phải hết nghề — mà là cơ hội bắt đầu một nghề mới. Nhưng bắt đầu đúng nghĩa là bắt đầu từ thợ phụ.
+
+**Nguồn tham khảo**
+
+Mọi số trong bài tra cứu ngày 23/11/2026, nguồn đầy đủ trong `Info/nghien-cuu-thi-truong.md` mục 11 (tin tuyển TopCV/Joboko/Vieclamtot, bảng học phí Thanh Xuân/Hướng Nghiệp Á Âu/HPcom/JUN OPEN, lộ trình Nambin.com, giá dụng cụ, thủ tục hộ kinh doanh theo Nghị định 168/2025/NĐ-CP). Số nào chưa có thì bài ghi rõ "Chưa có số liệu", không bịa.
 
 Lưu bài này lại, comment "Thợ điều hòa" để nhận checklist 30 ngày đầu làm thợ điều hòa. Tuần sau mình nói về thợ sửa điện gia dụng.

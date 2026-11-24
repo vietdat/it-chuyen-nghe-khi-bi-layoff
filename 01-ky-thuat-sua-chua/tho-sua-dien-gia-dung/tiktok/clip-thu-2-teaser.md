@@ -7,13 +7,13 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 1. Tối thứ 2, máy giặt nhà anh ấy không vắt, quần áo ướt sũng trong lồng. Anh ấy gọi thợ. Thợ tới mở máy ra, đo vài chỗ rồi nói: dây curoa đứt, thay là chạy. Mười lăm phút, máy chạy lại. Tối đó, anh ấy mở tin tuyển thợ sửa điện gia dụng: thợ phụ 6 đến 9 triệu một tháng, kỹ thuật viên bảo hành lương cứng 10 đến 13 triệu cộng KPI. Nhà nào cũng có máy giặt, tủ lạnh. Hỏng là gọi ngay. Nghề này sống được không? Tối nay 19 giờ trên YouTube, mình kể hết."
+"Dev bị layoff thì làm gì? Tập 1. Tối thứ 2, máy giặt nhà anh ấy không vắt, quần áo ướt sũng trong lồng. Anh ấy gọi thợ. Thợ tới mở máy ra, đo từng chỗ theo quy trình rồi nói: dây curoa đứt, thay là chạy. Thợ chính làm lâu năm mới đoán nhanh được như vậy. Tối đó, anh ấy mở tin tuyển thợ sửa điện gia dụng: thợ phụ 7 đến 9 triệu một tháng, kỹ thuật viên bảo hành lương cứng 10 đến 13 triệu cộng KPI. Nhà nào cũng có máy giặt, tủ lạnh. Hỏng là gọi ngay. Nghề này sống được không? Tối nay 19 giờ trên YouTube, mình kể hết."
 
 ## Chữ trên màn hình
 
 - 0–3s: "Dev bị layoff thì làm gì? — Tập 1"
 - 3–15s: "Máy giặt không vắt, thợ tới 15 phút biết bệnh"
-- 15–25s: "Thợ phụ: 6–9 triệu/tháng"
+- 15–25s: "Thợ phụ: 7–9 triệu/tháng"
 - 25–30s: "Video đầy đủ: YouTube 19h — Facebook 20h"
 
 ## CTA

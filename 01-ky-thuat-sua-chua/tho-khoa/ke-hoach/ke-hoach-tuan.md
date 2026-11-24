@@ -21,8 +21,8 @@
 | Thứ 4 16/12 | TikTok / Reels / Shorts | 20:00 | Reel 40–45s (hoạt hình flat 2D) | TOFU | Dev bị layoff đi làm thợ khóa: 3 thứ mang theo được, 3 thứ phải học lại | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? | Comment "1" nếu bạn đã từng nghĩ tới nghề này, "2" nếu chưa bao giờ nghĩ tới |
 | Thứ 5 17/12 | TikTok | 12:00 | Clip 15–30s (cắt từ video dài) | TOFU | Lợi thế IT khi làm thợ khóa: báo giá từ ảnh ổ khóa khách gửi | 11 giờ đêm, khách nhắn: khóa cửa kẹt, báo giá giúp em | Follow để xem clip #3 |
 | Thứ 5 17/12 | Facebook | — | Bài mẹo ngắn | MOFU | Trước khi gọi thợ khóa lúc nửa đêm: 3 việc làm trước để khỏi mất tiền oan | Khóa cửa kẹt lúc nửa đêm, bạn gọi thợ ngay hay kiểm tra 3 thứ này trước? | Lưu bài này lại để lúc cần mở ra xem |
-| Thứ 5 17/12 | — (chuẩn bị) | — | Chuẩn bị bài thực hành Thứ 6 + trả lời inbox | — | Tìm 3 việc thật, CV trước/sau, checklist 30 ngày | — | — |
-| Thứ 6 18/12 | Facebook | 12:00 | Carousel / bài viết | MOFU | Thực hành: 3 việc thật đang tuyển + CV mẫu trước/sau + nơi tìm việc/khách + checklist 30 ngày đầu | 3 việc thật đang cần thợ khóa / kỹ thuật khóa (kèm nguồn + ngày đăng) | Lưu carousel này, comment "checklist" để nhận file checklist |
+| Thứ 5 17/12 | — (chuẩn bị) | — | Chuẩn bị bài thực hành Thứ 6 + trả lời inbox | — | Tìm 1 việc thật còn hạn + cách tìm việc ngoài sàn, CV trước/sau, checklist 30 ngày | — | — |
+| Thứ 6 18/12 | Facebook | 12:00 | Carousel / bài viết | MOFU | Thực hành: 1 việc thật còn hạn + cách tìm việc ngoài sàn + CV mẫu trước/sau + nơi tìm việc/khách + checklist 30 ngày đầu | 1 việc thật còn hạn + cách tìm việc ngoài sàn (kèm nguồn + ngày đăng) | Lưu carousel này, comment "checklist" để nhận file checklist |
 | Thứ 6 18/12 | TikTok | 20:00 | Video ngắn 30s | BOFU | Checklist 30 ngày đầu làm thợ khóa — tóm tắt 30 giây | Sáng thứ 2 đầu tiên đi làm thợ phụ khóa, bạn đứng trước cửa nhà khách, không biết bắt đầu từ đâu | Comment "checklist" để nhận file đầy đủ |
 | Thứ 7 19/12 | TikTok | 19:00 | Clip 15–30s (cắt từ video dài) | TOFU | Sự thật phũ khi làm thợ khóa: khách chỉ tin thợ khi đã mở được khóa | Khách đứng nhìn bạn mở khóa, tay ôm túi, mắt không rời khỏi ổ khóa | Comment nghề bạn muốn nghe tuần sau: thợ sửa xe máy |
 | Thứ 7 19/12 | Facebook | — | Bài teaser cuối tuần | Retention | Tóm tắt tuần + hé nghề tuần sau (thợ sửa xe máy) | Tuần này mình nói về thợ khóa... tuần sau là nghề xe máy nào cũng cần | Comment nghề bạn muốn nghe sau thợ sửa xe máy |
@@ -33,7 +33,7 @@
 
 ## Lưu ý trước khi đăng bài thực hành Thứ 6 (18/12)
 
-- 3 việc thật trong bài thực hành được tìm thấy ngày 23/11/2026. Chỉ có 1 tin còn hạn rõ ràng tới 31/12/2026 (Joboko — kỹ thuật lắp đặt máy chấm công, khóa từ). 2 tin TopCV (CETS, Elecom) cần kiểm tra lại link trước ngày đăng 18/12 — tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV / Joboko, không đăng tin hết hạn.
+- 1 việc thật còn hạn trong bài thực hành được tìm thấy ngày 23/11/2026 (Joboko — kỹ thuật lắp đặt máy chấm công, khóa từ, còn hạn tới 31/12/2026). 2 tin TopCV (CETS, Elecom) đã hiển thị "Hết hạn ứng tuyển" khi kiểm chứng lại ngày 23/11/2026 (buổi trưa) — không dùng làm việc thật, chỉ tham khảo lương; bài thực hành đổi thành "1 việc thật + cách tìm việc ngoài sàn" (hỏi trực tiếp tiệm khóa gần nhà, Group cư dân/Zalo khu vực, làng khóa Tương Chúc). Trước ngày đăng 18/12, mở lại link Joboko kiểm tra xem tin còn hạn không — tin hết hạn thì thay bằng tin khác đang mở trên TopCV / Joboko, không đăng tin hết hạn.
 - Tin tuyển thợ khóa cơ truyền thống gần như không có trên sàn — nếu không tìm được tin mới, thay bằng hướng dẫn xin học việc tại tiệm khóa gần nhà + link tin khóa điện tử đang mở.
 
 ## Tỉ lệ tuần

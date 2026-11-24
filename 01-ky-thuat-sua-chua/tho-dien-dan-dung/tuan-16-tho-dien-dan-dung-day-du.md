@@ -32,7 +32,12 @@
 
 ## Nhu cầu (đếm ngày 23/11/2026)
 
-- TopCV tìm thấy 10 tin liên quan tới thợ điện (1 tin đã hết hạn); VietnamWorks tìm thấy 7 tin liên quan, 0 tin thợ điện nhà ở thuần — toàn bảo trì nhà máy / công trình. Đây là số tin tìm thấy qua tìm kiếm, KHÔNG phải tổng toàn sàn.
+- TopCV tìm thấy 10 tin liên quan tới thợ điện, nhưng 2 tin đã hết hạn (Tài Tâm Hà Nội, Hoàng Hà Hapollo Đà Nẵng), 1 tin là thợ điện lạnh (Máy Lạnh 365), 1 tin là lắp đặt hệ thống xử lý nước (Đông Vinh, tách riêng) — thực chất chỉ còn **6 tin điện nhà ở / điện công trình dùng được**; VietnamWorks tìm thấy 7 tin liên quan, 0 tin thợ điện nhà ở thuần — toàn bảo trì nhà máy / công trình. Đây là số tin tìm thấy qua tìm kiếm, KHÔNG phải tổng toàn sàn.
+
+### Tin tuyển — PHẢI tra lại sát ngày đăng (đăng 19/03/2027)
+
+- **Cảnh báo hết hạn:** 3 tin thực hành trong tuần này (THE TIME DECOR 9–12tr; Minh Đạt 12–16tr; Đại Dương V.N 10–16tr) đều tra ngày **23/11/2026**, còn ngày đăng bài là **19/03/2027** — cách nhau gần 4 tháng. **Gần như chắc chắn các tin này đã hết hạn trước ngày đăng — PHẢI tra lại sát ngày đăng, không đăng tin hết hạn.**
+- **Cách tìm tin thay thế sát ngày đăng (làm trước 19/03/2027):** (1) Mở TopCV, tìm từ khóa "thợ điện", "thợ điện dân dụng", "kỹ thuật viên điện", "thợ điện nước" — lọc tin còn hạn sau 19/03/2027, ưu tiên tin ghi "dưới 1 năm kinh nghiệm" hoặc "không yêu cầu kinh nghiệm", ghi lương rõ. (2) Mở Vieclamtot, tìm "thợ điện" theo khu vực TP.HCM / Hà Nội / Đà Nẵng. (3) Mở Sàn Việc làm Đà Nẵng (vieclamdanang.edu.vn) và Sàn Việc làm Cần Thơ (sanvieclamcantho.com) cho 2 thành phố này. (4) Hỏi trực tiếp đội thợ điện / cửa hàng điện nước gần nhà — nhiều đội tuyển thợ phụ qua hỏi trực tiếp, không đăng sàn. (5) Tiêu chí tin thay thế: còn hạn sau ngày đăng, ghi lương, ghi yêu cầu kinh nghiệm rõ ràng; tin nào là hệ thống xử lý nước hay điện lạnh thì tách riêng, không gộp vào điện nhà ở.
 - Facebook, Google Maps, TikTok: chưa đếm được — cần đếm thủ công trước Thứ 2 (15/03/2027), ghi rõ trong file nghiên cứu đầy đủ.
 - Theo thành phố: TP.HCM tuyển nhiều nhất trên TopCV (5 tin, lương 9–18 triệu, nhiều tin dưới 1 năm kinh nghiệm hoặc không yêu cầu kinh nghiệm); Hà Nội tuyển đều (lương 8–16 triệu); Đà Nẵng ít tin hơn (lương 7–15 triệu, qua Vieclamtot và sàn địa phương, có tin ghi đến 20 triệu); Cần Thơ chưa tìm thấy tin riêng cho điện nhà ở (khoảng trống số liệu, không phải bằng chứng không có việc).
 
@@ -42,11 +47,11 @@
 - Bắc (Hà Nội): CĐ Duyên Hải, 451 Hoàng Quốc Việt — khóa Nghề Điện Dân Dụng 3–6 tháng, 5.000.000đ/khóa. Thanh Xuân hệ cao đẳng 6 tháng 36.650.000đ (nộp lẻ) / 36.000.000đ (nộp 1 lần) — hệ cao đẳng, không phải khóa ngắn hạn.
 - Trung (Đà Nẵng): Hướng Nghiệp Á Âu — KTV Điện dân dụng, 44 buổi, 13.000.000đ/khóa.
 - Nam (TP.HCM): Hướng Nghiệp Á Âu — KTV Điện dân dụng, 44 buổi, 13.000.000đ/khóa. Nam Việt, Gò Vấp — khóa điện nước dân dụng 3 tháng, chưa tìm thấy học phí công khai.
-- Chứng chỉ an toàn điện: Nghị định 44/2016, nhóm 3 (công việc về điện) huấn luyện lần đầu tối thiểu 24 giờ, cấp Thẻ an toàn thời hạn 2 năm; nhóm 4 (học nghề, thử việc) 16 giờ.
+- Chứng chỉ an toàn điện: Nghị định 44/2016, nhóm 3 (công việc về điện) huấn luyện lần đầu tối thiểu 24 giờ, cấp Thẻ an toàn thời hạn 2 năm; nhóm 4 (học nghề, thử việc) 16 giờ. Kết luận: chứng chỉ sơ cấp nghề là giấy tờ giúp xin việc ở công ty/đội thi công và tạo niềm tin với khách, không phải giấy phép hành nghề — đã tra cứu công khai ngày 23/11/2026, không tìm thấy quy định bắt buộc chứng chỉ hành nghề cho thợ điện dân dụng tự do.
 
 ## Lương (tin tuyển thật, tra cứu 23/11/2026)
 
-- Thợ phụ: công theo ngày 150.000–300.000đ khi theo thợ (Nambin); vào công ty ghi không yêu cầu kinh nghiệm thì lương 8–12 triệu/tháng, hoặc thu nhập 10–18 triệu/tháng.
+- Thợ phụ: công theo ngày 150.000–300.000đ khi theo thợ (Nambin); vào công ty ghi không yêu cầu kinh nghiệm thì lương 8–12 triệu/tháng (SEEN Hà Nội). Tin Đông Vinh ghi thu nhập 10–18 triệu/tháng là lắp đặt hệ thống xử lý nước, không phải điện nhà ở — tách riêng, không dùng làm lương thợ điện nhà ở.
 - Thợ chính / kỹ thuật viên điện dân dụng: lương cứng 9–12 triệu, thu nhập 10–16 triệu, lương 13–18 triệu tùy công ty, lương cứng 16 triệu nếu làm điện công trường ở Hà Nội.
 - Giá 1 hạng mục khách trả (tham khảo 2026): nhân công điện nhà mới đi âm 70.000–130.000đ/m² sàn; lắp thêm ổ cắm, công tắc 30.000–80.000đ/điểm; công khảo sát 100.000–300.000đ/lần; thay tủ điện 300.000–800.000đ/tủ.
 - Thu nhập thợ tự nhận khách riêng theo tháng: Chưa có số liệu.
@@ -55,6 +60,45 @@
 ## Rủi ro thật
 
 - Điện giật là rủi ro lớn nhất: đo sai 1 chỗ, cắt nhầm CB là giật. Làm sai thì cháy nhà, không chỉ hỏng đồ — lỗi nằm trong tường nhà khách, sự cố lộ sau vài tháng. Làm việc trên cao, trong không gian chật, theo tiến độ xây dựng. Khách không thấy được việc trong tường nên uy tín nằm ở đo kiểm, dán nhãn từng mạch, và quay lại khi khách gọi. Làm thuê vẫn có thể bị layoff (nhóm A); làm tự do thì rủi ro là không có khách.
+
+## Lộ trình học tóm tắt (mục 6 file nghiên cứu)
+
+- **Tuần đầu:** học an toàn điện và quy trình cắt điện trước khi đụng vào tủ điện thật; liệt kê 5 đội thợ điện gần nhà; đi xin làm thợ phụ ở 2–3 chỗ, hỏi rõ công theo ngày và ai kèm mình.
+- **Tháng đầu:** đi theo thợ chính, chỉ làm việc phụ (phụ đi dây, kéo dây, giữ thang, đưa đồ nghề); tự lắp 1 ổ cắm và 1 công tắc có người kèm; ghi sổ 10 lỗi hay gặp.
+- **Tháng 2:** học bảng giá của đội, tập báo giá từ ảnh tủ điện và sơ đồ nhà khách gửi, làm file nhắc khách kiểm tra định kỳ.
+- **Tháng 3:** tự lắp ổ cắm, công tắc độc lập có người kiểm tra lại; xin đi điện 1 phòng có người kèm.
+- Mốc thợ phụ có công khoảng 3–6 tháng; thợ chính (tự làm trọn điện một căn nhà) thường sau 1,5–3 năm; thợ cả (điện 3 pha, máy bơm, điện mặt trời) thường từ năm thứ 3–5 trở lên (Nambin.com).
+
+## Thử nghề (mục 7 file nghiên cứu)
+
+- **Theo thợ 1 ngày:** xin đi theo 1 thợ chính / đội thợ điện gần nhà 1 ngày để xem công việc thật. Chi phí: 0 đồng.
+- **Xin làm phụ thử 1–2 tuần:** xin làm thợ phụ thử trước khi đóng học phí khóa ngắn hạn — xem mình có chịu được đứng cả ngày, leo thang, chui gầm cầu thang, bụi, ồn công trình, làm tối, làm cuối tuần không. Nhiều đội nhận thợ phụ không yêu cầu kinh nghiệm, công theo ngày 150.000–300.000đ.
+- **Học thử:** Chưa có số liệu về khóa nào cho học thử miễn phí — đã tra các trang trung tâm ngày 23/11/2026, không nơi nào ghi "học thử miễn phí".
+- **Làm thử quy mô nhỏ:** sau 1 tháng làm phụ, tự làm 1 job nhỏ trọn vẹn có thợ chính kiểm tra lại.
+- **Tiêu chí dừng/tiếp — đánh giá sau 2 tuần làm phụ và sau 1 tháng:** tiếp tục nếu chịu được leo thang, không gian chật, bụi, ồn, giờ giấc thất thường và tự lắp được 1 ổ cắm, 1 công tắc có người kèm; dừng lại nếu sợ điện tới mức không dám chạm vào tủ điện sau khi đã học an toàn điện, hoặc sợ độ cao tới mức không dám trèo thang, hoặc chi phí học + đồ nghề vượt quá tiền dự phòng của bạn.
+
+## Kết luận (mục 8 file nghiên cứu)
+
+- **Ưu điểm:** cửa vào có thật (tin ghi dưới 1 năm kinh nghiệm hoặc không yêu cầu kinh nghiệm, lương 8–16 triệu); việc quanh năm, ít theo mùa rõ rệt; tay nghề thấy kết quả ngay trong ngày; lợi thế IT thật (báo giá từ ảnh tủ điện/sơ đồ nhà, nhắc khách kiểm tra định kỳ, tính lời/lỗ từng job).
+- **Nhược điểm:** điện giật là rủi ro lớn nhất, làm sai thì cháy nhà; làm độc lập cần 6–12 tháng, thợ chính cần 1,5–3 năm — không có đường tắt; khách không thấy được việc trong tường — uy tín nằm ở đo kiểm và quay lại khi khách gọi; nhà xây mới thường giao trọn gói cho đội điện của nhà thầu, thợ mới khó chen vào — cửa vào thực tế hơn là sửa chữa, cải tạo, lắp thêm mạch cho nhà đang ở; làm thuê vẫn có thể bị layoff.
+- **Ai nên thử:** người thích làm bằng tay, chịu được leo thang và không gian chật; chấp nhận thu nhập tháng đầu chỉ công theo ngày 150.000–300.000đ hoặc lương 8–12 triệu; có ít vốn (đi làm thuê thì vốn gần như bằng 0); muốn làm tự do sau 1,5–3 năm.
+- **Ai không nên thử:** người sợ điện hoặc sợ độ cao; muốn giờ giấc cố định, ngồi văn phòng; cần thu nhập ổn định ngay tháng đầu; không đủ tiền dự phòng cho 2 tháng đầu ít việc.
+- **Chứng chỉ hành nghề:** không tìm thấy quy định bắt buộc chứng chỉ hay giấy phép hành nghề cho thợ tự nhận việc điện nhà ở (đã tra cứu công khai ngày 23/11/2026). Chứng chỉ sơ cấp nghề là giấy tờ giúp xin việc ở công ty/đội thi công và tạo niềm tin với khách, không phải giấy phép hành nghề.
+
+## Chi phí khởi điểm (mục 10 file nghiên cứu)
+
+- **A. Dụng cụ / thiết bị:** tổng mức thấp nhất 4.700.000đ (bộ đồ nghề tối thiểu 1,8–4,5 triệu theo Nambin: tua vít cách điện 250–600 nghìn, kìm 300–700 nghìn, bút thử điện 100–300 nghìn, đồng hồ vạn năng 400 nghìn–1,2 triệu — Sanwa CD800A 688.000đ, kìm bấm cos 200–500 nghìn; thang nhôm Hyundai LS-43 1,95 triệu; máy khoan Total TRHLI1601 1,5 triệu thân máy, chưa pin sạc). Đồ bảo hộ và bảo hiểm trách nhiệm: Chưa có số liệu.
+- **B. Học phí:** Duyên Hải 5 triệu (3–6 tháng); Hướng Nghiệp Á Âu 13 triệu (44 buổi); tự học việc theo đội thợ 0đ (có công 150.000–300.000đ/ngày).
+- **C. Dự phòng 2 tháng đầu:** Chưa có số liệu.
+- **D. Tổng cộng (A + B, chưa tính C):** 9.700.000đ cho nấc Duyên Hải (4,7 triệu đồ nghề + 5 triệu học phí). Nấc rẻ nhất (tự học việc 0đ + đồ nghề mức thấp): 4.700.000đ. Nấc Hướng Nghiệp Á Âu (13tr): 17.700.000đ.
+
+## Thủ tục mở tiệm (mục 9 file nghiên cứu)
+
+- Chỉ cần khi mở đội riêng / nhận khách riêng sau 1,5–3 năm. Đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã (hoặc online bằng VNeID mức 2), giải quyết 03 ngày làm việc, lệ phí 0 đồng online / 100.000đ một lần nộp trực tiếp (mức này có thể khác theo địa phương); doanh thu từ 1 tỷ đồng một năm trở xuống không phải nộp thuế GTGT, thuế TNCN (Nghị định 141/2026/NĐ-CP, hiệu lực từ 01/01/2026).
+
+## Nguồn tham khảo (mục 11 file nghiên cứu)
+
+- Bản đầy đủ có link + ngày truy cập + loại nguồn + độ tin cậy trong `Info/nghien-cuu-thi-truong.md` mục 11: tin tuyển TopCV (THE TIME DECOR, Minh Đạt, Đại Dương V.N, SEEN, Đăng Sơn), bảng học phí trung tâm (Duyên Hải, Hướng Nghiệp Á Âu, CET), lộ trình học + giá dụng cụ (Nambin), pháp lý (Nghị định 44/2016, Nghị định 168/2025/NĐ-CP).
 
 # Script video dài Thứ 2 — Dev bị layoff chuyển sang làm thợ điện dân dụng được không?
 
@@ -83,7 +127,7 @@
 
 [Hình: cận cảnh tủ điện trong nhà, CB nhảy xuống, đèn tắt phụt. Chữ trên màn hình: "Cả nhà mất điện: lỗi ở đây"]
 
-"Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần, điện hỏng là khách gọi ngay: thợ điện dân dụng. Chín giờ tối, cả nhà mất điện, tủ lạnh ngừng chạy, CB nhảy liên tục. Thợ tới mở tủ điện ra, đo vài chỗ rồi nói: mạch bếp quá tải, dây cũ chịu không nổi. Mười lăm phút mà biết ngay bệnh. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần, điện hỏng là khách gọi ngay: thợ điện dân dụng. Chín giờ tối, cả nhà mất điện, tủ lạnh ngừng chạy, CB nhảy liên tục. Thợ chính tới mở tủ điện ra, đo từng chỗ theo quy trình rồi nói: mạch bếp quá tải, dây cũ chịu không nổi. Thợ chính làm lâu năm, gặp bệnh này nhiều lần rồi, mới đoán nhanh được như vậy. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30–2:00 — Nghề này là gì, 1 ngày làm việc thật
 
@@ -121,23 +165,23 @@ Nấc thứ ba là thợ cả: nhận được điện 3 pha, máy bơm, điện
 
 Học ở đâu thì có 3 đường. Đường nhanh nhất: xin làm thợ phụ hoặc học việc theo đội thợ điện gần nhà. Nhiều nơi không thu học phí, còn trả công theo ngày 150.000–300.000đ theo Nambin, bạn học trên công trình thật 6–12 tháng. Đường thứ hai: khóa ngắn hạn 3–6 tháng, học phí khoảng 5–13 triệu đồng tùy nơi — ví dụ khóa Nghề Điện Dân Dụng tại 451 Hoàng Quốc Việt, Cầu Giấy, Hà Nội, 3–6 tháng, học phí 5 triệu 1 khóa; khóa Kỹ thuật viên Điện dân dụng của Hướng Nghiệp Á Âu, 44 buổi, 13 triệu 1 khóa, có chi nhánh Hà Nội, Đà Nẵng, TP.HCM, Cần Thơ. Đường thứ ba: học trung cấp hoặc cao đẳng ngành điện, 1–3 năm, có bằng — đường này hợp với người trẻ muốn làm kỹ thuật viên cho công ty, không phải đường nhanh.
 
-Một thứ nữa: chứng chỉ an toàn điện. Theo Nghị định 44/2016, người làm công việc về điện thuộc nhóm 3, huấn luyện lần đầu tối thiểu 24 giờ, được cấp thẻ an toàn có thời hạn 2 năm. Bạn đi làm cho công ty thì công ty tổ chức huấn luyện cho bạn. Bạn làm tự do thì không ai cấp thẻ, nhưng học đúng nội dung nhóm 3 vẫn là cách để bạn làm việc an toàn và được đội thợ tin tưởng."
+Một thứ nữa: chứng chỉ an toàn điện. Theo Nghị định 44/2016, người làm công việc về điện thuộc nhóm 3, huấn luyện lần đầu tối thiểu 24 giờ, được cấp thẻ an toàn có thời hạn 2 năm. Bạn đi làm cho công ty thì công ty tổ chức huấn luyện cho bạn. Chứng chỉ sơ cấp nghề là giấy tờ giúp xin việc ở công ty/đội thi công và tạo niềm tin với khách, không phải giấy phép hành nghề — đã tra cứu công khai ngày 23/11/2026, không tìm thấy quy định bắt buộc chứng chỉ hành nghề cho thợ điện dân dụng tự do. Bạn làm tự do thì không ai cấp thẻ, nhưng học đúng nội dung nhóm 3 vẫn là cách để bạn làm việc an toàn và được đội thợ tin tưởng. Kết luận: chứng chỉ sơ cấp nghề là giấy tờ giúp xin việc ở công ty/đội thi công và tạo niềm tin với khách, không phải giấy phép hành nghề — đã tra cứu công khai ngày 23/11/2026, không tìm thấy quy định bắt buộc chứng chỉ hành nghề cho thợ điện dân dụng tự do."
 
 ### 7:00–8:30 — Career path + tìm việc, tìm khách ở đâu
 
-"Đường đi thường là như thế này. 0–3 tháng đầu: học + làm phụ, nhận việc nhỏ, công theo ngày hoặc lương 8–12 triệu một tháng nếu vào công ty ghi không yêu cầu kinh nghiệm. 3–6 tháng: làm phụ có công ổn định, lắp được ổ cắm, công tắc độc lập có người kiểm tra lại. 6–12 tháng: lên tay nghề, đi điện 1 phòng có người kèm, lương thợ chính khoảng 9–16 triệu một tháng. Sau 1,5–3 năm: tự làm trọn điện một căn nhà, nhận khách riêng, rồi mở đội nhỏ, dạy lại cho thợ mới. Mốc thời gian này là ước lượng theo Nambin, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+"Đường đi thường là như thế này. 0–3 tháng đầu: học + làm phụ, nhận việc nhỏ, công theo ngày hoặc lương 8–12 triệu một tháng nếu vào công ty ghi không yêu cầu kinh nghiệm. 3–6 tháng: làm phụ có công ổn định, lắp được ổ cắm, công tắc độc lập có người kiểm tra lại. 6–12 tháng: lên tay nghề, đi điện 1 phòng có người kèm — thu nhập 9–16 triệu một tháng ở mốc này là lương tin tuyển cho người dưới 1 năm kinh nghiệm (Minh Đạt 12–16 triệu, Đại Dương V.N 10–16 triệu, THE TIME DECOR 9–12 triệu), không phải lương thợ chính. Sau 1,5–3 năm: tự làm trọn điện một căn nhà (thợ chính), nhận khách riêng, rồi mở đội nhỏ, dạy lại cho thợ mới. Mốc thời gian này là ước lượng theo Nambin, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
-Tìm việc đầu tiên ở đâu? Xin làm thợ phụ cho đội thợ điện gần nhà — tìm trên Google Maps và Group cư dân khu vực. Nộp đơn lên TopCV: ngày 23/11 mình đếm thấy có tin ghi không yêu cầu kinh nghiệm, lương 10–18 triệu, và tin ghi dưới 1 năm kinh nghiệm, lương 10–16 triệu, cả 2 đều ở TP.HCM. Khi đã cứng tay thì đăng video và bài lên TikTok, Facebook theo quận mình làm, để khách khu vực biết bạn. Đừng nhận job điện cả nhà khi chưa cứng tay — làm sai thì cháy nhà, không chỉ hỏng đồ, và bạn phải quay lại sửa miễn phí trong thời gian bảo hành, vừa mất tiền vừa mất khách."
+Tìm việc đầu tiên ở đâu? Xin làm thợ phụ cho đội thợ điện gần nhà — tìm trên Google Maps và Group cư dân khu vực. Nộp đơn lên TopCV: ngày 23/11 mình đếm thấy có tin ghi không yêu cầu kinh nghiệm, lương 8–12 triệu (SEEN Hà Nội), và tin ghi dưới 1 năm kinh nghiệm, lương 10–16 triệu, cả 2 đều ở TP.HCM. Tin Đông Vinh ghi 10–18 triệu là lắp đặt hệ thống xử lý nước, tách riêng, không dùng làm lương điện nhà ở. Khi đã cứng tay thì đăng video và bài lên TikTok, Facebook theo quận mình làm, để khách khu vực biết bạn. Đừng nhận job điện cả nhà khi chưa cứng tay — làm sai thì cháy nhà, không chỉ hỏng đồ, và bạn phải quay lại sửa miễn phí trong thời gian bảo hành, vừa mất tiền vừa mất khách."
 
 ### 8:30–9:30 — Thu nhập + sự thật + nhu cầu thị trường
 
 "Giờ tới phần bạn hỏi nhiều nhất: lương bao nhiêu. Mình nói bằng tin tuyển thật, tra ngày 23/11/2026.
 
-Thợ phụ, chưa biết việc, vừa làm vừa học: công theo ngày 150.000–300.000đ khi theo thợ, theo Nambin. Vào công ty ghi không yêu cầu kinh nghiệm thì lương 8–12 triệu một tháng, ví dụ tin ở Hà Nội, hoặc thu nhập 10–18 triệu một tháng, ví dụ tin ở TP.HCM và Hà Nội. Thợ chính, kỹ thuật viên điện dân dụng, biết đi dây, lắp tủ, sửa sự cố: lương cứng 9–12 triệu, hoặc thu nhập 10–16 triệu, hoặc lương 13–18 triệu tùy công ty, hoặc lương cứng 16 triệu nếu làm điện công trường ở Hà Nội. Kỹ thuật viên bảo trì nhà máy thì 7–10 triệu, nhưng đó không phải thợ điện nhà ở, mình chỉ nhắc để bạn đối chiếu.
+Thợ phụ, chưa biết việc, vừa làm vừa học: công theo ngày 150.000–300.000đ khi theo thợ, theo Nambin. Vào công ty ghi không yêu cầu kinh nghiệm thì lương 8–12 triệu một tháng, ví dụ tin ở Hà Nội (SEEN). Tin Đông Vinh ghi thu nhập 10–18 triệu một tháng là lắp đặt hệ thống xử lý nước, không phải điện nhà ở — tách riêng. Thợ chính, kỹ thuật viên điện dân dụng, biết đi dây, lắp tủ, sửa sự cố: lương cứng 9–12 triệu, hoặc thu nhập 10–16 triệu, hoặc lương 13–18 triệu tùy công ty, hoặc lương cứng 16 triệu nếu làm điện công trường ở Hà Nội. Kỹ thuật viên bảo trì nhà máy thì 7–10 triệu, nhưng đó không phải thợ điện nhà ở, mình chỉ nhắc để bạn đối chiếu.
 
 Còn thu nhập thợ tự nhận khách riêng theo tháng thì chưa có số liệu — không có tin tuyển hay khảo sát nào kiểm chứng được. Mình chỉ nói được giá 1 hạng mục khách trả, tra ngày 23/11/2026: nhân công điện nhà mới đi âm 70.000–130.000đ 1 m² sàn, lắp thêm ổ cắm, công tắc 30.000–80.000đ 1 điểm, công khảo sát 100.000–300.000đ 1 lần, thay tủ điện 300.000–800.000đ 1 tủ. Đây là giá khách trả cho 1 hạng mục, chưa trừ vật tư và phần của đội, nên đừng lấy giá hạng mục nhân với số job rồi tưởng đó là lương của bạn.
 
-Về nhu cầu: ngày 23/11 mình đếm thấy TopCV có 10 tin liên quan tới thợ điện, trong đó 1 tin đã hết hạn. VietnamWorks thì tìm thấy 7 tin liên quan, nhưng không có tin nào là thợ điện nhà ở thuần — toàn bảo trì nhà máy và công trình. Nhu cầu có thật, nhưng tin tuyển ít và lẫn với điện công trình, điện lạnh, nên bạn tìm việc bằng nhiều từ khóa khác nhau sẽ thấy nhiều hơn.
+Về nhu cầu: ngày 23/11 mình đếm thấy TopCV tìm thấy 10 tin liên quan tới thợ điện, nhưng 2 tin đã hết hạn (Tài Tâm Hà Nội, Hoàng Hà Hapollo Đà Nẵng), 1 tin là thợ điện lạnh (Máy Lạnh 365), 1 tin là lắp đặt hệ thống xử lý nước (Đông Vinh, tách riêng) — thực chất chỉ còn 6 tin điện nhà ở / điện công trình dùng được. VietnamWorks thì tìm thấy 7 tin liên quan, nhưng không có tin nào là thợ điện nhà ở thuần — toàn bảo trì nhà máy và công trình. Nhu cầu có thật, nhưng tin tuyển ít và lẫn với điện công trình, điện lạnh, nên bạn tìm việc bằng nhiều từ khóa khác nhau sẽ thấy nhiều hơn.
 
 Về nhu cầu theo thành phố, tra ngày 23/11: TP.HCM tuyển nhiều nhất trên TopCV — 5 tin tìm thấy, nhiều tin ghi dưới 1 năm kinh nghiệm hoặc không yêu cầu kinh nghiệm, lương 9–18 triệu. Hà Nội tuyển đều, lương 8–16 triệu. Đà Nẵng ít tin hơn, chủ yếu qua Vieclamtot và sàn địa phương, lương 7–15 triệu, có tin ghi đến 20 triệu. Cần Thơ thì chưa tìm thấy tin riêng cho điện nhà ở trên TopCV hay VietnamWorks — đây là khoảng trống số liệu, không phải bằng chứng là Cần Thơ không có việc, nên bạn ở Cần Thơ thì hỏi trực tiếp đội thợ gần nhà sẽ nhanh hơn nộp đơn online.
 
@@ -147,7 +191,7 @@ Và một điều nữa: số Mỹ để so sánh, không phải lương VN. C�
 
 "Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới.
 
-Học an toàn điện và quy trình cắt điện trước khi đụng vào tủ điện thật. Liệt kê 5 đội thợ điện gần nhà. Đi xin làm thợ phụ hoặc học việc ở 2–3 chỗ, hỏi rõ công theo ngày và ai kèm mình. Mua đồ nghề cơ bản, nhưng hỏi trước xem đội có cấp không. Và bắt đầu ghi sổ lỗi: mỗi lỗi gặp trong ngày ghi lại 1 dòng và cách xử lý.
+Học an toàn điện và quy trình cắt điện trước khi đụng vào tủ điện thật. Liệt kê 5 đội thợ điện gần nhà. Đi xin làm thợ phụ hoặc học việc ở 2–3 chỗ, hỏi rõ công theo ngày và ai kèm mình — xin làm phụ thử 1–2 tuần trước khi đóng học phí khóa ngắn hạn, xem mình có chịu được leo thang, không gian chật, bụi, ồn công trình không. Mua đồ nghề cơ bản, nhưng hỏi trước xem đội có cấp không. Vốn khởi điểm: bộ đồ nghề tối thiểu khoảng 1,8–4,5 triệu, cộng thang nhôm 1,95 triệu và máy khoan 1,5 triệu (thân máy, chưa pin sạc); học phí khóa ngắn hạn 5–13 triệu; dự phòng sinh hoạt 2 tháng đầu chưa có số liệu, tự tính trước khi nghỉ việc. Chỉ khi mở đội riêng sau 1,5–3 năm mới cần đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã, giải quyết 03 ngày làm việc, lệ phí 0 đồng online. Và bắt đầu ghi sổ lỗi: mỗi lỗi gặp trong ngày ghi lại 1 dòng và cách xử lý.
 
 Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau mình nói về thợ ống nước. Comment nghề bạn muốn nghe, mình đọc hết."
 
@@ -159,7 +203,7 @@ Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau m
 
 ---
 
-Cả nhà mất điện, CB nhảy liên tục. Thợ tới mở tủ điện ra, đo 5 phút là biết bệnh. Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Hôm nay mình nói hết về thợ điện dân dụng — nghề làm hệ thống điện cho cả căn nhà.
+Cả nhà mất điện, CB nhảy liên tục. Thợ chính tới mở tủ điện ra, đo từng chỗ theo quy trình rồi mới biết bệnh — thợ chính làm lâu năm, gặp bệnh này nhiều lần rồi, mới đoán nhanh được như vậy. Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Hôm nay mình nói hết về thợ điện dân dụng — nghề làm hệ thống điện cho cả căn nhà.
 
 Lưu bài này lại, comment "Thợ điện dân dụng" để nhận checklist 30 ngày.
 
@@ -199,11 +243,11 @@ Nấc thứ ba là thợ cả: nhận được điện 3 pha, máy bơm, điện
 
 Học ở đâu thì có 3 đường. Đường nhanh nhất: xin làm thợ phụ hoặc học việc theo đội thợ điện gần nhà. Nhiều nơi không thu học phí, còn trả công theo ngày 150.000–300.000đ theo Nambin, bạn học trên công trình thật 6–12 tháng. Đường thứ hai: khóa ngắn hạn 3–6 tháng, học phí khoảng 5–13 triệu đồng tùy nơi — ví dụ khóa Nghề Điện Dân Dụng tại 451 Hoàng Quốc Việt, Cầu Giấy, Hà Nội, 3–6 tháng, học phí 5 triệu 1 khóa; khóa Kỹ thuật viên Điện dân dụng của Hướng Nghiệp Á Âu, 44 buổi, 13 triệu 1 khóa, có chi nhánh Hà Nội, Đà Nẵng, TP.HCM, Cần Thơ. Đường thứ ba: học trung cấp hoặc cao đẳng ngành điện, 1–3 năm, có bằng — đường này hợp với người trẻ muốn làm kỹ thuật viên cho công ty, không phải đường nhanh.
 
-Một thứ nữa: chứng chỉ an toàn điện. Theo Nghị định 44/2016, người làm công việc về điện thuộc nhóm 3, huấn luyện lần đầu tối thiểu 24 giờ, được cấp thẻ an toàn có thời hạn 2 năm. Bạn đi làm cho công ty thì công ty tổ chức huấn luyện cho bạn.
+Một thứ nữa: chứng chỉ an toàn điện. Theo Nghị định 44/2016, người làm công việc về điện thuộc nhóm 3, huấn luyện lần đầu tối thiểu 24 giờ, được cấp thẻ an toàn có thời hạn 2 năm. Bạn đi làm cho công ty thì công ty tổ chức huấn luyện cho bạn. Chứng chỉ sơ cấp nghề là giấy tờ giúp xin việc ở công ty/đội thi công và tạo niềm tin với khách, không phải giấy phép hành nghề — đã tra cứu công khai ngày 23/11/2026, không tìm thấy quy định bắt buộc chứng chỉ hành nghề cho thợ điện dân dụng tự do.
 
 ## 5. Career path
 
-0–3 tháng đầu: học + làm phụ, nhận việc nhỏ, công theo ngày hoặc lương 8–12 triệu một tháng nếu vào công ty ghi không yêu cầu kinh nghiệm. 3–6 tháng: làm phụ có công ổn định, lắp được ổ cắm, công tắc độc lập có người kiểm tra lại. 6–12 tháng: lên tay nghề, đi điện 1 phòng có người kèm, lương thợ chính khoảng 9–16 triệu một tháng. Sau 1,5–3 năm: tự làm trọn điện một căn nhà, nhận khách riêng, rồi mở đội nhỏ, dạy lại cho thợ mới. Mốc thời gian này là ước lượng theo Nambin, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+0–3 tháng đầu: học + làm phụ, nhận việc nhỏ, công theo ngày hoặc lương 8–12 triệu một tháng nếu vào công ty ghi không yêu cầu kinh nghiệm. 3–6 tháng: làm phụ có công ổn định, lắp được ổ cắm, công tắc độc lập có người kiểm tra lại. 6–12 tháng: lên tay nghề, đi điện 1 phòng có người kèm — thu nhập 9–16 triệu một tháng ở mốc này là lương tin tuyển cho người dưới 1 năm kinh nghiệm (Minh Đạt 12–16 triệu, Đại Dương V.N 10–16 triệu, THE TIME DECOR 9–12 triệu), không phải lương thợ chính. Sau 1,5–3 năm: tự làm trọn điện một căn nhà (thợ chính), nhận khách riêng, rồi mở đội nhỏ, dạy lại cho thợ mới. Mốc thời gian này là ước lượng theo Nambin, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 ## 6. Tìm việc, tìm khách đầu tiên ở đâu
 
@@ -213,11 +257,15 @@ Xin làm thợ phụ cho đội thợ điện gần nhà — tìm trên Google M
 
 Lương nói bằng tin tuyển thật, tra ngày 23/11/2026.
 
-Thợ phụ, chưa biết việc, vừa làm vừa học: công theo ngày 150.000–300.000đ khi theo thợ, theo Nambin. Vào công ty ghi không yêu cầu kinh nghiệm thì lương 8–12 triệu một tháng, hoặc thu nhập 10–18 triệu một tháng. Thợ chính, kỹ thuật viên điện dân dụng, biết đi dây, lắp tủ, sửa sự cố: lương cứng 9–12 triệu, hoặc thu nhập 10–16 triệu, hoặc lương 13–18 triệu tùy công ty, hoặc lương cứng 16 triệu nếu làm điện công trường ở Hà Nội. Kỹ thuật viên bảo trì nhà máy thì 7–10 triệu, nhưng đó không phải thợ điện nhà ở, mình chỉ nhắc để bạn đối chiếu.
+Thợ phụ, chưa biết việc, vừa làm vừa học: công theo ngày 150.000–300.000đ khi theo thợ, theo Nambin. Vào công ty ghi không yêu cầu kinh nghiệm thì lương 8–12 triệu một tháng (SEEN Hà Nội). Tin Đông Vinh ghi thu nhập 10–18 triệu một tháng là lắp đặt hệ thống xử lý nước, không phải điện nhà ở — tách riêng, không dùng làm lương thợ điện nhà ở. Thợ chính, kỹ thuật viên điện dân dụng, biết đi dây, lắp tủ, sửa sự cố: lương cứng 9–12 triệu, hoặc thu nhập 10–16 triệu, hoặc lương 13–18 triệu tùy công ty, hoặc lương cứng 16 triệu nếu làm điện công trường ở Hà Nội. Kỹ thuật viên bảo trì nhà máy thì 7–10 triệu, nhưng đó không phải thợ điện nhà ở, mình chỉ nhắc để bạn đối chiếu.
 
 Còn thu nhập thợ tự nhận khách riêng theo tháng thì chưa có số liệu — không có tin tuyển hay khảo sát nào kiểm chứng được. Mình chỉ nói được giá 1 hạng mục khách trả, tra ngày 23/11/2026: nhân công điện nhà mới đi âm 70.000–130.000đ 1 m² sàn, lắp thêm ổ cắm, công tắc 30.000–80.000đ 1 điểm, công khảo sát 100.000–300.000đ 1 lần, thay tủ điện 300.000–800.000đ 1 tủ. Đây là giá khách trả cho 1 hạng mục, chưa trừ vật tư và phần của đội, nên đừng lấy giá hạng mục nhân với số job rồi tưởng đó là lương của bạn.
 
 Số Mỹ để so sánh, không phải lương VN. Cục Thống kê Lao động Mỹ, thợ điện, lương trung vị 62.350 đô la một năm, tháng 5 năm 2024, việc làm tăng 9% giai đoạn 2024–2034, khoảng 81.000 vị trí mở mỗi năm.
+
+**Vốn và thủ tục mở tiệm (tóm tắt)**
+
+Đi làm thuê thì vốn gần như bằng 0: xin làm thợ phụ, đội thợ có đồ nghề. Bộ đồ nghề tối thiểu khoảng 1,8–4,5 triệu (tua vít cách điện 250–600 nghìn, kìm 300–700 nghìn, bút thử điện 100–300 nghìn, đồng hồ vạn năng 400 nghìn–1,2 triệu, kìm bấm cos 200–500 nghìn — Nambin, bảng giá tham khảo 2026, tra ngày 23/11/2026), cộng thang nhôm Hyundai LS-43 1,95 triệu và máy khoan Total TRHLI1601 1,5 triệu (thân máy, chưa pin sạc). Học phí khóa ngắn hạn 5–13 triệu tùy nơi. Dự phòng sinh hoạt 2 tháng đầu: chưa có số liệu — tự tính tiền nhà + ăn uống + xăng xe thực tế của bạn trước khi nghỉ việc. Chỉ khi mở đội riêng sau 1,5–3 năm mới cần đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã (hoặc online bằng VNeID mức 2), giải quyết 03 ngày làm việc, lệ phí 0 đồng online / 100.000đ một lần nộp trực tiếp (mức này có thể khác theo địa phương); doanh thu từ 1 tỷ đồng một năm trở xuống không phải nộp thuế GTGT, thuế TNCN (Nghị định 141/2026/NĐ-CP, hiệu lực từ 01/01/2026). Chi tiết đủ ở file nghiên cứu, mục 9 và mục 10.
 
 ## 8. Rủi ro thật + nhu cầu thị trường
 
@@ -229,7 +277,7 @@ Làm việc trên cao, trong không gian chật: đi dây âm trần, khoan tư�
 
 Khách không thấy được việc trong tường. Dây điện bạn đi nằm trong tường, khách không kiểm chứng được ngay. Uy tín của bạn nằm ở chỗ đo kiểm sau khi xong, dán nhãn từng mạch trong tủ điện, và quay lại khi khách gọi — làm ẩu 1 nhà là mất cả khu phố.
 
-Về nhu cầu: ngày 23/11 mình đếm thấy TopCV có 10 tin liên quan tới thợ điện, trong đó 1 tin đã hết hạn. VietnamWorks thì tìm thấy 7 tin liên quan, nhưng không có tin nào là thợ điện nhà ở thuần — toàn bảo trì nhà máy và công trình. TP.HCM tuyển nhiều nhất trên TopCV (5 tin), Hà Nội tuyển đều (lương 8–16 triệu), Đà Nẵng ít tin hơn (lương 7–15 triệu, qua Vieclamtot và sàn địa phương), Cần Thơ chưa tìm thấy tin riêng cho điện nhà ở — đây là khoảng trống số liệu, không phải bằng chứng là Cần Thơ không có việc.
+Về nhu cầu: ngày 23/11 mình đếm thấy TopCV tìm thấy 10 tin liên quan tới thợ điện, nhưng 2 tin đã hết hạn (Tài Tâm Hà Nội, Hoàng Hà Hapollo Đà Nẵng), 1 tin là thợ điện lạnh (Máy Lạnh 365), 1 tin là lắp đặt hệ thống xử lý nước (Đông Vinh, tách riêng) — thực chất chỉ còn 6 tin điện nhà ở / điện công trình dùng được. VietnamWorks thì tìm thấy 7 tin liên quan, nhưng không có tin nào là thợ điện nhà ở thuần — toàn bảo trì nhà máy và công trình. TP.HCM tuyển nhiều nhất trên TopCV (5 tin), Hà Nội tuyển đều (lương 8–16 triệu), Đà Nẵng ít tin hơn (lương 7–15 triệu, qua Vieclamtot và sàn địa phương), Cần Thơ chưa tìm thấy tin riêng cho điện nhà ở — đây là khoảng trống số liệu, không phải bằng chứng là Cần Thơ không có việc.
 
 Làm thuê vẫn có thể bị layoff — nghề này thuộc nhóm A trong pool, làm cho công ty hay đội thi công thì vẫn là việc làm thuê. Làm tự do thì rủi ro là không có khách. Không có chuyện "chắc chắn có việc" hay "làm giàu nhanh". Nghề này làm ra tiền bằng tay, theo job, và phải xây khách quen dần.
 
@@ -316,7 +364,8 @@ Mẹo này tiết kiệm cho bạn 1 chuyến đi xem nhà, và khách cũng th�
 - Link: https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-dien-dan-dung-nam-tai-ho-chi-minh/2357939.html
 - Hợp với bạn nếu: bạn là người mới chuyển nghề, muốn làm đúng nghề điện dân dụng mà không cần nhiều năm kinh nghiệm.
 
-Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026, đều ở TP.HCM. Ngày đăng bài là 19/03/2027 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Ở Hà Nội, tin Nhân Viên Điện của Công ty CP Kỹ Thuật SEEN (8–12 triệu/tháng, không yêu cầu kinh nghiệm, Xuân Phương) và tin Thợ Điện của Công ty CP Đầu tư Xây dựng Đăng Sơn (lương cứng 16 triệu/tháng, Đông Anh / Đan Phượng) cũng tìm thấy ngày 23/11/2026 — bạn ở Hà Nội thì tìm 2 tin này trên TopCV. Ở Đà Nẵng, tin Thợ Điện – Nước của Công ty CP Kỹ thuật Trung Phong (lương đến 20 triệu/tháng, đăng 19/11/2026, 518 Văn Tiến Dũng, Hòa Xuân) và tin Kỹ Thuật Viên Điện – Nước của Công ty TNHH BETAPLUS (7–15 triệu/tháng, đăng 15/11/2026, Thanh Khê) tìm thấy trên sàn Việc làm Đà Nẵng và Vieclamtot — bạn ở Đà Nẵng thì tìm tin này trên 2 sàn đó. Ở Cần Thơ chưa tìm thấy tin riêng cho điện nhà ở trên TopCV hay VietnamWorks ngày 23/11/2026 — nếu bạn ở Cần Thơ thì tìm việc qua Sàn Việc làm Cần Thơ và hỏi trực tiếp đội thợ điện gần nhà.
+Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026, đều ở TP.HCM. Ngày đăng bài là 19/03/2027 — cách ngày tìm tin gần 4 tháng. **Gần như chắc chắn các tin này đã hết hạn trước ngày đăng — PHẢI tra lại sát ngày đăng, không đăng tin hết hạn.**
+- Cách tìm tin thay thế sát ngày đăng (làm trước 19/03/2027): (1) Mở TopCV, tìm từ khóa "thợ điện", "thợ điện dân dụng", "kỹ thuật viên điện", "thợ điện nước" — lọc tin còn hạn sau 19/03/2027, ưu tiên tin ghi "dưới 1 năm kinh nghiệm" hoặc "không yêu cầu kinh nghiệm", ghi lương rõ. (2) Mở Vieclamtot, tìm "thợ điện" theo khu vực TP.HCM / Hà Nội / Đà Nẵng. (3) Mở Sàn Việc làm Đà Nẵng (vieclamdanang.edu.vn) và Sàn Việc làm Cần Thơ (sanvieclamcantho.com) cho 2 thành phố này. (4) Hỏi trực tiếp đội thợ điện / cửa hàng điện nước gần nhà — nhiều đội tuyển thợ phụ qua hỏi trực tiếp, không đăng sàn. (5) Tiêu chí tin thay thế: còn hạn sau ngày đăng, ghi lương, ghi yêu cầu kinh nghiệm rõ ràng; tin nào là hệ thống xử lý nước hay điện lạnh thì tách riêng, không gộp vào điện nhà ở. Ở Hà Nội, tin Nhân Viên Điện của Công ty CP Kỹ Thuật SEEN (8–12 triệu/tháng, không yêu cầu kinh nghiệm, Xuân Phương) và tin Thợ Điện của Công ty CP Đầu tư Xây dựng Đăng Sơn (lương cứng 16 triệu/tháng, Đông Anh / Đan Phượng) cũng tìm thấy ngày 23/11/2026 — bạn ở Hà Nội thì tìm 2 tin này trên TopCV. Ở Đà Nẵng, tin Thợ Điện – Nước của Công ty CP Kỹ thuật Trung Phong (lương đến 20 triệu/tháng, đăng 19/11/2026, 518 Văn Tiến Dũng, Hòa Xuân) và tin Kỹ Thuật Viên Điện – Nước của Công ty TNHH BETAPLUS (7–15 triệu/tháng, đăng 15/11/2026, Thanh Khê) tìm thấy trên sàn Việc làm Đà Nẵng và Vieclamtot — bạn ở Đà Nẵng thì tìm tin này trên 2 sàn đó. Ở Cần Thơ chưa tìm thấy tin riêng cho điện nhà ở trên TopCV hay VietnamWorks ngày 23/11/2026 — nếu bạn ở Cần Thơ thì tìm việc qua Sàn Việc làm Cần Thơ và hỏi trực tiếp đội thợ điện gần nhà.
 
 ---
 
@@ -409,11 +458,11 @@ Khoảng 3–6 tháng là đi làm thợ phụ có công, theo Nambin.com — ki
 
 ## 2. Không có bằng điện thì xin làm thợ phụ được không?
 
-Được. Tin tuyển thật tra ngày 23/11/2026 có tin ghi "không yêu cầu kinh nghiệm" — ví dụ tin thợ lắp đặt điện nước ở TP.HCM và Hà Nội, thu nhập 10–18 triệu một tháng; tin nhân viên điện ở Hà Nội, lương 8–12 triệu một tháng, không yêu cầu kinh nghiệm. Nhiều tin khác chỉ yêu cầu dưới 1 năm kinh nghiệm. Cửa vào thực tế nhất là xin làm thợ phụ theo đội thợ điện gần nhà — đội cần người phụ kéo dây, giữ thang, đưa đồ nghề, và bạn học việc trên công trình thật.
+Được. Tin tuyển thật tra ngày 23/11/2026 có tin ghi "không yêu cầu kinh nghiệm" — ví dụ tin nhân viên điện ở Hà Nội (SEEN), lương 8–12 triệu một tháng, không yêu cầu kinh nghiệm. Tin Đông Vinh ghi thu nhập 10–18 triệu một tháng là lắp đặt hệ thống xử lý nước, không phải điện nhà ở — tách riêng, không dùng làm lương điện nhà ở. Nhiều tin khác chỉ yêu cầu dưới 1 năm kinh nghiệm. Cửa vào thực tế nhất là xin làm thợ phụ theo đội thợ điện gần nhà — đội cần người phụ kéo dây, giữ thang, đưa đồ nghề, và bạn học việc trên công trình thật.
 
 ## 3. Có cần chứng chỉ an toàn điện không?
 
-Theo Nghị định 44/2016, người làm công việc về điện thuộc nhóm 3, huấn luyện lần đầu tối thiểu 24 giờ, được cấp thẻ an toàn có thời hạn 2 năm. Bạn đi làm cho công ty thì công ty tổ chức huấn luyện cho bạn. Bạn làm tự do thì không ai cấp thẻ, nhưng học đúng nội dung nhóm 3 vẫn là cách để bạn làm việc an toàn và được đội thợ tin tưởng. Nói thẳng: bạn đừng đụng vào tủ điện thật khi chưa học xong an toàn điện và quy trình cắt điện.
+Theo Nghị định 44/2016, người làm công việc về điện thuộc nhóm 3, huấn luyện lần đầu tối thiểu 24 giờ, được cấp thẻ an toàn có thời hạn 2 năm. Bạn đi làm cho công ty thì công ty tổ chức huấn luyện cho bạn. Chứng chỉ sơ cấp nghề là giấy tờ giúp xin việc ở công ty/đội thi công và tạo niềm tin với khách, không phải giấy phép hành nghề — đã tra cứu công khai ngày 23/11/2026, không tìm thấy quy định bắt buộc chứng chỉ hành nghề cho thợ điện dân dụng tự do. Bạn làm tự do thì không ai cấp thẻ, nhưng học đúng nội dung nhóm 3 vẫn là cách để bạn làm việc an toàn và được đội thợ tin tưởng. Kết luận: chứng chỉ sơ cấp nghề là giấy tờ giúp xin việc ở công ty/đội thi công và tạo niềm tin với khách, không phải giấy phép hành nghề — đã tra cứu công khai ngày 23/11/2026, không tìm thấy quy định bắt buộc chứng chỉ hành nghề cho thợ điện dân dụng tự do. Nói thẳng: bạn đừng đụng vào tủ điện thật khi chưa học xong an toàn điện và quy trình cắt điện.
 
 ## 4. Thợ điện dân dụng khác thợ sửa điện gia dụng ở chỗ nào?
 
@@ -421,7 +470,7 @@ Tuần 2 là thợ sửa điện gia dụng — sửa từng món đồ trong nh
 
 ## 5. Lương thợ điện dân dụng mới vào nghề là bao nhiêu?
 
-Tin tuyển thật tra ngày 23/11/2026: thợ phụ theo thợ thì công theo ngày 150.000–300.000đ, theo Nambin. Vào công ty ghi không yêu cầu kinh nghiệm thì lương 8–12 triệu một tháng, hoặc thu nhập 10–18 triệu một tháng. Thợ chính thì lương cứng 9–12 triệu, hoặc thu nhập 10–16 triệu, hoặc lương 13–18 triệu tùy công ty. Thu nhập thợ tự nhận khách riêng theo tháng thì chưa có số liệu — không có tin tuyển hay khảo sát nào kiểm chứng được, nên mình không hứa con số.
+Tin tuyển thật tra ngày 23/11/2026: thợ phụ theo thợ thì công theo ngày 150.000–300.000đ, theo Nambin. Vào công ty ghi không yêu cầu kinh nghiệm thì lương 8–12 triệu một tháng (SEEN Hà Nội). Tin Đông Vinh ghi thu nhập 10–18 triệu một tháng là lắp đặt hệ thống xử lý nước, không phải điện nhà ở — tách riêng, không dùng làm lương thợ điện nhà ở. Thợ chính thì lương cứng 9–12 triệu, hoặc thu nhập 10–16 triệu, hoặc lương 13–18 triệu tùy công ty. Thu nhập thợ tự nhận khách riêng theo tháng thì chưa có số liệu — không có tin tuyển hay khảo sát nào kiểm chứng được, nên mình không hứa con số.
 
 ---
 
@@ -436,7 +485,7 @@ Comment câu hỏi của bạn bên dưới, tuần sau mình trả lời tiếp
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 1. Chín giờ tối, nhà có tiệc ngày mai, cả nhà mất điện. Tủ lạnh ngừng chạy, CB nhảy liên tục, bật lên lại nhảy xuống. Chủ nhà gọi thợ điện, giọng gấp. Anh ấy đứng bên cạnh thợ chính, nhìn thợ mở tủ điện ra, đo vài chỗ rồi nói: mạch bếp quá tải, dây cũ chịu không nổi. Mười lăm phút mà biết ngay bệnh. Tối nay 19 giờ, video đầy đủ trên YouTube, anh ấy kể hết nghề này làm gì mỗi ngày."
+"Dev bị layoff thì làm gì? Tập 1. Chín giờ tối, nhà có tiệc ngày mai, cả nhà mất điện. Tủ lạnh ngừng chạy, CB nhảy liên tục, bật lên lại nhảy xuống. Chủ nhà gọi thợ điện, giọng gấp. Anh ấy đứng bên cạnh thợ chính, nhìn thợ mở tủ điện ra, đo từng chỗ theo quy trình rồi nói: mạch bếp quá tải, dây cũ chịu không nổi. Thợ chính làm lâu năm, gặp bệnh này nhiều lần rồi, mới đoán nhanh được như vậy. Tối nay 19 giờ, video đầy đủ trên YouTube, anh ấy kể hết nghề này làm gì mỗi ngày."
 
 ## Chữ trên màn hình
 
@@ -483,7 +532,7 @@ Follow để xem Tập 3.
 | Đoạn | Thời gian | Lời thoại | Chữ trên màn hình | Hình gợi ý |
 |---|---|---|---|---|
 | 01 HOOK | 0–3s | Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần: thợ điện dân dụng. | "Dev bị layoff thì làm gì?" | Dev ôm thùng đồ ra khỏi văn phòng, bên cạnh là tủ điện trong nhà |
-| 02 CONTEXT | 3–8s | Cả nhà mất điện, CB nhảy liên tục. Thợ tới nhà, mở tủ điện ra, đo vài chỗ là biết bệnh. | "Mở tủ điện ra, đo vài chỗ là biết bệnh" | Thợ mở tủ điện, tay cầm đồng hồ vạn năng đo |
+| 02 CONTEXT | 3–8s | Cả nhà mất điện, CB nhảy liên tục. Thợ chính tới nhà, mở tủ điện ra, đo vài chỗ là biết bệnh. | "Mở tủ điện ra, đo vài chỗ là biết bệnh" | Thợ mở tủ điện, tay cầm đồng hồ vạn năng đo |
 | 03 VALUE 1 | 8–16s | Học nghề này mất khoảng 3 tới 6 tháng là cầm đồ nghề đi làm thợ phụ được, theo Nambin. Học trên công trình thật. | "Học 3–6 tháng, làm trên công trình thật" | Lịch 3–6 tháng, tay thợ kéo dây điện trên công trình |
 | 04 VALUE 2 | 16–26s | Dân IT có cái lợi riêng: khách gửi ảnh tủ điện và sơ đồ nhà, bạn báo giá nháp trước khi tới, đỡ 1 chuyến đi. | "Ảnh tủ điện + sơ đồ nhà → báo giá nháp" | Điện thoại hiện ảnh tủ điện, màn hình hiện bảng báo giá nháp |
 | 05 VALUE 3 | 26–32s | Cái phải học lại: an toàn điện. Đo sai 1 chỗ, cắt nhầm CB là giật. Không học qua loa được. | "An toàn điện: đo sai 1 chỗ là giật" | Tay thợ cắt điện trước khi mở tủ, biển cảnh báo điện |
@@ -491,7 +540,7 @@ Follow để xem Tập 3.
 
 ## Lời thoại đầy đủ (146 từ)
 
-"Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần: thợ điện dân dụng. Cả nhà mất điện, CB nhảy liên tục. Thợ tới nhà, mở tủ điện ra, đo vài chỗ là biết bệnh. Học nghề này mất khoảng 3 tới 6 tháng là cầm đồ nghề đi làm thợ phụ được, theo Nambin. Học trên công trình thật. Dân IT có cái lợi riêng: khách gửi ảnh tủ điện và sơ đồ nhà, bạn báo giá nháp trước khi tới, đỡ 1 chuyến đi. Cái phải học lại: an toàn điện. Đo sai 1 chỗ, cắt nhầm CB là giật. Không học qua loa được. Layoff rồi, giờ làm gì? Có người đổi sang nghề mà điện hỏng là khách gọi ngay. Bài đầy đủ ở bài ghim, tuần sau mình nói về thợ ống nước."
+"Bạn là dev, bị layoff. Không code nữa thì làm gì? Có một nghề nhà nào cũng cần: thợ điện dân dụng. Cả nhà mất điện, CB nhảy liên tục. Thợ chính tới nhà, mở tủ điện ra, đo vài chỗ là biết bệnh. Học nghề này mất khoảng 3 tới 6 tháng là cầm đồ nghề đi làm thợ phụ được, theo Nambin. Học trên công trình thật. Dân IT có cái lợi riêng: khách gửi ảnh tủ điện và sơ đồ nhà, bạn báo giá nháp trước khi tới, đỡ 1 chuyến đi. Cái phải học lại: an toàn điện. Đo sai 1 chỗ, cắt nhầm CB là giật. Không học qua loa được. Layoff rồi, giờ làm gì? Có người đổi sang nghề mà điện hỏng là khách gọi ngay. Bài đầy đủ ở bài ghim, tuần sau mình nói về thợ ống nước."
 
 ## CTA
 
@@ -596,7 +645,7 @@ Comment câu hỏi của bạn, tuần sau mình trả lời tiếp.
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Hà Nội thì khóa 3 tới 6 tháng, khoảng 5 triệu. Đà Nẵng, khóa 44 buổi, 13 triệu. Còn Sài Gòn, khóa 44 buổi cũng 13 triệu, có chỗ dạy 3 tháng mà chưa công khai học phí. Ba miền, giá khác nhau. Nhưng học xong khóa nào cũng cầm đồ nghề đi làm được ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Hà Nội thì khóa 3 tới 6 tháng, khoảng 5 triệu. Đà Nẵng, khóa 44 buổi, 13 triệu. Còn Sài Gòn, khóa 44 buổi cũng 13 triệu, có chỗ dạy 3 tháng mà chưa công khai học phí. Ba miền, giá khác nhau. Nhưng học xong khóa ngắn chỉ làm được việc phụ và việc đơn giản thôi — làm thợ chính cần 1,5 tới 3 năm vừa học vừa làm thật. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 

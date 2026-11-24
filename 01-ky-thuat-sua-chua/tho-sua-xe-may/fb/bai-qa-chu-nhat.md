@@ -19,7 +19,7 @@ Không thay ngay, nhưng đang thay dần. Đội xe xăng đang chạy vẫn l�
 
 **Cần vốn bao nhiêu để bắt đầu?**
 
-Đi làm thuê thì vốn gần như bằng 0: xin làm thợ phụ, tiệm có đồ nghề, bạn chỉ cần thời gian đi học việc. Tin tuyển Việc Làm Tốt ngày 23/11/2026 cho thấy thợ phụ không yêu cầu kinh nghiệm, lương 8,5–11 triệu một tháng. Nếu học khóa sơ cấp nghề thì học phí 13,9–14,9 triệu đồng tùy nơi, khóa 6 tháng. Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1–2 năm: đồ nghề đầy đủ, bàn nâng, phụ tùng, tiền thuê mặt bằng.
+Đi làm thuê thì vốn gần như bằng 0: xin làm thợ phụ, tiệm có đồ nghề, bạn chỉ cần thời gian đi học việc. Tin tuyển Việc Làm Tốt ngày 23/11/2026 cho thấy thợ phụ không yêu cầu kinh nghiệm, lương 8,5–11 triệu một tháng. Nếu học khóa sơ cấp nghề thì học phí 14,9 triệu (Hà Nội, khóa 6 tháng) hoặc 13,9 triệu (TP.HCM, khóa 7–9 tháng). Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1–2 năm: đồ nghề đầy đủ, bàn nâng, phụ tùng, tiền thuê mặt bằng.
 
 **Thợ sửa xe máy có bị AI thay thế không?**
 

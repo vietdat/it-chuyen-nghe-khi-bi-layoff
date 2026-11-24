@@ -8,7 +8,7 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Hà Nội thì khóa 3 tới 6 tháng, khoảng 5 triệu. Đà Nẵng, khóa 44 buổi, 13 triệu. Còn Sài Gòn, khóa 44 buổi cũng 13 triệu, có chỗ dạy 3 tháng mà chưa công khai học phí. Ba miền, giá khác nhau. Nhưng học xong khóa nào cũng cầm đồ nghề đi làm được ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Hà Nội thì khóa 3 tới 6 tháng, khoảng 5 triệu. Đà Nẵng, khóa 44 buổi, 13 triệu. Còn Sài Gòn, khóa 44 buổi cũng 13 triệu, có chỗ dạy 3 tháng mà chưa công khai học phí. Ba miền, giá khác nhau. Nhưng học xong khóa ngắn chỉ làm được việc phụ và việc đơn giản thôi — làm thợ chính cần 1,5 tới 3 năm vừa học vừa làm thật. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 

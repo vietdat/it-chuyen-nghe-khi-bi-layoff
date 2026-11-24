@@ -81,12 +81,12 @@
 | Nam (TP.HCM) | Thành Tùng cơ sở TP.HCM, khóa sửa xe điện | 4–6 tuần | 12.000.000đ trọn gói |
 | Tây (Cần Thơ) | Chưa tìm thấy khóa sửa xe máy có học phí công khai | — | Chưa có số liệu |
 
-- Khung khóa học trong pool nghiên cứu: 2–4 tháng. Đường nhanh nhất vẫn là xin làm thợ phụ / học việc tại tiệm (không mất học phí, có phụ cấp, học trên xe thật của khách).
+- Khung khóa học: khóa sơ cấp nghề 6 tháng (Thanh Xuân Hà Nội, 14,9 triệu; TP.HCM 7–9 tháng, 13,9 triệu). Đối chiếu Nambin: bảo dưỡng cơ bản 3–6 tháng; thợ chính 1–2 năm; mở tiệm 3–5 năm. Đường nhanh nhất vẫn là xin làm thợ phụ / học việc tại tiệm (không mất học phí, có phụ cấp, học trên xe thật của khách).
 
 ### Lương theo nấc (tin tuyển thật, tra cứu 23/11/2026)
 
-- Thợ phụ / học việc: 8,5–11 triệu/tháng (Việc Làm Tốt TP.HCM, TB 10,6 triệu); 8,5–12 triệu/tháng (Việc Làm Tốt Hải Châu, Đà Nẵng, TB 10,5 triệu).
-- Thợ chính xe máy: 9–16 triệu/tháng (TAYA Toàn Cầu, TopCV); 8–15 triệu/tháng (CTCP Thương Mại I, Hà Tĩnh); 11–14 triệu/tháng, TB 12,8 triệu (Việc Làm Tốt TP.HCM); 10,5–14 triệu/tháng, TB 12,4 triệu (Việc Làm Tốt Hải Châu).
+- Thợ phụ / học việc: 8,5–11 triệu/tháng (Việc Làm Tốt TP.HCM, TB 10,6 triệu); 8,5–12 triệu/tháng (Việc Làm Tốt Hải Châu, Đà Nẵng, TB 10,5 triệu). Lưu ý: các con số trung bình (TB) của Việc Làm Tốt là số trên bảng tổng hợp của sàn — chỉ mang tính tham khảo, không phải lương trong 1 tin tuyển cụ thể.
+- Thợ chính xe máy: 9–16 triệu/tháng (TAYA Toàn Cầu, TopCV — lương tin tuyển cho người dưới 1 năm kinh nghiệm, không phải lương thợ chính; thợ chính cần 1–2 năm); 8–15 triệu/tháng (CTCP Thương Mại I, Hà Tĩnh); 11–14 triệu/tháng, TB 12,8 triệu (Việc Làm Tốt TP.HCM); 10,5–14 triệu/tháng, TB 12,4 triệu (Việc Làm Tốt Hải Châu).
 - Thợ sửa xe điện: 11–13,5 triệu/tháng, TB 12,6 triệu (Việc Làm Tốt TP.HCM và Hải Châu).
 - Thợ tại head / phân khối lớn: 12,5–21 triệu/tháng, TB 17,7 triệu (Việc Làm Tốt TP.HCM); 15–22 triệu/tháng, TB 18,3 triệu (Việc Làm Tốt Hải Châu); tin BMW Trường Hải Thanh Xuân (TopCV, đã hết hạn): thu nhập 13–20 triệu.
 - Thợ tự làm / mở tiệm: thu nhập theo job, không có con số cố định — không hứa con số cụ thể.
@@ -106,6 +106,44 @@
 - Cạnh tranh: tiệm sửa xe có ở mọi con hẻm, khách quen đã có thợ quen.
 - Thu nhập theo job khi tự làm: ngày mưa ít khách dắt xe ra đường.
 - Xe điện thay đổi nghề: thợ chỉ biết xe xăng, không học thêm điện và pin, sẽ dần ít việc khi xe điện nhiều lên.
+
+### Lộ trình học tóm tắt (mục 7 file nghiên cứu)
+
+- **Tuần đầu:** học an toàn lao động, mua đồ nghề cơ bản, liệt kê 5 tiệm sửa xe gần nhà, đi xin làm thợ phụ ở 2–3 chỗ.
+- **Tháng đầu:** đi theo thợ chính, chỉ làm việc phụ (rửa xe, thay nhớt, vá săm), tự làm 1 việc đơn giản có người kèm, ghi sổ 10 lỗi hay gặp.
+- **Tháng 2:** hỏi bảng giá tiệm, tập báo giá từ video tiếng máy lạ khách gửi, làm file theo dõi bảo hành.
+- **Tháng 3:** tự làm 1 xe trọn vẹn có thợ chính kiểm tra lại, hỏi thợ chính xem bao giờ được nhận xe khó hơn.
+- Mốc khóa sơ cấp 6 tháng (Thanh Xuân) đã kiểm chứng; bảo dưỡng cơ bản 3–6 tháng, thợ chính 1–2 năm, mở tiệm 3–5 năm (Nambin). Làm độc lập thường mất 6–12 tháng; sửa xe phun xăng điện tử / phân khối lớn / xe điện thường sau 1–2 năm (các mốc này là ước lượng).
+
+### Thử nghề (mục 8 file nghiên cứu)
+
+- **Theo thợ 1 ngày:** xin đi theo 1 thợ chính / tiệm sửa xe gần nhà 1 ngày để xem công việc thật: xe vào xe ra ra sao, khách nói gì, ca xe chết máy xử lý thế nào. Chi phí: 0 đồng.
+- **Xin làm phụ thử 1–2 tuần:** xin làm thợ phụ thử trước khi đóng học phí khóa sơ cấp — xem mình có chịu được dầu mỡ bám tay cả ngày, tiếng ồn, khói xả, thử xe ngoài đường không. Nhiều tiệm không thu học phí, còn trả phụ cấp.
+- **Học thử miễn phí:** Thành Tùng cho học thử miễn phí 3 ngày trước khi đóng học phí khóa xe điện 12 triệu — thử trước rồi hãy đóng tiền. Khóa học thử khác: hocsuaxedien.com (xem mục 8 file nghiên cứu).
+- **Làm thử quy mô nhỏ:** sau 1 tháng làm phụ, tự làm 1 xe trọn vẹn có thợ chính kiểm tra lại.
+- **Tiêu chí dừng/tiếp — đánh giá sau 2 tuần làm phụ và sau 1 tháng:** tiếp tục nếu chịu được dầu mỡ, ồn, khói xả và tự làm được 1 việc đơn giản có người kèm; dừng lại nếu ghét dầu mỡ tới mức không muốn chạm vào xe sau khi đã làm phụ 2 tuần, hoặc không chịu được thử xe ngoài đường / làm tối, làm cuối tuần, hoặc chi phí học + đồ nghề vượt quá tiền dự phòng của bạn.
+
+### Kết luận (mục 9 file nghiên cứu)
+
+- **Ưu điểm:** cửa vào có thật (tin ghi không yêu cầu kinh nghiệm, lương thợ phụ 8,5–11 triệu); việc đều quanh năm, ít mùa vụ; tay nghề thấy kết quả ngay trong ngày; lợi thế IT thật (tra lỗi bằng AI từ video tiếng máy, báo giá từ video, nhắc khách thay nhớt định kỳ).
+- **Nhược điểm:** dầu mỡ, xăng, khói xả cả ngày; thử xe ngoài đường có rủi ro; phụ tùng giả mất uy tín; cạnh tranh cao (tiệm ở mọi con hẻm); làm thợ chính cần 1–2 năm, mở tiệm 3–5 năm — không có đường tắt; làm thuê vẫn có thể bị layoff.
+- **Ai nên thử:** người thích làm bằng tay, chịu được dầu mỡ và tiếng ồn; chấp nhận thu nhập tháng đầu chỉ 8,5–11 triệu; có ít vốn (đi làm thuê thì vốn gần như bằng 0).
+- **Ai không nên thử:** người ghét dầu mỡ; muốn giờ giấc cố định, ngồi văn phòng; cần thu nhập ổn định ngay tháng đầu; không đủ tiền dự phòng cho 2 tháng đầu ít việc.
+
+### Chi phí khởi điểm (mục 11 file nghiên cứu)
+
+- **A. Dụng cụ / thiết bị:** bộ đồ nghề tối thiểu 12.100.000đ (bộ dụng cụ Yato 80 món 3,1 triệu + máy nén khí 3 triệu + bàn nâng 2 triệu + bộ súng hơi 3 triệu + máy hút dầu 1 triệu). Máy ra vào lốp 14–18 triệu và máy rửa xe 4–20 triệu mua sau khi đã có khách. Phụ tùng tồn kho: Chưa có số liệu (pos365 ước lượng khoảng 10 triệu, Nambin ước lượng 30 triệu — hai nguồn chênh nhau, chưa chốt được). Mở tiệm đầy đủ: pos365 ước lượng khoảng 60 triệu, Nambin ước lượng 100 triệu — chưa chốt được.
+- **B. Học phí:** Thanh Xuân Hà Nội 14,9 triệu (6 tháng); TP.HCM 7–9 tháng 13,9 triệu; Thành Tùng 12 triệu (4–6 tuần, xe điện); HumiPro từ 4,99 triệu (5 ngày, xe điện).
+- **C. Dự phòng 2 tháng đầu:** Chưa có số liệu.
+- **D. Tổng cộng (A + B, chưa tính C):** 27.000.000đ cho nấc Thanh Xuân Hà Nội (12,1 triệu đồ nghề + 14,9 triệu học phí).
+
+### Thủ tục mở tiệm (mục 10 file nghiên cứu)
+
+- Chỉ cần khi mở tiệm riêng sau 1–2 năm. Đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã (hoặc online bằng VNeID mức 2), giải quyết 03 ngày làm việc, lệ phí 0 đồng online / 100.000đ một lần nộp trực tiếp (mức này có thể khác theo địa phương); doanh thu từ 1 tỷ đồng một năm trở xuống không phải nộp thuế GTGT, thuế TNCN (Nghị định 141/2026/NĐ-CP, hiệu lực từ 01/01/2026).
+
+### Nguồn tham khảo (mục 12 file nghiên cứu)
+
+- Bản đầy đủ có link + ngày truy cập + loại nguồn + độ tin cậy trong `Info/nghien-cuu-thi-truong.md` mục 12: tin tuyển TopCV (TAYA Toàn Cầu, CTCP Thương Mại I, Tecotec Group) và Việc Làm Tốt (bảng tổng hợp lương theo thành phố), bảng học phí trung tâm (Thanh Xuân, Văn Lang Đà Nẵng, Thành Tùng, HumiPro), bảng giá dụng cụ (Yato, pos365.vn, Nambin), hướng dẫn đăng ký hộ kinh doanh (Nghị định 168/2025/NĐ-CP).
 
 ---
 
@@ -137,7 +175,7 @@
 
 [Hình: cận cảnh tay thợ mở nắp máy xe ga, dầu đen bám quanh. Chữ trên màn hình: "Xe ga chết máy giữa đường: lỗi ở đây"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: thợ sửa xe máy. Sáng đi làm, xe ga chết máy giữa đường, đề mãi không nổ. Thợ nghe tiếng đề rồi nói: hết bình, thay bình là chạy. Nghe tiếng mà biết ngay bệnh. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và xe điện đang thay đổi nghề ra sao."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 6 tháng là làm được việc cơ bản, làm phụ thêm vài tháng nữa mới cứng tay: thợ sửa xe máy. Sáng đi làm, xe ga chết máy giữa đường, đề mãi không nổ. Thợ nghe tiếng đề rồi nói: hết bình, thay bình là chạy. Thợ chính nghe tiếng đề nhiều năm rồi mới đoán được — người mới phải đo từng bước, không nghe tiếng mà biết ngay được. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và xe điện đang thay đổi nghề ra sao."
 
 ### 0:30–2:00 — Nghề này là gì, 1 ngày làm việc thật
 
@@ -165,17 +203,17 @@ Và bạn tính được mỗi xe lãi bao nhiêu sau khi trừ phụ tùng, nh�
 
 ### 5:30–7:00 — Học gì, học ở đâu, bao lâu
 
-"Học nghề này chia làm 3 nấc. Nấc đầu tiên là làm được việc cơ bản: rửa xe, thay nhớt, vá săm, phụ sửa. Khung khóa học trong pool nghiên cứu là 2–4 tháng, rồi đi làm phụ thêm vài tháng nữa là cứng tay.
+"Học nghề này chia làm 3 nấc. Nấc đầu tiên là làm được việc cơ bản: rửa xe, thay nhớt, vá săm, phụ sửa. Khóa sơ cấp nghề 6 tháng (Thanh Xuân Hà Nội, 14,9 triệu), rồi đi làm phụ thêm vài tháng nữa là cứng tay. Đối chiếu Nambin: bảo dưỡng cơ bản 3–6 tháng; làm thợ chính cần 1–2 năm; mở tiệm 3–5 năm.
 
 Nấc thứ hai là làm độc lập: tự bắt bệnh xe số và xe ga, tự sửa, không cần người kèm. Mốc này thường mất 6–12 tháng, vừa học vừa đi làm thật.
 
 Nấc thứ ba là sửa xe khó: xe phun xăng điện tử, xe phân khối lớn, và xe điện. Mốc này thường sau 1–2 năm, và xe điện là phần phải học thêm riêng — pin, BMS, động cơ điện khác hẳn xe xăng.
 
-Học ở đâu thì có 3 đường. Đường nhanh nhất: xin làm thợ phụ hoặc học việc tại tiệm sửa xe gần nhà. Nhiều tiệm không thu học phí, còn trả phụ cấp, bạn học trên xe thật của khách. Đường thứ hai: khóa sơ cấp nghề, 6 tháng, học phí 14,9 triệu ở Trung tâm Dạy nghề Thanh Xuân, Hà Nội, và 13,9 triệu ở cơ sở TP.HCM; hệ trung cấp 7 tháng, 19,9 triệu, thêm phần xe máy điện. Lưu ý là các trang của cùng hệ thống Thanh Xuân ghi học phí khác nhau, nên bạn gọi hỏi lại trước khi đóng tiền. Đường thứ ba là học thêm xe điện sau khi cứng xe xăng: khóa Thành Tùng 4–6 tuần, 12 triệu trọn gói, thực hành trên xe VinFast thật; khóa HumiPro 5 ngày, từ 4,99 triệu, cho thợ đã biết xe xăng."
+Học ở đâu thì có 3 đường. Đường nhanh nhất: xin làm thợ phụ hoặc học việc tại tiệm sửa xe gần nhà. Nhiều tiệm không thu học phí, còn trả phụ cấp, bạn học trên xe thật của khách. Đường thứ hai: khóa sơ cấp nghề, học phí 14,9 triệu ở Trung tâm Dạy nghề Thanh Xuân, Hà Nội (6 tháng), và 13,9 triệu ở cơ sở TP.HCM (7–9 tháng); hệ trung cấp 7 tháng, 19,9 triệu, thêm phần xe máy điện. Đà Nẵng: Trung tâm Dạy nghề Văn Lang Đà Nẵng, 04 Tiểu La, Hòa Cường Bắc, Hải Châu, học phí 7–15 triệu/trọn khóa — chưa tìm thấy thời gian khóa công khai, gọi 097 886 86 53 hỏi trực tiếp trước khi đăng ký. Lưu ý là các trang của cùng hệ thống Thanh Xuân ghi học phí khác nhau, nên bạn gọi hỏi lại trước khi đóng tiền. Đường thứ ba là học thêm xe điện sau khi cứng xe xăng: khóa Thành Tùng 4–6 tuần, 12 triệu trọn gói, thực hành trên xe VinFast thật (Thành Tùng cho học thử miễn phí 3 ngày trước khi đóng học phí); khóa HumiPro 5 ngày, từ 4,99 triệu, cho thợ đã biết xe xăng."
 
 ### 7:00–8:30 — Career path + tìm việc, tìm khách ở đâu
 
-"Đường đi thường là như thế này. 0–3 tháng đầu: học + làm phụ, nhận việc nhỏ, lương thợ phụ khoảng 8,5–11 triệu một tháng theo bảng tổng hợp của Việc Làm Tốt. 3–6 tháng: làm chính, có khách quen, lương thợ chính khoảng 9–16 triệu. 6–12 tháng: lên tay nghề, nhận xe khó hơn, thu nhập thêm hoa hồng phụ tùng. Sau 1–2 năm: có thể mở tiệm nhỏ hoặc nhận khách riêng, rồi học thêm xe điện để không bị tụt lại. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+"Đường đi thường là như thế này. 0–3 tháng đầu: học + làm phụ, nhận việc nhỏ, lương thợ phụ khoảng 8,5–11 triệu một tháng (bảng tổng hợp của Việc Làm Tốt — chỉ mang tính tham khảo, không phải lương trong 1 tin tuyển cụ thể). 3–6 tháng: làm chính những việc đã cứng tay, có khách quen — lương 9–16 triệu là lương tin tuyển cho người dưới 1 năm kinh nghiệm (TAYA Toàn Cầu, TopCV), không phải lương thợ chính; thợ chính cần 1–2 năm. 6–12 tháng: lên tay nghề, nhận xe khó hơn, thu nhập thêm hoa hồng phụ tùng. Sau 1–2 năm: có thể mở tiệm nhỏ hoặc nhận khách riêng, rồi học thêm xe điện để không bị tụt lại. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 Tìm việc đầu tiên ở đâu? Có 3 chỗ. Một là xin làm thợ phụ cho tiệm sửa xe gần nhà — tìm trên Google Maps và Group cư dân khu vực, đi hỏi trực tiếp. Hai là nộp đơn lên Việc Làm Tốt: ngày 23/11 mình đếm thấy TP.HCM có hơn 144 tin thợ sửa xe, Đà Nẵng có 17 tin, có tin tuyển phụ việc không yêu cầu kinh nghiệm. Ba là khi đã cứng tay: đăng video và bài lên TikTok, Facebook theo quận mình làm, để khách khu vực biết bạn. Đừng nhận xe khó khi chưa cứng tay — sửa sai 1 xe, khách không quay lại nữa."
 
@@ -183,7 +221,7 @@ Tìm việc đầu tiên ở đâu? Có 3 chỗ. Một là xin làm thợ phụ 
 
 "Giờ tới phần bạn hỏi nhiều nhất: lương bao nhiêu. Mình nói bằng tin tuyển thật, tra ngày 23/11/2026.
 
-Thợ phụ, chưa biết việc, vừa làm vừa học: 8,5–11 triệu một tháng. Thợ chính xe máy, biết sửa chữa và bảo dưỡng độc lập: 9–16 triệu một tháng, bảng tổng hợp của Việc Làm Tốt ghi thợ xe máy ở TP.HCM trung bình 12,8 triệu, ở Hải Châu, Đà Nẵng trung bình 12,4 triệu. Thợ sửa xe điện: 11–13,5 triệu một tháng. Thợ tại head chính hãng hoặc xe phân khối lớn: 12,5–22 triệu một tháng, nhưng cần kinh nghiệm và bằng cấp.
+Thợ phụ, chưa biết việc, vừa làm vừa học: 8,5–11 triệu một tháng. Thợ chính xe máy, biết sửa chữa và bảo dưỡng độc lập: 9–16 triệu một tháng. Lưu ý: các con số trung bình của Việc Làm Tốt (thợ xe máy ở TP.HCM trung bình 12,8 triệu, ở Hải Châu, Đà Nẵng trung bình 12,4 triệu) là số trên bảng tổng hợp của sàn — chỉ mang tính tham khảo, không phải lương trong 1 tin tuyển cụ thể. Thợ sửa xe điện: 11–13,5 triệu một tháng. Thợ tại head chính hãng hoặc xe phân khối lớn: 12,5–22 triệu một tháng, nhưng cần kinh nghiệm và bằng cấp.
 
 Về nhu cầu: ngày 23/11 mình đếm thấy TopCV chỉ có 2 tin thợ xe máy còn mở, VietnamWorks không tìm thấy tin nào, nhưng Việc Làm Tốt thì TP.HCM có hơn 144 tin thợ sửa xe. Thợ xe máy tuyển chủ yếu qua Việc Làm Tốt và hỏi trực tiếp tiệm, không phải qua TopCV.
 
@@ -214,9 +252,9 @@ Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau m
 
 ---
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: thợ sửa xe máy.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 6 tháng là làm được việc cơ bản, làm phụ thêm vài tháng nữa mới cứng tay: thợ sửa xe máy.
 
-Sáng đi làm, xe ga chết máy giữa đường, đề mãi không nổ. Thợ nghe tiếng đề rồi nói: hết bình, thay bình là chạy. Nghe tiếng mà biết ngay bệnh. Bài này nói hết về nghề thợ sửa xe máy: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và xe điện đang thay đổi nghề ra sao. Lưu lại đọc từ từ.
+Sáng đi làm, xe ga chết máy giữa đường, đề mãi không nổ. Thợ nghe tiếng đề rồi nói: hết bình, thay bình là chạy. Thợ chính nghe tiếng đề nhiều năm rồi mới đoán được — người mới phải đo từng bước, không nghe tiếng mà biết ngay được. Bài này nói hết về nghề thợ sửa xe máy: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và xe điện đang thay đổi nghề ra sao. Lưu lại đọc từ từ.
 
 **Nghề này làm gì mỗi ngày**
 
@@ -238,13 +276,13 @@ Khách quay video tiếng máy lạ gửi qua Zalo, bạn tra AI trước để 
 
 **Học gì, học ở đâu, bao lâu**
 
-Chia làm 3 nấc. Nấc đầu là làm được việc cơ bản: rửa xe, thay nhớt, vá săm, phụ sửa — khung khóa học trong pool nghiên cứu là 2–4 tháng, rồi đi làm phụ thêm vài tháng nữa là cứng tay. Nấc thứ hai là làm độc lập: tự bắt bệnh xe số và xe ga, tự sửa, không cần người kèm — thường mất 6–12 tháng. Nấc thứ ba là sửa xe khó: xe phun xăng điện tử, xe phân khối lớn, và xe điện — thường sau 1–2 năm, xe điện là phần phải học thêm riêng.
+Chia làm 3 nấc. Nấc đầu là làm được việc cơ bản: rửa xe, thay nhớt, vá săm, phụ sửa — khóa sơ cấp nghề 6 tháng (Thanh Xuân Hà Nội, 14,9 triệu), rồi đi làm phụ thêm vài tháng nữa là cứng tay. Đối chiếu Nambin: bảo dưỡng cơ bản 3–6 tháng; làm thợ chính cần 1–2 năm; mở tiệm 3–5 năm. Nấc thứ hai là làm độc lập: tự bắt bệnh xe số và xe ga, tự sửa, không cần người kèm — thường mất 6–12 tháng. Nấc thứ ba là sửa xe khó: xe phun xăng điện tử, xe phân khối lớn, và xe điện — thường sau 1–2 năm, xe điện là phần phải học thêm riêng.
 
-Học ở đâu thì có 3 đường. Nhanh nhất: xin làm thợ phụ hoặc học việc tại tiệm sửa xe gần nhà — nhiều tiệm không thu học phí, còn trả phụ cấp, học trên xe thật của khách. Đường tiếp theo là khóa sơ cấp nghề 6 tháng — Trung tâm Dạy nghề Thanh Xuân, Hà Nội, 14,9 triệu 1 khóa; cơ sở TP.HCM 13,9 triệu 1 khóa; hệ trung cấp 7 tháng, 19,9 triệu, thêm phần xe máy điện (lưu ý: các trang của cùng hệ thống Thanh Xuân ghi học phí khác nhau, bạn gọi hỏi lại trước khi đóng tiền). Và học thêm xe điện sau khi cứng xe xăng — khóa Thành Tùng 4–6 tuần, 12 triệu trọn gói, thực hành trên xe VinFast thật; khóa HumiPro 5 ngày, từ 4,99 triệu, cho thợ đã biết xe xăng.
+Học ở đâu thì có 3 đường. Nhanh nhất: xin làm thợ phụ hoặc học việc tại tiệm sửa xe gần nhà — nhiều tiệm không thu học phí, còn trả phụ cấp, học trên xe thật của khách. Đường tiếp theo là khóa sơ cấp nghề — Trung tâm Dạy nghề Thanh Xuân, Hà Nội, 6 tháng, 14,9 triệu 1 khóa; cơ sở TP.HCM 7–9 tháng, 13,9 triệu 1 khóa; hệ trung cấp 7 tháng, 19,9 triệu, thêm phần xe máy điện (lưu ý: các trang của cùng hệ thống Thanh Xuân ghi học phí khác nhau, bạn gọi hỏi lại trước khi đóng tiền). Đà Nẵng: Trung tâm Dạy nghề Văn Lang Đà Nẵng, 04 Tiểu La, Hòa Cường Bắc, Hải Châu, học phí 7–15 triệu/trọn khóa — chưa tìm thấy thời gian khóa công khai, gọi 097 886 86 53 hỏi trực tiếp trước khi đăng ký. Và học thêm xe điện sau khi cứng xe xăng — khóa Thành Tùng 4–6 tuần, 12 triệu trọn gói, thực hành trên xe VinFast thật (Thành Tùng cho học thử miễn phí 3 ngày trước khi đóng học phí); khóa HumiPro 5 ngày, từ 4,99 triệu, cho thợ đã biết xe xăng.
 
 **Career path**
 
-0–3 tháng đầu: học + làm phụ, lương thợ phụ khoảng 8,5–11 triệu một tháng. 3–6 tháng: làm chính, có khách quen, lương thợ chính khoảng 9–16 triệu. 6–12 tháng: lên tay nghề, nhận xe khó hơn, thu nhập thêm hoa hồng phụ tùng. Sau 1–2 năm: có thể mở tiệm nhỏ hoặc nhận khách riêng, rồi học thêm xe điện để không bị tụt lại. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+0–3 tháng đầu: học + làm phụ, lương thợ phụ khoảng 8,5–11 triệu một tháng. 3–6 tháng: làm chính những việc đã cứng tay, có khách quen — lương 9–16 triệu là lương tin tuyển cho người dưới 1 năm kinh nghiệm (TAYA Toàn Cầu, TopCV), không phải lương thợ chính; thợ chính cần 1–2 năm. 6–12 tháng: lên tay nghề, nhận xe khó hơn, thu nhập thêm hoa hồng phụ tùng. Sau 1–2 năm: có thể mở tiệm nhỏ hoặc nhận khách riêng, rồi học thêm xe điện để không bị tụt lại. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 **Tìm việc, tìm khách đầu tiên ở đâu**
 
@@ -252,7 +290,7 @@ Xin làm thợ phụ cho tiệm sửa xe gần nhà — tìm trên Google Maps v
 
 **Lương bao nhiêu**
 
-Nói bằng tin tuyển thật, tra ngày 23/11/2026. Thợ phụ, chưa biết việc: 8,5–11 triệu một tháng. Thợ chính xe máy: 9–16 triệu một tháng, bảng tổng hợp của Việc Làm Tốt ghi thợ xe máy ở TP.HCM trung bình 12,8 triệu, ở Hải Châu, Đà Nẵng trung bình 12,4 triệu. Thợ sửa xe điện: 11–13,5 triệu một tháng. Thợ tại head chính hãng hoặc xe phân khối lớn: 12,5–22 triệu một tháng, nhưng cần kinh nghiệm và bằng cấp.
+Nói bằng tin tuyển thật, tra ngày 23/11/2026. Thợ phụ, chưa biết việc: 8,5–11 triệu một tháng. Thợ chính xe máy: 9–16 triệu một tháng. Lưu ý: các con số trung bình của Việc Làm Tốt (thợ xe máy ở TP.HCM trung bình 12,8 triệu, ở Hải Châu, Đà Nẵng trung bình 12,4 triệu) là số trên bảng tổng hợp của sàn — chỉ mang tính tham khảo, không phải lương trong 1 tin tuyển cụ thể. Thợ sửa xe điện: 11–13,5 triệu một tháng. Thợ tại head chính hãng hoặc xe phân khối lớn: 12,5–22 triệu một tháng, nhưng cần kinh nghiệm và bằng cấp.
 
 Về nhu cầu: ngày 23/11 mình đếm thấy TopCV chỉ có 2 tin thợ xe máy còn mở, VietnamWorks không tìm thấy tin nào, nhưng Việc Làm Tốt thì TP.HCM có hơn 144 tin thợ sửa xe. Thợ xe máy tuyển chủ yếu qua Việc Làm Tốt và hỏi trực tiếp tiệm, không phải qua TopCV.
 
@@ -269,6 +307,10 @@ Số trung tâm claim để đối chiếu: báo Tuyên Quang dẫn khảo sát 
 Dầu mỡ, xăng, khói xả: tay dính dầu cả ngày, hít khói khi thử máy trong tiệm kín. Thử xe ngoài đường: sửa xong phải chạy thử, xe chết máy giữa đường hoặc phanh chưa ăn là chuyện có thật. Phụ tùng giả, phụ tùng không rõ nguồn: thay đồ kém chất lượng thì xe hỏng lại sau vài tuần, khách quay lại đòi, mất uy tín. Cạnh tranh: tiệm sửa xe có ở mọi con hẻm, khách quen đã có thợ quen. Và không có chuyện "chắc chắn có việc" hay "làm giàu nhanh" — nghề này làm ra tiền bằng tay, việc đều quanh năm, và phải xây khách quen dần.
 
 ---
+
+**Vốn và thủ tục mở tiệm (tóm tắt)**
+
+Đi làm thuê thì vốn gần như bằng 0: xin làm thợ phụ, tiệm có đồ nghề. Bộ đồ nghề tối thiểu để mở tiệm riêng khoảng 12,1 triệu (bộ dụng cụ Yato 80 món 3,1 triệu, máy nén khí 3 triệu, bàn nâng 2 triệu, bộ súng hơi 3 triệu, máy hút dầu 1 triệu — giá tham khảo công khai, tra ngày 23/11/2026). Máy ra vào lốp 14–18 triệu và máy rửa xe 4–20 triệu mua sau khi đã có khách. Học phí khóa sơ cấp 13,9–14,9 triệu tùy nơi. Phụ tùng tồn kho và dự phòng sinh hoạt 2 tháng đầu: chưa có số liệu — pos365 ước lượng phụ tùng khoảng 10 triệu, Nambin ước lượng 30 triệu, hai nguồn chênh nhau nên chưa chốt được; tự tính tiền nhà + ăn uống + xăng xe thực tế của bạn trước khi nghỉ việc. Chỉ khi mở tiệm riêng sau 1–2 năm mới cần đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã (hoặc online bằng VNeID mức 2), giải quyết 03 ngày làm việc, lệ phí 0 đồng online / 100.000đ một lần nộp trực tiếp (mức này có thể khác theo địa phương); doanh thu từ 1 tỷ đồng một năm trở xuống không phải nộp thuế GTGT, thuế TNCN (Nghị định 141/2026/NĐ-CP, hiệu lực từ 01/01/2026). Chi tiết đủ ở file nghiên cứu, mục 10 và mục 11.
 
 Lưu bài này lại, comment "Thợ sửa xe máy" để nhận checklist 30 ngày đầu làm thợ sửa xe máy. Tuần sau mình nói về chủ quán ăn đường phố.
 
@@ -355,7 +397,7 @@ Mẹo này tiết kiệm cho bạn 1 chuyến khách dắt xe tới rồi lại 
 - Link: https://www.vieclamtot.com/viec-lam-quan-cam-le-da-nang/131166984.htm
 - Hợp với bạn nếu: bạn ở Đà Nẵng và đã có 1–2 năm kinh nghiệm làm xe máy.
 
-Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 25/12/2026 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV hoặc Việc Làm Tốt, không đăng tin hết hạn. Ở Cần Thơ gần như không có tin thợ sửa xe máy ghi lương công khai — nếu bạn ở Cần Thơ thì tìm việc qua Việc Làm Tốt khu vực Cần Thơ và hỏi trực tiếp tiệm sửa xe gần nhà.
+Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 25/12/2026 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV hoặc Việc Làm Tốt, không đăng tin hết hạn. **Lưu ý thêm (kiểm tra lại 23/11/2026):** 2 tin TopCV (TAYA Toàn Cầu và CTCP Thương Mại I) vẫn hiển thị khi tra lại ngày 23/11/2026 và nội dung khớp với file, nhưng **hạn ứng tuyển không hiện trong bản text** của TopCV — không xác minh được hạn có tới 25/12/2026 hay không. **Bắt buộc bấm vào từng link trước ngày đăng** để xem hạn; tin nào hết hạn thì thay bằng tin dự phòng: Tecotec Group — "Nhân Viên Sửa Chữa Xe Máy", Hà Nội + Thủ Đức (TP.HCM), yêu cầu 1 năm kinh nghiệm (bản tra cứu không hiện lương — xem lương trên tin trước khi đăng): https://www.topcv.vn/viec-lam/nhan-vien-sua-chua-xe-may/1285395.html — tra 23/11/2026. Ở Cần Thơ gần như không có tin thợ sửa xe máy ghi lương công khai — nếu bạn ở Cần Thơ thì tìm việc qua Việc Làm Tốt khu vực Cần Thơ và hỏi trực tiếp tiệm sửa xe gần nhà.
 
 ---
 
@@ -447,7 +489,7 @@ Không thay ngay, nhưng đang thay dần. Đội xe xăng đang chạy vẫn l�
 
 **Cần vốn bao nhiêu để bắt đầu?**
 
-Đi làm thuê thì vốn gần như bằng 0: xin làm thợ phụ, tiệm có đồ nghề, bạn chỉ cần thời gian đi học việc. Tin tuyển Việc Làm Tốt ngày 23/11/2026 cho thấy thợ phụ không yêu cầu kinh nghiệm, lương 8,5–11 triệu một tháng. Nếu học khóa sơ cấp nghề thì học phí 13,9–14,9 triệu đồng tùy nơi, khóa 6 tháng. Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1–2 năm: đồ nghề đầy đủ, bàn nâng, phụ tùng, tiền thuê mặt bằng.
+Đi làm thuê thì vốn gần như bằng 0: xin làm thợ phụ, tiệm có đồ nghề, bạn chỉ cần thời gian đi học việc. Tin tuyển Việc Làm Tốt ngày 23/11/2026 cho thấy thợ phụ không yêu cầu kinh nghiệm, lương 8,5–11 triệu một tháng. Nếu học khóa sơ cấp nghề thì học phí 14,9 triệu (Hà Nội, khóa 6 tháng) hoặc 13,9 triệu (TP.HCM, khóa 7–9 tháng). Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1–2 năm: đồ nghề đầy đủ, bàn nâng, phụ tùng, tiền thuê mặt bằng.
 
 **Thợ sửa xe máy có bị AI thay thế không?**
 
@@ -474,7 +516,7 @@ Còn câu hỏi nào về nghề thợ sửa xe máy, bạn comment bên dưới
 - Giọng: Dapper Cuff, tiếng Việt, tốc độ 100
 - Sườn: `video-mau-hoat-hinh/suon-chung-video.md` — 6 đoạn, đúng thứ tự, hook nhắc layoff + tên nghề trong 3 giây đầu
 - Số từ lời thoại: 150 từ (đếm bằng lệnh `wc -w` trên phần lời thoại, mục tiêu 140–150)
-- Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026) — khung khóa học 2–4 tháng từ pool nghiên cứu; xe điện 9 tháng đầu 2026 bán 973.247 chiếc, tăng 90,5%
+- Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026) — khóa sơ cấp nghề 6 tháng (Thanh Xuân Hà Nội, 14,9 triệu; TP.HCM 7–9 tháng, 13,9 triệu); xe điện 9 tháng đầu 2026 bán 973.247 chiếc, tăng 90,5%
 - Giọng: nói với "bạn", không liệt kê Một/Hai/Ba, không bịa số liệu, không hứa "chắc chắn có việc"
 
 ## Lời thoại đầy đủ (150 từ)
@@ -482,15 +524,15 @@ Còn câu hỏi nào về nghề thợ sửa xe máy, bạn comment bên dưới
 | Đoạn | Thời gian | Lời thoại | Chữ trên màn hình | Hình gợi ý |
 |---|---|---|---|---|
 | 01 HOOK | 0–3s | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? | "Dev bị layoff thì làm gì?" | Dev ôm thùng đồ ra khỏi văn phòng, chữ hook to trên nền đậm |
-| 02 CONTEXT | 3–8s | Có nghề học vài tháng là làm ra tiền: thợ sửa xe máy. Sáng nay, anh ấy mở cửa tiệm, xe đầu tiên là xe ga chết máy. | "Thợ sửa xe máy" | Tiệm sửa xe mở cửa buổi sáng, xe ga dắt vào, thợ nghe tiếng đề |
-| 03 VALUE 1 | 8–16s | Nghe tiếng đề, nhìn bugi, biết ngay bệnh. Học nghề này mất khoảng 2 đến 4 tháng, làm phụ thêm vài tháng nữa là cứng tay. | "Học 2–4 tháng, làm phụ thêm vài tháng" | Tay thợ cầm bugi, đồng hồ đo, xe chạy lại được |
+| 02 CONTEXT | 3–8s | Có nghề học 6 tháng là làm được việc cơ bản: thợ sửa xe máy. Sáng nay, anh ấy mở cửa tiệm, xe đầu tiên là xe ga chết máy. | "Thợ sửa xe máy" | Tiệm sửa xe mở cửa buổi sáng, xe ga dắt vào, thợ nghe tiếng đề |
+| 03 VALUE 1 | 8–16s | Thợ chính nghe tiếng đề nhiều năm rồi mới đoán được. Học nghề này mất 6 tháng khóa sơ cấp, làm phụ thêm vài tháng nữa là cứng tay. | "Học 6 tháng, làm phụ thêm vài tháng" | Tay thợ cầm bugi, đồng hồ đo, xe chạy lại được |
 | 04 VALUE 2 | 16–26s | Dân IT có lợi riêng: khách gửi video tiếng máy lạ, anh ấy tra AI đoán hướng lỗi trước, báo giá nháp rồi nhận xe. | "Video tiếng máy lạ → tra AI → báo giá nháp" | Điện thoại hiện video xe kêu lạ, màn hình AI gợi ý hướng lỗi |
 | 05 VALUE 3 | 26–32s | Cái phải học lại là tay nghề thật: dầu mỡ bám tay cả ngày, thử xe ngoài đường, và xe điện đang tới, pin với mạch điện khác xe xăng. | "Dầu mỡ, thử xe, học thêm xe điện" | Tay thợ dính dầu, xe chạy thử ngoài đường, xe điện chạy qua |
-| 06 PAYOFF + CTA | 32–45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền ngay. Bài đầy đủ ở bài ghim, tuần sau là quán ăn đường phố. | "Bài đầy đủ ở bài ghim" | Anh ấy lau tay, mỉm cười trước tiệm, chữ CTA to |
+| 06 PAYOFF + CTA | 32–45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền — nhưng phải cứng tay đã. Bài đầy đủ ở bài ghim, tuần sau là quán ăn đường phố. | "Bài đầy đủ ở bài ghim" | Anh ấy lau tay, mỉm cười trước tiệm, chữ CTA to |
 
 ## Lời thoại liền mạch (để đọc TTS)
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có nghề học vài tháng là làm ra tiền: thợ sửa xe máy. Sáng nay, anh ấy mở cửa tiệm, xe đầu tiên là xe ga chết máy. Nghe tiếng đề, nhìn bugi, biết ngay bệnh. Học nghề này mất khoảng 2 đến 4 tháng, làm phụ thêm vài tháng nữa là cứng tay. Dân IT có lợi riêng: khách gửi video tiếng máy lạ, anh ấy tra AI đoán hướng lỗi trước, báo giá nháp rồi nhận xe. Cái phải học lại là tay nghề thật: dầu mỡ bám tay cả ngày, thử xe ngoài đường, và xe điện đang tới, pin với mạch điện khác xe xăng. Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền ngay. Bài đầy đủ ở bài ghim, tuần sau là quán ăn đường phố."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có nghề học 6 tháng là làm được việc cơ bản: thợ sửa xe máy. Sáng nay, anh ấy mở cửa tiệm, xe đầu tiên là xe ga chết máy. Thợ chính nghe tiếng đề nhiều năm rồi mới đoán được. Học nghề này mất 6 tháng khóa sơ cấp, làm phụ thêm vài tháng nữa là cứng tay. Dân IT có lợi riêng: khách gửi video tiếng máy lạ, anh ấy tra AI đoán hướng lỗi trước, báo giá nháp rồi nhận xe. Cái phải học lại là tay nghề thật: dầu mỡ bám tay cả ngày, thử xe ngoài đường, và xe điện đang tới, pin với mạch điện khác xe xăng. Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền — nhưng phải cứng tay đã. Bài đầy đủ ở bài ghim, tuần sau là quán ăn đường phố."
 
 ## CTA
 
@@ -507,7 +549,7 @@ Comment "1" nếu bạn đã từng nghĩ tới nghề này, "2" nếu chưa bao
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Sáng hôm sau, xe ga của anh ấy chết máy giữa đường, đề mãi không nổ. Anh ấy dắt xe vào tiệm gần nhà, thợ nghe tiếng đề rồi nói: hết bình, thay bình là chạy. Nghe tiếng mà biết ngay bệnh. Tháng đầu làm thợ phụ sửa xe, anh ấy được bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
+"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Sáng hôm sau, xe ga của anh ấy chết máy giữa đường, đề mãi không nổ. Anh ấy dắt xe vào tiệm gần nhà, thợ nghe tiếng đề rồi nói: hết bình, thay bình là chạy. Thợ chính nghe tiếng đề nhiều năm rồi mới đoán được. Tháng đầu làm thợ phụ sửa xe, anh ấy được bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
 
 ## Chữ trên màn hình
 
@@ -650,7 +692,7 @@ Comment câu hỏi của bạn, tuần sau mình trả lời tiếp.
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Ở Hà Nội, khóa sơ cấp 6 tháng gần 15 triệu. Vào Đà Nẵng, khóa trọn gói khoảng 7 đến 15 triệu. Xuống Sài Gòn, khóa 6 tháng gần 14 triệu. Học thêm xe điện thì 4 đến 6 tuần, 12 triệu, có khóa 5 ngày từ gần 5 triệu. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong là cầm đồ nghề đi làm được ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Ở Hà Nội, khóa sơ cấp 6 tháng gần 15 triệu. Vào Đà Nẵng, khóa trọn gói khoảng 7 đến 15 triệu. Xuống Sài Gòn, khóa 7 tới 9 tháng gần 14 triệu. Học thêm xe điện thì 4 đến 6 tuần, 12 triệu, có khóa 5 ngày từ gần 5 triệu. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong khóa sơ cấp mới làm được việc cơ bản thôi — làm độc lập cần 6 tới 12 tháng vừa học vừa làm thật. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 
@@ -672,7 +714,7 @@ Comment tỉnh của bạn, mình tìm khóa học gần nhất cho bạn.
 
 - Dành cho: dev vừa bị layoff, đang học nghề hoặc mới xin làm thợ phụ / học việc tại tiệm sửa xe
 - Mục tiêu 30 ngày: nắm được việc cơ bản (rửa xe, thay nhớt, vá săm, phụ sửa), có 1 tiệm làm việc cố định, biết cách báo giá và giữ khách
-- Căn cứ: khung khóa học 2–4 tháng trong pool nghiên cứu + tin tuyển Việc Làm Tốt ngày 23/11/2026 (thợ phụ 8,5–11 triệu/tháng, có tin tuyển phụ việc không yêu cầu kinh nghiệm ở Cần Thơ)
+- Căn cứ: khóa sơ cấp nghề 6 tháng (Thanh Xuân Hà Nội, 14,9 triệu; TP.HCM 7–9 tháng, 13,9 triệu) + đối chiếu Nambin (bảo dưỡng cơ bản 3–6 tháng; thợ chính 1–2 năm) + tin tuyển Việc Làm Tốt ngày 23/11/2026 (thợ phụ 8,5–11 triệu/tháng, có tin tuyển phụ việc không yêu cầu kinh nghiệm ở Cần Thơ)
 
 ## Tuần 1 (ngày 1–7): Học cái gốc + tìm chỗ làm
 
@@ -727,6 +769,7 @@ Comment tỉnh của bạn, mình tìm khóa học gần nhất cho bạn.
 - TAYA Toàn Cầu (TopCV) — Kỹ Thuật Sửa Chữa Xe Máy, Xe Điện, thu nhập TB 9–16 triệu.
 - CTCP Thương Mại I (TopCV) — Thợ Sửa Xe Máy / Xe Máy Điện, Hà Tĩnh, 8–15 triệu.
 - Motor Care Đức Phúc (Việc Làm Tốt) — Thợ Sửa Chữa Xe Máy, Đà Nẵng, 8–10 triệu.
+- Lưu ý: hạn ứng tuyển của 2 tin TopCV không hiện trong bản text — bắt buộc bấm vào từng link trước ngày đăng để xem hạn; tin dự phòng: Tecotec Group — "Nhân Viên Sửa Chữa Xe Máy", Hà Nội + Thủ Đức (TP.HCM), yêu cầu 1 năm kinh nghiệm (bản tra cứu không hiện lương — xem lương trên tin trước khi đăng).
 - Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV hoặc Việc Làm Tốt, không đăng tin hết hạn.
 - Lưu ý: 4 tin TopCV tìm thấy ngày 23/11 đã hết hạn lúc đếm (LRT Vietnam 12–15 triệu, BMW Trường Hải Thanh Xuân 13–20 triệu và 10–18 triệu, Thiên Nhẫn 7–12 triệu++) — chỉ dùng để tham khảo lương, KHÔNG dùng làm việc thật.
 

@@ -1,14 +1,14 @@
-# Bài thực hành Thứ 6 — 3 việc thật + CV trước/sau + checklist 30 ngày
+# Bài thực hành Thứ 6 — 1 việc thật + cách tìm việc ngoài sàn + CV trước/sau + checklist 30 ngày
 
 - Đăng: Thứ 6 18/12/2026, 12:00, Facebook (carousel / bài viết)
-- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV, Joboko). **Trước khi đăng ngày 18/12, kiểm tra lại xem tin còn hạn không — tin hết hạn thì thay bằng tin khác, không đăng tin hết hạn.**
+- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV, Joboko). **Trước khi đăng ngày 18/12, kiểm tra lại xem tin còn hạn không — tin hết hạn thì thay bằng tin khác, không đăng tin hết hạn. Tin Joboko dưới đây còn hạn tới 31/12/2026 tính tới ngày tra cứu 23/11/2026 — kiểm tra lại trước 18/12, vì hạn này cũng sắp hết.**
 - Giọng: nói với "bạn", không bịa số liệu
 
 ---
 
-## 3 việc thật đang tuyển thợ khóa / kỹ thuật khóa
+## 1 việc thật còn hạn + cách tìm việc thợ khóa cơ ngoài sàn
 
-Lưu ý trước khi đọc: tin tuyển thợ khóa cơ truyền thống gần như không có trên sàn việc làm. 3 tin dưới đây đều là vị trí kỹ thuật khóa điện tử / khóa thông minh — đây cũng là mảng đang tuyển người không có kinh nghiệm, được đào tạo từ đầu, và là cửa vào nhanh nhất cho dân IT chuyển nghề.
+Lưu ý trước khi đọc: tin tuyển thợ khóa cơ truyền thống gần như không có trên sàn việc làm. Tin dưới đây là vị trí kỹ thuật khóa điện tử / khóa thông minh — mảng này giống IT nhất trong nghề (liên quan điện tử, cài đặt, hướng dẫn khách dùng app), có tin tuyển người không có kinh nghiệm, được đào tạo từ đầu. Nhưng nghề chính ở đây là thợ khóa cơ + điện tử — muốn làm thợ khóa cơ thì đường vào là xin học việc tại tiệm khóa gần nhà, xem mục 'Cách tìm việc thợ khóa cơ ngoài sàn' bên dưới.
 
 ### Việc 1: Nhân Viên Kỹ Thuật Lắp Đặt Máy Chấm Công, Khóa Từ — Hà Nội (còn hạn tới 31/12/2026)
 
@@ -22,33 +22,21 @@ Lưu ý trước khi đọc: tin tuyển thợ khóa cơ truyền thống gần 
 - Link: https://vn.joboko.com/viec-lam-nhan-vien-ky-thuat-lap-dat-may-cham-cong-khoa-tu-xvi6848423
 - Hợp với bạn nếu: bạn có 1 năm kinh nghiệm lắp đặt thiết bị điện tử / mạng, muốn vào mảng khóa điện tử với lương 8–14 triệu và hạn nộp còn tới cuối năm.
 
-### Việc 2: Nhân Viên Kỹ Thuật Lắp Đặt Khóa Điện Tử — Hà Nội (không yêu cầu kinh nghiệm)
+### 2 tin đã hết hạn — không nộp được, chỉ tham khảo lương
 
-- Công ty: Công ty CP CETS Việt Nam
-- Lương: 7–12 triệu/tháng + thưởng
-- Yêu cầu: **không yêu cầu kinh nghiệm**, cao đẳng trở lên, nam, tuổi 20–50; có kiến thức về kỹ thuật điện, biết sử dụng dụng cụ hỗ trợ kỹ thuật (khoan, cắt, đi dây điện)
-- Công việc: lắp đặt, cài đặt, hướng dẫn sử dụng khóa điện tử, khóa vân tay, khóa khách sạn; hỗ trợ kỹ thuật, bảo trì, sửa chữa, bảo hành thiết bị
-- Thử việc: 2 tháng (85% lương)
-- Địa điểm: Số 9, ngõ 25 Bùi Huy Bích, Phường Hoàng Mai, Hà Nội
-- Ngày thấy tin: 23/11/2026 (TopCV, crawl 19/11/2026)
-- Link: https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-lap-dat-khoa-dien-tu/1997258.html
-- Hợp với bạn nếu: bạn là người mới chuyển nghề, chưa biết việc — đây là 1 trong số ít tin khóa điện tử ghi rõ không yêu cầu kinh nghiệm.
-- **Kiểm tra lại hạn trước ngày đăng 18/12:** bản crawl ngày 19/11/2026 hiển thị dòng "Hết hạn ứng tuyển" nhưng không ghi rõ hạn — mở link kiểm tra lại, tin hết hạn thì thay bằng tin khác.
+Mở lại trang TopCV ngày 23/11/2026 (buổi trưa), cả 2 tin dưới đây đều hiển thị "Hết hạn ứng tuyển". Giữ lại đây để bạn đối chiếu lương, không dùng làm việc thật:
 
-### Việc 3: Nhân Viên Kỹ Thuật Khóa Cửa Điện Tử Thông Minh — Hà Nội (lương cứng 10–15 triệu + % doanh thu)
+- Nhân Viên Kỹ Thuật Lắp Đặt Khóa Điện Tử — Công ty CP CETS Việt Nam, Hà Nội: 7–12 triệu/tháng + thưởng, **không yêu cầu kinh nghiệm**, cao đẳng trở lên. Lắp đặt, cài đặt, hướng dẫn sử dụng khóa điện tử, khóa vân tay, khóa khách sạn. Link: https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-lap-dat-khoa-dien-tu/1997258.html
+- Nhân Viên Kỹ Thuật Khóa Cửa Điện Tử Thông Minh — Công ty TNHH Elecom, Hà Nội (D2 Giảng Võ, Ba Đình): lương cứng 10–15 triệu/tháng + % doanh thu, yêu cầu 2 năm kinh nghiệm. Link: https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-khoa-cua-dien-tu-thong-minh/1383465.html
 
-- Công ty: Công ty TNHH Elecom
-- Lương: lương cứng 10–15 triệu/tháng + % doanh thu
-- Yêu cầu: 2 năm kinh nghiệm; ngành kỹ thuật điện nhẹ, điện tử viễn thông, công nghệ thông tin hoặc tương đương; biết sử dụng dụng cụ hỗ trợ kỹ thuật (khoan, cắt, bấm cáp mạng, đi dây điện)
-- Công việc: lắp đặt, cài đặt, hướng dẫn sử dụng khóa cửa và phụ kiện; lắp đặt, sửa chữa hệ thống kiểm soát truy cập khóa cửa
-- Thử việc: 2 tháng (85% lương); thời gian làm việc 9h–18h, Thứ 2 – Thứ 7
-- Địa điểm: D2 Giảng Võ, Ba Đình, Hà Nội
-- Ngày thấy tin: 23/11/2026 (TopCV, crawl 16/11/2026)
-- Link: https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-khoa-cua-dien-tu-thong-minh/1383465.html
-- Hợp với bạn nếu: bạn đã có 2 năm kinh nghiệm điện / điện tử và muốn lương cứng 10–15 triệu cộng thêm phần trăm doanh thu.
-- **Kiểm tra lại hạn trước ngày đăng 18/12:** bản crawl ngày 16/11/2026 hiển thị dòng "Hết hạn ứng tuyển" nhưng không ghi rõ hạn — mở link kiểm tra lại, tin hết hạn thì thay bằng tin khác.
+### Cách tìm việc thợ khóa cơ ngoài sàn (vì thợ khóa cơ gần như không đăng tin tuyển)
 
-Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 18/12/2026 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV / Joboko, không đăng tin hết hạn. Tin đã hết hạn tính tới 23/11/2026, KHÔNG dùng: Nhân Viên Kỹ Thuật Bảo Hành khóa thông minh Demax (TP.HCM, 10–15 triệu) và Nhân Viên Lắp Đặt Máy Chấm Công Và Khóa Điện Tử Panaco (TP.HCM, 13–17 triệu, hiển thị "Còn 2 ngày" ngày 21/11/2026).
+- Hỏi trực tiếp tiệm khóa gần nhà: mở Google Maps, tìm "sửa khóa" hoặc "thợ khóa" ở quận mình ở, liệt kê 5 tiệm gần nhất, đi hỏi trực tiếp xem có nhận thợ phụ / học việc không. Đây là cách nhanh nhất cho thợ khóa cơ — tin tuyển trên sàn gần như không có cho mảng này.
+- Group cư dân khu vực + Group việc làm tay nghề trên Facebook: tìm từ khóa "thợ khóa", "thợ sửa khóa", "tuyển thợ khóa", lọc bài trong 30 ngày gần nhất. Group Zalo khu vực cũng vậy — hỏi trong nhóm cư dân xem tiệm khóa nào gần nhà đang cần người.
+- Làng khóa Tương Chúc (xã Ngũ Hiệp, Thanh Trì, Hà Nội): làng nghề làm khóa hơn 100 năm, nhiều gia đình làm khóa qua nhiều đời — tới hỏi trực tiếp xưởng trong làng xem có nhận học việc không (nguồn: Báo Thanh Niên, tra cứu 23/11/2026).
+- Theo dõi trang tuyển dụng của các công ty khóa điện tử khu vực: CETS Việt Nam, Elecom (Hà Nội), Demax, Locker & Lock (TP.HCM) từng đăng tuyển kỹ thuật khóa — theo dõi để thấy tin mới sớm. Tin mới thì nộp ngay, vì tin khóa điện tử trên TopCV hết hạn rất nhanh (4 tin tìm thấy ngày 23/11/2026 đều đã hết hạn khi kiểm chứng lại cùng ngày).
+
+Lưu ý: tin Joboko trên là tin tìm thấy ngày 23/11/2026, còn hạn tới 31/12/2026 tính tới ngày tra cứu — ngày đăng bài là 18/12/2026, nên trước khi đăng, mở lại link kiểm tra xem tin còn hạn không. Tin hết hạn thì thay bằng tin khác đang mở trên TopCV / Joboko, không đăng tin hết hạn. Tin đã hết hạn tính tới 23/11/2026, KHÔNG dùng (đã kiểm chứng bằng cách mở lại trang TopCV ngày 23/11/2026, buổi trưa — trang hiển thị "Hết hạn ứng tuyển"): Nhân Viên Kỹ Thuật Bảo Hành khóa thông minh Demax (TP.HCM, 10–15 triệu), Nhân Viên Kỹ Thuật Lắp Đặt Khóa Điện Tử CETS (Hà Nội, 7–12 triệu), Nhân Viên Kỹ Thuật Khóa Cửa Điện Tử Thông Minh Elecom (Hà Nội, 10–15 triệu + %), Nhân Viên Kỹ Thuật Smart Locker Locker & Lock (TP.HCM, lương "cạnh tranh"), và Nhân Viên Lắp Đặt Máy Chấm Công Và Khóa Điện Tử Panaco (TP.HCM, 13–17 triệu, hiển thị "Còn 2 ngày" ngày 21/11/2026).
 
 Ở Đà Nẵng và Cần Thơ gần như không có tin thợ khóa trên TopCV hay Joboko — nếu bạn ở 2 nơi này thì tìm việc bằng cách hỏi trực tiếp tiệm khóa gần nhà. Ở Đà Nẵng có khóa học làm chìa khóa Minh Phát (06 Hà Huy Tập) — học xong có thể xin làm tại tiệm hoặc tự nhận khách khu vực.
 

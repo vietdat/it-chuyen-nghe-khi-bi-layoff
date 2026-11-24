@@ -14,11 +14,11 @@ Khoảng 3–6 tháng là đi làm thợ phụ có công, theo Nambin.com — ki
 
 ## 2. Không có bằng điện thì xin làm thợ phụ được không?
 
-Được. Tin tuyển thật tra ngày 23/11/2026 có tin ghi "không yêu cầu kinh nghiệm" — ví dụ tin thợ lắp đặt điện nước ở TP.HCM và Hà Nội, thu nhập 10–18 triệu một tháng; tin nhân viên điện ở Hà Nội, lương 8–12 triệu một tháng, không yêu cầu kinh nghiệm. Nhiều tin khác chỉ yêu cầu dưới 1 năm kinh nghiệm. Cửa vào thực tế nhất là xin làm thợ phụ theo đội thợ điện gần nhà — đội cần người phụ kéo dây, giữ thang, đưa đồ nghề, và bạn học việc trên công trình thật.
+Được. Tin tuyển thật tra ngày 23/11/2026 có tin ghi "không yêu cầu kinh nghiệm" — ví dụ tin nhân viên điện ở Hà Nội (SEEN), lương 8–12 triệu một tháng, không yêu cầu kinh nghiệm. Tin Đông Vinh ghi thu nhập 10–18 triệu một tháng là lắp đặt hệ thống xử lý nước, không phải điện nhà ở — tách riêng, không dùng làm lương điện nhà ở. Nhiều tin khác chỉ yêu cầu dưới 1 năm kinh nghiệm. Cửa vào thực tế nhất là xin làm thợ phụ theo đội thợ điện gần nhà — đội cần người phụ kéo dây, giữ thang, đưa đồ nghề, và bạn học việc trên công trình thật.
 
 ## 3. Có cần chứng chỉ an toàn điện không?
 
-Theo Nghị định 44/2016, người làm công việc về điện thuộc nhóm 3, huấn luyện lần đầu tối thiểu 24 giờ, được cấp thẻ an toàn có thời hạn 2 năm. Bạn đi làm cho công ty thì công ty tổ chức huấn luyện cho bạn. Bạn làm tự do thì không ai cấp thẻ, nhưng học đúng nội dung nhóm 3 vẫn là cách để bạn làm việc an toàn và được đội thợ tin tưởng. Nói thẳng: bạn đừng đụng vào tủ điện thật khi chưa học xong an toàn điện và quy trình cắt điện.
+Theo Nghị định 44/2016, người làm công việc về điện thuộc nhóm 3, huấn luyện lần đầu tối thiểu 24 giờ, được cấp thẻ an toàn có thời hạn 2 năm. Bạn đi làm cho công ty thì công ty tổ chức huấn luyện cho bạn. Bạn làm tự do thì không ai cấp thẻ, nhưng học đúng nội dung nhóm 3 vẫn là cách để bạn làm việc an toàn và được đội thợ tin tưởng. Kết luận: chứng chỉ sơ cấp nghề là giấy tờ giúp xin việc ở công ty/đội thi công và tạo niềm tin với khách, không phải giấy phép hành nghề — đã tra cứu công khai ngày 23/11/2026, không tìm thấy quy định bắt buộc chứng chỉ hành nghề cho thợ điện dân dụng tự do. Nói thẳng: bạn đừng đụng vào tủ điện thật khi chưa học xong an toàn điện và quy trình cắt điện.
 
 ## 4. Thợ điện dân dụng khác thợ sửa điện gia dụng ở chỗ nào?
 
@@ -26,7 +26,7 @@ Tuần 2 là thợ sửa điện gia dụng — sửa từng món đồ trong nh
 
 ## 5. Lương thợ điện dân dụng mới vào nghề là bao nhiêu?
 
-Tin tuyển thật tra ngày 23/11/2026: thợ phụ theo thợ thì công theo ngày 150.000–300.000đ, theo Nambin. Vào công ty ghi không yêu cầu kinh nghiệm thì lương 8–12 triệu một tháng, hoặc thu nhập 10–18 triệu một tháng. Thợ chính thì lương cứng 9–12 triệu, hoặc thu nhập 10–16 triệu, hoặc lương 13–18 triệu tùy công ty. Thu nhập thợ tự nhận khách riêng theo tháng thì chưa có số liệu — không có tin tuyển hay khảo sát nào kiểm chứng được, nên mình không hứa con số.
+Tin tuyển thật tra ngày 23/11/2026: thợ phụ theo thợ thì công theo ngày 150.000–300.000đ, theo Nambin. Vào công ty ghi không yêu cầu kinh nghiệm thì lương 8–12 triệu một tháng (SEEN Hà Nội). Tin Đông Vinh ghi thu nhập 10–18 triệu một tháng là lắp đặt hệ thống xử lý nước, không phải điện nhà ở — tách riêng. Thợ chính thì lương cứng 9–12 triệu, hoặc thu nhập 10–16 triệu, hoặc lương 13–18 triệu tùy công ty. Thu nhập thợ tự nhận khách riêng theo tháng thì chưa có số liệu — không có tin tuyển hay khảo sát nào kiểm chứng được, nên mình không hứa con số.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề khóa. Ở Hà Nội, anh ấy chưa tìm thấy khóa nào ghi rõ tên trung tâm với học phí, nên cách nhanh nhất là xin học việc tại tiệm khóa gần nhà. Vào Đà Nẵng, khóa 1 tới 2 tháng, học phí 10 đến 15 triệu. Xuống Sài Gòn, khóa 1 tới 3 tháng, 19 triệu trọn gói, đã gồm bộ đồ nghề. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong là cầm đồ nghề đi làm được ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề khóa. Ở Hà Nội, anh ấy chưa tìm thấy khóa nào ghi rõ tên trung tâm với học phí, nên cách nhanh nhất là xin học việc tại tiệm khóa gần nhà. Vào Đà Nẵng, khóa 1 tới 2 tháng, học phí 10 đến 15 triệu. Xuống Sài Gòn, khóa 1 tới 3 tháng, 19 triệu trọn gói, đã gồm bộ đồ nghề. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong khóa 1–3 tháng mới làm được việc cơ bản, làm độc lập thì cần 6–12 tháng. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 

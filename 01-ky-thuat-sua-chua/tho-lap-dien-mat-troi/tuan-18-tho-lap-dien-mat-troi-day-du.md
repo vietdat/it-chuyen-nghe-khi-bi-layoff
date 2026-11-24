@@ -39,8 +39,9 @@
 
 ### Nhu cầu tuyển (đếm ngày 23/11/2026 - chỉ đúng ở thời điểm đếm)
 
-- TopCV tìm thấy 7 tin đang mở, VietnamWorks tìm thấy 4 tin (số tin tìm thấy qua tìm kiếm công khai, KHÔNG phải tổng toàn sàn).
+- TopCV tìm thấy 9 tin đang mở, VietnamWorks tìm thấy 4 tin (số tin tìm thấy qua tìm kiếm công khai, KHÔNG phải tổng toàn sàn).
 - Cửa vào cho người mới: 2 tin TopCV tuyển thi công không yêu cầu kinh nghiệm ở TP.HCM (lương khởi điểm 8 triệu và 10–15 triệu/tháng), được đào tạo khi trúng tuyển.
+- Kiểm chứng lại hạn tin (23/11/2026, buổi trưa): cả 3 link TopCV dùng trong bài thực hành đều hiển thị "Hết hạn ứng tuyển" — chỉ dùng làm tham khảo lương, PHẢI thay bằng tin đang mở trước ngày đăng 02/04/2027.
 - Facebook: chưa đếm được (cần đăng nhập). Google Maps: chưa đếm được (cần đếm thủ công). TikTok: chưa đếm được lượt xem hashtag.
 - Chính sách: Nghị định 58/2025/NĐ-CP (03/03/2025) cho lắp điện mặt trời mái nhà tự sản, tự tiêu; hệ dưới 100 kW đấu nối chỉ cần thông báo; bán điện dư tối đa 50% sản lượng theo Nghị định 243/2026/NĐ-CP (26/06/2026); giá FIT 9,35 US cent/kWh đã hết. Đến hết 5/2026, 8 tỉnh phía Nam có 2.122 nguồn ĐMTMN tự sản, tự tiêu theo Nghị định 58, tổng 502.674 kWp, nhưng 1.307 nguồn đã lắp mà chưa hoàn tất thủ tục.
 
@@ -49,7 +50,7 @@
 - Hà Nội: TopCV 3 tin + VietnamWorks 2 tin, thợ thi công 9–16 triệu, chuyên viên/kỹ sư 15–22 triệu. Tuyển nhiều nhất, lương cao nhất.
 - TP.HCM: TopCV 3 tin + VietnamWorks 2 tin, thợ mới vào 8–15 triệu. Dễ vào nghề nhất cho người mới (2 tin không yêu cầu kinh nghiệm).
 - Đà Nẵng: TopCV 2 tin còn hạn (bảo trì Powertech 10–15 triệu không yêu cầu kinh nghiệm; thiết kế NLMT 16–22 triệu cần 2 năm kinh nghiệm), VietnamWorks 0 tin riêng.
-- Cần Thơ: TopCV 0 tin, VietnamWorks 0 tin; Sàn Việc làm Cần Thơ 2 tin (KBA.2018 thi công dự án Solar, hạn 31/12/2026; Redpower thực tập sinh, hạn 28/11/2026), tin không ghi lương.
+- Cần Thơ: TopCV 0 tin, VietnamWorks 0 tin; Sàn Việc làm Cần Thơ 2 tin (KBA.2018 thi công dự án Solar, hạn 31/12/2026; Redpower thực tập sinh, hạn 28/11/2026) — cả 2 đều hết hạn trước ngày đăng 02/04/2027, chỉ dùng làm tham khảo, tìm tin thay thế sát ngày đăng — tin không ghi lương.
 
 ### Học ở đâu (3 miền, tra cứu 23/11/2026 - bản đầy đủ trong `Info/nghien-cuu-thi-truong.md` mục 2)
 
@@ -59,6 +60,7 @@
 - Nam (TP.HCM): Vũ Phong + Solplanet, lớp đào tạo kỹ thuật cơ bản định kỳ hằng tháng, nhận cả người chưa có kinh nghiệm — học phí chưa công khai. Trường CĐ Điện lực TP.HCM, cao đẳng/sơ cấp Năng lượng tái tạo + lớp ngắn hạn — học phí chưa công khai.
 - Nền điện (tham khảo): khóa sơ cấp nghề điện dân dụng 3–6 tháng, 4–12 triệu (Nambin.com) — KHÔNG phải khóa solar.
 - An toàn làm việc trên cao: huấn luyện nhóm 3, 24 giờ theo Nghị định 44/2016/NĐ-CP — học phí chưa tìm thấy công khai.
+- Chứng chỉ: thợ thi công lắp điện nhà dân không cần chứng chỉ hành nghề điện riêng (mã ngành 4321, cập nhật 20/11/2026, độ tin cậy trung bình, kiểm tra lại với cơ quan địa phương trước khi mở tiệm); chủ nhà làm thủ tục thông báo đấu nối với UBND cấp xã, đơn vị lắp đặt cung cấp hồ sơ kỹ thuật; thực tế công ty thường làm hồ sơ giúp khách.
 
 ### Lương theo nấc (tin tuyển thật, tra cứu 23/11/2026)
 
@@ -72,6 +74,32 @@
 ### Rủi ro thật + mùa vụ
 
 - Mái cao, ngã từ mái là rủi ro lớn nhất. Điện DC có điện ngay khi có nắng, ngay cả khi trời râm, ngắt aptomat AC không ngắt được điện DC trên mái. Nắng gắt, mưa bão phải dừng thi công. Mái mỗi nhà một kiểu, khảo sát sai thì mái dột, khung lỏng. Chính sách thay đổi nhanh (trần bán điện dư 20% lên 50% trong hơn 1 năm), thủ tục còn nghẽn. Không có chuyện "chắc chắn có việc" hay "làm giàu nhanh".
+
+### Lộ trình học (tóm tắt mục 8 nghiên cứu)
+
+- Tháng 1: an toàn điện AC + DC và an toàn làm việc trên cao (nhóm 3, 24 giờ), liệt kê 5 công ty gần nhà, xin làm thi công 2–3 chỗ, học đo mái + tính kWp.
+- Tháng 2–3: theo thợ chính làm việc phụ, học đấu nối DC/AC, tủ điện, chống sét, ghi sổ 10 lỗi hay gặp.
+- Tháng 4–6: làm chính việc cơ bản, tự tính sản lượng + báo giá từ ảnh mái, học thủ tục thông báo theo Nghị định 58/2025/NĐ-CP.
+- Tháng 7–12: làm độc lập việc cơ bản, nhận 1 job nhỏ có người kèm, xây khách quen.
+- Năm 2: thiết kế/giám sát (cần bằng cấp + kinh nghiệm) hoặc nhận khách riêng. Mốc là ước lượng, chưa có lộ trình chi tiết theo nấc riêng cho nghề solar.
+
+### Thử nghề (tóm tắt mục 9 nghiên cứu)
+
+- Đi theo 1 đội thi công 1 ngày (chỉ quan sát + làm việc phụ dưới đất), rồi xin làm thợ phụ 1–2 tuần có lương ở vị trí không yêu cầu kinh nghiệm. Học an toàn điện DC + làm việc trên cao trước khi leo mái thật.
+- Tiếp tục nếu: leo mái 1 ngày không sợ, chịu được nắng trên mái tôn, sau 2 tuần học được đấu nối DC cơ bản có người kèm.
+- Dừng nếu: sợ độ cao không giảm sau 3–4 lần leo mái, chóng mặt/mệt khi làm ngoài trời nắng, mắc lỗi an toàn điện lặp lại, không chịu được đi công tác xa.
+
+### Chi phí khởi điểm (tóm tắt mục 12 nghiên cứu)
+
+- Đi làm thuê (xin việc được đào tạo, công ty cấp đồ nghề): gần như 0đ vốn ban đầu. Học nền điện dân dụng trước: 4–12 triệu (Nambin.com, KHÔNG phải khóa solar). Học phí khóa solar (Ninh Thuận 80 giờ, Vũ Phong/Solplanet, HEPC), giá đồ nghề, dự phòng 2 tháng, vốn nhập tấm pin/inverter: Chưa có số liệu.
+
+### Kết luận (tóm tắt mục 10 nghiên cứu)
+
+Bị layoff không phải hết nghề — mà là cơ hội bắt đầu một nghề mới. Nhu cầu tuyển có thật, cửa vào là vị trí thi công không yêu cầu kinh nghiệm, học 3–6 tháng làm được việc cơ bản, 6–12 tháng làm độc lập. Cái khó thật sự là mái cao, nắng gắt và điện DC có điện cả khi trời râm — học an toàn trước khi đụng vào hệ thật.
+
+### Nguồn tham khảo (tóm tắt mục 13 nghiên cứu)
+
+TopCV + VietnamWorks (tin tuyển, tra 23/11/2026); Sàn Việc làm Cần Thơ; Rạng Đông (giá hệ thống + sản lượng, 01/11/2026); VNPT; Công Thương (NĐ 58/2025, NĐ 243/2026); ketoanchinhtruc.vn (mã ngành 4321, 20/11/2026, độ tin cậy trung bình); nghisonsolar.com (thủ tục NĐ 58, 02/11/2026); dhcsolar.com (hướng dẫn thông báo NĐ 243); Nambin.com (nền điện dân dụng); Trường CĐ Nghề Ninh Thuận (chương trình 80 giờ); Vũ Phong + Solplanet; BLS (số Mỹ, chỉ tham khảo). Bản đầy đủ có link + độ tin cậy từng nguồn trong `Info/nghien-cuu-thi-truong.md` mục 13.
 
 ## 3. YouTube - Script video dài Thứ 2
 
@@ -139,7 +167,9 @@ Lên nấc hai, bạn làm độc lập: tự lắp đặt và bảo trì, khôn
 
 Nấc ba là thiết kế và giám sát: tự khảo sát, tính sản lượng, lên bản vẽ, giám sát đội thi công. Thường sau 1-2 năm mới tới được đây, và nhiều vị trí ở nấc này yêu cầu bằng đại học ngành điện.
 
-Còn học ở đâu thì có 3 đường đi. Nhanh nhất là xin làm nhân viên thi công không yêu cầu kinh nghiệm, công ty đào tạo khi trúng tuyển. Ngày 23/11/2026 mình đếm thấy TopCV có 2 tin như vậy ở TP.HCM: lương khởi điểm 8 triệu và 10-15 triệu một tháng. Đường thứ hai là học khóa bài bản: Trường Cao đẳng Nghề Ninh Thuận có chương trình Năng lượng điện mặt trời mái nhà, 80 giờ, cấp chứng chỉ; Vũ Phong Energy Group cùng Solplanet mở lớp đào tạo kỹ thuật cơ bản định kỳ hằng tháng tại TP.HCM, nhận cả người chưa có kinh nghiệm. Cả 2 nơi này đều chưa công khai học phí, bạn gọi hỏi trước khi đăng ký. Đường thứ ba là học nền điện dân dụng trước: khóa sơ cấp 3-6 tháng, học phí tham khảo 4-12 triệu theo Nambin.com, rồi học thêm phần solar trên công trình thật. Đường này hợp với người chưa biết gì về điện, vì hệ mặt trời vẫn là hệ điện: đấu nối DC, AC, tủ điện, chống sét."
+Còn học ở đâu thì có 3 đường đi. Nhanh nhất là xin làm nhân viên thi công không yêu cầu kinh nghiệm, công ty đào tạo khi trúng tuyển. Ngày 23/11/2026 mình đếm thấy TopCV có 2 tin như vậy ở TP.HCM: lương khởi điểm 8 triệu và 10-15 triệu một tháng. Đường thứ hai là học khóa bài bản: Trường Cao đẳng Nghề Ninh Thuận có chương trình Năng lượng điện mặt trời mái nhà, 80 giờ, cấp chứng chỉ; Vũ Phong Energy Group cùng Solplanet mở lớp đào tạo kỹ thuật cơ bản định kỳ hằng tháng tại TP.HCM, nhận cả người chưa có kinh nghiệm. Cả 2 nơi này đều chưa công khai học phí, bạn gọi hỏi trước khi đăng ký. Đường thứ ba là học nền điện dân dụng trước: khóa sơ cấp 3-6 tháng, học phí tham khảo 4-12 triệu theo Nambin.com, rồi học thêm phần solar trên công trình thật. Đường này hợp với người chưa biết gì về điện, vì hệ mặt trời vẫn là hệ điện: đấu nối DC, AC, tủ điện, chống sét.
+
+Chứng chỉ và thủ tục đấu nối thì sao. Thợ thi công lắp điện mặt trời cho nhà dân không cần chứng chỉ hành nghề điện riêng — sửa chữa, lắp điện nhà dân không có điều kiện riêng, chỉ cần làm đúng yêu cầu an toàn điện (theo bài phân tích mã ngành 4321, cập nhật 20/11/2026 — nguồn công ty kế toán, độ tin cậy trung bình, kiểm tra lại với cơ quan địa phương trước khi mở tiệm). Thủ tục đấu nối thì chủ nhà là bên làm thủ tục thông báo với UBND cấp xã trước khi lắp ít nhất 10 ngày làm việc, đơn vị lắp đặt cung cấp hồ sơ kỹ thuật và biên bản nghiệm thu; thực tế nhiều công ty lắp đặt làm hồ sơ giúp khách. Lên vị trí giám sát hay thiết kế thì vẫn cần bằng cao đẳng hoặc đại học ngành điện, cộng kinh nghiệm 1-3 năm."
 
 ### 7:00-8:30 - Career path + tìm việc, tìm khách ở đâu
 
@@ -153,7 +183,7 @@ Tìm việc đầu tiên ở đâu? Có 3 chỗ để bắt đầu. Nộp đơn 
 
 Mới vào, không yêu cầu kinh nghiệm, được đào tạo: lương khởi điểm 8 triệu một tháng, có tin 10-15 triệu một tháng. Thợ thi công có kinh nghiệm dưới 1 năm: 9-16 triệu một tháng, theo tay nghề, công trình và tăng ca. Kỹ thuật viên 1 năm kinh nghiệm: 10 triệu trở lên cộng phụ cấp và thưởng công trình, hoặc 12-15 triệu một tháng. Bảo trì hệ thống điện mặt trời: 10-15 triệu một tháng. Chuyên viên và kỹ sư, cần bằng cấp và kinh nghiệm 1-3 năm: 12-22 triệu, 15-22 triệu, có tin thiết kế hệ thống ở Đà Nẵng 16-22 triệu một tháng. Giám sát thi công 3 năm kinh nghiệm: lương cơ bản 20 triệu một tháng.
 
-Về nhu cầu: ngày 23/11/2026 mình đếm thấy TopCV có 7 tin đang tuyển thợ điện mặt trời, VietnamWorks có 4 tin nhưng nghiêng về kỹ sư và chuyên viên. Hà Nội tuyển nhiều nhất, TP.HCM là nơi dễ vào nghề nhất cho người mới vì có tin không yêu cầu kinh nghiệm. Đà Nẵng có tin bảo trì 10-15 triệu không yêu cầu kinh nghiệm và tin thiết kế 16-22 triệu. Cần Thơ tuyển chủ yếu qua sàn địa phương, 2 tin trên Sàn Việc làm Cần Thơ, tin không ghi lương, bạn ở Cần Thơ thì hỏi trực tiếp công ty gần nhà sẽ nhanh hơn nộp đơn online.
+Về nhu cầu: ngày 23/11/2026 mình đếm thấy TopCV có 9 tin đang tuyển thợ điện mặt trời, VietnamWorks có 4 tin nhưng nghiêng về kỹ sư và chuyên viên. Hà Nội tuyển nhiều nhất, TP.HCM là nơi dễ vào nghề nhất cho người mới vì có tin không yêu cầu kinh nghiệm. Đà Nẵng có tin bảo trì 10-15 triệu không yêu cầu kinh nghiệm và tin thiết kế 16-22 triệu. Cần Thơ tuyển chủ yếu qua sàn địa phương, 2 tin trên Sàn Việc làm Cần Thơ (cả 2 đều hết hạn trước ngày đăng 02/04/2027, chỉ dùng làm tham khảo), tin không ghi lương, bạn ở Cần Thơ thì hỏi trực tiếp công ty gần nhà sẽ nhanh hơn nộp đơn online.
 
 Còn số Mỹ để so sánh, KHÔNG phải thu nhập Việt Nam: BLS, tháng 5/2024, thợ lắp đặt điện mặt trời median 51.860 USD một năm, tăng trưởng 42% giai đoạn 2024-2034, nghề tăng nhanh nhất nước Mỹ. Con số này chỉ để thấy nghề này trên thế giới đang lên, không dùng làm lương Việt Nam.
 
@@ -223,6 +253,8 @@ Còn học ở đâu thì có 3 đường đi.
 
 Đường thứ ba là học nền điện dân dụng trước: khóa sơ cấp 3-6 tháng, học phí tham khảo 4-12 triệu theo Nambin.com, rồi học thêm phần solar trên công trình thật. Đường này hợp với người chưa biết gì về điện, vì hệ mặt trời vẫn là hệ điện: đấu nối DC, AC, tủ điện, chống sét.
 
+Chứng chỉ và thủ tục đấu nối thì sao. Thợ thi công lắp điện mặt trời cho nhà dân không cần chứng chỉ hành nghề điện riêng — sửa chữa, lắp điện nhà dân không có điều kiện riêng, chỉ cần làm đúng yêu cầu an toàn điện (theo bài phân tích mã ngành 4321, cập nhật 20/11/2026 — nguồn công ty kế toán, độ tin cậy trung bình, kiểm tra lại với cơ quan địa phương trước khi mở tiệm). Thủ tục đấu nối thì chủ nhà là bên làm thủ tục thông báo với UBND cấp xã trước khi lắp ít nhất 10 ngày làm việc, đơn vị lắp đặt cung cấp hồ sơ kỹ thuật và biên bản nghiệm thu; thực tế nhiều công ty lắp đặt làm hồ sơ giúp khách. Lên vị trí giám sát hay thiết kế thì vẫn cần bằng cao đẳng hoặc đại học ngành điện, cộng kinh nghiệm 1-3 năm.
+
 **Career path**
 
 0-3 tháng đầu, bạn học và làm phụ, lương nhân viên thi công mới vào khoảng 8-15 triệu một tháng. 3-6 tháng thì làm chính, có khách quen, lương kỹ thuật viên khoảng 10-16 triệu. 6-12 tháng, lên tay nghề, nhận job độc lập, thu nhập thêm phụ cấp công trình và thưởng theo công trình. Sau 1-2 năm, có người lên giám sát thi công hoặc chuyên viên kỹ thuật, lương 15-22 triệu, hoặc nhận khách riêng, rồi dạy lại cho thợ mới. Mấy mốc này là ước lượng thôi, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
@@ -235,7 +267,7 @@ Nộp đơn lên TopCV: ngày 23/11/2026 mình đếm thấy có tin tuyển thi
 
 Mình nói bằng tin tuyển thật, tra ngày 23/11/2026. Mới vào, không yêu cầu kinh nghiệm, được đào tạo: lương khởi điểm 8 triệu một tháng, có tin 10-15 triệu một tháng. Thợ thi công có kinh nghiệm dưới 1 năm: 9-16 triệu một tháng, theo tay nghề, công trình và tăng ca. Kỹ thuật viên 1 năm kinh nghiệm: 10 triệu trở lên cộng phụ cấp và thưởng công trình, hoặc 12-15 triệu một tháng. Bảo trì hệ thống điện mặt trời: 10-15 triệu một tháng. Chuyên viên và kỹ sư, cần bằng cấp và kinh nghiệm 1-3 năm: 12-22 triệu, 15-22 triệu, có tin thiết kế hệ thống ở Đà Nẵng 16-22 triệu một tháng. Giám sát thi công 3 năm kinh nghiệm: lương cơ bản 20 triệu một tháng.
 
-Về nhu cầu: ngày 23/11/2026 mình đếm thấy TopCV có 7 tin đang tuyển thợ điện mặt trời, VietnamWorks có 4 tin nhưng nghiêng về kỹ sư và chuyên viên. Hà Nội tuyển nhiều nhất, TP.HCM là nơi dễ vào nghề nhất cho người mới vì có tin không yêu cầu kinh nghiệm. Đà Nẵng có tin bảo trì 10-15 triệu không yêu cầu kinh nghiệm và tin thiết kế 16-22 triệu. Cần Thơ tuyển chủ yếu qua sàn địa phương, 2 tin trên Sàn Việc làm Cần Thơ, tin không ghi lương. Bạn ở Cần Thơ thì hỏi trực tiếp công ty gần nhà sẽ nhanh hơn nộp đơn online.
+Về nhu cầu: ngày 23/11/2026 mình đếm thấy TopCV có 9 tin đang tuyển thợ điện mặt trời, VietnamWorks có 4 tin nhưng nghiêng về kỹ sư và chuyên viên. Hà Nội tuyển nhiều nhất, TP.HCM là nơi dễ vào nghề nhất cho người mới vì có tin không yêu cầu kinh nghiệm. Đà Nẵng có tin bảo trì 10-15 triệu không yêu cầu kinh nghiệm và tin thiết kế 16-22 triệu. Cần Thơ tuyển chủ yếu qua sàn địa phương, 2 tin trên Sàn Việc làm Cần Thơ (cả 2 đều hết hạn trước ngày đăng 02/04/2027, chỉ dùng làm tham khảo), tin không ghi lương. Bạn ở Cần Thơ thì hỏi trực tiếp công ty gần nhà sẽ nhanh hơn nộp đơn online.
 
 Còn số Mỹ để so sánh, KHÔNG phải thu nhập Việt Nam: BLS, tháng 5/2024, thợ lắp đặt điện mặt trời median 51.860 USD một năm, tăng trưởng 42% giai đoạn 2024-2034, nghề tăng nhanh nhất nước Mỹ. Con số này chỉ để thấy nghề này trên thế giới đang lên, không dùng làm lương Việt Nam.
 
@@ -283,7 +315,7 @@ Mẹo này tiết kiệm cho bạn 1 chuyến đi xem mái. Khách cũng thích 
 # Bài thực hành Thứ 6 - 3 việc thật + CV trước/sau + checklist 30 ngày
 
 - Đăng: Thứ 6 02/04/2027, 12:00, Facebook (carousel / bài viết)
-- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). LƯU Ý: tuần này đăng 02/04/2027, tin tìm thấy ngày 23/11/2026 có thể đã hết hạn. Trước khi đăng, kiểm tra lại từng link xem tin còn hạn không - tin hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn.
+- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). LƯU Ý: tuần này đăng 02/04/2027. **Tin tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 02/04/2027 — PHẢI tra lại sát ngày đăng.** Kiểm chứng lại ngày 23/11/2026 (buổi trưa): cả 3 link TopCV dưới đây đều hiển thị "Hết hạn ứng tuyển" — chỉ dùng làm tham khảo lương. Trước khi đăng, thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Cách tìm tin thay thế: TopCV, VietnamWorks; từ khóa "thi công điện mặt trời", "kỹ thuật điện mặt trời", "lắp đặt điện mặt trời"; tiêu chí: còn hạn sau 02/04/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm".
 - Giọng: nói với "bạn", không bịa số liệu
 
 
@@ -291,7 +323,7 @@ Mẹo này tiết kiệm cho bạn 1 chuyến đi xem mái. Khách cũng thích 
 
 ### Việc 1: Nhân Viên Thi Công Điện Mặt Trời (không yêu cầu kinh nghiệm) - TP.HCM
 
-- Công ty: chưa ghi tên công ty trong kết quả tìm kiếm (xem link để biết tên nhà tuyển dụng)
+- Công ty: Công ty TNHH Đầu tư và Thương mại Năng lượng SE Solar — xác minh qua tin tuyển khác của cùng nhà tuyển dụng tại cùng địa chỉ 49/13 Hoàng Dư Khương, P. Hòa Hưng, TP.HCM ("Tuyển Thực Tập Sinh Kỹ Thuật Điện Mặt Trời (Có Lương)"); kiểm tra lại link trước ngày đăng.
 - Lương: khởi điểm 8 triệu/tháng, thưởng theo năng lực, lương tháng 13
 - Yêu cầu: không yêu cầu kinh nghiệm, trung cấp trở lên, nam. Được đào tạo chuyên môn khi trúng tuyển.
 - Công việc: khảo sát trực tiếp dự án, thi công lắp đặt thiết bị điện mặt trời; bảo trì, bảo dưỡng định kỳ, giám sát hệ thống bằng phần mềm chuyên dụng, cảnh báo và khắc phục khi có sự cố
@@ -303,7 +335,7 @@ Mẹo này tiết kiệm cho bạn 1 chuyến đi xem mái. Khách cũng thích 
 
 ### Việc 2: Nhân Viên Kỹ Thuật Điện Năng Lượng Mặt Trời (không yêu cầu kinh nghiệm) - TP.HCM
 
-- Công ty: chưa ghi tên công ty trong kết quả tìm kiếm (xem link để biết tên nhà tuyển dụng)
+- Công ty: Chưa có số liệu (trang TopCV tra ngày 23/11/2026 không hiện tên nhà tuyển dụng)
 - Lương: 10–15 triệu/tháng, lương tháng 13, BHXH/BHYT/BHTN theo quy định
 - Yêu cầu: không yêu cầu kinh nghiệm, trung cấp trở lên, nam, tuổi 18–40
 - Công việc: thi công lắp đặt các thiết bị điện năng lượng mặt trời, phối hợp với nhân viên kỹ thuật khác lên kế hoạch sửa chữa, bảo trì, sửa chữa thiết bị biến tần
@@ -315,7 +347,7 @@ Mẹo này tiết kiệm cho bạn 1 chuyến đi xem mái. Khách cũng thích 
 
 ### Việc 3: Kỹ Thuật Điện Thi Công Điện Mặt Trời (dưới 1 năm kinh nghiệm) - Hà Nội
 
-- Công ty: chưa ghi tên công ty trong kết quả tìm kiếm (xem link để biết tên nhà tuyển dụng)
+- Công ty: Chưa có số liệu (trang TopCV tra ngày 23/11/2026 không hiện tên nhà tuyển dụng)
 - Lương: 9–16 triệu/tháng (theo tay nghề + công trình + tăng ca)
 - Yêu cầu: dưới 1 năm kinh nghiệm, trung cấp trở lên, nam, tay nghề điện dân dụng hoặc công nghiệp bậc 3/7 trở lên, ưu tiên người đã từng thi công hệ thống điện mặt trời
 - Công việc: thi công đấu nối hệ thống điện năng lượng mặt trời áp mái cho hộ gia đình và dự án công nghiệp, lắp đặt và đấu nối tủ điện AC/DC, aptomat, chống sét, dây dẫn, máng cáp
@@ -324,7 +356,7 @@ Mẹo này tiết kiệm cho bạn 1 chuyến đi xem mái. Khách cũng thích 
 - Link: https://www.topcv.vn/viec-lam/ky-thuat-dien-thi-cong-dien-mat-troi/1982551.html
 - Hợp với bạn nếu: bạn ở Hà Nội và đã biết điện dân dụng hoặc điện công nghiệp cơ bản, muốn lương theo tay nghề và công trình.
 
-3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 02/04/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Ở Đà Nẵng còn có tin Nhân Viên Bảo Trì Điện Mặt Trời của Powertech (10–15 triệu/tháng, không yêu cầu kinh nghiệm, làm việc tại Đà Nẵng, Hà Nội và TP.HCM, 111 Trần Thúc Nhẫn, Hòa Xuân, Đà Nẵng) và tin Chuyên Viên Thiết Kế Hệ Thống NLMT (16–22 triệu, cần 2 năm kinh nghiệm, 103 Lê Sát, Hòa Cường, Đà Nẵng). Ở Cần Thơ gần như không có tin trên TopCV hay VietnamWorks. Bạn ở Cần Thơ thì tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com): Công ty TNHH KBA.2018 tuyển Kỹ Thuật Thi Công Dự Án Solar, nhận hồ sơ đến 31/12/2026; Công ty TNHH Redpower Vietnam tuyển Thực Tập Sinh Nhân Viên Kỹ Thuật thi công lắp đặt điện mặt trời, không yêu cầu kinh nghiệm, có hỗ trợ lương thực tập.
+3 tin trên là tin tìm thấy ngày 23/11/2026 — kiểm chứng lại cùng ngày (buổi trưa) thì cả 3 link đều hiển thị "Hết hạn ứng tuyển". Ngày đăng bài là 02/04/2027, nên trước khi đăng, PHẢI thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Cách tìm tin thay thế: TopCV, VietnamWorks; từ khóa "thi công điện mặt trời", "kỹ thuật điện mặt trời", "lắp đặt điện mặt trời"; tiêu chí: còn hạn sau 02/04/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm". Ở Đà Nẵng còn có tin Nhân Viên Bảo Trì Điện Mặt Trời của Powertech (10–15 triệu/tháng, không yêu cầu kinh nghiệm, làm việc tại Đà Nẵng, Hà Nội và TP.HCM, 111 Trần Thúc Nhẫn, Hòa Xuân, Đà Nẵng) và tin Chuyên Viên Thiết Kế Hệ Thống NLMT (16–22 triệu, cần 2 năm kinh nghiệm, 103 Lê Sát, Hòa Cường, Đà Nẵng) — 2 tin này cũng tra ngày 23/11/2026, kiểm tra lại hạn trước ngày đăng. Ở Cần Thơ gần như không có tin trên TopCV hay VietnamWorks. Bạn ở Cần Thơ thì tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com): Công ty TNHH KBA.2018 tuyển Kỹ Thuật Thi Công Dự Án Solar, nhận hồ sơ đến 31/12/2026 (hết hạn trước ngày đăng 02/04/2027); Công ty TNHH Redpower Vietnam tuyển Thực Tập Sinh Nhân Viên Kỹ Thuật thi công lắp đặt điện mặt trời, hạn nộp 28/11/2026 (đã hết hạn ngay sau ngày tra cứu), không yêu cầu kinh nghiệm, có hỗ trợ lương thực tập. Cả 2 tin Cần Thơ đều chỉ dùng làm tham khảo — trước ngày đăng, tìm tin thay thế trên Sàn Việc làm Cần Thơ với từ khóa "thi công solar", "điện mặt trời", tiêu chí còn hạn sau 02/04/2027.
 
 
 ## CV mẫu: trước và sau
@@ -399,7 +431,7 @@ Tuần này mình nói về nghề thợ lắp điện mặt trời mái nhà. �
 
 **Lắp điện mặt trời có cần bằng cấp không?**
 
-Đi làm thi công thì nhiều tin tuyển không yêu cầu bằng cấp cao, chỉ cần trung cấp trở lên, có tin không yêu cầu kinh nghiệm. Tin tuyển TopCV ngày 23/11/2026 cho thấy 2 tin ở TP.HCM tuyển thi công không yêu cầu kinh nghiệm, được đào tạo khi trúng tuyển. Nhưng lên vị trí kỹ sư, chuyên viên thiết kế hay giám sát thì cần bằng cao đẳng hoặc đại học ngành điện, cộng kinh nghiệm 1-3 năm. Bằng cấp không phải cửa duy nhất để vào nghề, mà là cửa để lên vị trí cao hơn.
+Đi làm thi công thì nhiều tin tuyển không yêu cầu bằng cấp cao, chỉ cần trung cấp trở lên, có tin không yêu cầu kinh nghiệm. Tin tuyển TopCV ngày 23/11/2026 cho thấy 2 tin ở TP.HCM tuyển thi công không yêu cầu kinh nghiệm, được đào tạo khi trúng tuyển. Thợ thi công lắp điện cho nhà dân cũng không cần chứng chỉ hành nghề điện riêng — sửa chữa, lắp điện nhà dân không có điều kiện riêng, chỉ cần làm đúng yêu cầu an toàn điện (theo bài phân tích mã ngành 4321, cập nhật 20/11/2026 — nguồn công ty kế toán, độ tin cậy trung bình, kiểm tra lại với cơ quan địa phương trước khi mở tiệm). Thủ tục đấu nối thì chủ nhà làm thủ tục thông báo với UBND cấp xã trước khi lắp ít nhất 10 ngày làm việc, đơn vị lắp đặt cung cấp hồ sơ kỹ thuật và biên bản nghiệm thu; thực tế nhiều công ty lắp đặt làm hồ sơ giúp khách. Nhưng lên vị trí kỹ sư, chuyên viên thiết kế hay giám sát thì cần bằng cao đẳng hoặc đại học ngành điện, cộng kinh nghiệm 1-3 năm. Bằng cấp không phải cửa duy nhất để vào nghề, mà là cửa để lên vị trí cao hơn.
 
 **Bán điện dư được bao nhiêu?**
 
@@ -421,11 +453,11 @@ Còn câu hỏi nào về nghề thợ lắp điện mặt trời, bạn comment
 
 ## 5. TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)
 
-### 5.0. Reel Thứ 4 - kịch bản reel flat 2D (143 từ)
+### 5.0. Reel Thứ 4 - kịch bản reel flat 2D (150 từ)
 # Kịch bản reel Thứ 4 - Dev bị layoff đi lắp điện mặt trời: 3 thứ mang theo được, 3 thứ phải học lại
 
 - Đăng: Thứ 4 31/03/2027, 20:00, TikTok / Reels / Shorts
-- Thời lượng: 40–45 giây, 143 từ
+- Thời lượng: 40–45 giây, 150 từ
 - Định dạng: hoạt hình flat 2D (theo `suon-chung-video.md`), giọng Dapper Cuff tốc độ 100, dọc 1080x1920
 - Sườn: 6 đoạn (Hook → Context → Value 1 → Value 2 → Value 3 → Payoff + CTA), không đổi thứ tự
 - Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026) — học vài tháng (pool nghiên cứu 3–6 tháng), sản lượng 3,5 kWh/kWp/ngày (Rạng Đông, 01/11/2026)
@@ -440,11 +472,11 @@ Còn câu hỏi nào về nghề thợ lắp điện mặt trời, bạn comment
 | 03 VALUE 1 | 8–16s | Học vài tháng là phụ lắp được: an toàn điện trước, rồi đấu nối DC, AC, lắp khung. | Học vài tháng là phụ lắp được |
 | 04 VALUE 2 | 16–26s | Khách gửi ảnh mái nhà, anh ấy tính được bao nhiêu kWp, bao nhiêu số điện một tháng, báo giá ngay mà chưa cần tới nhà. | Tính sản lượng từ ảnh mái nhà |
 | 05 VALUE 3 | 26–32s | Cái khó là mái cao, nắng gắt, dây DC có điện cả khi trời râm. | Dây DC có điện cả khi trời râm |
-| 06 PAYOFF + CTA | 32–45s | Bị layoff không có nghĩa là hết nghề. Việc này làm bằng tay, AI không leo mái thay bạn được. Bài đầy đủ ở bài ghim, comment 1 nếu bạn từng nghĩ tới nghề này, 2 nếu chưa. | Bị layoff không có nghĩa là hết nghề |
+| 06 PAYOFF + CTA | 32–45s | Bị layoff không phải hết nghề, mà là cơ hội bắt đầu một nghề mới. Việc này làm bằng tay, AI không leo mái thay bạn được. Bài đầy đủ ở bài ghim, comment 1 nếu bạn từng nghĩ tới nghề này, 2 nếu chưa. | Bị layoff không phải hết nghề |
 
 ## Ghi chú sản xuất
 
-- Tổng số từ lời thoại: 143 từ (đã đếm, trong khoảng 140–150). Đọc to rồi cắt 20% nếu thấy dài khi dựng.
+- Tổng số từ lời thoại: 150 từ (đã đếm, trong khoảng 140–150). Đọc to rồi cắt 20% nếu thấy dài khi dựng.
 - Hình gợi ý từng đoạn: 01 dev ôm thùng đồ ra khỏi văn phòng; 02 thợ đặt tấm pin trên mái nhà; 03 thợ học đấu nối dây DC có người kèm; 04 điện thoại hiện ảnh mái nhà + con số kWp; 05 thợ trên mái cao, nắng gắt, dây an toàn; 06 mái nhà đầy nắng + chữ payoff.
 - CTA dự phòng (không đọc cùng lúc với CTA chính): theo dõi kênh để xem Tập 4 thứ sáu.
 
@@ -594,7 +626,7 @@ Comment câu hỏi của bạn, tuần sau mình trả lời tiếp.
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Miền Trung thì Trường Cao đẳng Nghề Ninh Thuận có khóa điện mặt trời mái nhà 80 giờ, cấp chứng chỉ. Sài Gòn thì Vũ Phong cùng Solplanet mở lớp cơ bản hằng tháng, nhận cả người chưa có kinh nghiệm. Học phí 2 nơi này chưa công khai, gọi hỏi mới biết. Còn muốn đi làm nhanh nhất, anh ấy nộp vị trí thi công không cần kinh nghiệm, công ty đào tạo khi trúng tuyển. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Miền Trung thì Trường Cao đẳng Nghề Ninh Thuận có khóa điện mặt trời mái nhà 80 giờ, cấp chứng chỉ. Sài Gòn thì Vũ Phong cùng Solplanet mở lớp cơ bản hằng tháng, nhận cả người chưa có kinh nghiệm — Lớp Cơ bản Khóa 1 đã tổ chức thành công. Học phí 2 nơi này chưa công khai, gọi hỏi mới biết. Còn muốn đi làm nhanh nhất, anh ấy nộp vị trí thi công không cần kinh nghiệm, công ty đào tạo khi trúng tuyển. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 

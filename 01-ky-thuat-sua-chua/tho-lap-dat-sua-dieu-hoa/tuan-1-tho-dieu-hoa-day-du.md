@@ -9,11 +9,11 @@
 
 ## Mục lục
 
-1. [Lịch tuần 1 - 7 ngày, 15 bài](#1-lịch-tuần-1--7-ngày-15-bài)
+1. [Lịch tuần 1 - 7 ngày, 15 bài](#1-lịch-tuần-1---7-ngày-15-bài)
 2. [Nghiên cứu thị trường tóm tắt](#2-nghiên-cứu-thị-trường-tóm-tắt)
-3. [YouTube - Script video dài Thứ 2](#3-youtube--script-video-dài-thứ-2)
-4. [Facebook - 6 bài](#4-facebook--6-bài)
-5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok--8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
+3. [YouTube - Script video dài Thứ 2](#3-youtube---script-video-dài-thứ-2)
+4. [Facebook - 6 bài](#4-facebook---6-bài)
+5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok---8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
 6. [Checklist 30 ngày đầu](#6-checklist-30-ngày-đầu)
 7. [Lưu ý trước khi đăng](#7-lưu-ý-trước-khi-đăng)
 
@@ -23,8 +23,8 @@
 | Ngày | Kênh | Giờ đăng | Nội dung | Hook |
 |---|---|---|---|---|
 | Thứ 2 30/11 | TikTok | - | Clip Tập 1: tháng đầu làm thợ phụ được bao nhiêu? | Dev bị layoff thì làm gì? - Tập 1 |
-| Thứ 2 30/11 | YouTube | 19:00 | Video dài 5-10 phút, đủ 8 mục | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? |
-| Thứ 2 30/11 | Facebook | 20:00 | Bài viết dài, đủ 8 mục | Điều hòa chạy cả đêm, phòng vẫn nóng. Thợ tới nhìn 5 phút là biết bệnh. |
+| Thứ 2 30/11 | YouTube | 19:00 | Video dài 5-10 phút, đủ 12 mục | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? |
+| Thứ 2 30/11 | Facebook | 20:00 | Bài viết dài, đủ 12 mục | Điều hòa chạy cả đêm, phòng vẫn nóng. Thợ tới nhìn 5 phút là biết bệnh. |
 | Thứ 3 01/12 | TikTok | 12:00 | Clip Tập 2: ngày đầu đi làm, máy mới lắp 1 tuần hết mát | Dev bị layoff thì làm gì? - Tập 2 |
 | Thứ 3 01/12 | Facebook | - | Bài tương tác: Sau layoff, bạn đang ở bước nào? | Layoff rồi, nhiều dev đang đứng đúng chỗ bạn đang đứng |
 | Thứ 4 02/12 | TikTok / Reels / Shorts | 20:00 | Reel 40-45s (hoạt hình flat 2D), kịch bản v3 | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? |
@@ -75,7 +75,8 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 - Trung (Đà Nẵng): Hướng Nghiệp Á Âu, khóa Kỹ thuật viên Điện lạnh dân dụng (51 buổi, 15 triệu/khóa, có chi nhánh Đà Nẵng), Công ty Ánh Dương, 440 Kinh Dương Vương (khoảng 10-15 triệu, mức khoảng).
 - Nam (TP.HCM): HPcom Việt Nam, khóa sửa chữa điện lạnh (2-4 tháng, 10,3 triệu/khóa giá ưu đãi, cơ sở Tân Phú + Thủ Đức), Trường Kỹ thuật JUN OPEN, Thủ Đức (30 buổi, 5,9 triệu/khóa, có lớp tối và cuối tuần, có khóa online).
 - Học phí 3 miền tóm tắt: Bắc 6-10 triệu, Trung 10-15 triệu, Nam 5,9-10,3 triệu (khóa ngắn hạn, tùy hệ đào tạo). Miền Trung đắt nhất trong các ví dụ tìm thấy, miền Nam có lựa chọn rẻ nhất.
-- Lưu ý Thanh Xuân (đã xác minh 23/11/2026): các trang của cùng trung tâm ghi học phí khác nhau vì có nhiều hệ đào tạo - khóa ngắn hạn 6 tháng 10 triệu (trang hiện tại trungtamdaynghethanhxuan.com.vn), hệ sơ cấp 14,9 triệu / trung cấp 19,9 triệu (truongthanhxuan.com, bài 12/2024 và trang TP.HCM của .com.vn), trang cũ hơn ghi 12,5 triệu, trang .edu.vn cũ ghi 9,5 triệu. Trước khi đưa 1 con số cụ thể vào bài đăng, gọi hỏi lại trung tâm để chốt học phí hiện hành.
+- Lưu ý Thanh Xuân (đã xác minh 23/11/2026, chốt số chuẩn): cả 5 số đều ghi đủ trong file nghiên cứu mục 2 — khóa ngắn hạn 6 tháng **10 triệu (số chuẩn, trang hiện tại trungtamdaynghethanhxuan.com.vn đang công khai)**, hệ sơ cấp 14,9 triệu / trung cấp 19,9 triệu (truongthanhxuan.com, bài 12/2024 và trang TP.HCM của .com.vn), trang cũ hơn ghi 12,5 triệu, trang .edu.vn cũ ghi 9,5 triệu. Khác nhau do nhiều hệ đào tạo và trang cũ/mới. **Gọi xác nhận lại học phí trước khi đăng và trước khi đóng tiền.**
+- HPcom Việt Nam 10,3 triệu (giá ưu đãi, 2-4 tháng): ghi chú tuần 2 ghi 8,3 triệu là giá ưu đãi theo đợt — giá ưu đãi thay đổi theo đợt nên cả 2 số đều có thể đúng ở thời điểm tra của từng tuần; tuần này dùng 10,3 triệu, ghi rõ là giá ưu đãi.
 - Lộ trình theo Nambin.com: mốc thợ phụ 1-3 tháng, mốc lắp đặt - bảo dưỡng độc lập 6-12 tháng, mốc thợ sửa chữa (tự bắt bệnh, sửa board inverter) 1,5-3 năm. Trung cấp / cao đẳng ngành kỹ thuật máy lạnh: 1,5-3 năm, có bằng.
 - Muốn làm kỹ sư HVAC công trình: cần bằng trung cấp / cao đẳng trở lên. Muốn đi làm nhanh thì chọn đường khác.
 
@@ -94,7 +95,34 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 - Leo cao, làm ngoài trời nắng, điện + gas làm sai có thể chập điện, rò gas - phải học an toàn trước khi đụng vào máy thật.
 - Giờ giấc thất thường: khách gọi gấp, làm tối, làm cuối tuần.
 - Cạnh tranh: nhiều cửa hàng điện lạnh ở khu dân cư đông, thợ mới phải xây khách quen từ đầu.
-- Không có chuyện "chắc chắn có việc" hay "làm giàu nhanh".
+### Lộ trình học theo tuần/tháng (mục 9 — tóm tắt, đầy đủ trong file nghiên cứu mục 6)
+
+- Mốc Nambin.com: thợ phụ 1-3 tháng; lắp đặt – bảo dưỡng độc lập 6-12 tháng; thợ sửa chữa (tự bắt bệnh, sửa board inverter) 1,5-3 năm.
+- Tuần đầu: học an toàn điện + môi chất lạnh, liệt kê 5 cửa hàng gần nhà, xin làm thợ phụ 2-3 chỗ. Tháng đầu: theo thợ chính, tự vệ sinh 1 máy có người kèm, ghi sổ 10 lỗi. Tháng 2: học bảng giá, tập báo giá từ ảnh, làm file nhắc khách 6 tháng sau. Tháng 3: tự vệ sinh trọn vẹn, xin lên lắp đặt có người kèm — chưa nhận khách riêng. Sau 6 tháng: lắp đặt, bảo dưỡng độc lập. Học xong khóa ngắn hạn chỉ làm được việc phụ/vệ sinh, không phải cầm đồ nghề đi làm độc lập được ngay.
+
+### Thử nghề (mục 10 — tóm tắt, đầy đủ trong file nghiên cứu mục 7)
+
+- Theo thợ chính 1 ngày để xem việc thật; xin làm thợ phụ thử 1-2 tuần trước khi đóng học phí (nhiều nơi nhận người chưa biết việc, lương 7-8 triệu/tháng). Đánh giá sau 2 tuần làm phụ và sau 1 tháng: tiếp tục nếu chịu được leo thang, nắng nóng, giờ thất thường và tự vệ sinh được 1 máy có người kèm; dừng lại nếu sợ độ cao tới mức không dám trèo thang hoặc không chịu được làm ngoài trời. Chưa có số liệu về khóa cho học thử miễn phí (đã tra 23/11/2026, không nơi nào ghi). Không bỏ vốn lớn, vay tiền hay nghỉ việc trước khi thử.
+
+### Chi phí khởi điểm (tóm tắt, đầy đủ trong file nghiên cứu mục 10)
+
+- Dụng cụ (mức thấp nhất tìm được, giá 1 model cụ thể công khai ngày 23/11/2026): máy hút chân không Value VE135N 2.750.000đ, đồng hồ sạc gas Asaki CT-636G 1.250.000đ, thang nhôm Hyundai LS-43 1.950.000đ, máy khoan bê tông pin Total TRHLI1601 1.500.000đ (thân máy, chưa pin sạc), đồng hồ vạn năng Sanwa CD800A 688.000đ, máy xịt rửa vệ sinh mini 2.300.000đ (mức thấp của khoảng 2,3-5 triệu) — **tổng dụng cụ 10.438.000đ**. Bộ dụng cụ cầm tay: Chưa có số liệu.
+- Học phí nấc chuẩn: Thanh Xuân 10.000.000đ (khóa 6 tháng). **Tổng khởi điểm (dụng cụ + học phí chuẩn): 20.438.000đ, chưa tính dự phòng sinh hoạt 2 tháng đầu (Chưa có số liệu).** Đi làm thuê thì vốn gần như bằng 0 (cửa hàng có đồ nghề).
+- Mở tiệm riêng sau 1-2 năm: đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã (phường/xã nơi đặt tiệm) hoặc nộp trực tuyến bằng VNeID, lệ phí 0 đồng khi nộp trực tuyến, giải quyết trong 03 ngày làm việc (Nghị định 168/2025/NĐ-CP).
+
+### Kết luận (mục 11 — tóm tắt, đầy đủ trong file nghiên cứu mục 8)
+
+- Hợp với người chịu được lao động tay chân, leo cao, nắng nóng, chấp nhận thu nhập tháng đầu 7-8 triệu và mùa lạnh ít việc. Không hợp với người cần thu nhập ổn định ngay tháng đầu, sợ độ cao, hay muốn giờ giấc cố định. Với dân IT, đường đúng là đi làm thuê trước, học trên công trình thật, dùng lợi thế báo giá từ ảnh và nhắc khách đúng hẹn để giữ khách — chứ không phải học vài tháng rồi mở tiệm ngay.
+
+### Nguồn tham khảo (mục 12)
+
+- Đầy đủ trong file nghiên cứu mục 11: tin tuyển TopCV/Joboko/Vieclamtot, bảng học phí, lộ trình Nambin.com, giá dụng cụ, thủ tục hộ kinh doanh (Nghị định 168/2025/NĐ-CP) — mỗi nguồn có link + ngày truy cập 23/11/2026 + loại nguồn + mức tin cậy.
+
+### Kiểm chứng tin tuyển ngày 23/11/2026 (cho bài thực hành đăng 04/12/2026)
+
+- Đã mở lại cả 4 link TopCV ngày 23/11/2026: nội dung tin (công ty, lương, địa điểm, yêu cầu) khớp với ghi chép. Nhưng trang TopCV khi tra bằng bản text không hiện ngày hết hạn (mục "Hạn ứng tuyển" để trống trên cả 4 tin) nên không xác minh được từ bản tra cứu là tin còn hạn tới 04/12 hay không — bắt buộc mở lại link trước khi đăng (ghi rõ trong bài thực hành).
+- Tin dự phòng đã kiểm chứng hạn: Nhất Lâm TP.HCM 10-12tr, hạn 18/12/2026 (Joboko); Ourhome Hải Phòng 12-14tr, hạn 20/12/2026 (Joboko); Anh Hoàng Minh Đà Nẵng 8,5-15tr, đăng 19/11/2026, còn hiển thị ngày 23/11/2026 (Vieclamtot).
+- Cần Thơ: 3 tin trên Sàn Việc làm Cần Thơ ghi hạn 30/11/2026 (Lộc Phong Hưng, V.M.S, Bệnh viện S.I.S) đều hết hạn trước ngày đăng 04/12/2026 — đã loại, không dùng. Tin Nam Mekong ghi hạn 30/12/2026 theo ghi chép tra cứu trước — kiểm tra lại link trước ngày đăng 04/12/2026.
 
 
 ## 3. YouTube - Script video dài Thứ 2
@@ -114,8 +142,8 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 
 ## Caption YouTube
 
-- Dòng 1: Dev bị layoff chuyển sang làm thợ điều hòa được không? Bài đầy đủ 8 mục trong video.
-- Dòng 2: Trong video: nghề này làm gì mỗi ngày, ai hợp ai không hợp, lợi thế của dân IT, học ở đâu bao lâu, career path, tìm việc ở đâu, lương bao nhiêu, rủi ro thật.
+- Dòng 1: Dev bị layoff chuyển sang làm thợ điều hòa được không? Bài đầy đủ 12 mục trong video.
+- Dòng 2: Trong video: nghề này làm gì mỗi ngày, ai hợp ai không hợp, lợi thế của dân IT, học ở đâu bao lâu, career path, tìm việc ở đâu, lương bao nhiêu, rủi ro thật, lộ trình học theo tuần/tháng, thử nghề trước khi đóng học phí, chi phí khởi điểm, kết luận.
 - Dòng 3 (CTA): Lưu video lại, comment nghề bạn muốn nghe tuần sau: thợ sửa điện gia dụng.
 - Hashtag: #devbilayoff #chuyennghe #itrehhuong #bilayoff #nghemoi #vieclam #hocnghe #thodienlanh
 
@@ -125,7 +153,7 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 
 [Hình: cận cảnh tay thợ mở nắp cục nóng điều hòa bám bụi đen, quạt quay khựng lại. Chữ trên màn hình: "Điều hòa chạy hoài không mát: lỗi ở đây"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: thợ điều hòa. Điều hòa chạy cả đêm, phòng vẫn nóng. Thợ tới nhìn năm phút rồi nói: hết gas, châm thêm là mát. Năm phút mà biết ngay bệnh. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề bắt đầu bằng làm thợ phụ có lương, rồi 6 tới 12 tháng mới làm độc lập được: thợ điều hòa. Điều hòa chạy cả đêm, phòng vẫn nóng. Thợ tới nhìn năm phút rồi nói: hết gas, châm thêm là mát. Năm phút mà biết ngay bệnh. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30-2:00 - Nghề này là gì, 1 ngày làm việc thật
 
@@ -163,11 +191,11 @@ Lên nấc hai, bạn làm độc lập: tự lắp đặt và bảo dưỡng, k
 
 Nấc ba là sửa chữa: tự bắt bệnh, sửa board inverter cho khách. Thường sau 1,5-3 năm mới tới được đây.
 
-Còn học ở đâu thì có 3 đường đi. Nhanh nhất là xin làm thợ phụ hoặc học việc tại cửa hàng điện lạnh. Nhiều nơi không thu học phí, còn trả phụ cấp, bạn học trên công trình thật 3-12 tháng. Đi học khóa sơ cấp nghề cũng được: 3-6 tháng, học phí khoảng 6-10 triệu đồng tùy nơi. Ví dụ khóa sơ cấp tại 451 Hoàng Quốc Việt, Cầu Giấy, Hà Nội, học phí 6 triệu 1 khóa, học xong được cấp chứng chỉ sơ cấp. Trung tâm Dạy nghề Thanh Xuân ở Xa La, Hà Đông, khóa 6 tháng, học phí 10 triệu 1 khóa. Lưu ý là 2 nguồn của cùng trung tâm Thanh Xuân ghi học phí khác nhau, nên bạn gọi hỏi lại trước khi đóng tiền. Đường còn lại là học trung cấp hoặc cao đẳng ngành kỹ thuật máy lạnh, 1,5-3 năm, có bằng. Đường này hợp với người trẻ muốn làm kỹ sư HVAC cho công ty, còn ai muốn đi làm nhanh thì chọn đường thợ phụ hoặc khóa sơ cấp."
+Còn học ở đâu thì có 3 đường đi. Nhanh nhất là xin làm thợ phụ hoặc học việc tại cửa hàng điện lạnh. Nhiều nơi không thu học phí, còn trả phụ cấp, bạn học trên công trình thật 3-12 tháng. Đi học khóa sơ cấp nghề cũng được: 3-6 tháng, học phí khoảng 6-10 triệu đồng tùy nơi. Ví dụ khóa sơ cấp tại 451 Hoàng Quốc Việt, Cầu Giấy, Hà Nội, học phí 6 triệu 1 khóa, học xong được cấp chứng chỉ sơ cấp. Trung tâm Dạy nghề Thanh Xuân ở Xa La, Hà Đông, khóa 6 tháng, số chuẩn dùng trong bài là 10 triệu 1 khóa, vì đó là số trên trang hiện tại của trung tâm đang công khai. Nhưng các trang khác của cùng trung tâm ghi khác nhau: hệ sơ cấp 14,9 triệu, trung cấp 19,9 triệu, trang cũ ghi 12,5 triệu, trang .edu.vn cũ ghi 9,5 triệu. Cả 5 số đều ghi đủ trong file nghiên cứu để đối chiếu. Gọi xác nhận lại học phí trước khi đăng và trước khi đóng tiền. Đường còn lại là học trung cấp hoặc cao đẳng ngành kỹ thuật máy lạnh, 1,5-3 năm, có bằng. Đường này hợp với người trẻ muốn làm kỹ sư HVAC cho công ty, còn ai muốn đi làm nhanh thì chọn đường thợ phụ hoặc khóa sơ cấp."
 
 ### 7:00-8:30 - Career path + tìm việc, tìm khách ở đâu
 
-"Đường đi thường là như thế này. 0-3 tháng đầu: học + làm phụ, nhận việc nhỏ, lương thợ phụ khoảng 7-8 triệu một tháng. 3-6 tháng: làm chính, có khách quen, lương thợ chính khoảng 9-14 triệu. 6-12 tháng: lên tay nghề, nhận job độc lập, thu nhập thêm hoa hồng theo job. Sau 1-2 năm: có thể mở tiệm nhỏ hoặc nhận khách riêng, rồi dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+"Đường đi thường là như thế này. 0-3 tháng đầu: học + làm phụ, nhận việc nhỏ, lương thợ phụ khoảng 7-8 triệu một tháng. 3-6 tháng: làm chính, tự vệ sinh trọn vẹn 1 job, lắp đặt có người kèm, lương thợ chính khoảng 9-14 triệu. 6-12 tháng: lắp đặt và bảo dưỡng độc lập, thu nhập thêm hoa hồng theo job. Sau 1,5-3 năm mới tới nấc sửa chữa: tự bắt bệnh, sửa board inverter. Sau 1-2 năm: có thể mở tiệm nhỏ hoặc nhận khách riêng, rồi dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần. Nói thẳng: học xong khóa ngắn hạn chỉ làm được việc phụ và vệ sinh, không phải cầm đồ nghề đi làm độc lập được ngay.
 
 Tìm việc đầu tiên ở đâu? Có 3 chỗ để bắt đầu. Xin làm thợ phụ cho đội thợ hoặc cửa hàng điện lạnh gần nhà, tìm trên Google Maps và Group cư dân khu vực. Nộp đơn lên TopCV: ngày 23/11 mình đếm thấy có tin tuyển thợ phụ không yêu cầu kinh nghiệm, vừa làm vừa học vẫn có lương. Khi đã cứng tay thì đăng video và bài lên TikTok, Facebook theo quận mình làm, để khách khu vực biết bạn. Đừng nhận khách riêng khi chưa cứng tay. Làm sai 1 job, khách không quay lại nữa."
 
@@ -183,15 +211,21 @@ Về nhu cầu: ngày 23/11 mình đếm thấy TopCV có 11 tin đang tuyển t
 
 Về nhu cầu theo thành phố, tra ngày 23/11: Hà Nội và TP.HCM tuyển nhiều nhất. TP.HCM là nơi có nhiều tin thợ dân dụng nhất trên TopCV, lương phổ biến 8-15 triệu. Hà Nội thì nhiều tin kỹ sư HVAC lương 15-30 triệu, nhưng cần bằng cấp. Đà Nẵng tuyển đều qua Việc Làm Tốt và sàn địa phương, lương phổ biến cũng 8-15 triệu. Cần Thơ lương thấp nhất trong 4 nơi: thợ chính 7-10 triệu, thợ phụ 5,5-6 triệu, và tuyển chủ yếu qua sàn địa phương với Facebook, gần như không có tin trên TopCV hay VietnamWorks, nên bạn ở Cần Thơ thì hỏi trực tiếp cửa hàng gần nhà sẽ nhanh hơn nộp đơn online.
 
-Còn số cũ trong nghiên cứu trước: trung tâm nói trung bình 7-10 triệu một tháng, báo Nghệ An nói mùa cao điểm khoảng 1 đến 1,2 triệu một ngày. Những số này chưa kiểm chứng lại, mình chỉ nhắc để bạn đối chiếu, không dùng làm số chính."
+Còn số cũ trong nghiên cứu trước: trung tâm nói trung bình 7-10 triệu một tháng, báo Nghệ An nói mùa cao điểm khoảng 1 đến 1,2 triệu một ngày. Những số này chưa kiểm chứng lại, mình chỉ nhắc để bạn đối chiếu, không dùng làm số chính.
 
-### 9:30-10:00 - Checklist 5 việc + CTA
+Về chi phí khởi điểm, nói nhanh để bạn tính trước: đi làm thuê thì vốn gần như bằng 0, cửa hàng có đồ nghề. Tự mua đủ bộ để làm độc lập — máy hút chân không, đồng hồ sạc gas, thang nhôm, máy khoan, đồng hồ vạn năng, máy xịt rửa vệ sinh — khoảng 10,4 triệu theo giá 1 model cụ thể tìm được công khai ngày 23/11. Cộng học phí nấc chuẩn 10 triệu thì tổng khởi điểm là khoảng 20,4 triệu, chưa tính tiền dự phòng sinh hoạt 2 tháng đầu — khoản này chưa có số liệu, bạn tự tính tiền nhà, ăn uống, xăng xe của mình trong 2 tháng. Mở tiệm riêng sau 1-2 năm thì đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã, hoặc nộp trực tuyến bằng VNeID, lệ phí 0 đồng khi nộp trực tuyến, giải quyết trong 3 ngày làm việc."
 
-"Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới.
+### 9:30-10:00 - Thử nghề + kết luận + Checklist 5 việc + CTA
+
+"Trước khi đóng học phí lớn hay nghỉ việc, thử nghề đã. Xin đi theo thợ chính 1 ngày để xem việc thật. Rồi xin làm thợ phụ thử 1-2 tuần — nhiều nơi nhận người chưa biết việc, vẫn trả lương 7-8 triệu một tháng. Đánh giá sau 2 tuần: tiếp tục nếu bạn chịu được leo thang, nắng nóng, giờ giấc thất thường và tự vệ sinh được 1 máy có người kèm; dừng lại nếu sợ độ cao tới mức không dám trèo thang, hoặc không chịu được làm ngoài trời.
+
+Kết luận ngắn gọn: nghề này hợp với người chịu được lao động tay chân, leo cao, nắng nóng, chấp nhận thu nhập tháng đầu chỉ 7-8 triệu và mùa lạnh ít việc. Không hợp với người cần thu nhập ổn định ngay tháng đầu hay muốn giờ giấc cố định. Với dân IT, đường đúng là đi làm thuê trước, học trên công trình thật, dùng lợi thế báo giá từ ảnh và nhắc khách đúng hẹn để giữ khách — chứ không phải học vài tháng rồi mở tiệm ngay. Bị layoff không phải hết nghề — mà là cơ hội bắt đầu một nghề mới. Nhưng bắt đầu đúng nghĩa là bắt đầu từ thợ phụ.
+
+Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới.
 
 Học an toàn điện và môi chất lạnh trước khi đụng vào máy thật. Liệt kê 5 cửa hàng hoặc đội thợ điện lạnh gần nhà. Đi xin làm thợ phụ hoặc học việc ở 2-3 chỗ, hỏi rõ phụ cấp và ai kèm mình. Mua đồ nghề cơ bản, nhưng hỏi trước xem cửa hàng có cấp không. Và bắt đầu ghi sổ lỗi: mỗi lỗi gặp trong ngày ghi lại 1 dòng và cách xử lý.
 
-Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau mình nói về thợ sửa điện gia dụng. Comment nghề bạn muốn nghe, mình đọc hết."
+Bài đầy đủ 12 mục mình để ở bài ghim trên Facebook. Tuần sau mình nói về thợ sửa điện gia dụng. Comment nghề bạn muốn nghe, mình đọc hết."
 
 
 ## 4. Facebook - 6 bài
@@ -201,11 +235,11 @@ Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau m
 # Bài viết dài Facebook Thứ 2 - Dev bị layoff chuyển sang làm thợ điều hòa được không?
 
 - Đăng: Thứ 2 30/11/2026, 20:00, Facebook
-- Dạng: bài viết dài, đủ 8 mục, viết để lưu lại được
+- Dạng: bài viết dài, đủ 12 mục, viết để lưu lại được
 - Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026)
 - Giọng: nói với "bạn", không liệt kê Một/Hai/Ba, không bịa số liệu
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: thợ điều hòa.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề bắt đầu bằng làm thợ phụ có lương, rồi 6 tới 12 tháng mới làm độc lập được: thợ điều hòa.
 
 Điều hòa chạy cả đêm, phòng vẫn nóng. Thợ tới nhìn năm phút rồi nói: hết gas, châm thêm là mát. Năm phút mà biết ngay bệnh. Bài này nói hết về nghề thợ lắp đặt và sửa điều hòa: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
@@ -247,13 +281,13 @@ Còn học ở đâu thì có 3 đường đi.
 
 Đường nhanh nhất là xin làm thợ phụ hoặc học việc tại cửa hàng điện lạnh. Nhiều nơi không thu học phí, còn trả phụ cấp. Bạn học trên công trình thật, 3-12 tháng.
 
-Đường thứ hai là khóa sơ cấp nghề, 3-6 tháng, học phí khoảng 6-10 triệu đồng. Khóa tại 451 Hoàng Quốc Việt, Cầu Giấy, Hà Nội, 6 triệu 1 khóa, học xong được cấp chứng chỉ sơ cấp. Trung tâm Dạy nghề Thanh Xuân ở Xa La, Hà Đông, khóa 6 tháng, học phí 10 triệu 1 khóa. Nhưng 2 nguồn của cùng trung tâm Thanh Xuân ghi học phí khác nhau, nên bạn gọi hỏi lại trước khi đóng tiền.
+Đường thứ hai là khóa sơ cấp nghề, 3-6 tháng, học phí khoảng 6-10 triệu đồng. Khóa tại 451 Hoàng Quốc Việt, Cầu Giấy, Hà Nội, 6 triệu 1 khóa, học xong được cấp chứng chỉ sơ cấp. Trung tâm Dạy nghề Thanh Xuân ở Xa La, Hà Đông, khóa 6 tháng, số chuẩn dùng trong bài là 10 triệu 1 khóa (trang hiện tại của trung tâm đang công khai). Nhưng các trang khác của cùng trung tâm ghi khác nhau: hệ sơ cấp 14,9 triệu, trung cấp 19,9 triệu, trang cũ ghi 12,5 triệu, trang .edu.vn cũ ghi 9,5 triệu. Cả 5 số đều ghi đủ trong file nghiên cứu để đối chiếu. Gọi xác nhận lại học phí trước khi đăng và trước khi đóng tiền.
 
 Đường thứ ba là học trung cấp hoặc cao đẳng ngành kỹ thuật máy lạnh, 1,5-3 năm, có bằng. Đường này hợp với người trẻ muốn làm kỹ sư HVAC cho công ty, còn ai muốn đi làm nhanh thì chọn đường thợ phụ hoặc khóa sơ cấp.
 
 **Career path**
 
-0-3 tháng đầu, bạn học và làm phụ, lương thợ phụ khoảng 7-8 triệu một tháng. 3-6 tháng thì làm chính, có khách quen, lương thợ chính khoảng 9-14 triệu. 6-12 tháng, lên tay nghề, nhận job độc lập, thu nhập thêm hoa hồng theo job. Sau 1-2 năm, có người mở tiệm nhỏ hoặc nhận khách riêng, rồi dạy lại cho thợ mới. Mấy mốc này là ước lượng thôi, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+0-3 tháng đầu, bạn học và làm phụ, lương thợ phụ khoảng 7-8 triệu một tháng. 3-6 tháng thì làm chính: tự vệ sinh trọn vẹn 1 job, lắp đặt có người kèm, lương thợ chính khoảng 9-14 triệu. 6-12 tháng, lắp đặt và bảo dưỡng độc lập, nhận job có hoa hồng theo job. Sau 1,5-3 năm mới tới nấc sửa chữa: tự bắt bệnh, sửa board inverter. Sau 1-2 năm, có người mở tiệm nhỏ hoặc nhận khách riêng, rồi dạy lại cho thợ mới. Mấy mốc này là ước lượng thôi, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần. Nói thẳng: học xong khóa ngắn hạn chỉ làm được việc phụ và vệ sinh, không phải cầm đồ nghề đi làm độc lập được ngay.
 
 **Tìm việc, tìm khách đầu tiên ở đâu**
 
@@ -272,6 +306,26 @@ Còn số cũ trong nghiên cứu trước: trung tâm nói trung bình 7-10 tri
 **Rủi ro thật**
 
 Mùa vụ rõ rệt nhất. Mùa nóng kín lịch, mùa lạnh ít việc. Leo cao, làm ngoài trời nắng là chuyện thường ngày. Điện và gas thì làm sai có thể chập điện, rò gas, nên phải học an toàn trước khi đụng vào máy thật. Giờ giấc thất thường, khách gọi gấp là đi, làm tối, làm cuối tuần. Nghề này làm ra tiền bằng tay, theo mùa, và phải xây khách quen dần. Không có chuyện chắc chắn có việc hay làm giàu nhanh.
+
+**Lộ trình học theo tuần/tháng**
+
+Tuần đầu: học an toàn điện và môi chất lạnh, liệt kê 5 cửa hàng gần nhà, đi xin làm thợ phụ ở 2-3 chỗ. Tháng đầu: đi theo thợ chính, tự vệ sinh 1 máy có người kèm, ghi sổ 10 lỗi hay gặp. Tháng 2: học bảng giá cửa hàng, tập báo giá từ ảnh khách gửi, làm file nhắc khách 6 tháng sau. Tháng 3: tự vệ sinh trọn vẹn, xin lên lắp đặt có người kèm — chưa nhận khách riêng. Sau 6 tháng: lắp đặt, bảo dưỡng độc lập. Sau 1,5-3 năm: tự bắt bệnh, sửa board inverter. Học xong khóa ngắn hạn chỉ làm được việc phụ, 6-12 tháng mới làm độc lập.
+
+**Thử nghề trước khi đóng học phí**
+
+Đừng đóng học phí lớn hay nghỉ việc trước khi thử. Xin đi theo thợ chính 1 ngày để xem việc thật: leo thang, nắng nóng, khách ra sao. Rồi xin làm thợ phụ thử 1-2 tuần — nhiều nơi nhận người chưa biết việc, vẫn trả lương 7-8 triệu một tháng. Đánh giá sau 2 tuần làm phụ: tiếp tục nếu bạn chịu được leo thang, nắng nóng, giờ giấc thất thường và tự vệ sinh được 1 máy có người kèm; dừng lại nếu sợ độ cao tới mức không dám trèo thang, hoặc không chịu được làm ngoài trời. Chưa có khóa nào ghi học thử miễn phí để giới thiệu ở đây — đã tra ngày 23/11/2026, không nơi nào ghi.
+
+**Chi phí khởi điểm**
+
+Đi làm thuê thì vốn gần như bằng 0, cửa hàng có đồ nghề. Tự mua đủ bộ để làm độc lập (máy hút chân không, đồng hồ sạc gas, thang nhôm, máy khoan, đồng hồ vạn năng, máy xịt rửa vệ sinh): khoảng 10.438.000đ theo giá 1 model cụ thể tìm được công khai ngày 23/11/2026 — chưa gồm pin + sạc máy khoan, gas/ống đồng và bộ dụng cụ cầm tay (chưa có số liệu). Cộng học phí nấc chuẩn Thanh Xuân 10 triệu thì tổng khởi điểm là 20.438.000đ, chưa tính tiền dự phòng sinh hoạt 2 tháng đầu (chưa có số liệu — các nguồn tìm được đều là bảng chi phí cho người nước ngoài, không áp dụng được). Mở tiệm riêng sau 1-2 năm thì đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã (phường/xã nơi đặt tiệm) hoặc nộp trực tuyến bằng VNeID, lệ phí 0 đồng khi nộp trực tuyến, giải quyết trong 03 ngày làm việc.
+
+**Kết luận**
+
+Nghề này hợp với người chịu được lao động tay chân, leo cao, nắng nóng, chấp nhận thu nhập tháng đầu chỉ 7-8 triệu và mùa lạnh ít việc. Không hợp với người cần thu nhập ổn định ngay tháng đầu, sợ độ cao, hay muốn giờ giấc cố định. Với dân IT, đường đúng là đi làm thuê trước, học trên công trình thật, dùng lợi thế báo giá từ ảnh và nhắc khách đúng hẹn để giữ khách — chứ không phải học vài tháng rồi mở tiệm ngay. Bị layoff không phải hết nghề — mà là cơ hội bắt đầu một nghề mới. Nhưng bắt đầu đúng nghĩa là bắt đầu từ thợ phụ.
+
+**Nguồn tham khảo**
+
+Mọi số trong bài tra cứu ngày 23/11/2026, nguồn đầy đủ trong `Info/nghien-cuu-thi-truong.md` mục 11 (tin tuyển TopCV/Joboko/Vieclamtot, bảng học phí Thanh Xuân/Hướng Nghiệp Á Âu/HPcom/JUN OPEN, lộ trình Nambin.com, giá dụng cụ, thủ tục hộ kinh doanh theo Nghị định 168/2025/NĐ-CP). Số nào chưa có thì bài ghi rõ "Chưa có số liệu", không bịa.
 
 Lưu bài này lại, comment "Thợ điều hòa" để nhận checklist 30 ngày đầu làm thợ điều hòa. Tuần sau mình nói về thợ sửa điện gia dụng.
 
@@ -316,7 +370,7 @@ Mẹo này tiết kiệm cho bạn 1 chuyến đi xem máy. Khách cũng thích 
 # Bài thực hành Thứ 6 - 4 việc thật + CV trước/sau + checklist 30 ngày
 
 - Đăng: Thứ 6 04/12/2026, 12:00, Facebook (carousel / bài viết)
-- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). Trước khi đăng ngày 04/12, kiểm tra lại xem tin còn hạn không - tin hết hạn thì thay bằng tin khác, không đăng tin hết hạn.
+- Nguồn: tin tuyển tra cứu ngày 23/11/2026. **Tin tra ngày 23/11/2026 — kiểm tra lại link trước ngày đăng 04/12/2026.** Tin nào hết hạn thì thay bằng tin dự phòng đã kiểm chứng hạn ở cuối mục 4 việc (không đăng tin hết hạn).
 - Giọng: nói với "bạn", không bịa số liệu
 
 
@@ -327,7 +381,8 @@ Mẹo này tiết kiệm cho bạn 1 chuyến đi xem máy. Khách cũng thích 
 - Công ty: Công ty TNHH Dịch vụ Kỹ thuật Cơ điện lạnh HK
 - Lương: 10-25 triệu/tháng (gồm lương cứng + hoa hồng 15% trên mỗi đơn hàng + thưởng KPI theo tháng)
 - Địa điểm: 29/24 Đường TL14, Phường An Phú Đông, TP.HCM
-- Ngày thấy tin: 23/11/2026 (TopCV)
+- Yêu cầu: nam, trung cấp trở lên chuyên ngành điện lạnh, 1-2 năm kinh nghiệm, có bằng lái xe máy, **có đồ nghề chuyên dụng riêng**
+- Tin tra ngày 23/11/2026 — kiểm tra lại link trước ngày đăng 04/12/2026 (TopCV; trang tin khi tra bằng bản text không hiện ngày hết hạn)
 - Link: https://www.topcv.vn/viec-lam/tho-sua-chua-dien-lanh-tuyen-nam-luong-10-25-trieu-thang-di-lam-ngay-tai-tphcm/2227697.html
 - Hợp với bạn nếu: bạn đã biết lắp đặt, bảo dưỡng, sửa chữa cơ bản và muốn thu nhập theo job, không chỉ lương cứng.
 
@@ -338,7 +393,7 @@ Mẹo này tiết kiệm cho bạn 1 chuyến đi xem máy. Khách cũng thích 
 - Yêu cầu: thợ chính đã biết lắp đặt, bảo dưỡng, sửa chữa điều hòa, máy giặt, bình nóng lạnh, tủ lạnh. Thợ phụ không yêu cầu kinh nghiệm, chưa biết việc sẽ được đi làm học việc thực tế vẫn có lương.
 - Hỗ trợ: 100% chi phí nhà ở, ăn sáng, ăn trưa (thợ phụ). Thưởng theo tháng 1-3 triệu
 - Địa điểm: Số nhà 34 Ngõ 12 Hàm Nghi, Phường Từ Liêm, Hà Nội
-- Ngày thấy tin: 23/11/2026 (TopCV)
+- Tin tra ngày 23/11/2026 — kiểm tra lại link trước ngày đăng 04/12/2026 (TopCV; trang tin khi tra bằng bản text không hiện ngày hết hạn)
 - Link: https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-dien-lanh-tho-chinh-tho-phu/2137816.html
 - Hợp với bạn nếu: bạn là người mới chuyển nghề, chưa biết việc - nộp vị trí thợ phụ, vừa làm vừa học vẫn có lương.
 
@@ -346,9 +401,11 @@ Mẹo này tiết kiệm cho bạn 1 chuyến đi xem máy. Khách cũng thích 
 
 - Công ty: Công ty CP UNIC
 - Lương: cơ bản 10-14 triệu/tháng, tăng lương theo kết quả và năng lực
-- Ngày thấy tin: 23/11/2026 (TopCV)
+- Yêu cầu: nam 25-40 tuổi, trung cấp trở lên chuyên ngành cơ khí/điện lạnh/điện cơ, **kinh nghiệm 3 năm trở lên** tại vị trí tương đương (ưu tiên 5 năm trở lên) — tin này không dành cho người mới chuyển nghề
+- Địa điểm: 198 Vũ Tông Phan, phường An Phú, Thủ Đức, TP.HCM
+- Tin tra ngày 23/11/2026 — kiểm tra lại link trước ngày đăng 04/12/2026 (TopCV; trang tin khi tra bằng bản text không hiện ngày hết hạn)
 - Link: https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-dien-lanh-dan-dung-luong-den-14-trieu-thang/1454849.html
-- Hợp với bạn nếu: bạn đã biết việc cơ bản và muốn lương cứng ổn định, có lộ trình tăng lương rõ ràng.
+- Hợp với bạn nếu: bạn đã có 3 năm kinh nghiệm làm điện lạnh và muốn lương cứng ổn định, có lộ trình tăng lương rõ ràng.
 
 ### Việc 4: Kỹ Thuật Viên Lắp Đặt Bảo Trì Điện Lạnh / Điện Tử - Đà Nẵng
 
@@ -356,11 +413,19 @@ Mẹo này tiết kiệm cho bạn 1 chuyến đi xem máy. Khách cũng thích 
 - Lương: thợ chính 10-15 triệu/tháng (chưa bao gồm phụ cấp), thợ phụ 7-10 triệu/tháng
 - Yêu cầu: 1 năm kinh nghiệm, nam 29-37 tuổi, cao đẳng trở lên
 - Địa điểm: 452 Nguyễn Hữu Thọ, Phường Khuê Trung, Cẩm Lệ, Đà Nẵng
-- Ngày thấy tin: 23/11/2026 (TopCV - tìm thấy trong kết quả tìm kiếm, không thấy ghi hết hạn. Kiểm tra lại hạn trước ngày đăng 04/12)
+- Tin tra ngày 23/11/2026 — kiểm tra lại link trước ngày đăng 04/12/2026 (TopCV; trang tin khi tra bằng bản text không hiện ngày hết hạn)
 - Link: https://www.topcv.vn/viec-lam/ky-thuat-vien-lap-dat-bao-tri-dien-lanh-dien-tu/1379541.html
 - Hợp với bạn nếu: bạn ở Đà Nẵng và đã có 1 năm kinh nghiệm làm điện lạnh.
 
-4 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 04/12/2026, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Ở Cần Thơ gần như không có tin thợ điện lạnh trên TopCV. Bạn ở Cần Thơ thì tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com) và hỏi trực tiếp cửa hàng điện lạnh gần nhà. Ví dụ Điện Lạnh Tiến Phát (577 đường 30/4, Tân An) tuyển thợ chính 7-10 triệu + 10% doanh số và kỹ thuật phụ 5,5-6 triệu/tháng.
+4 tin trên là tin tìm thấy ngày 23/11/2026. **Tin tra ngày 23/11/2026 — kiểm tra lại link trước ngày đăng 04/12/2026.** Trang TopCV khi tra bằng bản text không hiện ngày hết hạn, nên không xác minh được từ bản tra cứu là tin còn hạn tới 04/12 hay không — bắt buộc mở lại link trước khi đăng. Tin nào hết hạn thì thay bằng tin dự phòng dưới đây, không đăng tin hết hạn.
+
+### Tin dự phòng đã kiểm chứng hạn (tra cứu 23/11/2026 — dùng thay nếu tin trên hết hạn)
+
+- **Tin dự phòng 1 (TP.HCM):** Vận Hành Kỹ Thuật Điện Lạnh — Công ty TNHH TM và XNK Nhất Lâm, KCN Hiệp Phước, Nhà Bè, TP.HCM. Lương 10-12 triệu/tháng, chưa có kinh nghiệm sẽ được đào tạo, tốt nghiệp trung cấp điện lạnh/điện công nghiệp. **Hạn nộp 18/12/2026** (sau ngày đăng 04/12). Link: https://vn.joboko.com/viec-lam-van-hanh-ky-thuat-dien-lanh-xvi6847369 (Joboko, đăng 19/11/2026). Lưu ý: đây là vận hành hệ thống lạnh công nghiệp/kho lạnh, không phải lắp điều hòa dân dụng.
+- **Tin dự phòng 2 (Hải Phòng):** Nhân Viên Kỹ Thuật Điện Lạnh — Công ty TNHH Ourhome Việt Nam, Hải Phòng. Thu nhập 12-14 triệu/tháng, cần bằng liên quan ngành kỹ thuật điện hoặc kinh nghiệm bảo trì. **Hạn nộp 20/12/2026** (sau ngày đăng 04/12). Link: https://vn.joboko.com/viec-lam-nhan-vien-ky-thuat-dien-lanh-xvi6847553 (Joboko, đăng 19/11/2026). Lưu ý: làm tại bếp ăn, địa điểm Hải Phòng.
+- **Tin dự phòng 3 (Đà Nẵng — thay cho Việc 4 United Vision):** Thợ điện tử điện lạnh Hòa Xuân — Công ty TNHH MTV Anh Hoàng Minh, Đà Nẵng. Lương 8,5-15 triệu/tháng, tuyển 2 thợ + 1 học việc, **đăng 19/11/2026, tin còn hiển thị ngày 23/11/2026**. Link: https://www.vieclamtot.com/viec-lam-huyen-hoa-vang-da-nang/134941315.htm (Vieclamtot). Tin này nhận cả học việc nên hợp với người mới hơn United Vision (yêu cầu 1 năm kinh nghiệm, nam 29-37 tuổi, cao đẳng trở lên).
+
+Ở Cần Thơ gần như không có tin thợ điện lạnh trên TopCV. Bạn ở Cần Thơ thì tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com) và hỏi trực tiếp cửa hàng điện lạnh gần nhà. Ví dụ Điện Lạnh Tiến Phát (577 đường 30/4, Tân An) tuyển thợ chính 7-10 triệu + 10% doanh số và kỹ thuật phụ 5,5-6 triệu/tháng. **Lưu ý Cần Thơ:** 3 tin trên Sàn Việc làm Cần Thơ ghi hạn nộp **30/11/2026** (Lộc Phong Hưng — Kỹ Thuật Điện, Điện Tử, Điện Lạnh, từ 10 triệu; V.M.S — Nhân Viên Kỹ Thuật, 7-10 triệu; Bệnh viện S.I.S — Nhân Viên Bảo Trì Điện, Điện Lạnh) **đều hết hạn trước ngày đăng 04/12/2026 — đã loại, không dùng**. Tin Nam Mekong (Nhân Viên Kỹ Thuật, 10-15 triệu) ghi hạn 30/12/2026 theo ghi chép tra cứu trước — kiểm tra lại link trước ngày đăng 04/12/2026.
 
 
 ## CV mẫu: trước và sau
@@ -417,7 +482,7 @@ Lưu carousel này lại, comment "checklist" để nhận file checklist 30 ng�
 - Đăng: Thứ 7 05/12/2026, Facebook (bài ngắn cuối tuần)
 - Giọng: nói với "bạn", không bịa số liệu
 
-Tuần này mình nói về nghề thợ lắp đặt và sửa điều hòa. Làm gì mỗi ngày, ai hợp ai không hợp, học ở đâu bao lâu. Lương thợ phụ khoảng 7-8 triệu, thợ chính khoảng 9-14 triệu. Và một sự thật là nghề này theo mùa: mùa nóng kín lịch, mùa lạnh ít việc. Bài đầy đủ 8 mục vẫn ở bài ghim, bạn nào chưa đọc thì đọc lại cuối tuần này.
+Tuần này mình nói về nghề thợ lắp đặt và sửa điều hòa. Làm gì mỗi ngày, ai hợp ai không hợp, học ở đâu bao lâu. Lương thợ phụ khoảng 7-8 triệu, thợ chính khoảng 9-14 triệu. Và một sự thật là nghề này theo mùa: mùa nóng kín lịch, mùa lạnh ít việc. Bài đầy đủ 12 mục vẫn ở bài ghim, bạn nào chưa đọc thì đọc lại cuối tuần này.
 
 Tuần sau mình nói về 1 nghề mà nhà nào cũng cần, hỏng là gọi ngay, không đợi được đến mai: thợ sửa điện gia dụng. Máy giặt không vắt, tủ lạnh không lạnh, bình nóng lạnh không nóng. Bạn đoán thợ sửa điện gia dụng kiếm tiền bằng cách nào mà khách gọi là tới ngay?
 
@@ -448,7 +513,7 @@ Học được, nhưng phải học an toàn điện trước khi đụng vào m
 
 **Cần vốn bao nhiêu để bắt đầu?**
 
-Đi làm thuê thì vốn gần như bằng 0. Xin làm thợ phụ, cửa hàng có đồ nghề, bạn chỉ cần thời gian đi học việc. Tin tuyển TopCV ngày 23/11/2026 cho thấy thợ phụ không yêu cầu kinh nghiệm, lương 7-8 triệu một tháng, có nơi hỗ trợ nhà ở và ăn uống. Học khóa sơ cấp nghề thì học phí khoảng 6-10 triệu đồng tùy nơi, khóa 3-6 tháng. Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1-2 năm: đồ nghề đầy đủ, thang, máy hút chân không, xe chở đồ.
+Đi làm thuê thì vốn gần như bằng 0. Xin làm thợ phụ, cửa hàng có đồ nghề, bạn chỉ cần thời gian đi học việc. Tin tuyển TopCV ngày 23/11/2026 cho thấy thợ phụ không yêu cầu kinh nghiệm, lương 7-8 triệu một tháng, có nơi hỗ trợ nhà ở và ăn uống. Học khóa sơ cấp nghề thì học phí khoảng 6-10 triệu đồng tùy nơi, khóa 3-6 tháng (Thanh Xuân: số chuẩn 10 triệu một khóa 6 tháng — gọi xác nhận lại trước khi đóng tiền, vì các trang của trung tâm ghi 5 số khác nhau). Tự mua đủ đồ nghề để làm độc lập thì khoảng 10.438.000đ theo giá 1 model cụ thể tìm được công khai ngày 23/11/2026, cộng học phí 10 triệu thì tổng khởi điểm là 20.438.000đ, chưa tính tiền dự phòng sinh hoạt 2 tháng đầu (chưa có số liệu). Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1-2 năm: lúc đó đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã, lệ phí 0 đồng khi nộp trực tuyến, giải quyết trong 03 ngày làm việc.
 
 **Thợ điều hòa có bị AI thay thế không?**
 
@@ -465,9 +530,9 @@ Câu hook chung mọi clip: **"Dev bị layoff thì làm gì?"** + số tập. 6
 
 File video: `tiktok/reel-thu-4-flat2d.mp4` - hoạt hình flat 2D có màu kiểu Kurzgesagt, dọc 1080x1920, 30fps, 40,13 giây, giọng Dapper Cuff tốc độ 100.
 
-Hook: "Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: thợ điều hòa." Tóm tắt: Context (thợ nhìn 5 phút biết bệnh) → 3 ý giá trị (học vài tháng là nắm cái gốc, tra lỗi bằng AI, báo giá từ ảnh, nhắc khách đúng hẹn, điện, gas, leo cao phải làm bằng tay) → Payoff: "Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền ngay."
+Hook: "Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề bắt đầu bằng làm thợ phụ có lương, rồi 6 tới 12 tháng mới làm độc lập được: thợ điều hòa." Tóm tắt: Context (thợ nhìn 5 phút biết bệnh) → 3 ý giá trị (học vài tháng là nắm cái gốc, tra lỗi bằng AI, báo giá từ ảnh, nhắc khách đúng hẹn, điện, gas, leo cao phải làm bằng tay) → Payoff (bản cũ trong video mp4 đã render — xem lưu ý ở mục 5.0): câu kết cũ hứa hẹn thu nhập ngay sau khi đổi nghề — viết quá tay so với lộ trình thật (học xong làm phụ việc, 6–12 tháng mới làm độc lập); video mp4 chưa render lại, Ngoc quyết render lại hay giữ nguyên.
 
-Lưu ý: video đã render từ kịch bản v3 CŨ (câu payoff cũ "Bị layoff không có nghĩa là hết nghề" vẫn còn trong video). Kịch bản v3 mới đã sửa payoff theo giọng không dạy đời. Ngoc chưa quyết: render lại theo bản mới hay giữ nguyên video cũ.
+Lưu ý: video đã render từ kịch bản v3 CŨ (câu payoff cũ "Bị layoff không có nghĩa là hết nghề" vẫn còn trong video). Kịch bản v3 mới đã sửa payoff theo giọng không dạy đời. Ngoc chưa quyết: render lại theo bản mới hay giữ nguyên video cũ. Ngoài ra câu payoff cũ trong bản mô tả ở trên viết quá tay so với lộ trình thật (học xong làm phụ việc, 6–12 tháng mới làm độc lập) — đã sửa trong bản text ở đây; file mp4 KHÔNG sửa trong đợt này, nếu render lại thì dùng câu payoff đã sửa theo lộ trình thật.
 
 ### 5.1. Tập 1 - Thứ 2
 
@@ -623,7 +688,7 @@ Comment câu hỏi của bạn, tuần sau mình trả lời tiếp.
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Hà Nội thì khóa 6 tháng khoảng 10 triệu. Đà Nẵng, khóa 51 buổi, 15 triệu. Còn Sài Gòn, khóa 2 tới 4 tháng khoảng 10 triệu, có chỗ gần 6 triệu thôi. Ba miền, giá khác nhau. Nhưng học xong khóa nào cũng cầm đồ nghề đi làm được ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Hà Nội thì khóa 6 tháng khoảng 10 triệu. Đà Nẵng, khóa 51 buổi, 15 triệu. Còn Sài Gòn, khóa 2 tới 4 tháng khoảng 10 triệu, có chỗ gần 6 triệu thôi. Ba miền, giá khác nhau. Nhưng học xong khóa thì đi làm phụ việc đã, 6 tới 12 tháng mới lắp đặt, bảo dưỡng độc lập được. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 
@@ -691,27 +756,31 @@ Comment tỉnh của bạn, mình tìm khóa học gần nhất cho bạn.
 - TikTok hashtag: chưa đếm được lượt xem hashtag (cần đăng nhập). Cách đếm: mở TikTok, tìm hashtag #suadieuhoa #dienlanh #thodienlanh, ghi lượt xem + ngày đếm.
 - Tổng tin tuyển VietnamWorks/TopCV: số 6 và 11 là số tin tìm thấy qua tìm kiếm công khai ngày 23/11/2026. Đây là số tìm thấy, chưa phải tổng toàn sàn - cần đếm thủ công trên trang tìm kiếm để có tổng chính xác.
 
-### 4 tin tuyển cần kiểm tra lại trước 04/12 (ngày đăng bài thực hành Thứ 6)
+### 4 tin tuyển — kiểm chứng ngày 23/11/2026, kiểm tra lại trước 04/12 (ngày đăng bài thực hành Thứ 6)
 
-Tin tìm thấy ngày 23/11/2026, có thể hết hạn trước ngày đăng:
+Đã mở lại cả 4 link TopCV ngày 23/11/2026: nội dung tin (công ty, lương, địa điểm, yêu cầu) khớp với ghi chép. Nhưng trang TopCV khi tra bằng bản text không hiện ngày hết hạn (mục "Hạn ứng tuyển" để trống trên cả 4 tin) nên không xác minh được từ bản tra cứu là tin còn hạn tới 04/12 hay không — bắt buộc mở lại link trước khi đăng. **Tin tra ngày 23/11/2026 — kiểm tra lại link trước ngày đăng 04/12/2026.**
 
-1. Thợ Sửa Chữa Điện Lạnh - Công ty TNHH Dịch vụ Kỹ thuật Cơ điện lạnh HK, TP.HCM, lương 10-25 triệu/tháng (TopCV).
+1. Thợ Sửa Chữa Điện Lạnh - Công ty TNHH Dịch vụ Kỹ thuật Cơ điện lạnh HK, TP.HCM, lương 10-25 triệu/tháng (TopCV). Yêu cầu bổ sung theo trang tin: 1-2 năm kinh nghiệm, trung cấp trở lên, có đồ nghề riêng.
 2. Nhân Viên Kỹ Thuật Điện Lạnh (Thợ Chính + Thợ Phụ) - Công ty CP TM và DV Điện Lạnh Việt Fix, Hà Nội, thợ chính 9-12 triệu + 15% doanh thu/ngày, thợ phụ 7-8 triệu/tháng (TopCV).
-3. Nhân Viên Kỹ Thuật Điện Lạnh Dân Dụng - Công ty CP UNIC, lương đến 14 triệu/tháng (TopCV).
-4. Kỹ Thuật Viên Lắp Đặt Bảo Trì Điện Lạnh / Điện Tử - Công ty TNHH Sản xuất và Thương mại United Vision, Đà Nẵng, thợ chính 10-15 triệu, thợ phụ 7-10 triệu/tháng (TopCV - tìm thấy 23/11/2026, không thấy ghi hết hạn, kiểm tra lại trước 04/12).
+3. Nhân Viên Kỹ Thuật Điện Lạnh Dân Dụng - Công ty CP UNIC, lương đến 14 triệu/tháng (TopCV). Yêu cầu bổ sung theo trang tin: 3 năm kinh nghiệm trở lên, nam 25-40 tuổi — không dành cho người mới.
+4. Kỹ Thuật Viên Lắp Đặt Bảo Trì Điện Lạnh / Điện Tử - Công ty TNHH Sản xuất và Thương mại United Vision, Đà Nẵng, thợ chính 10-15 triệu, thợ phụ 7-10 triệu/tháng (TopCV).
 
-Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Tin Kỹ Thuật Viên Điện Lạnh của Khang Đạt trên VietnamWorks đã ghi "hết hạn trong 1 ngày" kể từ ngày đếm nên KHÔNG dùng trong 4 việc thật.
+Tin dự phòng đã kiểm chứng hạn (dùng thay nếu tin trên hết hạn): Nhất Lâm TP.HCM 10-12tr, hạn 18/12/2026 (Joboko); Ourhome Hải Phòng 12-14tr, hạn 20/12/2026 (Joboko); Anh Hoàng Minh Đà Nẵng 8,5-15tr, đăng 19/11/2026, còn hiển thị ngày 23/11/2026 (Vieclamtot). Cần Thơ: 3 tin Sàn Việc làm Cần Thơ hạn 30/11/2026 (Lộc Phong Hưng, V.M.S, Bệnh viện S.I.S) đều hết hạn trước ngày đăng 04/12 — đã loại, không dùng.
+
+Tin nào hết hạn thì thay bằng tin dự phòng trên, không đăng tin hết hạn. Tin Kỹ Thuật Viên Điện Lạnh của Khang Đạt trên VietnamWorks đã ghi "hết hạn trong 1 ngày" kể từ ngày đếm nên KHÔNG dùng trong 4 việc thật.
 
 ### Các điểm chưa chốt
 
 - **Tên kênh** (Facebook/TikTok/YouTube) Ngoc vẫn chưa chốt - CTA "vào Group" trong clip checklist đã đổi thành comment "checklist" để không phụ thuộc tên Group chưa có.
-- **Học phí Trung tâm Dạy nghề Thanh Xuân - đã xác minh 23/11/2026, mâu thuẫn là có thật** (do nhiều hệ đào tạo): khóa ngắn hạn 6 tháng 10 triệu (trang hiện tại trungtamdaynghethanhxuan.com.vn), hệ sơ cấp 14,9 triệu / trung cấp 19,9 triệu (truongthanhxuan.com, bài 12/2024 và trang TP.HCM của .com.vn), trang cũ hơn ghi 12,5 triệu, trang .edu.vn cũ ghi 9,5 triệu. Khác nhau do nhiều hệ đào tạo. Trước khi đưa 1 con số cụ thể vào bài đăng, gọi hỏi lại trung tâm để chốt học phí hiện hành.
+- **Học phí Trung tâm Dạy nghề Thanh Xuân - đã xác minh 23/11/2026, mâu thuẫn là có thật, đã chốt số chuẩn** (do nhiều hệ đào tạo): cả 5 số ghi đủ trong file nghiên cứu mục 2 — khóa ngắn hạn 6 tháng **10 triệu (số chuẩn, trang hiện tại trungtamdaynghethanhxuan.com.vn)**, hệ sơ cấp 14,9 triệu / trung cấp 19,9 triệu (truongthanhxuan.com, bài 12/2024 và trang TP.HCM của .com.vn), trang cũ hơn ghi 12,5 triệu, trang .edu.vn cũ ghi 9,5 triệu. **Gọi xác nhận lại học phí trước khi đăng và trước khi đóng tiền.** HPcom 10,3 triệu là giá ưu đãi — ghi chú tuần 2 ghi 8,3 triệu là giá ưu đãi theo đợt (xem file nghiên cứu mục 2).
 - **Video reel Thứ 4** đã render từ kịch bản v3 cũ - Ngoc quyết render lại theo bản mới hay giữ nguyên video cũ (xem mục 5.0).
 - **Clip Tập 3 và Tập 4 và Tập 6 chạy sát 30 giây** - nếu Ngoc thấy nhanh thì cắt thêm 1 câu ở các clip này.
 
 ### Checklist duyệt trước khi đăng
 
-- [ ] Đủ 8 mục trong video dài + bài dài, mỗi mục có nguồn/ngày hoặc ghi rõ "chưa có số liệu"
+- [ ] Đủ 12 mục trong video dài + bài dài, mỗi mục có nguồn/ngày hoặc ghi rõ "chưa có số liệu"
+- [ ] Chi phí khởi điểm (dụng cụ 10.438.000đ + học phí chuẩn 10.000.000đ = 20.438.000đ, chưa tính dự phòng 2 tháng — "Chưa có số liệu") và thủ tục hộ kinh doanh đã có trong file nghiên cứu + tóm tắt trong bài dài/script YouTube
+- [ ] Không còn câu hook viết quá tay trong file text — kiểm tra bằng grep các câu cũ = 0 (file mp4 reel Thứ 4 chưa render lại, Ngoc quyết sau)
 - [ ] Phân tích nhu cầu đã đếm thật (VietnamWorks + TopCV + Facebook Group + Google Maps + TikTok), ghi số + ngày đếm
 - [ ] 4 việc thật còn hạn, có nguồn + ngày đăng
 - [ ] CV trước/sau đã sửa đúng nghề

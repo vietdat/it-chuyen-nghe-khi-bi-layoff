@@ -2,7 +2,7 @@
 
 - Dành cho: dev vừa bị layoff, đang học nghề hoặc mới xin làm thợ phụ / học việc
 - Mục tiêu 30 ngày: nắm được việc cơ bản (theo thợ chính đi sửa, tự xử lý lỗi đơn giản có người kèm), có 1 nơi làm việc cố định (cửa hàng hoặc đội thợ), biết cách báo giá và giữ khách
-- Căn cứ: pool nghiên cứu 100 nghề (mục #4: khóa sửa điện gia dụng 2–4 tháng, ước lượng) + tin tuyển TopCV ngày 23/11/2026 (thợ phụ 6–9 triệu/tháng; kỹ thuật viên bảo hành dưới 1 năm kinh nghiệm lương cứng 8–13 triệu)
+- Căn cứ: pool nghiên cứu 100 nghề (mục #4: khóa sửa điện gia dụng 2–4 tháng (đã kiểm chứng với HPcom TP.HCM, 2–4 tháng, 8,3 triệu — tra 23/11/2026)) + tin tuyển TopCV ngày 23/11/2026 (thợ phụ 7–9 triệu/tháng (NACADIVI 7–9 triệu; Việt Fix 7–8 triệu — tra 23/11/2026); kỹ thuật viên bảo hành dưới 1 năm kinh nghiệm lương cứng 8–13 triệu)
 
 ## Tuần 1 (ngày 1–7): Học cái gốc + tìm chỗ làm
 

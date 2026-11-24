@@ -23,7 +23,7 @@ Học được, nhưng phải học cấu tạo ổ khóa trước khi đụng v
 
 **Cần vốn bao nhiêu để bắt đầu?**
 
-Đi làm thuê thì vốn gần như bằng 0: xin làm thợ phụ tại tiệm khóa, tiệm có đồ nghề, bạn chỉ cần thời gian đi học việc. Tin tuyển TopCV ngày 23/11/2026 cho thấy vị trí kỹ thuật lắp đặt khóa điện tử có tin không yêu cầu kinh nghiệm, lương 7–12 triệu một tháng. Nếu học khóa nghề khóa thì học phí 10–19 triệu tùy nơi (Minh Phát Đà Nẵng 10–15 triệu, MasterKeys TP.HCM 19 triệu trọn gói đã gồm bộ đồ nghề). Vốn lớn chỉ cần khi bạn tự mở tiệm sau 1–2 năm: máy cắt chìa, đồ nghề đầy đủ, tồn kho ổ khóa.
+Đi làm thuê thì vốn gần như bằng 0: xin làm thợ phụ tại tiệm khóa, tiệm có đồ nghề, bạn chỉ cần thời gian đi học việc. Tin tuyển TopCV ngày 23/11/2026 cho thấy vị trí kỹ thuật lắp đặt khóa điện tử có tin không yêu cầu kinh nghiệm, lương 7–12 triệu một tháng (tin CETS — đã hiển thị 'Hết hạn ứng tuyển' khi kiểm chứng lại cùng ngày 23/11, tìm tin mới đang mở trước khi nộp). Nếu học khóa nghề khóa thì học phí 10–19 triệu tùy nơi (Minh Phát Đà Nẵng 10–15 triệu, MasterKeys TP.HCM 19 triệu trọn gói đã gồm bộ đồ nghề). Vốn lớn chỉ cần khi bạn tự mở tiệm sau 1–2 năm: máy cắt chìa, đồ nghề đầy đủ, tồn kho ổ khóa. Giá tham khảo máy cắt chìa 1 đầu chạy điện thông dụng khoảng 1,45 triệu (bảng giá cửa hàng Đức Quang, trang cập nhật khoảng năm 2020 — gọi hỏi lại giá hiện hành trước khi mua; xem file nghiên cứu mục 10).
 
 **Thợ khóa có bị AI thay thế không?**
 

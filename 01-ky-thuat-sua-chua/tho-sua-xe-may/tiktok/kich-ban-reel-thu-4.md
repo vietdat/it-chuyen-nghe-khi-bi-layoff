@@ -13,15 +13,15 @@
 | Đoạn | Thời gian | Lời thoại | Chữ trên màn hình | Hình gợi ý |
 |---|---|---|---|---|
 | 01 HOOK | 0–3s | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? | "Dev bị layoff thì làm gì?" | Dev ôm thùng đồ ra khỏi văn phòng, chữ hook to trên nền đậm |
-| 02 CONTEXT | 3–8s | Có nghề học vài tháng là làm ra tiền: thợ sửa xe máy. Sáng nay, anh ấy mở cửa tiệm, xe đầu tiên là xe ga chết máy. | "Thợ sửa xe máy" | Tiệm sửa xe mở cửa buổi sáng, xe ga dắt vào, thợ nghe tiếng đề |
-| 03 VALUE 1 | 8–16s | Nghe tiếng đề, nhìn bugi, biết ngay bệnh. Học nghề này mất khoảng 2 đến 4 tháng, làm phụ thêm vài tháng nữa là cứng tay. | "Học 2–4 tháng, làm phụ thêm vài tháng" | Tay thợ cầm bugi, đồng hồ đo, xe chạy lại được |
+| 02 CONTEXT | 3–8s | Có nghề học 6 tháng là làm được việc cơ bản: thợ sửa xe máy. Sáng nay, anh ấy mở cửa tiệm, xe đầu tiên là xe ga chết máy. | "Thợ sửa xe máy" | Tiệm sửa xe mở cửa buổi sáng, xe ga dắt vào, thợ nghe tiếng đề |
+| 03 VALUE 1 | 8–16s | Thợ chính nghe tiếng đề nhiều năm rồi mới đoán được. Học nghề này mất 6 tháng khóa sơ cấp, làm phụ thêm vài tháng nữa là cứng tay. | "Học 6 tháng, làm phụ thêm vài tháng" | Tay thợ cầm bugi, đồng hồ đo, xe chạy lại được |
 | 04 VALUE 2 | 16–26s | Dân IT có lợi riêng: khách gửi video tiếng máy lạ, anh ấy tra AI đoán hướng lỗi trước, báo giá nháp rồi nhận xe. | "Video tiếng máy lạ → tra AI → báo giá nháp" | Điện thoại hiện video xe kêu lạ, màn hình AI gợi ý hướng lỗi |
 | 05 VALUE 3 | 26–32s | Cái phải học lại là tay nghề thật: dầu mỡ bám tay cả ngày, thử xe ngoài đường, và xe điện đang tới, pin với mạch điện khác xe xăng. | "Dầu mỡ, thử xe, học thêm xe điện" | Tay thợ dính dầu, xe chạy thử ngoài đường, xe điện chạy qua |
-| 06 PAYOFF + CTA | 32–45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền ngay. Bài đầy đủ ở bài ghim, tuần sau là quán ăn đường phố. | "Bài đầy đủ ở bài ghim" | Anh ấy lau tay, mỉm cười trước tiệm, chữ CTA to |
+| 06 PAYOFF + CTA | 32–45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền — nhưng phải cứng tay đã. Bài đầy đủ ở bài ghim, tuần sau là quán ăn đường phố. | "Bài đầy đủ ở bài ghim" | Anh ấy lau tay, mỉm cười trước tiệm, chữ CTA to |
 
 ## Lời thoại liền mạch (để đọc TTS)
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có nghề học vài tháng là làm ra tiền: thợ sửa xe máy. Sáng nay, anh ấy mở cửa tiệm, xe đầu tiên là xe ga chết máy. Nghe tiếng đề, nhìn bugi, biết ngay bệnh. Học nghề này mất khoảng 2 đến 4 tháng, làm phụ thêm vài tháng nữa là cứng tay. Dân IT có lợi riêng: khách gửi video tiếng máy lạ, anh ấy tra AI đoán hướng lỗi trước, báo giá nháp rồi nhận xe. Cái phải học lại là tay nghề thật: dầu mỡ bám tay cả ngày, thử xe ngoài đường, và xe điện đang tới, pin với mạch điện khác xe xăng. Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền ngay. Bài đầy đủ ở bài ghim, tuần sau là quán ăn đường phố."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có nghề học 6 tháng là làm được việc cơ bản: thợ sửa xe máy. Sáng nay, anh ấy mở cửa tiệm, xe đầu tiên là xe ga chết máy. Thợ chính nghe tiếng đề nhiều năm rồi mới đoán được. Học nghề này mất 6 tháng khóa sơ cấp, làm phụ thêm vài tháng nữa là cứng tay. Dân IT có lợi riêng: khách gửi video tiếng máy lạ, anh ấy tra AI đoán hướng lỗi trước, báo giá nháp rồi nhận xe. Cái phải học lại là tay nghề thật: dầu mỡ bám tay cả ngày, thử xe ngoài đường, và xe điện đang tới, pin với mạch điện khác xe xăng. Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền — nhưng phải cứng tay đã. Bài đầy đủ ở bài ghim, tuần sau là quán ăn đường phố."
 
 ## CTA
 

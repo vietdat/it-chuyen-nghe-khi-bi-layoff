@@ -25,7 +25,7 @@
 
 [Hình: cận cảnh vòi nước rỉ từng giọt xuống chậu, sàn nhà ướt một vũng. Chữ trên màn hình: "2 giờ sáng, ống nước vỡ: ai tới sửa?"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: thợ ống nước. 2 giờ sáng, ống nước vỡ, nước tràn ra sàn nhà. Chủ nhà gọi thợ, thợ tới khóa nước tổng, thay đoạn ống vỡ, nước ngừng chảy. Nửa đêm mà vẫn có người gọi thợ. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm được việc cơ bản, nhận job độc lập cần 6–12 tháng: thợ ống nước. 2 giờ sáng, ống nước vỡ, nước tràn ra sàn nhà. Chủ nhà gọi thợ, thợ tới khóa nước tổng, thay đoạn ống vỡ, nước ngừng chảy. Nửa đêm mà vẫn có người gọi thợ. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30-2:00 - Nghề này là gì, 1 ngày làm việc thật
 
@@ -39,7 +39,7 @@ Cả ngày bạn chạy theo ca gọi. Mỗi nhà một việc khác nhau, và k
 
 "Nghề này hợp với người thích làm bằng tay. Vòi hết rỉ, cống hết tắc, bồn cầu xả mạnh lại, thấy kết quả ngay trong ngày. Gặp khách trực tiếp, nói chuyện với chủ nhà cũng là một phần việc. Giờ giấc thì thất thường, khách gọi gấp là đi, cuối tuần vẫn có việc.
 
-Còn nếu bạn ngại bẩn thì suy nghĩ lại. Thông tắc là việc chạm vào nước thải, bùn, dầu mỡ. Làm trong gầm bếp, hố ga, trần nhà chật, phải cúi, quỳ, nằm dưới sàn. Không chịu được mùi, sợ không gian hẹp, thì nghề này sẽ rất mệt. Muốn ngồi văn phòng 8 tiếng, giờ giấc cố định thì tìm nghề khác. Nói thẳng như vậy để bạn khỏi mất thời gian học rồi mới biết mình không hợp."
+Còn nếu bạn ngại bẩn thì suy nghĩ lại. Thông tắc là việc chạm vào nước thải, bùn, dầu mỡ. Làm trong gầm bếp, hố ga, trần nhà chật, phải cúi, quỳ, nằm dưới sàn. Không chịu được mùi, sợ không gian hẹp, thì nghề này sẽ rất mệt. Và một phần nhiều người mới bỏ qua: an toàn điện — nghề thực tế là điện + nước, tin tuyển gần như luôn gộp "thợ điện nước". Làm việc với nước gần dây điện, máy bơm, bình nóng lạnh thì nguy cơ điện giật cao: cắt điện khu vực làm việc trước khi đụng vào ống gần thiết bị điện, đo điện còn hay hết trước khi chạm tay. Hóa chất thông tắc chứa kiềm hoặc acid mạnh — bỏng da, hỏng mắt nếu bắn vào; không trộn với chất tẩy khác vì có thể sinh khí độc; ưu tiên thông cơ học (dây lò xo, áp suất) trước. Nước thải chứa vi khuẩn, virus có thể gây bệnh; cống thoát nước chứa khí độc và có thể thiếu oxy — không chui một mình vào hố ga / cống sâu. Đồ bảo hộ: găng tay chống hóa chất / chống cắt, kính bảo hộ, ủng chống nước, khẩu trang phòng độc khi làm hố ga. Muốn ngồi văn phòng 8 tiếng, giờ giấc cố định thì tìm nghề khác. Nói thẳng như vậy để bạn khỏi mất thời gian học rồi mới biết mình không hợp."
 
 ### 3:30-5:30 - Lợi thế của dân IT
 
@@ -57,7 +57,7 @@ Còn bảng tính chi phí từng job. Bạn biết mỗi job lãi bao nhiêu sa
 
 "Học nghề này có 3 nấc, mỗi nấc một kiểu làm việc khác nhau.
 
-Nấc đầu là làm được việc cơ bản: sửa rò rỉ nhẹ, thông tắc đơn giản, phụ lắp đặt. Học tập trung thì khoảng vài tháng, theo ước lượng trong pool nghiên cứu là 6–12 tháng để làm được việc. Bạn học hệ thống nước trong nhà trước, rồi học cách khóa nước tổng, rồi mới đụng vào ống thật.
+Nấc đầu là làm được việc cơ bản: sửa rò rỉ nhẹ, thông tắc đơn giản, phụ lắp đặt. Học tập trung 3–6 tháng thì làm được việc phụ và việc đơn giản — pool nghiên cứu ước lượng 6–12 tháng để làm được việc, cả hai đều là ước lượng, chưa kiểm chứng với trường. Bạn học hệ thống nước trong nhà trước, rồi học cách khóa nước tổng, rồi mới đụng vào ống thật.
 
 Lên nấc hai, bạn làm độc lập: tự lắp thiết bị vệ sinh, tự xử lý tắc nặng, không cần người kèm. Mốc này thường mất 6–12 tháng, vừa học vừa đi làm thật.
 
@@ -67,7 +67,7 @@ Còn học ở đâu thì có 3 đường đi. Nhanh nhất là xin làm thợ p
 
 ### 7:00-8:30 - Career path + tìm việc, tìm khách ở đâu
 
-"Đường đi thường là như thế này. 0–3 tháng đầu: học + làm phụ, nhận việc nhỏ, lương vị trí không yêu cầu kinh nghiệm khoảng 9–11 triệu một tháng. 3–6 tháng: làm chính, có khách quen, lương thợ điện nước khoảng 10–15 triệu. 6–12 tháng: lên tay nghề, nhận job độc lập, thu nhập thêm hoa hồng theo job. Sau 1–2 năm: có thể nhận khách riêng hoặc mở tiệm nhỏ, rồi dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+"Đường đi thường là như thế này. 0–3 tháng đầu: học + làm phụ, nhận việc nhỏ, lương vị trí không yêu cầu kinh nghiệm khoảng 9–11 triệu một tháng. 3–6 tháng: làm chính những việc dân dụng thường gặp, có người kiểm tra lại, lương thợ điện nước khoảng 10–15 triệu. 6–12 tháng: nhận job độc lập không cần kèm, thu nhập thêm hoa hồng theo job. Sau 1–2 năm: có thể nhận khách riêng hoặc mở tiệm nhỏ, rồi dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 Tìm việc đầu tiên ở đâu? Có 3 chỗ để bắt đầu. Xin làm thợ phụ cho đội thợ hoặc cửa hàng điện nước gần nhà, tìm trên Google Maps và Group cư dân khu vực. Nộp đơn lên TopCV: ngày 23/11 mình đếm thấy có tin tuyển thợ điện nước không yêu cầu kinh nghiệm, vừa làm vừa học vẫn có lương. Khi đã cứng tay thì đăng video và bài lên TikTok, Facebook theo quận mình làm, để khách khu vực biết bạn. Đừng nhận khách riêng khi chưa cứng tay. Làm sai 1 job, khách không quay lại nữa."
 
@@ -79,7 +79,7 @@ Mới vào nghề, không yêu cầu kinh nghiệm: 9–11 triệu một tháng.
 
 Còn kỹ sư cấp thoát nước thì khác: 18–26 triệu một tháng, có tin ghi 20–40 triệu, nhưng cần bằng đại học và kinh nghiệm 2–5 năm, khác hẳn thợ dân dụng.
 
-Về nhu cầu: ngày 23/11 mình đếm thấy TopCV có 8 tin đang tuyển thợ điện nước, VietnamWorks có 4 tin nhưng nghiêng về kỹ sư. Vieclamtot và Careerlink có thêm tin sửa đường ống riêng. Nhu cầu có thật, và khác với thợ điều hòa, nghề này không có mùa vụ rõ rệt: ống vỡ, rò rỉ, tắc cống xảy ra quanh năm.
+Về nhu cầu: ngày 23/11 mình đếm thấy TopCV tìm thấy 8 tin thợ điện nước, nhưng 2 tin đã hết hạn (An Nhơn, Anmes) — thực chất chỉ còn 6 tin dùng được, VietnamWorks có 4 tin nhưng nghiêng về kỹ sư. Vieclamtot và Careerlink có thêm tin sửa đường ống riêng. Nhu cầu có thật, và khác với thợ điều hòa, nghề này không có mùa vụ rõ rệt: ống vỡ, rò rỉ, tắc cống xảy ra quanh năm.
 
 Về nhu cầu theo thành phố, tra ngày 23/11: Hà Nội và TP.HCM tuyển nhiều nhất. Hà Nội có cả tin thợ dân dụng 10–18 triệu lẫn tin kỹ sư 18–40 triệu, nhưng kỹ sư thì cần bằng cấp. TP.HCM có tin sửa ống riêng hiếm hoi, 15–20 triệu, không yêu cầu kinh nghiệm. Đà Nẵng tuyển đều qua sàn địa phương và Vieclamtot, lương phổ biến 7–15 triệu, có tin đến 20 triệu. Cần Thơ thì ngày 23/11 mình không tìm thấy tin thợ ống nước dân dụng nào trên TopCV, VietnamWorks hay sàn địa phương. Bạn ở Cần Thơ thì hỏi trực tiếp cửa hàng gần nhà sẽ nhanh hơn nộp đơn online.
 
@@ -91,6 +91,6 @@ Còn số Mỹ để so sánh: BLS tháng 5/2024, thợ ống nước median 62.
 
 "Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới.
 
-Học hệ thống nước trong nhà và cách khóa nước tổng trước khi đụng vào ống thật. Liệt kê 5 cửa hàng hoặc đội thợ điện nước gần nhà. Đi xin làm thợ phụ hoặc học việc ở 2–3 chỗ, hỏi rõ phụ cấp và ai kèm mình. Mua đồ nghề cơ bản, nhưng hỏi trước xem cửa hàng có cấp không. Và bắt đầu ghi sổ lỗi: mỗi lỗi gặp trong ngày ghi lại 1 dòng và cách xử lý.
+Học hệ thống nước trong nhà và cách khóa nước tổng trước khi đụng vào ống thật — và học an toàn điện trước khi đụng vào ống gần thiết bị điện. Liệt kê 5 cửa hàng hoặc đội thợ điện nước gần nhà. Đi xin làm thợ phụ thử 1–2 tuần ở 2–3 chỗ trước khi đóng học phí, hỏi rõ phụ cấp và ai kèm mình, xem mình có chịu được bẩn, mùi nước thải, khuân vác ống không. Mua đồ nghề cơ bản, nhưng hỏi trước xem cửa hàng có cấp không. Vốn khởi điểm: bộ đồ nghề tối thiểu khoảng 3,5 triệu, máy thông lò xo 7,8 triệu mua sau; học phí khóa học nghề ống nước tham khảo 10–17 triệu; dự phòng sinh hoạt 2 tháng đầu chưa có số liệu, tự tính trước khi nghỉ việc. Chỉ khi mở tiệm riêng sau 1–2 năm mới cần đăng ký hộ kinh doanh tại cơ quan đăng ký kinh doanh cấp xã, giải quyết 03 ngày làm việc, lệ phí 0 đồng online. Và bắt đầu ghi sổ lỗi: mỗi lỗi gặp trong ngày ghi lại 1 dòng và cách xử lý.
 
 Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau mình nói về thợ lắp điện mặt trời mái nhà. Comment nghề bạn muốn nghe, mình đọc hết."

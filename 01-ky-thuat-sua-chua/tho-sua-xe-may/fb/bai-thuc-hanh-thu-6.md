@@ -39,7 +39,8 @@
 - Link: https://www.vieclamtot.com/viec-lam-quan-cam-le-da-nang/131166984.htm
 - Hợp với bạn nếu: bạn ở Đà Nẵng và đã có 1–2 năm kinh nghiệm làm xe máy.
 
-Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 25/12/2026 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV hoặc Việc Làm Tốt, không đăng tin hết hạn. Ở Cần Thơ gần như không có tin thợ sửa xe máy ghi lương công khai — nếu bạn ở Cần Thơ thì tìm việc qua Việc Làm Tốt khu vực Cần Thơ và hỏi trực tiếp tiệm sửa xe gần nhà.
+Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 25/12/2026 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV hoặc Việc Làm Tốt, không đăng tin hết hạn. **Lưu ý thêm (kiểm tra lại 23/11/2026):** 2 tin TopCV (TAYA Toàn Cầu và CTCP Thương Mại I) vẫn hiển thị khi tra lại ngày 23/11/2026 và nội dung khớp với file, nhưng **hạn ứng tuyển không hiện trong bản text** của TopCV — không xác minh được hạn có tới 25/12/2026 hay không. **Bắt buộc bấm vào từng link trước ngày đăng** để xem hạn; tin nào hết hạn thì thay bằng tin dự phòng dưới đây.
+- Tin dự phòng: Tecotec Group — "Nhân Viên Sửa Chữa Xe Máy", Hà Nội + Thủ Đức (TP.HCM), yêu cầu 1 năm kinh nghiệm (bản tra cứu không hiện lương — xem lương trên tin trước khi đăng): https://www.topcv.vn/viec-lam/nhan-vien-sua-chua-xe-may/1285395.html — tra 23/11/2026. Ở Cần Thơ gần như không có tin thợ sửa xe máy ghi lương công khai — nếu bạn ở Cần Thơ thì tìm việc qua Việc Làm Tốt khu vực Cần Thơ và hỏi trực tiếp tiệm sửa xe gần nhà.
 
 ---
 

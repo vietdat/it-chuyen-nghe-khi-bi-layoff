@@ -15,7 +15,7 @@ Mùa cưới Việt Nam kéo dài từ tháng 9 đến tháng 4 năm sau, cao đ
 
 **Chưa có máy quay đắt tiền, có học quay cưới được không?**
 
-Học được, nhưng bạn cần 1 chiếc máy quay để luyện tay — chưa cần máy đắt nhất, cần máy dùng thành thạo. Đường vào nhanh nhất không tốn học phí là xin làm quay phụ cho team cưới: bạn học trên show thật, dùng máy của mình hoặc máy của team tùy thỏa thuận. Trước khi đi show thật, bạn học 3 thông số gốc (khẩu độ, tốc độ, ISO) và quy trình sao lưu file video. Chưa có số giá máy cụ thể trong tuần này — ghi "Chưa có số liệu", bạn ra cửa hàng máy quay hỏi giá máy cũ và máy mới trước khi mua.
+Học được, nhưng bạn cần 1 chiếc máy quay để luyện tay — chưa cần máy đắt nhất, cần máy dùng thành thạo. Đường vào nhanh nhất không tốn học phí là xin làm quay phụ cho team cưới: bạn học trên show thật, dùng máy của mình hoặc máy của team tùy thỏa thuận. Trước khi đi show thật, bạn học 3 thông số gốc (khẩu độ, tốc độ, ISO) và quy trình sao lưu file video. Giá máy tra ngày 23/11/2026: body Sony A7 III cũ 20–25 triệu, mới 36–40 triệu; gimbal DJI RS 3 Combo 11.990.000đ; mic Rode Wireless Go II 7.490.000đ; SSD Samsung T7 1TB 6.050.000đ (xem mục 10 trong file nghiên cứu). Đèn LED và pin dự phòng thì chưa có số giá cụ thể — ghi "Chưa có số liệu".
 
 **Không biết gì về quay phim, có học được không?**
 
@@ -23,11 +23,11 @@ Học được, nếu bạn có mắt nhìn hình ảnh và chịu luyện. Pool
 
 **Cần vốn bao nhiêu để bắt đầu?**
 
-Đi làm thuê thì vốn gần như bằng 0 ngoài tiền máy quay: xin làm quay phụ, team có show, bạn chỉ cần thời gian đi học việc, tiền theo ngày tham khảo 800.000–1.500.000đ 1 ngày cho nhân sự quay bổ sung (theo mimi.com.vn, 24/08/2026). Nếu học khóa quay phim thì học phí khoảng 8–10 triệu 1 khóa (ví dụ KOV.Pictures TP.HCM: 10 triệu, ưu đãi 8 triệu, 2 tháng — lịch khai giảng trong form ghi tháng 8–9/2025, đã cũ, kiểm tra lại trước khi đóng tiền); học dựng phim riêng thì rẻ hơn, ví dụ HNAAu 4,5–5 triệu, 12 buổi. Vốn lớn nhất là thiết bị: máy quay, gimbal, mic không dây, đèn LED, thẻ nhớ, pin dự phòng, ổ cứng lưu file — chưa có số giá cụ thể trong tuần này, ghi "Chưa có số liệu".
+Đi làm thuê thì vốn gần như bằng 0 ngoài tiền máy quay: xin làm quay phụ, team có show, bạn chỉ cần thời gian đi học việc, tiền theo ngày tham khảo 800.000–1.500.000đ 1 ngày cho nhân sự quay bổ sung (theo mimi.com.vn, 24/08/2026). Nếu học khóa quay phim thì học phí khoảng 8–10 triệu 1 khóa (ví dụ KOV.Pictures TP.HCM: 10 triệu, ưu đãi 8 triệu, 2 tháng — lịch khai giảng trong form ghi tháng 8–9/2025, đã cũ, kiểm tra lại trước khi đóng tiền); học dựng phim riêng thì rẻ hơn, ví dụ HNAAu 4,5–5 triệu, 12 buổi. Vốn lớn nhất là thiết bị: bộ tối thiểu khoảng 47 triệu (mua cũ, chưa gồm ống kính) đến 80,7 triệu (mua mới, đã gồm ống Tamron 28–75mm) — máy Sony A7 III, gimbal DJI RS 3 Combo, mic Rode Wireless Go II, thẻ nhớ, ổ cứng SSD (giá tra ngày 23/11/2026, xem mục 10 trong file nghiên cứu); đèn LED và pin dự phòng chưa có số giá — ghi "Chưa có số liệu".
 
 **Quay flycam cho đám cưới có cần xin phép không?**
 
-Có — bay flycam để quay cưới là bay làm dịch vụ, luôn phải xin phép. Nghị định 282/2025 có hiệu lực từ 15/12/2025, mức phạt lên đến 40 triệu đồng nếu bay flycam không phép (nguồn: Thanh Niên, tra cứu 23/11/2026). Chỉ flycam dưới 0,25kg bay giải trí trong tầm mắt và ngoài vùng cấm mới được miễn phép — bay để quay dịch vụ thì không thuộc trường hợp miễn. Trước khi nhận show có flycam, bạn hỏi team xem ai lo giấy phép, đừng tự bay.
+Có — bay flycam để quay cưới là bay làm dịch vụ, luôn phải xin phép. Nghị định 282/2025 có hiệu lực từ 15/12/2025, mức phạt 20–30 triệu đồng nếu bay flycam không phép (khoản 10 Điều 8 Nghị định 282/2025/NĐ-CP; 30–40 triệu đồng chỉ khi cản trở hoặc gây mất an toàn cho phương tiện bay khác — khoản 11 Điều 8) [Cập nhật: 11/2026 – NĐ 282/2025/NĐ-CP, khoản 10–11 Điều 8, kiểm chứng 24/11/2026]. Chỉ flycam dưới 0,25 kg bay vui chơi, giải trí, trong tầm mắt và ngoài vùng cấm/hạn chế bay mới được miễn phép bay (Luật Phòng không nhân dân, khoản 3 Điều 30; NĐ 288/2025/NĐ-CP, điểm b khoản 1 Điều 21) — bay để quay dịch vụ thì không thuộc trường hợp miễn. Điều kiện 'bay dưới 50m': Chưa có số liệu — cần đối chiếu văn bản gốc (điểm b khoản 1 Điều 21 NĐ 288/2025 chỉ ghi <0,25 kg + vui chơi, giải trí + ngoài vùng cấm/hạn chế bay, không thấy điều kiện <50m). Trước khi nhận show có flycam, bạn hỏi team xem ai lo giấy phép, đừng tự bay.
 
 **Videographer cưới có bị AI thay thế không?**
 

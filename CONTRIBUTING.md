@@ -1,6 +1,6 @@
 # Đóng góp cho IT Chuyển Nghề Khi Bị Layoff
 
-Cảm ơn bạn muốn đóng góp. Repo này tổng hợp kiến thức chuyển nghề phi-tech cho người IT bị layoff — 1 nghề / 1 tuần, mỗi nghề đủ 8 mục bắt buộc. Mọi đóng góp đều phải giữ đúng chuẩn số liệu của repo: số thật, có nguồn, có ngày tra cứu.
+Cảm ơn bạn muốn đóng góp. Repo này tổng hợp kiến thức chuyển nghề phi-tech cho người IT bị layoff — 1 nghề / 1 tuần, mỗi nghề đủ 12 mục bắt buộc. Mọi đóng góp đều phải giữ đúng chuẩn số liệu của repo: số thật, có nguồn, có ngày tra cứu.
 
 ## Cách đóng góp
 
@@ -25,7 +25,7 @@ Ngoài ra bạn có thể báo thông tin sai hoặc đề xuất nghề mới b
 
 ### Bước 2 — Viết bài theo `_TEMPLATE.md`
 
-- Copy toàn bộ `_TEMPLATE.md`, điền đủ **8 mục bắt buộc**:
+- Copy toàn bộ `_TEMPLATE.md`, điền đủ **12 mục bắt buộc**:
   1. Nghề là gì / công việc hằng ngày
   2. Ai hợp / ai không hợp
   3. Lợi thế của người ex-IT
@@ -34,26 +34,29 @@ Ngoài ra bạn có thể báo thông tin sai hoặc đề xuất nghề mới b
   6. Tìm việc / khách đầu tiên ở đâu
   7. Thu nhập + sự thật phũ
   8. Rủi ro thật của nghề (mùa vụ, cạnh tranh, vốn, sức khỏe, không có khách)
+  9. Lộ trình học theo tuần/tháng
+  10. Thử nghề
+  11. Kết luận (ưu điểm, nhược điểm, ai nên/không nên thử)
+  12. Nguồn tham khảo tách riêng
 - Thêm mục **Chi phí khởi điểm chi tiết**: danh sách dụng cụ cần mua + học phí + chi phí dự phòng 2 tháng đầu (theo mẫu trong `_TEMPLATE.md`).
 - Không xóa mục nào. Mục nào chưa có số liệu thì ghi "Chưa có số liệu" — không bịa.
 
 ### Bước 3 — Đặt đúng nhóm lĩnh vực
 
-Nhóm lĩnh vực lấy từ pool 100 nghề (xem `ROADMAP.md`):
+Nhóm lĩnh vực là 8 nhóm hiện tại của repo (xem `ROADMAP.md` và cấu trúc thư mục gốc):
 
 | Nhóm | Lĩnh vực |
 |---|---|
-| A | Sửa chữa nhà cửa & nghề tay nghề |
-| B | Ăn uống |
-| C | Làm đẹp & chăm sóc cá nhân |
-| D | Sức khỏe & chăm sóc |
-| E | Giáo dục & đào tạo |
-| F | Nông nghiệp & sản xuất thực phẩm |
-| G | Bán lẻ & buôn bán |
-| H | Logistics & vận tải |
-| I | Sáng tạo & truyền thông (phi công nghệ) |
-| J | Dịch vụ & kinh doanh |
-| K | Nghề tay chân khác |
+| 01-ky-thuat-sua-chua | Kỹ thuật sửa chữa |
+| 02-dich-vu-cham-soc | Dịch vụ chăm sóc |
+| 03-am-thuc-ban-le | Ẩm thực — Bán lẻ |
+| 04-van-tai-tu-do | Vận tải tự do |
+| 05-day-hoc-dao-tao | Dạy học — Đào tạo |
+| 06-sang-tao-truyen-thong | Sáng tạo — Truyền thông |
+| 07-dich-vu-tu-van-huong-dan | Dịch vụ tư vấn — Hướng dẫn |
+| 08-nong-nghiep | Nông nghiệp |
+
+(Không dùng nhóm A–K của pool 100 nghề để đặt thư mục. Nghề không thuộc 8 nhóm trên thì mở Issue bàn trước khi tạo nhóm mới.)
 
 - Ghi nhóm lĩnh vực của nghề trong file nghiên cứu thị trường (`Info/nghien-cuu-thi-truong.md`) và trong mô tả Pull Request.
 - Nghề nào có thể thuộc 2 nhóm thì chọn 1 nhóm chính — nhóm mà công việc hằng ngày của nghề đó thuộc về nhiều nhất — và ghi chú nhóm phụ trong bài (nếu cần).
@@ -62,8 +65,8 @@ Nhóm lĩnh vực lấy từ pool 100 nghề (xem `ROADMAP.md`):
 
 Tên thư mục và tên file: **không dấu, chữ thường, nối bằng gạch ngang**.
 
-- Thư mục nghề: `<ten-nghe-khong-dau>/`
-  - Ví dụ: `tho-lap-dat-sua-dieu-hoa/`, `chu-quan-an-duong-pho/`, `gia-su-tieng-anh/`.
+- Thư mục nghề: `<nhom>/<ten-nghe-khong-dau>/`
+  - Ví dụ: `01-ky-thuat-sua-chua/tho-lap-dat-sua-dieu-hoa/`, `03-am-thuc-ban-le/chu-quan-an-duong-pho/`, `05-day-hoc-dao-tao/gia-su-tieng-anh/`.
 - File tổng: `tuan-<n>-<ten-nghe>-day-du.md`
   - `<n>` là số tuần, `<ten-nghe>` là tên nghề không dấu, gạch ngang.
   - Ví dụ: `tuan-25-tho-son-nha-day-du.md`.
@@ -71,7 +74,7 @@ Tên thư mục và tên file: **không dấu, chữ thường, nối bằng g�
 - Cấu trúc thư mục cho 1 nghề mới (19 file):
 
 ```
-<ten-nghe-khong-dau>/
+<nhom>/<ten-nghe-khong-dau>/
 ├── Info/
 │   ├── nghien-cuu-thi-truong.md
 │   └── checklist-30-ngay.md
@@ -101,14 +104,14 @@ Tên thư mục và tên file: **không dấu, chữ thường, nối bằng g�
 ### Bước 5 — Gửi Pull Request
 
 - 1 Pull Request = 1 nghề. Không gộp nhiều nghề vào 1 Pull Request.
-- Tiêu đề Pull Request: `Thêm nghề: <Tên nghề> (tuần <n>, nhóm <A–K>)`.
-  - Ví dụ: `Thêm nghề: Thợ sơn nhà (tuần 25, nhóm A)`.
+- Tiêu đề Pull Request: `Thêm nghề: <Tên nghề> (tuần <n>, nhóm <01–08>)`.
+  - Ví dụ: `Thêm nghề: Thợ sơn nhà (tuần 25, nhóm 01-ky-thuat-sua-chua)`.
 - Mô tả Pull Request ghi rõ:
   - Tên nghề, nhóm lĩnh vực, số tuần.
   - Nguồn số liệu chính đã dùng (tin tuyển / báo / trung tâm dạy nghề) + ngày tra cứu.
   - Mục nào ghi "Chưa có số liệu" (nếu có) và đã tra ở đâu.
 - Checklist trước khi gửi (copy vào mô tả Pull Request và tick đủ):
-  - [ ] Đủ 8 mục bắt buộc + mục chi phí khởi điểm chi tiết.
+  - [ ] Đủ 12 mục bắt buộc + mục chi phí khởi điểm chi tiết.
   - [ ] Mọi con số kèm thẻ `[Cập nhật: Tháng/Năm – Nguồn]`, hoặc ghi "Chưa có số liệu".
   - [ ] Lương Việt Nam lấy từ tin tuyển thật, kèm link + ngày tra cứu.
   - [ ] Số liệu Mỹ (nếu có) ghi riêng, ghi rõ "chỉ để tham khảo".
@@ -159,7 +162,7 @@ Nếu bạn chỉ muốn báo lỗi mà không tự sửa, mở Issue theo mẫu
 
 ## Quy trình duyệt bài
 
-1. Người duyệt kiểm tra đủ 8 mục + mục chi phí, đúng quy ước đặt tên, đủ 19 file (với nghề mới).
+1. Người duyệt kiểm tra đủ 12 mục + mục chi phí, đúng quy ước đặt tên, đủ 19 file (với nghề mới).
 2. Người duyệt kiểm tra từng con số: có thẻ cập nhật, có nguồn, link còn mở được, ngày tra cứu còn mới.
 3. Con số không có nguồn hoặc nguồn không mở được sẽ được yêu cầu sửa hoặc đổi thành "Chưa có số liệu".
 4. Pull Request đạt chuẩn sẽ được gộp (merge). Pull Request chưa đạt sẽ được ghi rõ cần sửa chỗ nào — sửa xong gửi lại, không cần mở Pull Request mới.

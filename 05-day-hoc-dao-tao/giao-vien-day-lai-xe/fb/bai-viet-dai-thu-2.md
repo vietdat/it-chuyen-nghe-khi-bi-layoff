@@ -37,7 +37,7 @@ Còn một cái nữa: bạn tính được mỗi học viên mang lại bao nhi
 
 Học nghề này có 2 thứ phải học, theo thứ tự: có bằng lái hạng B trước, rồi mới học chứng chỉ sư phạm.
 
-Để dạy hạng B, bằng lái hạng B đủ 03 năm trở lên kể từ ngày được cấp, theo Nghị định 94/2026 có hiệu lực từ 01/7/2026. Dạy hạng C thì phải đủ 05 năm. Đây là rào cản lớn nhất của nghề này, và nó không rút ngắn được.
+Để dạy hạng B, chỉ cần có bằng lái hạng B trở lên — từ 01/7/2026, Nghị định 94/2026 đã bãi bỏ yêu cầu bằng phải đủ 03 năm mới được dạy (trước đây Nghị định 160/2024 yêu cầu bằng B đủ 3 năm, hạng C đủ 5 năm). Có bằng là học chứng chỉ sư phạm được ngay, không còn phải đợi 3 năm nữa. [Cập nhật: 11/2026 – Điều 10 NĐ 94/2026/NĐ-CP, đối chiếu 24/11/2026]
 
 Chưa có bằng thì học lấy bằng trước. Hà Nội thì khóa bằng B tại Trung tâm Hỗ trợ Sinh viên Đại học Ngoại thương là 17 triệu, khoảng 3,5 tháng. Đà Nẵng thì khóa B2 trọn gói là 21 triệu. Còn TP.HCM, Trường Sài Gòn Tourist là 19 triệu. Mấy trung tâm quảng cáo 5-7 triệu trọn gói thì hỏi kỹ trước khi đóng tiền, vì số đó thường chỉ là phí hồ sơ ban đầu, tổng thực tế để cầm bằng trên tay khoảng 16-21 triệu.
 
@@ -45,7 +45,7 @@ Rồi tới chứng chỉ nghiệp vụ sư phạm dạy nghề. Khóa sơ cấp
 
 Còn học ở đâu thì có 3 đường đi.
 
-Đường nhanh nhất là xin làm giáo viên tập sự ở trung tâm lớn. Công ty Đào tạo Lái xe Thủ Đức từng tuyển 100 giáo viên tập sự một đợt, không yêu cầu kinh nghiệm, thử việc 6-12 triệu một tháng.
+Đường nhanh nhất là xin làm giáo viên tập sự ở trung tâm lớn. Công ty Đào tạo Lái xe Thủ Đức từng tuyển 100 giáo viên tập sự một đợt (đợt 1/2026, hạn nộp 20/11/2026 — đã hết hạn), thử việc 6-12 triệu một tháng. Tin tuyển không ghi rõ có yêu cầu kinh nghiệm hay không — chưa kiểm chứng được, muốn biết thì hỏi trực tiếp trung tâm.
 
 Đường thứ hai là học chứng chỉ sư phạm online rồi tự nộp đơn vào trung tâm, tốn 2,5 triệu và 1,5 tháng.
 
@@ -71,7 +71,7 @@ Còn số Mỹ để đối chiếu, không phải thu nhập Việt Nam: BLS th
 
 **Rủi ro thật**
 
-Rào cản bằng lái 3 năm là rủi ro lớn nhất. Người chưa có bằng B2 phải mất 3-3,5 tháng học lấy bằng, rồi đợi đủ 03 năm mới được dạy hạng B. Đây không phải nghề chuyển sang trong vài tháng. Ai đang cần tiền gấp sau layoff thì nghề này không giải quyết được ngay.
+Chi phí + thời gian lấy bằng là rào cản lớn nhất. Người chưa có bằng B2 phải mất 3-3,5 tháng học lấy bằng (17-21 triệu), rồi học chứng chỉ sư phạm 1,5 tháng + tập huấn mới được đứng lớp — tổng khoảng 5 tháng, không phải 3 năm như trước, nhưng vẫn không phải nghề chuyển sang trong vài tuần. Ai đang cần tiền gấp sau layoff thì nghề này không giải quyết được ngay. Lưu ý: một số tin tuyển của trung tâm vẫn tự đặt yêu cầu bằng trên 3 năm (yêu cầu riêng của trung tâm, không phải điều kiện pháp luật) — đọc kỹ từng tin. [Cập nhật: 11/2026 – Điều 10 NĐ 94/2026/NĐ-CP, đối chiếu 24/11/2026]
 
 An toàn là trách nhiệm thật: học viên mới lái trên đường thật, sai 1 nhịp là va chạm. Giáo viên ngồi ghế phụ phải giữ bình tĩnh và can thiệp kịp. Có ngày dạy 6-8 tiếng ngồi trong xe, nắng nóng, kẹt xe, học viên căng thẳng thì mình cũng căng thẳng theo.
 

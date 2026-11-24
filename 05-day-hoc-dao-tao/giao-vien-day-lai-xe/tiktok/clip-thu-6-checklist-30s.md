@@ -7,7 +7,7 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 4. 30 ngày đầu làm giáo viên dạy lái, anh ấy làm 5 việc. Kiểm tra bằng lái của mình, đủ 3 năm chưa. Đăng ký khóa chứng chỉ sư phạm, 2 triệu rưỡi, học online buổi tối. Liệt kê 5 trung tâm dạy lái gần nhà. Đi hỏi 2 trung tâm, có nhận giáo viên tập sự không. Và bắt đầu ghi sổ lỗi học viên, mỗi lỗi 1 dòng. 30 ngày, 5 việc, xong là đứng lớp được."
+"Dev bị layoff thì làm gì? Tập 4. 30 ngày đầu làm giáo viên dạy lái, anh ấy làm 5 việc. Kiểm tra bằng lái của mình, còn hạn không. Đăng ký khóa chứng chỉ sư phạm, 2 triệu rưỡi, học online buổi tối. Liệt kê 5 trung tâm dạy lái gần nhà. Đi hỏi 2 trung tâm, có nhận giáo viên tập sự không. Và bắt đầu ghi sổ lỗi học viên, mỗi lỗi 1 dòng. 30 ngày, 5 việc, xong là xin được làm tập sự."
 
 ## Chữ trên màn hình
 

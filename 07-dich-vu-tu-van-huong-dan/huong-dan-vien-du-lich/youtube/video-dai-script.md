@@ -24,7 +24,7 @@
 
 [Hình: cận cảnh hướng dẫn viên cầm cờ nhỏ, đoàn 30 khách đi theo sau qua phố cổ. Chữ trên màn hình: "Một đoàn 30 khách, 1 người nói"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 1 tháng là có thể đi làm: hướng dẫn viên du lịch. Một đoàn 30 khách, 1 người nói, 29 người nghe. Cả ngày của hướng dẫn viên là như vậy. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 2–3 tháng mới cầm được thẻ đi làm: hướng dẫn viên du lịch. Khóa nghiệp vụ 1–1,5 tháng, thi chứng chỉ, chờ chứng chỉ cấp trong 30 ngày sau kỳ thi, rồi mới nộp hồ sơ cấp thẻ. Một đoàn 30 khách, 1 người nói, 29 người nghe. Cả ngày của hướng dẫn viên là như vậy. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30-2:00 - Nghề này là gì, 1 ngày làm việc thật
 
@@ -62,7 +62,7 @@ Lên nấc hai, bạn dẫn tour nội địa và tour theo giờ. Bạn học t
 
 Nấc ba là hướng dẫn viên quốc tế. Bạn cần thẻ quốc tế, ngoại ngữ lưu loát, thuộc tuyến điểm quốc tế. Thường sau 1–2 năm mới tới được đây, vì ngoại ngữ không học nhanh được.
 
-Còn học ở đâu thì có 3 đường đi, tùy bạn ở miền nào. Ở Hà Nội, lớp ôn thi chứng chỉ của Liên Việt học online 4 buổi, lệ phí 1,6 triệu. Đại học Thành Đông cũng có lớp online 2–5 buổi, chi phí 3 triệu, thi online, nhận chứng chỉ sau 1 tháng. Ở Đà Nẵng, Trường Du lịch Đại học Duy Tân mở khóa bồi dưỡng 1–1,5 tháng, học online buổi tối: nội địa 2,5 triệu, quốc tế 3 triệu. Ở TP.HCM, Đại học Khoa học Xã hội và Nhân văn mở lớp K57, khai giảng 07/12/2026, học 6 tuần, 5 buổi tối 1 tuần, học trực tiếp tại Đinh Tiên Hoàng: nội địa 2,5 triệu, quốc tế 3 triệu, chưa bao gồm lệ phí thi. Lưu ý là học phí các trường ở Hà Nội chưa tìm thấy công khai, nên bạn gọi hỏi trực tiếp trường trước khi đóng tiền."
+Còn học ở đâu thì có 3 đường đi, tùy bạn ở miền nào. Ở Hà Nội, lớp ôn thi chứng chỉ của Liên Việt học online 4 buổi, lệ phí 1,6 triệu. Đại học Thành Đông cũng có lớp online 2–5 buổi, chi phí 3 triệu, thi online, nhận chứng chỉ sau 1 tháng. Ở Đà Nẵng, Trường Du lịch Đại học Duy Tân mở khóa bồi dưỡng 1–1,5 tháng, học online buổi tối: nội địa 2,5 triệu, quốc tế 3 triệu. Ở TP.HCM, Đại học Khoa học Xã hội và Nhân văn từng mở lớp K57, khai giảng 07/12/2026, học 6 tuần, 5 buổi tối 1 tuần, học trực tiếp tại Đinh Tiên Hoàng: nội địa 2,5 triệu, quốc tế 3 triệu, chưa bao gồm lệ phí thi — lớp này đã học xong trước ngày đăng bài, không đăng ký được nữa; Chưa có số liệu khóa mới, cần tra khóa mới sát ngày đăng. Thay thế: Trường Du lịch Đại học Duy Tân ở Đà Nẵng chiêu sinh liên tục, hoặc lớp online của ĐH Thành Đông (3 triệu, 2–5 buổi, thi online). Lưu ý là học phí các trường ở Hà Nội chưa tìm thấy công khai, nên bạn gọi hỏi trực tiếp trường trước khi đóng tiền."
 
 ### 7:00-8:30 - Career path + tìm việc, tìm khách ở đâu
 

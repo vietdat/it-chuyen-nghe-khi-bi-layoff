@@ -5,7 +5,7 @@
 - Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026)
 - Giọng: nói với "bạn", không liệt kê Một/Hai/Ba, không bịa số liệu
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 1 tháng là có thể đi làm: hướng dẫn viên du lịch.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 2–3 tháng mới cầm được thẻ đi làm: hướng dẫn viên du lịch. Khóa nghiệp vụ 1–1,5 tháng, thi chứng chỉ, chờ chứng chỉ cấp trong 30 ngày sau kỳ thi, rồi mới nộp hồ sơ cấp thẻ.
 
 Một đoàn 30 khách, 1 người nói, 29 người nghe. Cả ngày của hướng dẫn viên là như vậy. Bài này nói hết về nghề hướng dẫn viên du lịch: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
@@ -51,7 +51,7 @@ Còn học ở đâu thì có 3 đường đi, tùy bạn ở miền nào.
 
 Ở Đà Nẵng, Trường Du lịch Đại học Duy Tân mở khóa bồi dưỡng 1–1,5 tháng, học online buổi tối: nội địa 2,5 triệu, quốc tế 3 triệu.
 
-Ở TP.HCM, Đại học Khoa học Xã hội và Nhân văn mở lớp K57, khai giảng 07/12/2026, học 6 tuần, 5 buổi tối 1 tuần, học trực tiếp tại Đinh Tiên Hoàng: nội địa 2,5 triệu, quốc tế 3 triệu, chưa bao gồm lệ phí thi.
+Ở TP.HCM, Đại học Khoa học Xã hội và Nhân văn từng mở lớp K57, khai giảng 07/12/2026, học 6 tuần, 5 buổi tối 1 tuần, học trực tiếp tại Đinh Tiên Hoàng: nội địa 2,5 triệu, quốc tế 3 triệu, chưa bao gồm lệ phí thi — **lớp này đã học xong trước ngày đăng bài, không đăng ký được nữa; Chưa có số liệu khóa mới, cần tra khóa mới sát ngày đăng. Thay thế: Trường Du lịch Đại học Duy Tân ở Đà Nẵng chiêu sinh liên tục (xem trên), hoặc lớp online của ĐH Thành Đông (3 triệu, 2–5 buổi, thi online).**
 
 Nhưng học phí các trường ở Hà Nội chưa tìm thấy công khai, nên bạn gọi hỏi trực tiếp trường trước khi đóng tiền.
 

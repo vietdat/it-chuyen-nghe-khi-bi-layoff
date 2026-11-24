@@ -36,7 +36,7 @@
 - Link: https://www.topcv.vn/viec-lam/huong-dan-vien-tieng-nga/1636018.html
 - Hợp với bạn nếu: bạn biết tiếng Nga, đã có thẻ hướng dẫn viên, và muốn làm ở Đà Nẵng nơi khách Nga đang tăng mạnh (1,25 triệu lượt khách Nga trong 10 tháng đầu năm 2026, tăng 150% so với cùng kỳ).
 
-3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 07/05/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Ở Cần Thơ không tìm thấy tin hướng dẫn viên riêng trên TopCV hay VietnamWorks ngày 23/11/2026. Bạn ở Cần Thơ thì tìm việc qua TopCV (lọc Cần Thơ), hỏi trực tiếp công ty lữ hành ở Cần Thơ, hoặc làm hướng dẫn viên tại điểm (chợ nổi Cái Răng, cồn Sơn) — làm theo buổi thuyết minh, không cần theo tour dài ngày.
+3 tin trên là tin tìm thấy ngày 23/11/2026 — **gần như chắc chắn hết hạn trước ngày đăng 07/05/2027 (cách ngày tra cứu hơn 5 tháng), PHẢI tra lại sát ngày đăng**. **[THAY BẰNG TIN MỚI TRƯỚC NGÀY ĐĂNG — hướng dẫn tìm tin thay thế]** Vì cả 3 tin trên đều tra ngày 23/11/2026 (Sunlight IELTS Hà Nội 15–20 triệu, Daiichi tàu Hải Phòng 14–18 triệu, Victoria tiếng Nga Đà Nẵng KPI đến 20 triệu+), trước ngày đăng 07/05/2027 phải tìm tin mới thay thế — không đăng tin cũ. Cách tìm: (1) TopCV, tìm "hướng dẫn viên du lịch" + tên thành phố (Hà Nội / Hải Phòng / Đà Nẵng / TP.HCM), lọc tin còn hạn sau 07/05/2027, ưu tiên tin ghi lương rõ và ghi "không yêu cầu kinh nghiệm" hoặc "HDV bán thời gian / theo giờ" nếu bạn mới vào nghề; (2) hỏi trực tiếp công ty lữ hành gần nhà (tìm trên Google Maps + Facebook công ty) — công ty giao tour theo mùa, hỏi trực tiếp nhanh hơn chờ tin trên sàn; (3) nền tảng đặt tour (Klook, GetYourGuide, Viator) — đăng hồ sơ HDV phụ / theo giờ. Tiêu chí chọn tin thay thế: còn hạn sau 07/05/2027, ghi rõ loại thẻ (nội địa hay quốc tế), có ghi ngoại ngữ yêu cầu hay không, lương ghi rõ theo giờ/tour/tháng (không lấy tin chỉ ghi "thỏa thuận" làm việc chính). Ở Cần Thơ không tìm thấy tin hướng dẫn viên riêng trên TopCV hay VietnamWorks ngày 23/11/2026. Bạn ở Cần Thơ thì tìm việc qua TopCV (lọc Cần Thơ), hỏi trực tiếp công ty lữ hành ở Cần Thơ, hoặc làm hướng dẫn viên tại điểm (chợ nổi Cái Răng, cồn Sơn) — làm theo buổi thuyết minh, không cần theo tour dài ngày.
 
 
 ## CV mẫu: trước và sau
@@ -79,7 +79,7 @@
 Tuần 1: chọn loại thẻ (nội địa hay quốc tế) theo bằng cấp, đăng ký 1 khóa bồi dưỡng nghiệp vụ HDV, đi 1 tuyến điểm gần nhà, ôn ngoại ngữ 30 phút mỗi ngày.
 Tuần 2: học thuyết minh, tập nói trước đám đông, làm 1 lịch trình tour mẫu bằng AI.
 Tuần 3: ôn và thi chứng chỉ nghiệp vụ HDV, nộp hồ sơ xin cấp thẻ, nộp đơn xin làm HDV phụ.
-Tuần 4: đi theo đoàn với tư cách HDV phụ, dẫn tour đầu tiên có người kèm, mở trang đặt tour cá nhân, tổng kết 30 ngày.
+Tuần 4: đi theo đoàn với tư cách HDV phụ, đi theo tour cùng HDV có thẻ để học việc, thuyết minh 1 điểm có HDV chính đứng cạnh (chưa dẫn chính — dẫn tour khi chưa có thẻ là dẫn "chui"), mở trang đặt tour cá nhân, tổng kết 30 ngày.
 
 File checklist đầy đủ: `Info/checklist-30-ngay.md`.
 

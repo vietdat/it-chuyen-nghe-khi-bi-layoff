@@ -17,30 +17,30 @@ Cột "Số pool" là số thứ tự của nghề trong pool 100 nghề (xem m�
 
 | Tuần | Ngày đăng (thứ 2 – chủ nhật) | Nghề | Thư mục | Số pool |
 |---|---|---|---|---|
-| 1 | 30/11/2026 – 06/12/2026 | Thợ lắp đặt / sửa điều hòa | `tho-lap-dat-sua-dieu-hoa/` | 1 |
-| 2 | 07/12/2026 – 13/12/2026 | Thợ sửa điện gia dụng | `tho-sua-dien-gia-dung/` | 4 |
-| 3 | 14/12/2026 – 20/12/2026 | Thợ khóa | `tho-khoa/` | 5 |
-| 4 | 21/12/2026 – 27/12/2026 | Thợ sửa xe máy | `tho-sua-xe-may/` | 11 |
-| 5 | 28/12/2026 – 03/01/2027 | Chủ quán ăn đường phố | `chu-quan-an-duong-pho/` | 16 |
-| 6 | 04/01/2027 – 10/01/2027 | Thợ cắt tóc nam | `tho-cat-toc-nam/` | 27 |
-| 7 | 11/01/2027 – 17/01/2027 | Chăm sóc người già tại nhà (người chăm sóc người già) | `cham-soc-nguoi-gia/` | 35 |
-| 8 | 18/01/2027 – 24/01/2027 | Thợ cắt tỉa thú cưng | `cat-tia-thu-cung/` | 40 |
-| 9 | 25/01/2027 – 31/01/2027 | Gia sư tiếng Anh | `gia-su-tieng-anh/` | 43 |
-| 10 | 01/02/2027 – 07/02/2027 | Shipper giao hàng (tài xế giao hàng / shipper) | `shipper-giao-hang/` | 70 |
-| 11 | 08/02/2027 – 14/02/2027 | Chụp ảnh cưới / sự kiện | `chup-anh-cuoi-su-kien/` | 77 |
-| 12 | 15/02/2027 – 21/02/2027 | Dịch vụ vệ sinh | `dich-vu-ve-sinh/` | 85 |
-| 13 | 22/02/2027 – 28/02/2027 | Dịch vụ giặt ủi | `dich-vu-giat-ui/` | 86 |
-| 14 | 01/03/2027 – 07/03/2027 | Môi giới bất động sản | `moi-gioi-bat-dong-san/` | 88 |
-| 15 | 08/03/2027 – 14/03/2027 | Thợ diệt côn trùng | `tho-diet-con-trung/` | 99 |
-| 16 | 15/03/2027 – 21/03/2027 | Thợ điện dân dụng | `tho-dien-dan-dung/` | 2 |
-| 17 | 22/03/2027 – 28/03/2027 | Thợ sửa ống nước | `tho-ong-nuoc/` | 3 |
-| 18 | 29/03/2027 – 04/04/2027 | Thợ lắp điện mặt trời mái nhà | `tho-lap-dien-mat-troi/` | 12 |
-| 19 | 05/04/2027 – 11/04/2027 | Quay phim cưới / sự kiện | `quay-phim-cuoi-su-kien/` | 78 |
-| 20 | 12/04/2027 – 18/04/2027 | Thợ làm tóc nữ | `tho-lam-toc-nu/` | 28 |
-| 21 | 19/04/2027 – 25/04/2027 | Thợ làm bánh (chủ tiệm bánh) | `tho-lam-banh/` | 18 |
-| 22 | 26/04/2027 – 02/05/2027 | Giáo viên dạy lái xe | `giao-vien-day-lai-xe/` | 46 |
-| 23 | 03/05/2027 – 09/05/2027 | Hướng dẫn viên du lịch | `huong-dan-vien-du-lich/` | 73 |
-| 24 | 10/05/2027 – 16/05/2027 | Người trồng nấm | `nguoi-trong-nam/` | 53 |
+| 1 | 30/11/2026 – 06/12/2026 | Thợ lắp đặt / sửa điều hòa | `01-ky-thuat-sua-chua/tho-lap-dat-sua-dieu-hoa/` | 1 |
+| 2 | 07/12/2026 – 13/12/2026 | Thợ sửa điện gia dụng | `01-ky-thuat-sua-chua/tho-sua-dien-gia-dung/` | 4 |
+| 3 | 14/12/2026 – 20/12/2026 | Thợ khóa | `01-ky-thuat-sua-chua/tho-khoa/` | 5 |
+| 4 | 21/12/2026 – 27/12/2026 | Thợ sửa xe máy | `01-ky-thuat-sua-chua/tho-sua-xe-may/` | 11 |
+| 5 | 28/12/2026 – 03/01/2027 | Chủ quán ăn đường phố | `03-am-thuc-ban-le/chu-quan-an-duong-pho/` | 16 |
+| 6 | 04/01/2027 – 10/01/2027 | Thợ cắt tóc nam | `02-dich-vu-cham-soc/tho-cat-toc-nam/` | 27 |
+| 7 | 11/01/2027 – 17/01/2027 | Chăm sóc người già tại nhà (người chăm sóc người già) | `02-dich-vu-cham-soc/cham-soc-nguoi-gia/` | 35 |
+| 8 | 18/01/2027 – 24/01/2027 | Thợ cắt tỉa thú cưng | `02-dich-vu-cham-soc/cat-tia-thu-cung/` | 40 |
+| 9 | 25/01/2027 – 31/01/2027 | Gia sư tiếng Anh | `05-day-hoc-dao-tao/gia-su-tieng-anh/` | 43 |
+| 10 | 01/02/2027 – 07/02/2027 | Shipper giao hàng (tài xế giao hàng / shipper) | `04-van-tai-tu-do/shipper-giao-hang/` | 70 |
+| 11 | 08/02/2027 – 14/02/2027 | Chụp ảnh cưới / sự kiện | `06-sang-tao-truyen-thong/chup-anh-cuoi-su-kien/` | 77 |
+| 12 | 15/02/2027 – 21/02/2027 | Dịch vụ vệ sinh | `02-dich-vu-cham-soc/dich-vu-ve-sinh/` | 85 |
+| 13 | 22/02/2027 – 28/02/2027 | Dịch vụ giặt ủi | `02-dich-vu-cham-soc/dich-vu-giat-ui/` | 86 |
+| 14 | 01/03/2027 – 07/03/2027 | Môi giới bất động sản | `07-dich-vu-tu-van-huong-dan/moi-gioi-bat-dong-san/` | 88 |
+| 15 | 08/03/2027 – 14/03/2027 | Thợ diệt côn trùng | `01-ky-thuat-sua-chua/tho-diet-con-trung/` | 99 |
+| 16 | 15/03/2027 – 21/03/2027 | Thợ điện dân dụng | `01-ky-thuat-sua-chua/tho-dien-dan-dung/` | 2 |
+| 17 | 22/03/2027 – 28/03/2027 | Thợ sửa ống nước | `01-ky-thuat-sua-chua/tho-ong-nuoc/` | 3 |
+| 18 | 29/03/2027 – 04/04/2027 | Thợ lắp điện mặt trời mái nhà | `01-ky-thuat-sua-chua/tho-lap-dien-mat-troi/` | 12 |
+| 19 | 05/04/2027 – 11/04/2027 | Quay phim cưới / sự kiện | `06-sang-tao-truyen-thong/quay-phim-cuoi-su-kien/` | 78 |
+| 20 | 12/04/2027 – 18/04/2027 | Thợ làm tóc nữ | `02-dich-vu-cham-soc/tho-lam-toc-nu/` | 28 |
+| 21 | 19/04/2027 – 25/04/2027 | Thợ làm bánh (chủ tiệm bánh) | `03-am-thuc-ban-le/tho-lam-banh/` | 18 |
+| 22 | 26/04/2027 – 02/05/2027 | Giáo viên dạy lái xe | `05-day-hoc-dao-tao/giao-vien-day-lai-xe/` | 46 |
+| 23 | 03/05/2027 – 09/05/2027 | Hướng dẫn viên du lịch | `07-dich-vu-tu-van-huong-dan/huong-dan-vien-du-lich/` | 73 |
+| 24 | 10/05/2027 – 16/05/2027 | Người trồng nấm | `08-nong-nghiep/nguoi-trong-nam/` | 53 |
 
 Kiểm đếm: 24 tuần, 24 nghề, 24 thư mục.
 
@@ -92,7 +92,7 @@ Cột "Thư mục gợi ý" là tên thư mục đề xuất khi làm nghề đ�
 | 25 | Chủ suất ăn văn phòng | `chu-suat-an-van-phong/` |
 | 26 | Đầu bếp tại gia | `dau-bep-tai-gia/` |
 
-Đã làm trong nhóm B: chủ quán ăn đường phố (16), chủ tiệm bánh (18 — thư mục `tho-lam-banh/`).
+Đã làm trong nhóm B: chủ quán ăn đường phố (16), chủ tiệm bánh (18 — thư mục `03-am-thuc-ban-le/tho-lam-banh/`).
 
 ### C. Làm đẹp & chăm sóc cá nhân — 6 nghề dự trữ
 
@@ -239,7 +239,7 @@ Chưa có nghề nào trong nhóm G được làm trong 24 tuần đầu.
 
 Lưu ý khi làm nghề dự trữ:
 
-- Dùng `_TEMPLATE.md` làm khung sườn, đủ 8 mục bắt buộc + mục chi phí khởi điểm chi tiết.
+- Dùng `_TEMPLATE.md` làm khung sườn, đủ 12 mục bắt buộc + mục chi phí khởi điểm chi tiết.
 - Mọi con số kèm thẻ `[Cập nhật: Tháng/Năm – Nguồn]`; không có số liệu thì ghi "Chưa có số liệu", không bịa.
 - Số liệu lương Việt Nam chỉ lấy từ tin tuyển thật kèm ngày tra cứu; số liệu Mỹ chỉ để tham khảo, không ghi thành lương Việt Nam.
 - Tin tuyển tra trong quá trình nghiên cứu pool (23/11/2026) sẽ hết hạn trước ngày đăng — kiểm tra lại link tin tuyển trước khi đăng nghề đó.

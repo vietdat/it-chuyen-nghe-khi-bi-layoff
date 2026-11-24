@@ -2,7 +2,7 @@
 
 - Nghề: gia sư tiếng Anh (pool #43) — dạy tiếng Anh 1-1 / nhóm nhỏ cho học sinh, sinh viên, người đi làm, online hoặc tại nhà
 - Kênh: Facebook Page + TikTok + YouTube (kênh mới, tên trang chờ Ngoc chốt)
-- Tổng: 17 bài đăng (YouTube 1 + Facebook 6 + TikTok 10 — gồm 8 món TikTok theo sườn: 6 tập truyện + 1 reel + 1 ngoại truyện; cộng thêm clip teaser Thứ 2 kéo sang video dài và clip Q&A Chủ nhật)
+- Tổng: 15 bài đăng (YouTube 1 + Facebook 6 + TikTok 8 — gồm 6 tập truyện + 1 reel + 1 ngoại truyện)
 - Câu hook chung TikTok: **"Dev bị layoff thì làm gì?"** + số tập — 6 clip TikTok là 6 tập tiếp nối 1 câu chuyện duy nhất (1 anh dev đi làm gia sư tiếng Anh, nhân vật kể chuyện, không phải người thật cụ thể, không phải trải nghiệm của Ngoc) + Tập 7 ngoại truyện về học ở đâu, học phí bao nhiêu. Reel Thứ 4 là tập tổng, kịch bản 146 từ.
 - Nguồn số liệu: tra cứu ngày 23/11/2026, ghi trong `Info/nghien-cuu-thi-truong.md`. Mọi con số trong file này đều có nguồn + ngày. Chỗ nào chưa có số thì ghi "Chưa có số liệu", không bịa.
 - Lưu ý mùa vụ: tuần này là tuần cuối trước Tết Nguyên đán — mùng 1 Tết Đinh Mùi là thứ Bảy 06/02/2027 (nguồn: Thư viện Pháp luật; lịch nghỉ chính thức 04–10/02/2027). Ngày 30/01/2027 là 23 tháng Chạp (Ông Công Ông Táo). Nhiều học viên xin nghỉ dần, gia sư chốt lịch dạy lại sau Tết.
@@ -10,7 +10,7 @@
 
 ## Mục lục
 
-1. [Lịch tuần 9 — 7 ngày, 17 bài](#1-lịch-tuần-9--7-ngày-17-bài)
+1. [Lịch tuần 9 — 7 ngày, 15 bài](#1-lịch-tuần-9--7-ngày-15-bài)
 2. [Nghiên cứu thị trường tóm tắt](#2-nghiên-cứu-thị-trường-tóm-tắt)
 3. [YouTube — Script video dài Thứ 2](#3-youtube--script-video-dài-thứ-2)
 4. [Facebook — 6 bài](#4-facebook--6-bài)
@@ -20,7 +20,7 @@
 
 ---
 
-## 1. Lịch tuần 9 — 7 ngày, 17 bài
+## 1. Lịch tuần 9 — 7 ngày, 15 bài
 
 | Ngày | Kênh | Giờ đăng | Nội dung | Hook |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ Tóm tắt từ `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026). Bản đ
 
 - **TopCV:** tìm thấy 11 tin đang mở cho gia sư tiếng Anh, phần lớn là dạy online (VUIHOC, Langmaster tuyển số lượng lớn, có tin không yêu cầu kinh nghiệm). Cửa vào nhanh nhất cho người mới: gia sư online 1:1 cho nền tảng (Langmaster 100.000đ/giờ, không yêu cầu kinh nghiệm; VUIHOC tiểu học 70.000–135.000đ/giờ).
 - **VietnamWorks:** tìm thấy 1 tin phù hợp (Readingstar, giáo viên trẻ em, TP.HCM, lương thỏa thuận, đăng 26/10/2026) — sàn này nghiêng về giáo viên trung tâm/trường, gần như không có tin gia sư 1-1 tự do.
-- **Nền tảng khác:** viecday.com — Langmaster 1:1, 100.000đ/giờ, hạn 20/01/2027; FUNIX (qua HUFLIT CareerHub) 63.000đ/giờ (giao tiếp cơ bản), 124.000đ/giờ (IELTS 3.5–6.5), 185.000đ/giờ (IELTS từ 6.5), hạn 28/11/2026; Envis School Hà Nội (IELTS 8.0, 10–15 triệu/tháng, hạn 31/12/2026).
+- **Nền tảng khác:** viecday.com — Langmaster 1:1, 100.000đ/giờ, hạn 20/01/2027 — **đã hết hạn trước ngày đăng 29/01/2027, không dùng làm việc thật** (xem hướng dẫn tìm tin thay thế trong bài thực hành Thứ 6); FUNIX (qua HUFLIT CareerHub) 63.000đ/giờ (giao tiếp cơ bản), 124.000đ/giờ (IELTS 3.5–6.5), 185.000đ/giờ (IELTS từ 6.5), hạn 28/11/2026; Envis School Hà Nội (IELTS 8.0, 10–15 triệu/tháng, hạn 31/12/2026).
 - **Facebook:** chưa đếm được số bài tìm gia sư trong 30 ngày (cần đăng nhập Group).
 - **Google Maps:** chưa đếm được số trung tâm theo quận (cần đếm thủ công).
 - **TikTok:** chưa đếm được lượt xem hashtag (cần đăng nhập).
@@ -101,8 +101,46 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026, K
 - Dạy trẻ nhỏ không giống dạy người lớn: trẻ mất tập trung nhanh, phụ huynh ngồi xem và đánh giá từng buổi.
 - Tiếng Anh không đủ thì không dạy được: kiểm tra thật trình độ trước, đừng tự tin theo cảm tính.
 - Không có chuyện "chắc chắn có việc" hay "làm giàu nhanh".
+- **Sức khỏe khi dạy online nhiều giờ:** mỏi giọng (nói liên tục 3–4 buổi tối, mỗi buổi 60 phút), mỏi mắt và đau cổ vai gáy vì ngồi nhiều giờ trước màn hình. Dạy tối đa 3 buổi/tối, giữa các buổi đứng dậy đi lại 5–10 phút, uống nước ấm.
+- **Chi phí thiết bị dạy online:** tai nghe có mic Hoco W21 175.000đ hoặc Genius HS-220U 279.000đ [Cập nhật: 11/2026 – trang bán hàng, tra 23/11/2026]; webcam rõ và đường truyền ổn định là bắt buộc, laptop đã có sẵn thì 0đ.
+- **Dự phòng tháng Tết:** tháng đầu thu nhập gần như bằng 0 (dạy thử miễn phí + học viên nghỉ Tết) — cần tiền dự phòng sinh hoạt ít nhất 1 tháng Tết trước khi bắt đầu.
+
+### Lộ trình học theo tuần/tháng (tóm tắt — đầy đủ trong `Info/nghien-cuu-thi-truong.md` mục 6)
+
+- **Tuần đầu:** kiểm tra thật trình độ tiếng Anh; chuẩn bị tai nghe có mic, webcam, Zoom/Meet; soạn 1 buổi dạy mẫu 60 phút; đăng hồ sơ Superprof + nộp 1 nền tảng online.
+- **Tháng đầu:** dạy thử 2–3 buổi, lấy phản hồi thật, làm file theo dõi học viên; chốt lịch với 2–3 học viên (học viên qua Tết mới học thì chốt lịch sau Tết, từ 11/02/2027). Thu nhập gần như bằng 0.
+- **Tháng 2:** dạy 3–4 buổi chính thức đầu tiên, thu học phí theo khóa 8–12 buổi.
+- **Tháng 3:** có 2–3 học viên chốt lịch đều, dạy 10–15 giờ/tuần, thu nhập khoảng 4–6 triệu/tháng ở mức 100.000đ/giờ [Cập nhật: 11/2026 – TopCV, Langmaster, tra 23/11/2026].
+- **Sau 6 tháng:** dạy 15–20 giờ/tuần, giữ được học viên ổn định; xem lại lộ trình TESOL (online 120 giờ 6–15 triệu, 2–4 tháng) nếu muốn dạy lâu dài. Nấc IELTS (250.000–500.000đ/giờ) cần IELTS 7.0–7.5 thật + 1 năm kinh nghiệm — đường dài, không phải nấc tháng 6.
+
+### Thử nghề (tóm tắt — đầy đủ trong `Info/nghien-cuu-thi-truong.md` mục 7)
+
+- **Kiểm tra trình độ thật (0 đồng):** thi thử IELTS Speaking online miễn phí, hoặc nhờ người giỏi hơn nghe thử 10 phút. Nói còn vấp nhiều thì ôn tiếng Anh trước, chưa tính chuyện dạy.
+- **Dạy thử 1 buổi miễn phí:** dạy đúng buổi mẫu 60 phút đã soạn, cuối buổi hỏi học viên 2 câu phản hồi. Đây là cách thử rẻ nhất và thật nhất.
+- **Dạy thử 2–3 buổi trước khi đóng tiền học TESOL:** có ít nhất 1 học viên chốt lịch thì mới tính chuyện học TESOL (6–15 triệu khóa online). Chưa có học viên nào chốt mà đã đóng 20–25 triệu là bỏ vốn trước khi biết mình dạy được hay không.
+- **Tiêu chí dừng/tiếp (đánh giá sau 2 tuần dạy thử và sau 1 tháng):** tiếp tục nếu học viên hiểu và muốn học tiếp, có 1–2 học viên chốt lịch, chịu được dạy buổi tối; dừng lại nếu học viên thử nói không hiểu mình dạy gì, sau 2–3 buổi thử không có học viên nào chốt, hoặc không chịu được mỏi giọng / ngồi nhiều giờ trước màn hình.
+
+### Kết luận (tóm tắt — đầy đủ trong `Info/nghien-cuu-thi-truong.md` mục 8)
+
+- **Ưu điểm:** không cần mặt bằng, vốn bắt đầu thấp (tai nghe 175.000–279.000đ); làm được từ nhà, lịch tối linh hoạt; cửa vào có thật cho người mới (Langmaster 1:1 không yêu cầu kinh nghiệm dạy, 100.000đ/giờ); trần thu nhập cao nếu lên được IELTS (250.000–500.000đ/giờ).
+- **Nhược điểm:** tháng đầu gần như chưa có thu nhập; thu nhập lên xuống theo từng học viên; cửa ải trình độ tiếng Anh thật; mỏi giọng, mỏi mắt, ngồi nhiều giờ trước màn hình; phí nhận lớp qua trung tâm tháng đầu mất 30–40%.
+- **Ai nên thử:** tiếng Anh giao tiếp thật tốt, thích nói chuyện và kiên nhẫn sửa lỗi, chịu được lịch tối, có tiền dự phòng ít nhất 1 tháng Tết. **Ai không nên thử:** tiếng Anh chỉ ở mức đọc hiểu; cần thu nhập ổn định ngay tháng đầu; không chịu được dạy buổi tối hoặc ngồi nhiều giờ trước màn hình.
+
+### Chi phí khởi điểm chi tiết (tóm tắt — đầy đủ trong `Info/nghien-cuu-thi-truong.md` mục 10)
+
+| Hạng mục | Số tiền |
+|---|---|
+| Dụng cụ / thiết bị (1 tai nghe có mic) | 175.000–279.000đ [Cập nhật: 11/2026 – trang bán hàng, tra 23/11/2026] |
+| Học phí (nấc chuẩn: tự học / dạy thử) | 0đ (TESOL online 120 giờ 6–15 triệu — chỉ học sau khi đã có học viên chốt lịch) |
+| Dự phòng 2 tháng đầu | Chưa có số liệu (riêng tháng Tết: tháng đầu thu nhập gần như bằng 0 — cần dự phòng sinh hoạt ít nhất 1 tháng Tết) |
+| **Tổng cộng (chưa tính dự phòng)** | **175.000–279.000đ** |
 
 ---
+
+### Nguồn tham khảo (tóm tắt — đầy đủ trong `Info/nghien-cuu-thi-truong.md` mục 11)
+
+- Đầy đủ trong file nghiên cứu mục 11: tin tuyển, bảng học phí trung tâm, giá thiết bị dạy online, nguồn khác — mỗi nguồn có link + ngày truy cập 23/11/2026 + loại nguồn + mức tin cậy.
+
 
 ## 3. YouTube — Script video dài Thứ 2
 
@@ -130,7 +168,7 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026, K
 
 [Hình: cận cảnh màn hình Zoom, học viên nói 1 câu tiếng Anh, gia sư mỉm cười sửa lỗi. Chữ trên màn hình: "Học viên nói sai 3 chỗ, sửa xong nói lại đúng ngay"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề không cần mặt bằng, không cần vốn, làm được từ nhà: gia sư tiếng Anh. Học viên nói 1 câu tiếng Anh, sai 3 chỗ. Gia sư sửa từng chỗ, học viên nói lại đúng ngay buổi đó. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề không cần mặt bằng, vốn bắt đầu thấp — tai nghe có mic khoảng 175.000–279.000đ [Cập nhật: 11/2026 – trang bán hàng, tra 23/11/2026] — làm được từ nhà: gia sư tiếng Anh. Nhưng tháng đầu thu nhập gần như bằng 0: dạy thử miễn phí, học viên nghỉ dần vì Tết. Học viên nói 1 câu tiếng Anh, sai 3 chỗ. Gia sư sửa từng chỗ, học viên nói lại đúng ngay buổi đó. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30–2:00 — Nghề này là gì, 1 ngày làm việc thật
 
@@ -219,7 +257,7 @@ Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau m
 
 ---
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề không cần mặt bằng, không cần vốn, làm được từ nhà: gia sư tiếng Anh.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề không cần mặt bằng, vốn bắt đầu thấp — tai nghe có mic khoảng 175.000–279.000đ [Cập nhật: 11/2026 – trang bán hàng, tra 23/11/2026] — làm được từ nhà: gia sư tiếng Anh. Nhưng tháng đầu thu nhập gần như bằng 0: dạy thử miễn phí, học viên nghỉ dần vì Tết.
 
 Học viên nói 1 câu tiếng Anh, sai 3 chỗ. Gia sư sửa từng chỗ, học viên nói lại đúng ngay buổi đó. Bài này nói hết về nghề gia sư tiếng Anh: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
@@ -351,18 +389,14 @@ Mẹo này giúp buổi dạy của bạn khác với buổi dạy đọc giáo 
 - Lương: 70.000–135.000đ/giờ, thu nhập 2–5 triệu/tháng
 - Công việc: giảng dạy tiếng Anh trực tuyến 1:1 hoặc 1:6 cho học sinh tiểu học/THCS qua phần mềm ClassIn
 - Ngày thấy tin: 23/11/2026 (TopCV)
+- Hạn nộp: không ghi hạn nộp trong bản tra cứu 23/11/2026 — tin tra 23/11/2026, gần như chắc chắn phải tra lại sát ngày đăng 29/01/2027, PHẢI mở lại link kiểm tra còn hạn không trước khi đăng
 - Link: https://www.topcv.vn/viec-lam/gia-su-tieng-anh-tieu-hoc-thcs-online-70-135k-h/1425327.html
 - Hợp với bạn nếu: bạn muốn bắt đầu dạy online, có giáo trình và phần mềm sẵn, chưa cần kinh nghiệm dạy nhiều.
 
-### Việc 2: Gia Sư/Giáo Viên Tiếng Anh Online/Remote Part-time (sẵn giáo trình) — Langmaster
+### Việc 2: [ĐÃ HẾT HẠN — THAY BẰNG TIN MỚI] Gia Sư/Giáo Viên Tiếng Anh Online/Remote Part-time — Langmaster
 
-- Công ty: Công ty CP Đầu tư Giáo dục và Phát triển Công nghệ Quốc tế Langmaster
-- Lương: 100.000đ/giờ, tổng thu nhập lên đến 8.000.000đ/tháng
-- Công việc: giảng dạy tiếng Anh giao tiếp trực tuyến 1 kèm 1 cho học viên (sinh viên, người đi làm) qua Skype/Google Meet; lớp 60 phút/buổi, 3 buổi/tuần, dạy tối thiểu 2 lớp/tuần
-- Yêu cầu: không yêu cầu kinh nghiệm (đào tạo từ đầu); có lộ trình đánh giá sau 3–6 tháng, có cơ hội lên tester/core team/trainer với mức đến 30.000.000đ/tháng (theo tin đăng)
-- Hạn nộp: 20/01/2027 — còn hạn lúc tra cứu 23/11/2026, nhưng đã gần hết hạn vào ngày đăng bài 29/01/2027, kiểm tra lại link trước khi đăng
-- Ngày thấy tin: 23/11/2026 (viecday.com)
-- Link: https://viecday.com/viec-lam/gia-su-giao-vien-tieng-anh-online-remote-parttime-san-giao-trinh-2558746.html
+- Tin gốc tìm thấy ngày 23/11/2026 (viecday.com): Langmaster tuyển gia sư giao tiếp online 1:1, 100.000đ/giờ, tổng thu nhập lên đến 8.000.000đ/tháng, không yêu cầu kinh nghiệm dạy (đào tạo từ đầu), lớp 60 phút/buổi, 3 buổi/tuần, dạy tối thiểu 2 lớp/tuần. Link tin gốc (để đối chiếu, không nộp nữa): https://viecday.com/viec-lam/gia-su-giao-vien-tieng-anh-online-remote-parttime-san-giao-trinh-2558746.html
+- **Tin này hết hạn nộp 20/01/2027, trước ngày đăng bài 29/01/2027 — KHÔNG nộp tin này.** Cách tìm tin thay thế trước ngày đăng: vào viecday.com và topcv.vn, tìm "gia sư tiếng Anh online 1:1" hoặc "gia sư tiếng Anh Langmaster", lọc tin còn hạn sau 29/01/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm" và mức 100.000đ/giờ; kiểm tra kỹ yêu cầu trình độ tiếng Anh của tin mới — vị trí 1:1 giao tiếp toàn quốc của Langmaster không ghi yêu cầu chứng chỉ, còn vị trí Langmaster tại Đà Nẵng yêu cầu TOEIC ≥ 900 / IELTS ≥ 7.0 (xem gỡ mâu thuẫn Langmaster trong `Info/nghien-cuu-thi-truong.md` mục 1). Nếu Langmaster không còn tin mở thì nộp VUIHOC tiểu học online (Việc 1) hoặc đăng hồ sơ Superprof.
 - Hợp với bạn nếu: bạn là người mới chuyển nghề, chưa có kinh nghiệm dạy, muốn có giáo trình sẵn và lịch dạy linh hoạt buổi tối.
 
 ### Việc 3: Gia Sư Tiếng Anh IELTS (IELTS Tutor) — VUIHOC.vn
@@ -371,6 +405,7 @@ Mẹo này giúp buổi dạy của bạn khác với buổi dạy đọc giáo 
 - Lương: 250.000–500.000đ/giờ, thu nhập 24–48 triệu/tháng (theo tin đăng)
 - Công việc: giảng dạy IELTS online 1:1, tối 20:00–21:30, thứ 2 đến Chủ nhật, ưu tiên ứng viên dạy được cuối tuần; làm việc online tại nhà, địa điểm Hà Nội
 - Ngày thấy tin: 23/11/2026 (TopCV)
+- Hạn nộp: không ghi hạn nộp trong bản tra cứu 23/11/2026 — tin tra 23/11/2026, gần như chắc chắn phải tra lại sát ngày đăng 29/01/2027, PHẢI mở lại link kiểm tra còn hạn không trước khi đăng
 - Link: https://www.topcv.vn/viec-lam/gia-su-tieng-anh-ielts-ielts-tutor/1111256.html?basic-ui=1
 - Hợp với bạn nếu: bạn đã có IELTS 7.0–7.5 thật và kinh nghiệm dạy — đây là mức cao nhất trong 3 việc, và cũng là việc yêu cầu cao nhất. Chưa đủ trình độ thì nộp Việc 1 hoặc Việc 2 trước, đừng nộp việc này cho có.
 
@@ -499,7 +534,7 @@ Câu hook chung mọi clip: **"Dev bị layoff thì làm gì?"** + số tập. 6
 
 File kịch bản: `tiktok/kich-ban-reel-thu-4.md` — hoạt hình flat 2D có màu kiểu Kurzgesagt, dọc 1080x1920, 30fps, 40–45 giây, giọng Dapper Cuff tốc độ 100. Kịch bản 146 từ, đủ 6 đoạn theo sườn.
 
-Hook: "Bạn là dev, vừa bị layoff. Có một nghề không cần vốn, làm được từ nhà: gia sư tiếng Anh." Tóm tắt: Context (học viên nói sai 3 chỗ, sửa xong nói lại đúng ngay) → 3 ý giá trị (1–2 tuần là có buổi dạy thử; slide tự làm, AI soạn bài, app nhắc lịch; phải học lại sửa phát âm, giữ trẻ tập trung, giữ học viên) → Payoff: "Layoff rồi, giờ làm gì? Có người đổi sang nghề dạy bằng chính tiếng Anh mình dùng mỗi ngày."
+Hook: "Bạn là dev, vừa bị layoff. Có một nghề không cần mặt bằng, vốn bắt đầu thấp, làm được từ nhà: gia sư tiếng Anh. Nhưng tháng đầu gần như chưa có thu nhập — dạy thử miễn phí, học viên nghỉ Tết." Tóm tắt: Context (học viên nói sai 3 chỗ, sửa xong nói lại đúng ngay) → 3 ý giá trị (1–2 tuần là có buổi dạy thử; slide tự làm, AI soạn bài, app nhắc lịch; phải học lại sửa phát âm, giữ trẻ tập trung, giữ học viên) → Payoff: "Layoff rồi, giờ làm gì? Có người đổi sang nghề dạy bằng chính tiếng Anh mình dùng mỗi ngày."
 
 ### 5.1. Tập 1 — Thứ 2
 

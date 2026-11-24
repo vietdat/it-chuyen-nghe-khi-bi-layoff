@@ -37,13 +37,55 @@
 
 **Nhu cầu theo thành phố:** TP.HCM tuyển nhiều nhất trên TopCV (3 tin, lương 8–15 triệu). Hà Nội 2 tin (9–18 triệu). Đà Nẵng không có tin TopCV, có tin tuyển nhân viên media 8–10 triệu, không yêu cầu kinh nghiệm (Nacy Studio, hạn 30/11/2026 — tới tuần này đã hết hạn). Cần Thơ không tìm thấy tin tuyển riêng; trang tổng hợp ghi lương thấp nhất trong 4 nơi (dưới 1 năm 5–7 triệu, 1–3 năm 7–10 triệu, trên 3 năm 10–15 triệu).
 
-**Học ở đâu:** Hà Nội — Mimosa Academy, cơ bản 7 triệu, nâng cao 10 triệu, 2–5 tháng; TuArt Academy 25 triệu/3 tháng (nguồn cũ, kiểm tra lại). Đà Nẵng — Huy Academy 550.000đ/buổi kèm riêng, 450.000đ/buổi nhóm; Lavender Đà Nẵng chưa tìm thấy học phí công khai. TP.HCM — Lavender Q.3 chưa tìm thấy học phí công khai. Online — FinnC retouch 16 triệu, 11 + 1 buổi. Cần Thơ — không tìm thấy khóa học nhiếp ảnh cưới trong tìm kiếm ngày 23/11/2026.
+**Học ở đâu:** Hà Nội — Mimosa Academy, cơ bản 7 triệu, nâng cao 10 triệu, 2–5 tháng; TuArt Academy 25 triệu/3 tháng (nguồn ~7 năm tuổi, tra lại 23/11/2026 không thấy học phí nhiếp ảnh công khai mới — gọi hỏi trực tiếp). Đà Nẵng — Huy Academy 550.000đ/buổi kèm riêng, 450.000đ/buổi nhóm; Lavender Đà Nẵng chưa tìm thấy học phí công khai. TP.HCM — Lavender Q.3 chưa tìm thấy học phí công khai; Hội Nhiếp ảnh TP.HCM, lớp Căn bản K.46, 4 triệu, khai giảng 02/04/2026; HNAAu Nhiếp ảnh thương mại 21 triệu/38 buổi. Online — FinnC retouch 16 triệu, 11 + 1 buổi. Cần Thơ — không tìm thấy khóa học nhiếp ảnh cưới có học phí công khai; chỉ có lớp trải nghiệm miễn phí của FPT Arena Cần Thơ (2022, 12/2024, đã qua).
 
-**Lương:** làm thuê studio 8–15 triệu/tháng (tin TopCV), đến 18 triệu với 2 năm kinh nghiệm (Hải Long, Hà Nội). Second shooter 1–2 triệu/ca (bảng giá Hà Nội 2024–2025). Giá gói bán cho khách: photographer chính Hà Nội 5–10 triệu/ca, cao cấp 15–40+ triệu/ca; pre-wedding Đà Nẵng 14 triệu/buổi; phóng sự Sài Gòn từ 19,8 triệu/tiệc — giá gói không bằng thu nhập thợ.
+**Lương:** làm thuê studio 8–15 triệu/tháng (tin TopCV) — nhưng tất cả các tin 8–15 triệu đều yêu cầu 1 năm kinh nghiệm, người mới chưa nộp được ngay; đến 18 triệu với 2 năm kinh nghiệm (Hải Long, Hà Nội). Second shooter 1–2 triệu/ca (bảng giá Hà Nội 2024–2025). Giá gói bán cho khách: photographer chính Hà Nội 5–10 triệu/ca, cao cấp 15–40+ triệu/ca; pre-wedding Đà Nẵng 14 triệu/buổi; phóng sự Sài Gòn từ 19,8 triệu/tiệc — giá gói không bằng thu nhập thợ. Rào cản bằng cấp: 5 trong 6 tin TopCV yêu cầu "Cao đẳng trở lên".
+
+**Tìm việc không kinh nghiệm:** tìm thêm ngày 23/11/2026 không có tin second shooter / trợ lý studio cưới nào không yêu cầu kinh nghiệm còn hạn sau ngày đăng 08/02/2027 (À Ơi Concept hạn 31/12/2026, LASA đã hết hạn, Nacy Studio Đà Nẵng hết hạn 30/11/2026) — cửa vào là hỏi trực tiếp studio gần nhà hoặc nhóm Facebook nghề ảnh.
+
+**Career path (đã sửa theo audit):** tháng 1–3 chụp phụ 1–2 triệu/ca; tháng 3–6 chụp phụ quen tay, bắt đầu chụp chính show nhỏ có người kèm — lương studio 8–15 triệu chưa tới được ở mốc này (cần 1 năm kinh nghiệm); tháng 6–12 chụp chính show nhỏ, vào studio khi đủ 1 năm kinh nghiệm; năm 1–2 có phong cách riêng, nhận show lớn.
+
+### Lộ trình học theo tuần/tháng (mục 9 — tóm tắt, đầy đủ trong file nghiên cứu mục 6)
+
+- Tháng 1: làm chủ máy — khẩu độ, tốc độ, ISO; chụp thử 100 tấm ở nhà; học sao lưu 2 thẻ + 1 ổ cứng + 1 bản máy tính; liệt kê 5 studio gần nhà; xin làm chụp phụ ở 2–3 chỗ.
+- Tháng 2: đi show thật — làm việc phụ (cầm đèn, đổi ống kính, sao lưu thẻ giữa giờ); tự chụp buổi nhỏ có thợ chính đứng cạnh; ghi 10 lỗi hay gặp.
+- Tháng 3: học hậu kỳ — Lightroom cơ bản (chọn ảnh, preset, xuất ảnh); tập gửi ảnh qua link online; làm portfolio đầu tay 10–15 tấm.
+- Tháng 4–6: nhận show nhỏ — tự chụp 1 phần show cưới có thợ chính dự phòng; đăng hậu trường lên TikTok/Facebook khu vực; học thêm retouch sau khi đã chụp được.
+- Tháng 6–12: chụp chính show nhỏ độc lập; xây khách quen; cân nhắc khóa nâng cao (Mimosa nâng cao 10 triệu) hoặc khóa retouch (FinnC 16 triệu) khi đã có tay nghề.
+
+### Thử nghề (mục 10 — tóm tắt, đầy đủ trong file nghiên cứu mục 7)
+
+- Cách 1 — theo thợ 1 ngày: đi theo thợ chính 1 show cưới trọn ngày, chỉ làm việc phụ, không bấm máy; xem mình có chịu được 6–12 giờ đứng và di chuyển liên tục không.
+- Cách 2 — xin làm phụ 1–2 tuần: làm second shooter / cầm đèn / sao lưu thẻ cho 2–3 show, có tiền theo ca 1–2 triệu/ca; xem mình có chụp được khoảnh khắc dưới áp lực không.
+- Cách 3 — chụp thử quy mô nhỏ: chụp 1 buổi tiệc gia đình / sinh nhật cho người quen, miễn phí, tự hậu kỳ và giao album; xem mình có thích khâu hậu kỳ không — vì hậu kỳ chiếm nửa thời gian nghề.
+- Tiếp tục nếu chịu được 1 show dài, thích bắt khoảnh khắc, sẵn sàng học hậu kỳ, có ít nhất 1 studio/team nhận mình làm phụ lần nữa; dừng lại nếu không chịu được đứng cả ngày, sợ áp lực "không có khoảnh khắc thứ hai", ghét hậu kỳ, hoặc sau 2–3 show vẫn không có team nào gọi lại.
+
+**Pháp lý:** chụp ảnh cưới không yêu cầu bằng cấp hay chứng chỉ hành nghề bắt buộc; mở studio / nhận show riêng thường xuyên thì đăng ký hộ kinh doanh (Nghị định 168/2025/NĐ-CP, như tuần 1 mục 9).
+
+### Chi phí khởi điểm (tóm tắt, đầy đủ trong file nghiên cứu mục 10)
+
+- Bộ tối thiểu mua cũ khoảng 43,5 triệu: body Sony A7 III cũ 20–25 triệu + ống Tamron 28–75mm G2 cũ 12,5–13 triệu + đèn Godox V1 3,49 triệu + thẻ SD 128GB 1,42 triệu + SSD Samsung T7 1TB 6,05 triệu (giá tra 23/11/2026).
+- Bộ tối thiểu mua mới khoảng 66,8 triệu (body mới 36,29 triệu + Tamron mới 17,49 triệu + Godox V1Pro 5,59 triệu + thẻ + SSD).
+- Học phí: khóa cơ bản rẻ nhất có giá công khai là Hội Nhiếp ảnh TP.HCM 4 triệu, lấy Mimosa cơ bản 7 triệu làm mức ví dụ — tổng khởi điểm khoảng 50,5 triệu (mua cũ + khóa 7 triệu) đến 73,8 triệu (mua mới + khóa 7 triệu).
+- Dự phòng sinh hoạt 2 tháng: Chưa có số liệu. Chưa gồm pin dự phòng, máy dự phòng, túi đựng, học phí nâng cao / retouch.
+
+**Cảnh báo tin tuyển:** mọi tin trong file tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 08/02/2027 — PHẢI tra lại sát ngày đăng (cách tìm tin thay thế trong mục 1 file nghiên cứu).
 
 **Mùa vụ:** mùa cưới Việt Nam tháng 9 đến tháng 4 năm sau, cao điểm tháng 10–12; miền Trung tháng 1–5 sau Tết, miền Nam tháng 11–3. Tuần 11 nằm trong mùa cưới miền Trung và miền Nam, nhưng là tuần sau Tết nên lịch chụp thưa hơn cao điểm cuối năm.
 
-**Rủi ro thật:** đám cưới chỉ có 1 lần, chụp hỏng là không chụp lại được; thiết bị đắt, vốn lớn (chưa có số giá thiết bị cụ thể — "Chưa có số liệu"); cạnh tranh nhiều studio; đứng 6–12 giờ/show, làm cuối tuần và ngày lễ; thu nhập theo show, bấp bênh theo mùa.
+**Rủi ro thật:** đám cưới chỉ có 1 lần, chụp hỏng là không chụp lại được; thiết bị đắt, vốn lớn — bộ tối thiểu khoảng 43,5 triệu (mua cũ) đến 66,8 triệu (mua mới): body Sony A7 III cũ 20–25 triệu / mới 36–40 triệu, ống Tamron 28–75mm G2 mới 17,49 triệu / cũ 12,5–13 triệu, đèn Godox V1 3,49 triệu, thẻ SD 128GB 1,42 triệu, SSD Samsung T7 1TB 6,05 triệu (giá tra 23/11/2026, xem mục 10 trong file nghiên cứu); pin dự phòng chưa có số giá — "Chưa có số liệu"; cạnh tranh nhiều studio; đứng 6–12 giờ/show, làm cuối tuần và ngày lễ; thu nhập theo show, bấp bênh theo mùa.
+
+### Kết luận (mục 11 — tóm tắt, đầy đủ trong file nghiên cứu mục 8)
+
+- Hợp với người có mắt nhìn hình ảnh, chịu được áp lực cao và làm cuối tuần — không hợp với người chỉ muốn lương cứng ổn định theo tháng, vì thu nhập theo show và theo mùa.
+- Cửa vào thực tế là second shooter 1–2 triệu/ca, không phải nộp đơn qua sàn: các tin studio 8–15 triệu đều yêu cầu 1 năm kinh nghiệm, và 5 trong 6 tin yêu cầu "Cao đẳng trở lên".
+- Vốn khởi điểm không nhỏ: bộ tối thiểu khoảng 43,5 triệu (mua cũ) đến 66,8 triệu (mua mới), chưa tính học phí 4–10 triệu cho khóa cơ bản và máy dự phòng.
+- Thử nghề trước khi mua máy đắt: xin làm phụ bằng máy của team, chụp thử tiệc người quen — nếu sau 2–3 show vẫn thích thì mới đầu tư máy riêng.
+
+### Nguồn tham khảo (mục 12)
+
+- Đầy đủ trong file nghiên cứu mục 11: tin tuyển TopCV/Joboko, bảng học phí (Mimosa, TuArt, Hội Nhiếp ảnh TP.HCM, HNAAu, FinnC), giá thiết bị (Sony A7 III, Tamron, Godox, SSD), bảng giá gói cưới, pháp lý (Nghị định 168/2025/NĐ-CP) — mỗi nguồn có link + ngày truy cập 23/11/2026 + loại nguồn + mức tin cậy.
+
 
 ---
 
@@ -117,7 +159,7 @@ Học ở đâu thì có 3 đường. Đường nhanh nhất: xin làm second sh
 
 ### 7:00–8:30 — Career path + tìm việc, tìm khách ở đâu
 
-"Đường đi thường là như thế này. 0–3 tháng đầu: học máy + đi chụp phụ, nhận show nhỏ, tiền theo ca 1–2 triệu 1 ca. 3–6 tháng: chụp chính show nhỏ, có khách quen, lương studio khoảng 8–15 triệu 1 tháng nếu làm thuê. 6–12 tháng: lên tay nghề, nhận show cưới riêng, thu nhập tính theo gói. Sau 1–2 năm: có phong cách riêng, dẫn team, nhận show lớn. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn chụp bao nhiêu show mỗi tháng.
+"Đường đi thường là như thế này. 0–3 tháng đầu: học máy + đi chụp phụ, nhận show nhỏ, tiền theo ca 1–2 triệu 1 ca. 3–6 tháng: chụp phụ quen tay, bắt đầu chụp chính show nhỏ có người kèm. Lưu ý: lương studio 8–15 triệu 1 tháng chưa tới được ở mốc này — mọi tin studio 8–15 triệu tìm thấy ngày 23/11/2026 đều yêu cầu 1 năm kinh nghiệm trở lên. 6–12 tháng: lên tay nghề, nhận show cưới riêng, thu nhập tính theo gói. Sau 1–2 năm: có phong cách riêng, dẫn team, nhận show lớn. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn chụp bao nhiêu show mỗi tháng.
 
 Tìm việc đầu tiên ở đâu? Bạn xin làm second shooter cho team cưới hoặc studio ảnh cưới gần nhà — tìm trên Google Maps và Facebook, đi hỏi trực tiếp. Bạn cũng nộp đơn lên TopCV: ngày 23/11/2026 mình đếm thấy có tin tuyển photographer studio ở TP.HCM lương 8–12 triệu, ở Hà Nội lương 9–15 triệu, yêu cầu 1 năm kinh nghiệm ở các tin tìm thấy. Khi đã có portfolio, bạn đăng ảnh lên TikTok, Facebook theo khu vực mình làm, chạy quảng cáo đúng quận — để cô dâu chú rể khu vực đó thấy ảnh bạn trước tiên. Đừng nhận show chính khi chưa cứng tay — chụp hỏng 1 đám cưới, khách không quay lại nữa, và bạn cũng không quên được."
 
@@ -179,7 +221,7 @@ Học ở đâu thì có 3 đường. Nhanh nhất: xin làm second shooter cho 
 
 **Career path**
 
-0–3 tháng đầu: học máy + đi chụp phụ, tiền theo ca 1–2 triệu 1 ca. 3–6 tháng: chụp chính show nhỏ, có khách quen, lương studio khoảng 8–15 triệu 1 tháng nếu làm thuê. 6–12 tháng: lên tay nghề, nhận show cưới riêng, thu nhập tính theo gói. Sau 1–2 năm: có phong cách riêng, dẫn team, nhận show lớn. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn chụp bao nhiêu show mỗi tháng.
+0–3 tháng đầu: học máy + đi chụp phụ, tiền theo ca 1–2 triệu 1 ca. 3–6 tháng: chụp phụ quen tay, bắt đầu chụp chính show nhỏ có người kèm. Lưu ý: lương studio 8–15 triệu 1 tháng chưa tới được ở mốc này — mọi tin studio 8–15 triệu tìm thấy ngày 23/11/2026 đều yêu cầu 1 năm kinh nghiệm trở lên. 6–12 tháng: lên tay nghề, nhận show cưới riêng, thu nhập tính theo gói. Sau 1–2 năm: có phong cách riêng, dẫn team, nhận show lớn. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn chụp bao nhiêu show mỗi tháng.
 
 **Tìm việc, tìm khách đầu tiên ở đâu**
 
@@ -201,7 +243,7 @@ Số trên các trang tổng hợp lương — ví dụ Cake.me ghi nhiếp ản
 
 Mùa vụ rõ rệt: mùa cưới Việt Nam kéo dài tháng 9 đến tháng 4 năm sau, cao điểm tháng 10–12; miền Trung tập trung tháng 1–5 sau Tết, miền Nam tháng 11–3. Tháng 5–8 là mùa thấp ở miền Bắc, mùa mưa ở miền Nam. Tuần này (08–14/02/2027) nằm trong mùa cưới miền Trung và miền Nam, nhưng là tuần sau Tết nên lịch chụp thưa hơn cao điểm cuối năm.
 
-Không có khoảnh khắc thứ hai: đám cưới chỉ diễn ra 1 lần, chụp hỏng 1 khoảnh khắc là không chụp lại được. Thiết bị đắt, vốn lớn: máy ảnh, ống kính, đèn flash, thẻ nhớ, pin dự phòng là khoản đầu tư lớn nhất của nghề này — chưa có số giá thiết bị cụ thể trong tuần này, ghi "Chưa có số liệu". Máy hỏng giữa show, thẻ nhớ lỗi, hết pin đều là rủi ro thật — thợ cưới chuyên nghiệp luôn mang máy dự phòng và sao lưu ảnh ngay trong ngày. Sức khỏe: đứng và di chuyển liên tục 6–12 giờ trong 1 show, mang máy nặng cả ngày, làm cuối tuần và ngày lễ là chuyện thường. Và không có chuyện "chắc chắn có việc" hay "làm giàu nhanh" — nghề này làm ra tiền bằng tay và bằng mắt, theo mùa, và phải xây khách quen dần.
+Không có khoảnh khắc thứ hai: đám cưới chỉ diễn ra 1 lần, chụp hỏng 1 khoảnh khắc là không chụp lại được. Thiết bị đắt, vốn lớn: máy ảnh, ống kính, đèn flash, thẻ nhớ, pin dự phòng là khoản đầu tư lớn nhất của nghề này — bộ tối thiểu khoảng 43,5 triệu (mua cũ) đến 66,8 triệu (mua mới), giá tra ngày 23/11/2026 (xem mục 10 trong file nghiên cứu); pin dự phòng chưa có số giá — ghi "Chưa có số liệu". Máy hỏng giữa show, thẻ nhớ lỗi, hết pin đều là rủi ro thật — thợ cưới chuyên nghiệp luôn mang máy dự phòng và sao lưu ảnh ngay trong ngày. Sức khỏe: đứng và di chuyển liên tục 6–12 giờ trong 1 show, mang máy nặng cả ngày, làm cuối tuần và ngày lễ là chuyện thường. Và không có chuyện "chắc chắn có việc" hay "làm giàu nhanh" — nghề này làm ra tiền bằng tay và bằng mắt, theo mùa, và phải xây khách quen dần.
 
 Lưu bài này lại, comment "Chụp ảnh cưới" để nhận checklist 30 ngày đầu làm photographer cưới. Tuần sau mình nói về dịch vụ vệ sinh.
 
@@ -240,31 +282,96 @@ Mẹo này tiết kiệm cho bạn 1 buổi hẹn tới studio xem ảnh, và kh
 
 ## 7. Bài thực hành Thứ 6 (Facebook, 12:00)
 
-**Trước khi đăng ngày 12/02/2027, kiểm tra lại xem tin còn hạn không — tin hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn.** Các tin dưới đây đã tìm thấy từ tháng 11/2026, tới tháng 2/2027 rất có thể đã hết hạn.
+**Cảnh báo tin tuyển — tin tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 12/02/2027 — PHẢI tra lại sát ngày đăng.** Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV (từ khóa "photographer", "nhân viên chụp ảnh", "thợ chụp ảnh cưới", lọc tin còn hạn sau 12/02/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm"), không đăng tin hết hạn.
 
 ### 3 việc thật đang tuyển photographer
 
-**Việc 1: Nhân Viên Chụp Ảnh Quay & Dựng Video (Full-Time) — TP.HCM.** Công ty SWEET DATES CO., LTD. Lương 8–12 triệu/tháng, thưởng tháng 13 và thưởng hiệu suất. Chụp ảnh sản phẩm (thiệp cưới, stationery, set concept); quay video sản phẩm, hậu trường. Yêu cầu 1 năm kinh nghiệm, Cao đẳng trở lên. Địa điểm Q.3, TP.HCM. Ngày thấy tin: 23/11/2026 (TopCV). Link: https://www.topcv.vn/viec-lam/nhan-vien-chup-anh-quay-dung-video-full-time-q-3-tp-ho-chi-minh/2005074.html
+#### Việc 1: Nhân Viên Chụp Ảnh Quay & Dựng Video (Full-Time) — TP.HCM
 
-**Việc 2: Photographer — Hà Nội.** Công ty TNHH Quốc Tế Hải Long. Thu nhập đến 18 triệu/tháng, xét tăng lương 6 tháng/lần, thưởng tháng 13, 14. Chụp hình sản phẩm, người mẫu và sự kiện của công ty. Yêu cầu 2 năm kinh nghiệm, Cao đẳng trở lên. Địa điểm 31 Lê Văn Lương, Hà Nội. Ngày thấy tin: 23/11/2026 (TopCV). Link: https://www.topcv.vn/viec-lam/photographer/2324214.html
+- Công ty: SWEET DATES CO., LTD
+- Lương: 8–12 triệu/tháng, thưởng tháng 13 và thưởng hiệu suất
+- Mô tả: chụp ảnh sản phẩm (thiệp cưới, stationery, set concept) theo định hướng thương hiệu; quay video sản phẩm, hậu trường và nội dung truyền thông
+- Yêu cầu: 1 năm kinh nghiệm, Cao đẳng trở lên, chuyên môn Photographer / Video Editor
+- Địa điểm: Q.3, TP.HCM
+- Ngày thấy tin: 23/11/2026 (TopCV)
+- Link: https://www.topcv.vn/viec-lam/nhan-vien-chup-anh-quay-dung-video-full-time-q-3-tp-ho-chi-minh/2005074.html
+- Hợp với bạn nếu: bạn đã biết chụp ảnh và muốn làm cho 1 công ty trong ngành cưới, lương cứng ổn định, chưa cần nhận show riêng.
 
-**Việc 3: Nhân Viên Quay Phim - Chụp Ảnh Sản Phẩm, Sự Kiện — Hà Nội.** Công ty CP Thực phẩm Dinh dưỡng Hữu cơ Việt Nam. Lương 9–15 triệu/tháng hoặc thỏa thuận. Quay phim, chụp ảnh sản phẩm, sự kiện, sản xuất video ngắn. Yêu cầu 1 năm kinh nghiệm, Cao đẳng trở lên; biết Premiere, quay phim, chụp ảnh. Địa điểm Hoài Đức, Hà Nội. Ngày thấy tin: 23/11/2026 (TopCV). Link: https://www.topcv.vn/viec-lam/nhan-vien-quay-phim-chup-anh-san-pham-su-kien/2345283.html
+#### Việc 2: Photographer — Hà Nội
 
-Lưu ý: ở Đà Nẵng, tin tuyển nhân viên media 8–10 triệu của Nacy Studio đã hết hạn nộp từ 30/11/2026 — không dùng làm việc thật. Ở Cần Thơ gần như không có tin photographer trên TopCV — nếu bạn ở Cần Thơ thì hỏi trực tiếp studio ảnh cưới gần nhà và xin làm second shooter cho team cưới địa phương.
+- Công ty: Công ty TNHH Quốc Tế Hải Long
+- Lương: thu nhập đến 18 triệu/tháng, có thể đàm phán theo năng lực; xét tăng lương 6 tháng/lần; thưởng tháng 13, 14
+- Mô tả: cùng team Stylist xây dựng concept, chụp hình sản phẩm, người mẫu và các chương trình, sự kiện của công ty
+- Yêu cầu: 2 năm kinh nghiệm chụp ảnh, Cao đẳng trở lên, ưu tiên có kinh nghiệm chụp ảnh sản phẩm, thời trang
+- Địa điểm: 31 Lê Văn Lương, Hà Nội
+- Ngày thấy tin: 23/11/2026 (TopCV)
+- Link: https://www.topcv.vn/viec-lam/photographer/2324214.html
+- Hợp với bạn nếu: bạn đã có 2 năm kinh nghiệm chụp ảnh và muốn lương cao hơn mặt bằng studio cưới.
+
+#### Việc 3: Nhân Viên Quay Phim - Chụp Ảnh Sản Phẩm, Sự Kiện — Hà Nội
+
+- Công ty: Công ty CP Thực phẩm Dinh dưỡng Hữu cơ Việt Nam
+- Lương: 9–15 triệu/tháng hoặc thỏa thuận theo năng lực
+- Mô tả: quay phim, chụp ảnh sản phẩm, sự kiện và sản xuất video ngắn theo kịch bản của bộ phận Content
+- Yêu cầu: 1 năm kinh nghiệm, Cao đẳng trở lên; biết dựng phim, Adobe Premiere, quay phim, chụp ảnh
+- Địa điểm: Khu đô thị An Lạc Green Symphony, Hoài Đức, Hà Nội
+- Ngày thấy tin: 23/11/2026 (TopCV)
+- Link: https://www.topcv.vn/viec-lam/nhan-vien-quay-phim-chup-anh-san-pham-su-kien/2345283.html
+- Hợp với bạn nếu: bạn biết cả chụp và quay, muốn làm media cho 1 công ty thay vì chỉ chụp cưới.
+
+Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 12/02/2027 — PHẢI tra lại sát ngày đăng, tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV (từ khóa "photographer", "nhân viên chụp ảnh", "thợ chụp ảnh cưới", lọc tin còn hạn sau 12/02/2027). Rào cản bằng cấp: cả 3 việc trên đều yêu cầu "Cao đẳng trở lên" — nếu bạn chưa có bằng cao đẳng thì cửa vào là second shooter cho team cưới, không qua sàn. Tìm thêm ngày 23/11/2026: không có tin second shooter / trợ lý studio cưới nào không yêu cầu kinh nghiệm còn hạn sau ngày đăng (tin thực tập sinh À Ơi Concept hạn 31/12/2026, tin trợ lý LASA đã hết hạn) — tìm việc ngoài sàn bằng cách hỏi trực tiếp studio gần nhà hoặc nhóm Facebook nghề ảnh (từ khóa "tuyển second shooter", "tìm thợ chụp phụ"). Ở Đà Nẵng, tin tuyển nhân viên media 8–10 triệu của Nacy Studio (không yêu cầu kinh nghiệm) đã hết hạn nộp từ 30/11/2026 — không dùng làm việc thật. Ở Cần Thơ gần như không có tin photographer trên TopCV — nếu bạn ở Cần Thơ thì hỏi trực tiếp studio ảnh cưới gần nhà và xin làm second shooter cho team cưới địa phương.
+
+---
 
 ### CV mẫu: trước và sau
 
-**Trước — CV của dev đi xin việc IT (không dùng được cho nghề này):** tiêu đề "Lê Văn A — Backend Developer"; kinh nghiệm 5 năm backend Java, Spring Boot; kỹ năng Java, SQL, REST API, Docker, Git. Vấn đề: nhà tuyển dụng studio ảnh cưới đọc xong không biết bạn chụp được gì.
+#### Trước — CV của dev đi xin việc IT (không dùng được cho nghề này)
 
-**Sau — CV của dev chuyển sang làm photographer cưới:** tiêu đề "Lê Văn A — Photographer cưới (đang học nghề, tìm việc chụp phụ)". Giới thiệu 2 dòng: dev backend 5 năm, vừa bị layoff, đang chuyển sang nghề chụp ảnh cưới; đã học xong 3 thông số gốc của máy ảnh và quy trình sao lưu, đang tìm chỗ làm second shooter để học việc trên show thật. Kinh nghiệm chuyển đổi: quản lý file và sao lưu có hệ thống; chỉnh màu và xử lý ảnh bằng phần mềm; làm việc với khách hàng online, gửi file qua link, nhắc lịch hẹn. Kỹ năng nghề (ghi đúng những gì đã học, không phóng đại): dùng máy ảnh thành thạo (khẩu độ, tốc độ, ISO); chụp phụ theo show (cầm đèn flash, đổi ống kính, giữ reflector); Lightroom cơ bản (chọn ảnh, preset màu, xuất ảnh giao khách); sao lưu ảnh đúng quy trình. Portfolio: link album online 10–15 tấm đẹp nhất (chỉ đăng ảnh đã xin phép người trong ảnh). Bỏ đi: danh sách framework, số người dùng hệ thống cũ, các dự án phần mềm không liên quan. Thêm vào: nói rõ mình chịu học, chịu làm việc cuối tuần và ngày lễ, chấp nhận bắt đầu từ second shooter.
+- Tiêu đề: "Lê Văn A — Backend Developer"
+- Kinh nghiệm: 5 năm làm backend Java, Spring Boot, hệ thống chịu 2.000–30.000 người dùng cùng lúc
+- Kỹ năng: Java, SQL, REST API, Docker, Git
+- Học vấn: Đại học Công nghệ thông tin
+- Vấn đề: nhà tuyển dụng studio ảnh cưới đọc xong không biết bạn chụp được gì. Kỹ năng IT ghi như vậy không nói lên được bạn cầm máy ra sao, chụp được thể loại nào.
+
+#### Sau — CV của dev chuyển sang làm photographer cưới
+
+- Tiêu đề: "Lê Văn A — Photographer cưới (đang học nghề, tìm việc chụp phụ)"
+- Giới thiệu ngắn (2 dòng): "Dev backend 5 năm, vừa bị layoff, đang chuyển sang nghề chụp ảnh cưới. Đã học xong 3 thông số gốc của máy ảnh và quy trình sao lưu, đang tìm chỗ làm second shooter để học việc trên show thật."
+- Kinh nghiệm chuyển đổi (viết lại từ kinh nghiệm dev, chỉ giữ cái dùng được cho nghề này):
+  - Quản lý file và sao lưu có hệ thống (từ kinh nghiệm quản lý code và dữ liệu)
+  - Chỉnh màu và xử lý ảnh bằng phần mềm (từ kinh nghiệm làm việc với công cụ số)
+  - Làm việc với khách hàng online, gửi file qua link, nhắc lịch hẹn (từ kinh nghiệm làm việc với công cụ quản lý)
+- Kỹ năng nghề (ghi đúng những gì đã học được, không phóng đại):
+  - Dùng máy ảnh thành thạo: khẩu độ, tốc độ màn trập, ISO (đã học)
+  - Chụp phụ theo show: cầm đèn flash, đổi ống kính, giữ reflector (đang học)
+  - Lightroom cơ bản: chọn ảnh, preset màu, xuất ảnh giao khách (đang học)
+  - Sao lưu ảnh đúng quy trình: 2 thẻ nhớ, 1 ổ cứng, 1 bản sao trên máy tính (đã học)
+- Portfolio: link album online 10–15 tấm đẹp nhất (chỉ đăng ảnh đã xin phép người trong ảnh)
+- Học vấn: Đại học Công nghệ thông tin + đang học khóa nhiếp ảnh (ghi tên khóa và thời gian học thật)
+- Bỏ đi: danh sách framework, số người dùng hệ thống cũ, các dự án phần mềm không liên quan.
+- Thêm vào: nói rõ mình chịu học, chịu làm việc cuối tuần và ngày lễ, chấp nhận bắt đầu từ second shooter.
+
+---
 
 ### Tìm việc, tìm khách đầu tiên ở đâu
 
-Xin làm second shooter cho team cưới hoặc studio ảnh cưới gần nhà — tìm trên Google Maps và Facebook, đi hỏi trực tiếp. Nộp đơn lên TopCV — tìm "photographer", "nhân viên chụp ảnh", lọc tin còn hạn, ưu tiên tin ghi "không yêu cầu kinh nghiệm". Khi đã có portfolio: đăng ảnh lên TikTok, Facebook theo khu vực mình làm, chạy quảng cáo đúng quận. Nhóm Facebook tuyển thợ chụp: tìm từ khóa "tuyển photographer", "tìm thợ chụp ảnh cưới", "second shooter" trong Group việc làm nhiếp ảnh và Group cư dân khu vực.
+- Xin làm second shooter cho team cưới hoặc studio ảnh cưới gần nhà — tìm trên Google Maps và Facebook, đi hỏi trực tiếp.
+- Nộp đơn lên TopCV — tìm "photographer", "nhân viên chụp ảnh", lọc tin còn hạn sau ngày đăng, ưu tiên tin ghi "không yêu cầu kinh nghiệm" (hiếm — ví dụ tin Nacy Studio Đà Nẵng từng tuyển media không yêu cầu kinh nghiệm, nhưng đã hết hạn 30/11/2026).
+- Khi đã có portfolio: đăng ảnh lên TikTok, Facebook theo khu vực mình làm, chạy quảng cáo đúng quận — để cô dâu chú rể khu vực đó thấy ảnh bạn trước tiên.
+- Nhóm Facebook tuyển thợ chụp: tìm từ khóa "tuyển photographer", "tìm thợ chụp ảnh cưới", "second shooter" trong Group việc làm nhiếp ảnh và Group cư dân khu vực.
+
+---
 
 ### Checklist 30 ngày đầu (tóm tắt)
 
-Tuần 1: học 3 thông số gốc của máy ảnh, học quy trình sao lưu, liệt kê 5 studio gần nhà, đi xin làm second shooter ở 2–3 chỗ. Tuần 2: đi theo thợ chính trong 1 show cưới, tự chụp 1 buổi nhỏ có người kèm, ghi sổ 10 lỗi hay gặp. Tuần 3: học Lightroom cơ bản, tập gửi ảnh cho khách qua link online, làm portfolio đầu tay 10–15 tấm. Tuần 4: tự chụp 1 phần của show cưới trọn vẹn, đăng 1 video ngắn về nghề, hỏi thợ chính xem bao giờ được chụp chính show nhỏ, tổng kết 30 ngày. File đầy đủ: `Info/checklist-30-ngay.md`.
+Tuần 1: học 3 thông số gốc của máy ảnh, học quy trình sao lưu, liệt kê 5 studio gần nhà, đi xin làm second shooter ở 2–3 chỗ.
+Tuần 2: đi theo thợ chính trong 1 show cưới, tự chụp 1 buổi nhỏ có người kèm, ghi sổ 10 lỗi hay gặp.
+Tuần 3: học Lightroom cơ bản, tập gửi ảnh cho khách qua link online, làm portfolio đầu tay 10–15 tấm.
+Tuần 4: tự chụp 1 phần của show cưới trọn vẹn, đăng 1 video ngắn về nghề, hỏi thợ chính xem bao giờ được chụp chính show nhỏ, tổng kết 30 ngày.
+
+File checklist đầy đủ: `Info/checklist-30-ngay.md`.
+
+---
 
 Lưu carousel này lại, comment "checklist" để nhận file checklist 30 ngày đầy đủ.
 
@@ -272,7 +379,7 @@ Lưu carousel này lại, comment "checklist" để nhận file checklist 30 ng�
 
 ## 8. Bài teaser Thứ 7 (Facebook)
 
-Tuần này mình nói về nghề photographer chụp ảnh cưới và sự kiện: làm gì mỗi ngày, ai hợp ai không hợp, học ở đâu bao lâu, lương studio khoảng 8–15 triệu, làm second shooter 1–2 triệu 1 ca, và sự thật phũ là đám cưới chỉ có 1 lần — chụp hỏng 1 khoảnh khắc là không chụp lại được, cộng thêm thu nhập theo mùa cưới. Bài đầy đủ 8 mục vẫn ở bài ghim, bạn nào chưa đọc thì đọc lại cuối tuần này.
+Tuần này mình nói về nghề photographer chụp ảnh cưới và sự kiện: làm gì mỗi ngày, ai hợp ai không hợp, học ở đâu bao lâu, lương studio 8–15 triệu (cần 1 năm kinh nghiệm), làm second shooter 1–2 triệu 1 ca, và sự thật phũ là đám cưới chỉ có 1 lần — chụp hỏng 1 khoảnh khắc là không chụp lại được, cộng thêm thu nhập theo mùa cưới. Bài đầy đủ 8 mục vẫn ở bài ghim, bạn nào chưa đọc thì đọc lại cuối tuần này.
 
 Tuần sau mình nói về 1 nghề mà nhà nào cũng cần, dọn xong là thấy khác ngay, không cần học lâu: dịch vụ vệ sinh. Nhà cửa, văn phòng, chung cư — bạn đoán nghề dọn dẹp kiếm tiền bằng cách nào mà khách gọi là tới ngay?
 
@@ -290,7 +397,7 @@ Mùa cưới Việt Nam kéo dài từ tháng 9 đến tháng 4 năm sau, cao đ
 
 **Chưa có máy ảnh đắt tiền, có học chụp cưới được không?**
 
-Học được, nhưng bạn cần 1 chiếc máy ảnh để luyện tay — chưa cần máy đắt nhất, cần máy dùng thành thạo. Đường vào nhanh nhất không tốn học phí là xin làm second shooter cho team cưới: bạn học trên show thật, dùng máy của mình hoặc máy của team tùy thỏa thuận. Trước khi đi show thật, bạn học 3 thông số gốc (khẩu độ, tốc độ, ISO) và quy trình sao lưu ảnh. Chưa có số giá máy cụ thể trong tuần này — ghi "Chưa có số liệu", bạn ra cửa hàng máy ảnh hỏi giá máy cũ và máy mới trước khi mua.
+Học được, nhưng bạn cần 1 chiếc máy ảnh để luyện tay — chưa cần máy đắt nhất, cần máy dùng thành thạo. Đường vào nhanh nhất không tốn học phí là xin làm second shooter cho team cưới: bạn học trên show thật, dùng máy của mình hoặc máy của team tùy thỏa thuận. Trước khi đi show thật, bạn học 3 thông số gốc (khẩu độ, tốc độ, ISO) và quy trình sao lưu ảnh. Giá máy tra ngày 23/11/2026: body Sony A7 III cũ 20–25 triệu, mới 36–40 triệu; bộ tối thiểu (máy cũ + ống Tamron cũ + đèn Godox V1 + thẻ nhớ + ổ cứng SSD) khoảng 43,5 triệu, mua mới khoảng 66,8 triệu (xem mục 10 trong file nghiên cứu). Pin dự phòng thì chưa có số giá cụ thể — ghi "Chưa có số liệu".
 
 **Không biết gì về nhiếp ảnh, có học được không?**
 
@@ -298,7 +405,7 @@ Học được, nếu bạn có mắt nhìn hình ảnh và chịu luyện. Pool
 
 **Cần vốn bao nhiêu để bắt đầu?**
 
-Đi làm thuê thì vốn gần như bằng 0 ngoài tiền máy ảnh: xin làm second shooter, team có show, bạn chỉ cần thời gian đi học việc, tiền theo ca 1–2 triệu 1 ca theo bảng giá Hà Nội 2024–2025. Nếu học khóa nhiếp ảnh thì học phí khoảng 7–10 triệu 1 khóa (ví dụ Mimosa Academy Hà Nội: cơ bản 7 triệu, nâng cao 10 triệu, 2–5 tháng). Vốn lớn nhất là thiết bị: máy ảnh, ống kính, đèn flash, thẻ nhớ, pin dự phòng — chưa có số giá cụ thể trong tuần này, ghi "Chưa có số liệu".
+Đi làm thuê thì vốn gần như bằng 0 ngoài tiền máy ảnh: xin làm second shooter, team có show, bạn chỉ cần thời gian đi học việc, tiền theo ca 1–2 triệu 1 ca theo bảng giá Hà Nội 2024–2025. Nếu học khóa nhiếp ảnh thì học phí khoảng 7–10 triệu 1 khóa (ví dụ Mimosa Academy Hà Nội: cơ bản 7 triệu, nâng cao 10 triệu, 2–5 tháng). Vốn lớn nhất là thiết bị: bộ tối thiểu khoảng 43,5 triệu (mua cũ) đến 66,8 triệu (mua mới) — body Sony A7 III, ống Tamron 28–75mm, đèn Godox V1, thẻ nhớ, ổ cứng SSD (giá tra ngày 23/11/2026, xem mục 10 trong file nghiên cứu); pin dự phòng chưa có số giá — ghi "Chưa có số liệu".
 
 **Photographer cưới có bị AI thay thế không?**
 
@@ -308,7 +415,7 @@ Không, vì việc này làm tại chỗ, trong 1 ngày duy nhất: đọc ánh 
 
 ## 10. TikTok Tập 1 — Teaser Thứ 2
 
-"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Tối đó, anh ấy mở tin tuyển photographer: làm thuê cho studio 8 đến 12 triệu một tháng, còn đi chụp phụ theo show thì 1 đến 2 triệu một ca. Tháng đầu làm thợ chụp phụ, anh ấy được bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
+"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Tối đó, anh ấy mở tin tuyển photographer: làm thuê cho studio 8 đến 12 triệu một tháng (tin nào cũng cần 1 năm kinh nghiệm), còn đi chụp phụ theo show thì 1 đến 2 triệu một ca. Tháng đầu làm thợ chụp phụ, anh ấy được bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
 
 Chữ trên màn hình: "Dev bị layoff thì làm gì? — Tập 1" / "Studio: 8–12 triệu/tháng — Chụp phụ: 1–2 triệu/ca" / "Video đầy đủ: YouTube 19h — Facebook 20h". CTA: xem video đầy đủ tối nay 19 giờ trên YouTube. Follow để xem Tập 2.
 
@@ -369,9 +476,9 @@ Chữ trên màn hình: "Dev bị layoff thì làm gì? — Tập 6" / "'Em chư
 
 ---
 
-## 17. TikTok Tập 7 (ngoại truyện) — Học ở đâu, học phí bao nhiêu (109 từ)
+## 17. TikTok Tập 7 (ngoại truyện) — Học ở đâu, học phí bao nhiêu (123 từ)
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học chụp ảnh cưới. Ở Hà Nội, khóa cơ bản 7 triệu, khóa nâng cao 10 triệu, học 2 tới 5 tháng. Vào Đà Nẵng, học theo buổi: kèm riêng 550.000đ 1 buổi, học nhóm 450.000đ 1 buổi. Xuống Sài Gòn, có học viện ở Q.3, mà học phí không ghi công khai, phải gọi hỏi trực tiếp. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong là cầm máy đi chụp phụ được ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học chụp ảnh cưới. Ở Hà Nội, khóa cơ bản 7 triệu, khóa nâng cao 10 triệu, học 2 tới 5 tháng. Vào Đà Nẵng, học theo buổi: kèm riêng 550.000đ 1 buổi, học nhóm 450.000đ 1 buổi. Xuống Sài Gòn, có học viện ở Q.3, mà học phí không ghi công khai, phải gọi hỏi trực tiếp. Ba miền, giá khác nhau. Nhưng học xong khóa chưa phải là có show ngay — đi chụp phụ được hay không còn tùy team có nhận không, và bạn có máy để luyện tay không. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 Chữ trên màn hình: "Dev bị layoff thì làm gì? — Tập 7 (ngoại truyện)" / "Hà Nội: cơ bản 7 triệu, nâng cao 10 triệu" / "Đà Nẵng: 550.000đ/buổi kèm riêng" / "Sài Gòn: gọi hỏi học phí trực tiếp" / "Bạn ở miền nào? Comment tỉnh của bạn". CTA: comment tỉnh của bạn, mình tìm khóa học gần nhất cho bạn.
 

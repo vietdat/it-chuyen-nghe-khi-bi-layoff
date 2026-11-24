@@ -65,7 +65,7 @@ Học ở đâu thì có 3 đường. Đường nhanh nhất: xin làm second sh
 
 ### 7:00–8:30 — Career path + tìm việc, tìm khách ở đâu
 
-"Đường đi thường là như thế này. 0–3 tháng đầu: học máy + đi chụp phụ, nhận show nhỏ, tiền theo ca 1–2 triệu 1 ca. 3–6 tháng: chụp chính show nhỏ, có khách quen, lương studio khoảng 8–15 triệu 1 tháng nếu làm thuê. 6–12 tháng: lên tay nghề, nhận show cưới riêng, thu nhập tính theo gói. Sau 1–2 năm: có phong cách riêng, dẫn team, nhận show lớn. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn chụp bao nhiêu show mỗi tháng.
+"Đường đi thường là như thế này. 0–3 tháng đầu: học máy + đi chụp phụ, nhận show nhỏ, tiền theo ca 1–2 triệu 1 ca. 3–6 tháng: chụp phụ quen tay, bắt đầu chụp chính show nhỏ có người kèm. Lưu ý: lương studio 8–15 triệu 1 tháng chưa tới được ở mốc này — mọi tin studio 8–15 triệu tìm thấy ngày 23/11/2026 đều yêu cầu 1 năm kinh nghiệm trở lên. 6–12 tháng: lên tay nghề, nhận show cưới riêng, thu nhập tính theo gói. Sau 1–2 năm: có phong cách riêng, dẫn team, nhận show lớn. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn chụp bao nhiêu show mỗi tháng.
 
 Tìm việc đầu tiên ở đâu? Bạn xin làm second shooter cho team cưới hoặc studio ảnh cưới gần nhà — tìm trên Google Maps và Facebook, đi hỏi trực tiếp. Bạn cũng nộp đơn lên TopCV: ngày 23/11/2026 mình đếm thấy có tin tuyển photographer studio ở TP.HCM lương 8–12 triệu, ở Hà Nội lương 9–15 triệu, yêu cầu 1 năm kinh nghiệm ở các tin tìm thấy. Khi đã có portfolio, bạn đăng ảnh lên TikTok, Facebook theo khu vực mình làm, chạy quảng cáo đúng quận — để cô dâu chú rể khu vực đó thấy ảnh bạn trước tiên. Đừng nhận show chính khi chưa cứng tay — chụp hỏng 1 đám cưới, khách không quay lại nữa, và bạn cũng không quên được."
 

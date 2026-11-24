@@ -15,7 +15,7 @@
 |---|---|---|---|---|---|---|---|
 | Thứ 2 01/03 | TikTok | — | Clip teaser 15–30s | TOFU | Teaser kéo sang video dài tối Thứ 2 | 9 giờ tối, khách nhắn: căn này còn không, mai em đi xem được không | Xem video đầy đủ trên YouTube tối nay 19 giờ |
 | Thứ 2 01/03 | YouTube | 19:00 | Video dài 5–10 phút | MOFU | Môi giới BĐS — Dev bị layoff chuyển sang được không? (đủ 8 mục) | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? | Xem hết video rồi comment nghề bạn muốn nghe tuần sau |
-| Thứ 2 01/03 | Facebook | 20:00 | Bài viết dài | MOFU | Môi giới BĐS — bản đầy đủ 8 mục (lưu lại) | Khách đi xem 3 căn trong 1 buổi chiều, về nhà nhắn: căn thứ 2, em chốt | Lưu bài này lại, comment "Môi giới BĐS" để nhận checklist 30 ngày |
+| Thứ 2 01/03 | Facebook | 20:00 | Bài viết dài | MOFU | Môi giới BĐS — bản đầy đủ 8 mục (lưu lại) | 2–3 tháng đầu chưa có giao dịch là chuyện thường — tháng đó sống bằng lương cứng | Lưu bài này lại, comment "Môi giới BĐS" để nhận checklist 30 ngày |
 | Thứ 3 02/03 | TikTok | 12:00 | Clip 15–30s (cắt từ video dài) | TOFU | 1 lỗi hay gặp nhất khi mới vào nghề môi giới | Anh ấy dẫn khách đi xem căn đầu tiên, khách hỏi sổ đỏ đâu, anh ấy im lặng | Follow để xem clip #2 |
 | Thứ 3 02/03 | Facebook | — | Bài tương tác ngắn (poll) | Retention | Sau layoff, bạn đang ở bước nào? (4 lựa chọn) | Bị layoff rồi, bạn không cô đơn đâu | Comment số của bạn bên dưới |
 | Thứ 3 02/03 | — (chuẩn bị) | — | Chuẩn bị reel Thứ 4 + trả lời comment bài Thứ 2 | — | Reel "3 kỹ năng mang sang + 3 học lại" theo sườn 6 đoạn, flat 2D | — | — |

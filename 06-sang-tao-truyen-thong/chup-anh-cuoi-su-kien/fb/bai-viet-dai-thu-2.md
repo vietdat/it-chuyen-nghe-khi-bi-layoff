@@ -38,7 +38,7 @@ Học ở đâu thì có 3 đường. Nhanh nhất: xin làm second shooter cho 
 
 **Career path**
 
-0–3 tháng đầu: học máy + đi chụp phụ, tiền theo ca 1–2 triệu 1 ca. 3–6 tháng: chụp chính show nhỏ, có khách quen, lương studio khoảng 8–15 triệu 1 tháng nếu làm thuê. 6–12 tháng: lên tay nghề, nhận show cưới riêng, thu nhập tính theo gói. Sau 1–2 năm: có phong cách riêng, dẫn team, nhận show lớn. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn chụp bao nhiêu show mỗi tháng.
+0–3 tháng đầu: học máy + đi chụp phụ, tiền theo ca 1–2 triệu 1 ca. 3–6 tháng: chụp phụ quen tay, bắt đầu chụp chính show nhỏ có người kèm. Lưu ý: lương studio 8–15 triệu 1 tháng chưa tới được ở mốc này — mọi tin studio 8–15 triệu tìm thấy ngày 23/11/2026 đều yêu cầu 1 năm kinh nghiệm trở lên. 6–12 tháng: lên tay nghề, nhận show cưới riêng, thu nhập tính theo gói. Sau 1–2 năm: có phong cách riêng, dẫn team, nhận show lớn. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn chụp bao nhiêu show mỗi tháng.
 
 **Tìm việc, tìm khách đầu tiên ở đâu**
 
@@ -60,7 +60,7 @@ Số trên các trang tổng hợp lương — ví dụ Cake.me ghi nhiếp ản
 
 Mùa vụ rõ rệt: mùa cưới Việt Nam kéo dài tháng 9 đến tháng 4 năm sau, cao điểm tháng 10–12; miền Trung tập trung tháng 1–5 sau Tết, miền Nam tháng 11–3. Tháng 5–8 là mùa thấp ở miền Bắc, mùa mưa ở miền Nam. Tuần này (08–14/02/2027) nằm trong mùa cưới miền Trung và miền Nam, nhưng là tuần sau Tết nên lịch chụp thưa hơn cao điểm cuối năm.
 
-Không có khoảnh khắc thứ hai: đám cưới chỉ diễn ra 1 lần, chụp hỏng 1 khoảnh khắc là không chụp lại được. Thiết bị đắt, vốn lớn: máy ảnh, ống kính, đèn flash, thẻ nhớ, pin dự phòng là khoản đầu tư lớn nhất của nghề này — chưa có số giá thiết bị cụ thể trong tuần này, ghi "Chưa có số liệu". Máy hỏng giữa show, thẻ nhớ lỗi, hết pin đều là rủi ro thật — thợ cưới chuyên nghiệp luôn mang máy dự phòng và sao lưu ảnh ngay trong ngày. Sức khỏe: đứng và di chuyển liên tục 6–12 giờ trong 1 show, mang máy nặng cả ngày, làm cuối tuần và ngày lễ là chuyện thường. Và không có chuyện "chắc chắn có việc" hay "làm giàu nhanh" — nghề này làm ra tiền bằng tay và bằng mắt, theo mùa, và phải xây khách quen dần.
+Không có khoảnh khắc thứ hai: đám cưới chỉ diễn ra 1 lần, chụp hỏng 1 khoảnh khắc là không chụp lại được. Thiết bị đắt, vốn lớn: máy ảnh, ống kính, đèn flash, thẻ nhớ, pin dự phòng là khoản đầu tư lớn nhất của nghề này — bộ tối thiểu khoảng 43,5 triệu (mua cũ) đến 66,8 triệu (mua mới), giá tra ngày 23/11/2026 (xem mục 10 trong file nghiên cứu); pin dự phòng chưa có số giá — ghi "Chưa có số liệu". Máy hỏng giữa show, thẻ nhớ lỗi, hết pin đều là rủi ro thật — thợ cưới chuyên nghiệp luôn mang máy dự phòng và sao lưu ảnh ngay trong ngày. Sức khỏe: đứng và di chuyển liên tục 6–12 giờ trong 1 show, mang máy nặng cả ngày, làm cuối tuần và ngày lễ là chuyện thường. Và không có chuyện "chắc chắn có việc" hay "làm giàu nhanh" — nghề này làm ra tiền bằng tay và bằng mắt, theo mùa, và phải xây khách quen dần.
 
 ---
 

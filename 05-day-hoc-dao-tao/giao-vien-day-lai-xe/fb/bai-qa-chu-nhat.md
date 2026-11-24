@@ -8,7 +8,7 @@ Tuần này mình nhận được nhiều câu hỏi về nghề giáo viên d�
 
 **1. Chưa có bằng lái thì học nghề này được không?**
 
-Được, nhưng không nhanh. Bạn học lấy bằng B trước: ở Hà Nội khoảng 17 triệu, 3,5 tháng; ở Đà Nẵng trọn gói 21 triệu; ở TP.HCM khoảng 19 triệu. Lấy bằng xong, đợi đủ 03 năm kể từ ngày cấp bằng mới được dạy hạng B. Trong 3 năm chờ, bạn làm nghề khác có thu nhập trước, đừng ngồi chờ bằng đủ tuổi.
+Được, và nhanh hơn trước. Bạn học lấy bằng B trước: ở Hà Nội khoảng 17 triệu, 3,5 tháng; ở Đà Nẵng trọn gói 21 triệu; ở TP.HCM khoảng 19 triệu. Lấy bằng xong thì học chứng chỉ sư phạm (1,5 tháng, 2,5 triệu) rồi xin làm tập sự — từ 01/7/2026, Nghị định 94/2026 đã bãi bỏ yêu cầu phải đợi đủ 3 năm kể từ ngày cấp bằng mới được dạy (yêu cầu cũ của Nghị định 160/2024). Tổng cộng khoảng 5 tháng từ lúc chưa có bằng tới lúc xin tập sự được, chi phí khoảng 20–24 triệu tiền học. [Cập nhật: 11/2026 – Điều 10 NĐ 94/2026/NĐ-CP, đối chiếu 24/11/2026]
 
 **2. Dạy lái có cần xe riêng không?**
 

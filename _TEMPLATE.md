@@ -1,8 +1,12 @@
 # Mẫu chuẩn cho 1 nghề mới — IT Chuyển Nghề Khi Bị Layoff
 
 > Dùng file này làm khung sườn khi thêm 1 nghề mới vào repo.
-> Copy toàn bộ file, đổi tên nghề, điền đủ 8 mục bắt buộc + mục chi phí khởi điểm.
+> Copy toàn bộ file, đổi tên nghề, điền đủ 12 mục bắt buộc + mục chi phí khởi điểm.
 > Không xóa mục nào. Mục nào chưa có số liệu thì ghi rõ "Chưa có số liệu" — không bịa, không ước lượng thành số cụ thể.
+>
+> Định vị: repo này giúp người từng làm IT chuyển sang nghề hoàn toàn ngoài IT tại Việt Nam.
+> Thông điệp thống nhất: "Bị layoff không phải hết nghề — mà là cơ hội bắt đầu một nghề mới."
+> Không hướng dẫn tìm việc IT mới, không tô hồng, không hứa làm giàu nhanh.
 
 ---
 
@@ -53,12 +57,24 @@ Trong mọi file nội dung của repo, không nhắc tới tên bất kỳ côn
 
 ## Cấu trúc thư mục cho 1 nghề mới
 
-Tên thư mục: **không dấu, chữ thường, nối bằng gạch ngang**, đặt theo tên nghề.
+Tên thư mục nghề: **không dấu, chữ thường, nối bằng gạch ngang**, đặt theo tên nghề.
+Thư mục nghề **nằm bên trong 1 trong 8 nhóm dưới đây — không đặt ở root repo**:
 
-Ví dụ: `tho-lap-dat-sua-dieu-hoa/`, `chu-quan-an-duong-pho/`, `gia-su-tieng-anh/`.
+- `01-ky-thuat-sua-chua/`
+- `02-dich-vu-cham-soc/`
+- `03-am-thuc-ban-le/`
+- `04-van-tai-tu-do/`
+- `05-day-hoc-dao-tao/`
+- `06-sang-tao-truyen-thong/`
+- `07-dich-vu-tu-van-huong-dan/`
+- `08-nong-nghiep/`
+
+Không dùng nhóm A–K của pool 100 nghề để đặt thư mục. Nghề không thuộc 8 nhóm trên thì bàn trước khi tạo nhóm mới — không tự đặt tên nhóm mới.
+
+Ví dụ: `01-ky-thuat-sua-chua/tho-lap-dat-sua-dieu-hoa/`, `03-am-thuc-ban-le/chu-quan-an-duong-pho/`, `05-day-hoc-dao-tao/gia-su-tieng-anh/`.
 
 ```
-<ten-nghe-khong-dau>/
+<nhom-01-den-08>/<ten-nghe-khong-dau>/
 ├── Info/
 │   ├── nghien-cuu-thi-truong.md   # Nghiên cứu thị trường đầy đủ + checklist nguồn
 │   └── checklist-30-ngay.md       # Checklist 30 ngày đầu chuyển nghề
@@ -91,7 +107,7 @@ File tổng đặt tên theo mẫu: `tuan-<n>-<ten-nghe>-day-du.md` — `<n>` l�
 
 ---
 
-# Tuần <n> - <Tên nghề> (<ngày bắt đầu dd/mm/yyyy> - <ngày kết thúc dd/mm/yyyy>) - Toàn bộ nội dung
+# Tuần `<n>` - `<Tên nghề>` (`<ngày bắt đầu dd/mm/yyyy>` - `<ngày kết thúc dd/mm/yyyy>`) - Toàn bộ nội dung
 
 ## Mục lục
 
@@ -104,7 +120,7 @@ File tổng đặt tên theo mẫu: `tuan-<n>-<ten-nghe>-day-du.md` — `<n>` l�
 
 ---
 
-## 1. Lịch tuần <n> - 7 ngày, 15 bài
+## 1. Lịch tuần `<n>` - 7 ngày, 15 bài
 
 | Ngày | Kênh | Nội dung |
 |---|---|---|
@@ -122,20 +138,20 @@ File tổng đặt tên theo mẫu: `tuan-<n>-<ten-nghe>-day-du.md` — `<n>` l�
 
 > Bản đầy đủ nằm trong `Info/nghien-cuu-thi-truong.md`. Mục này chỉ tóm tắt, mọi con số vẫn phải kèm thẻ cập nhật.
 
-### Nhu cầu tuyển (đếm ngày <dd/mm/yyyy> — chỉ đúng ở thời điểm đếm)
+### Nhu cầu tuyển (đếm ngày `<dd/mm/yyyy>` — chỉ đúng ở thời điểm đếm)
 
 - Tổng số tin tuyển đếm được: … [Cập nhật: Tháng/Năm – Nguồn].
 - Nhu cầu theo thành phố (Hà Nội / TP.HCM / Đà Nẵng / Cần Thơ…): liệt kê số tin từng thành phố, kèm ngày đếm.
 - Ghi rõ nguồn đếm: TopCV / VietnamWorks / Vieclamtot / nguồn khác, kèm từ khóa tìm kiếm đã dùng.
 
-### Học ở đâu (3 miền, tra cứu <dd/mm/yyyy>)
+### Học ở đâu (3 miền, tra cứu `<dd/mm/yyyy>`)
 
 - Miền Bắc: tên trường/trung tâm, học phí, thời gian học.
 - Miền Trung: tên trường/trung tâm, học phí, thời gian học.
 - Miền Nam: tên trường/trung tâm, học phí, thời gian học.
 - Mỗi nơi kèm link hoặc địa chỉ kiểm chứng được. Không ghi tên trường không kiểm chứng được.
 
-### Lương theo nấc (tin tuyển thật, tra cứu <dd/mm/yyyy>)
+### Lương theo nấc (tin tuyển thật, tra cứu `<dd/mm/yyyy>`)
 
 - Mới vào nghề / học việc: … [Cập nhật: Tháng/Năm – Nguồn].
 - Có kinh nghiệm 1–2 năm: … [Cập nhật: Tháng/Năm – Nguồn].
@@ -162,14 +178,14 @@ Cấu trúc script (khoảng 10 phút):
 | 3:30–5:30 | Lợi thế của dân IT (mục 3) |
 | 5:30–7:00 | Học gì, học ở đâu, bao lâu (mục 4) |
 | 7:00–8:30 | Career path + tìm việc, tìm khách ở đâu (mục 5 + 6) |
-| 8:30–9:30 | Thu nhập + sự thật + nhu cầu thị trường (mục 7) |
-| 9:30–10:00 | Checklist 5 việc + CTA |
+| 8:30–9:30 | Thu nhập + sự thật + nhu cầu thị trường + lộ trình học (mục 7 + 8 + 9) |
+| 9:30–10:00 | Thử nghề + kết luận (mục 10 + 11) + Checklist 5 việc + CTA |
 
 ---
 
 ## 4. Facebook - 6 bài
 
-- **Bài dài Thứ 2:** giới thiệu nghề, đủ 8 mục tóm tắt.
+- **Bài dài Thứ 2:** giới thiệu nghề, đủ 12 mục tóm tắt.
 - **Bài tương tác Thứ 3:** 1 câu hỏi mở cho người đọc (ví dụ: "Sau layoff, bạn đang ở bước nào?").
 - **Bài mẹo Thứ 5:** 1 mẹo thật, dùng được ngay (ví dụ: báo giá từ ảnh khách gửi).
 - **Bài thực hành Thứ 6:** việc thật đang tuyển (tên công ty, vị trí, lương, link tin tuyển, ngày tra cứu) + CV mẫu trước/sau + checklist 30 ngày.
@@ -191,9 +207,9 @@ Cấu trúc script (khoảng 10 phút):
 
 ---
 
-# NỘI DUNG 8 MỤC BẮT BUỘC
+# NỘI DUNG 12 MỤC BẮT BUỘC
 
-> 8 mục dưới đây là phần lõi của mỗi nghề. Viết đầy đủ trong `Info/nghien-cuu-thi-truong.md` và tóm tắt lại trong file tổng, bài dài Facebook và script YouTube.
+> 12 mục dưới đây là phần lõi của mỗi nghề. Viết đầy đủ trong `Info/nghien-cuu-thi-truong.md` và tóm tắt lại trong file tổng, bài dài Facebook và script YouTube.
 
 ## 1. Nghề là gì / Công việc hằng ngày
 
@@ -273,11 +289,58 @@ Liệt kê rủi ro thật của nghề này — **không phải rủi ro bị l
 - **Không có khách:** vì sao mất khách, khách đi đâu, làm gì khi 1–2 tuần không có đơn.
 - **Rủi ro khác:** giấy phép / quy định, khách nợ tiền, hỏng đồ của khách phải đền, giá vật tư tăng.
 
+## 9. Lộ trình học theo tuần/tháng
+
+Vẽ lộ trình học thật theo thời gian — không hứa thời gian thành thạo nếu chưa có bằng chứng.
+
+- **Tuần đầu:** học/làm gì đầu tiên, cần chuẩn bị gì (dụng cụ, sức khỏe, giấy tờ).
+- **Tháng đầu:** học tới đâu, làm được việc gì (phụ việc / việc đơn giản), thu nhập ra sao (kèm thẻ cập nhật hoặc "Chưa có số liệu").
+- **Tháng 2:** học thêm gì, làm được việc gì khó hơn, khác gì so với tháng đầu.
+- **Tháng 3:** làm được tới đâu, đã nhận job/khách riêng được chưa, thu nhập ra sao.
+- **Sau 6 tháng:** tới nấc nào (làm chính / thợ chính / tự nhận việc), còn thiếu gì để lên nấc tiếp theo.
+- Ghi rõ mốc nào là thời gian thật từ trường/trung tâm hoặc tin tuyển (kèm nguồn), mốc nào chỉ là ước lượng — ước lượng thì ghi rõ "ước lượng, chưa có bằng chứng".
+- Không viết "học xong là làm được ngay", "vài tháng là thành thạo" nếu lộ trình trong chính file nói cần lâu hơn.
+
+## 10. Thử nghề
+
+Hướng dẫn cách trải nghiệm nghề **trước khi bỏ vốn lớn hoặc nghỉ việc** — mục này là bắt buộc, không được bỏ trống bằng 1 câu chung chung.
+
+- **Theo thợ 1 ngày:** đi theo thợ đang làm 1 ngày (hoặc 1 ca) để xem công việc thật: làm gì, mệt ở đâu, khách ra sao. Ghi rõ xin theo ở đâu (tiệm trong khu vực, người quen làm nghề…).
+- **Xin làm phụ / học việc thử:** xin làm thợ phụ 1–2 tuần trước khi đóng học phí — xem mình có chịu được điều kiện làm việc thật không (đứng cả ngày, nắng/bụi/hóa chất, tiếng ồn, mùi…).
+- **Học thử:** khóa nào cho học thử miễn phí (ghi tên trung tâm + nguồn), học thử bao lâu, học thử xong thì biết được gì.
+- **Làm thử quy mô nhỏ:** bán thử / nhận thử 1 job nhỏ / làm thử 1 lô nhỏ trước khi bỏ vốn lớn (ví dụ: nấu thử 1 món vài lần rồi mới mở quán, trồng thử 1 lô nhỏ rồi mới thuê mặt bằng). Ghi chi phí thử nghề, kèm thẻ cập nhật hoặc "Chưa có số liệu".
+- **Tiêu chí dừng/tiếp — viết rõ để người đọc tự đánh giá sau khi thử:**
+  - Tiếp tục nếu: chịu được điều kiện làm việc, có khách/trả tiền thật từ việc thử, chi phí thử trong khả năng.
+  - Dừng lại nếu: không chịu được điều kiện làm việc (sức khỏe, mùi, độ cao…), thử rồi mà không có khách, chi phí thử vượt quá dự phòng.
+  - Sau bao lâu thì đánh giá: ghi mốc thời gian cụ thể (ví dụ: sau 2 tuần làm phụ, sau 1 tháng bán thử).
+- Không khuyến khích bỏ vốn lớn, vay tiền hoặc nghỉ việc trước khi thử.
+
+## 11. Kết luận
+
+Tổng kết ngắn gọn, dựa trên các mục trên — không thêm số liệu mới ở mục này.
+
+- **Ưu điểm:** 3–5 điểm mạnh thật của nghề (gắn với số liệu đã có ở mục 7, 9).
+- **Nhược điểm:** 3–5 điểm yếu thật của nghề (gắn với mục 7, 8) — viết thẳng, không nịnh người đọc.
+- **Ai nên thử:** đối chiếu mục 2 — người có hoàn cảnh nào thì hợp nghề này nhất (ít vốn / cần tiền nhanh / có sức khỏe / muốn làm tại nhà / muốn làm tự do…).
+- **Ai không nên thử:** người có hoàn cảnh nào thì không nên chọn nghề này (cần thu nhập ổn định ngay tháng đầu, không chịu được điều kiện làm việc của nghề, không đủ vốn tối thiểu…).
+- **Mức độ phù hợp với người chuyển nghề từ IT:** phù hợp nhất khi nào, cần chuẩn bị thêm gì (vốn, sức khỏe, thời gian học, giấy phép), và điều gì người ex-IT hay đánh giá sai về nghề này.
+- Nếu số liệu còn thiếu nhiều thì ghi rõ điều chưa biết, không kết luận chắc chắn ("nghề này chắc chắn…", "ai làm cũng được…").
+
+## 12. Nguồn tham khảo tách riêng
+
+Liệt kê mọi nguồn đã dùng trong bài — tách riêng thành mục này, không để nguồn rải rác không đối chiếu được.
+
+- Mỗi nguồn 1 dòng, đủ 4 thông tin: **link trực tiếp** (URL đầy đủ, mở được) + **ngày truy cập** (dd/mm/yyyy) + **loại nguồn** (tin tuyển / báo / bảng học phí trung tâm / quy định pháp luật / số liệu Mỹ…) + **mức độ tin cậy** (cao / trung bình / thấp + vì sao).
+- Mức độ tin cậy ghi thẳng: tin tuyển thật và bảng giá công khai là cao; báo chí và nguồn thứ cấp là trung bình; nội dung quảng cáo, bài tổng hợp không ghi nguồn là thấp — số từ nguồn thấp thì không dùng làm số chính.
+- Số liệu Mỹ (nếu có) ghi riêng 1 nhóm trong mục này, ghi rõ "Mỹ — chỉ để tham khảo".
+- Nguồn nào không mở được hoặc không kiểm chứng được thì ghi rõ, không ghi như nguồn đã xác minh.
+- Không bịa link, không ghi tên nguồn không tìm thấy.
+
 ---
 
 ## Chi phí khởi điểm chi tiết
 
-> Mục bắt buộc, tách riêng khỏi 8 mục trên. Mọi khoản tiền phải kèm thẻ cập nhật hoặc ghi "Chưa có số liệu". Không ghi giá ước lượng thành số cụ thể.
+> Mục bắt buộc, tách riêng khỏi 12 mục trên. Mọi khoản tiền phải kèm thẻ cập nhật hoặc ghi "Chưa có số liệu". Không ghi giá ước lượng thành số cụ thể.
 
 ### A. Dụng cụ / thiết bị cần mua
 
@@ -326,7 +389,10 @@ Liệt kê rủi ro thật của nghề này — **không phải rủi ro bị l
 
 ## Checklist trước khi gửi Pull Request
 
-- [ ] Đủ 8 mục bắt buộc + mục chi phí khởi điểm chi tiết.
+- [ ] Đủ 12 mục bắt buộc + mục chi phí khởi điểm chi tiết.
+- [ ] Mục 9 có lộ trình theo tuần/tháng, không hứa thời gian thành thạo nếu chưa có bằng chứng.
+- [ ] Mục 10 có cách thử nghề cụ thể + tiêu chí dừng/tiếp.
+- [ ] Mục 12 liệt kê đủ nguồn, mỗi nguồn có link trực tiếp + ngày truy cập + mức độ tin cậy.
 - [ ] Mọi con số đều kèm thẻ `[Cập nhật: Tháng/Năm – Nguồn]`, hoặc ghi "Chưa có số liệu".
 - [ ] Lương Việt Nam lấy từ tin tuyển thật, kèm link + ngày tra cứu.
 - [ ] Số liệu Mỹ (nếu có) ghi riêng, ghi rõ "chỉ để tham khảo", không ghi thành lương Việt Nam.

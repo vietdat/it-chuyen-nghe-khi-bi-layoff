@@ -50,7 +50,7 @@
 
 | Thành phố | TopCV (tin tìm thấy) | Lương phổ biến (tin tuyển thật) |
 |---|---|---|
-| Hà Nội | 4 tin | Quay phim làm thuê 9–16 triệu/tháng |
+| Hà Nội | 4 tin | Quay phim làm thuê 9–16 triệu/tháng (chỉ 1 tin nhận dưới 1 năm KN) |
 | TP.HCM | 4 tin + 1 tin hết hạn | Quay phim làm thuê 10–20 triệu/tháng (cao nhất ENIC 15–20 triệu, yêu cầu 2 năm KN) |
 | Đà Nẵng | 0 tin | Không có tin tuyển riêng; giá gói quay cưới 3–14 triệu/show (Anh Đức Wedding) |
 | Cần Thơ | 0 tin | Không có tin tuyển riêng; hỏi trực tiếp team cưới địa phương |
@@ -66,7 +66,37 @@
 ### Lương theo nấc (tin tuyển thật, tra cứu 23/11/2026)
 
 - Quay phụ / second videographer theo show: 800.000–1.500.000đ/người/ngày (mức nhân sự quay bổ sung, mimi.com.vn 24/08/2026); làm thêm giờ 300.000–500.000đ/giờ.
-- Nhân viên quay phim / quay dựng làm thuê (lương cứng): Hà Nội 9–16 triệu/tháng; TP.HCM 10–20 triệu/tháng; trung tâm tiệc cưới Mipec Palace 10–15 triệu + thưởng.
+- Nhân viên quay phim / quay dựng làm thuê (lương cứng): Hà Nội 9–16 triệu/tháng; TP.HCM 10–20 triệu/tháng; trung tâm tiệc cưới Mipec Palace 10–15 triệu + thưởng. Lưu ý: trong 9 tin TopCV chỉ 1 tin nhận người dưới 1 năm kinh nghiệm (Quay Dựng Video Hà Nội, 13–16 triệu); các tin còn lại yêu cầu 1–2 năm kinh nghiệm, người mới chưa nộp được ngay.
+
+**Career path (đã sửa theo audit):** tháng 1–3 quay phụ 800.000–1.500.000đ/ngày; tháng 3–6 quay phụ quen tay, bắt đầu quay chính show nhỏ có người kèm — lương làm thuê 9–16 triệu chưa tới được ở mốc này (chỉ 1 tin nhận dưới 1 năm KN); tháng 6–12 quay chính show nhỏ + tự dựng highlight 3–5 phút, vào công ty khi đủ 1 năm kinh nghiệm; năm 1–2 có phong cách dựng riêng, dẫn team. **Timeline thống nhất:** học quay + dựng cơ bản 3–6 tháng là biết quay; quay chính show nhỏ và tự dựng highlight cần 6–12 tháng vừa học vừa đi show thật — hai mốc khác nhau.
+
+### Lộ trình học theo tuần/tháng (mục 9 — tóm tắt, đầy đủ trong file nghiên cứu mục 6)
+
+- Tháng 1: làm chủ máy — khẩu độ, tốc độ, ISO; học gimbal (cân bằng, đi theo chủ thể); học sao lưu file video 2 thẻ + 1 ổ cứng + 1 bản máy tính; liệt kê 5 team quay cưới gần nhà; xin làm quay phụ ở 2–3 chỗ.
+- Tháng 2: đi show thật — làm việc phụ (cầm đèn LED, đổi pin, kiểm tra mic, giữ gimbal phụ); tự quay 1 phần nhỏ có thợ chính đứng cạnh; ghi 10 lỗi hay gặp (rung máy, mất tiếng, hết pin, file lỗi).
+- Tháng 3: học Premiere Pro cơ bản — cắt ghép, preset màu, chèn nhạc, xuất video; tập gửi video cho khách qua link online; làm showreel đầu tay 60–90 giây.
+- Tháng 4–6: nhận show nhỏ — tự quay 1 phần show cưới có thợ chính dự phòng; đăng showreel lên TikTok/Facebook khu vực; học thêm chỉnh màu DaVinci Resolve sau khi đã dựng được.
+- Tháng 6–12: quay chính show nhỏ độc lập + tự dựng highlight 3–5 phút; xây khách quen; cân nhắc khóa quay + dựng 2 tháng (KOV.Pictures 8–10 triệu) khi đã có tay nghề.
+
+### Thử nghề (mục 10 — tóm tắt, đầy đủ trong file nghiên cứu mục 7)
+
+- Cách 1 — thử trước khi mua máy: mượn máy của người quen hoặc thuê máy theo ngày, quay thử 1 buổi tiệc gia đình / sinh nhật cho người quen, miễn phí, tự dựng highlight 3 phút và giao cho họ xem; xem mình có thích cả quay lẫn dựng không — vì dựng chiếm nửa thời gian nghề.
+- Cách 2 — xin làm quay phụ bằng máy của team: đi theo thợ chính 1–2 show, làm việc phụ (cầm đèn, đổi pin, kiểm tra mic), không cần mua máy ngay; hỏi rõ team có cho mượn máy để luyện tay không, và mình được dùng đoạn quay phụ làm showreel không.
+- Cách 3 — quay phụ 1–2 tuần có tiền: làm second videographer cho 2–3 show, 800.000–1.500.000đ/ngày; xem mình có quay được khoảnh khắc dưới áp lực không, và có chịu được 6–12 giờ đứng với gimbal nặng không.
+- Tiếp tục nếu chịu được 1 show dài, thích bắt chuyển động, sẵn sàng ngồi dựng nhiều giờ, có ít nhất 1 team nhận mình làm phụ lần nữa; dừng lại nếu không chịu được đứng cả ngày với máy nặng, sợ áp lực "không có khoảnh khắc thứ hai", ghét ngồi dựng, hoặc sau 2–3 show vẫn không có team nào gọi lại. Đừng mua máy đắt trước khi thử.
+
+**Pháp lý bổ sung:** bản quyền nhạc trong phim cưới (dùng nhạc có giấy phép, không lấy nhạc hit gắn vào phim giao khách khi chưa có quyền); hợp đồng + quyền hình ảnh khách (ghi rõ quyền đăng showreel, chỉ đăng khi khách đồng ý bằng văn bản); thuế khi làm tự do theo show (kê khai thuế TNCN, đăng ký hộ kinh doanh khi làm thường xuyên — Nghị định 168/2025/NĐ-CP); flycam làm dịch vụ luôn phải xin phép (Nghị định 282/2025/NĐ-CP, bay không phép phạt 20–30 triệu đồng — khoản 10 Điều 8) [Cập nhật: 11/2026 – NĐ 282/2025/NĐ-CP, khoản 10 Điều 8, kiểm chứng 24/11/2026].
+
+### Chi phí khởi điểm (tóm tắt, đầy đủ trong file nghiên cứu mục 10)
+
+- Bộ tối thiểu mua cũ khoảng 47 triệu (chưa gồm ống kính): body Sony A7 III cũ 20 triệu (mức thấp) + gimbal DJI RS 3 Combo 11,99 triệu + mic Rode Wireless Go II 7,49 triệu + thẻ SD 128GB 1,42 triệu + SSD Samsung T7 1TB 6,05 triệu (giá tra 23/11/2026).
+- Bộ tối thiểu mua mới khoảng 80,7 triệu (đã gồm ống Tamron 28–75mm G2 mới 17,49 triệu).
+- Học phí: khóa quay + dựng trọn gói KOV.Pictures 8 triệu (ưu đãi, 2 tháng, 24 buổi — lịch 2025, kiểm tra lại trước khi đóng tiền) — tổng khởi điểm khoảng 55 triệu (mua cũ + khóa KOV 8 triệu) đến 88,7 triệu (mua mới + khóa KOV 8 triệu).
+- Dự phòng sinh hoạt 2 tháng: Chưa có số liệu. Chưa gồm đèn LED, pin dự phòng, thẻ V90, máy dự phòng; mua cũ thì cộng thêm ống kính 12,5–13 triệu.
+
+**Tìm việc không kinh nghiệm:** tin Phụng Tiên (không yêu cầu KN, cấp máy Sony A7C) đã hết hạn; TIMI (không yêu cầu KN, 9–15 triệu) chưa xác minh được hạn nộp — xem mục 1 file nghiên cứu.
+
+**Cảnh báo tin tuyển:** mọi tin trong file tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 05/04/2027 — PHẢI tra lại sát ngày đăng (cách tìm tin thay thế trong mục 1 file nghiên cứu).
 - Videographer đúng ngành cưới làm thuê: DTV Media / Tony Wedding — lương cơ bản 3–5 triệu + thưởng KPI + sản phẩm.
 - Nhận show riêng (giá gói bán cho khách, chưa trừ chi phí): Đà Nẵng 3–14 triệu/show (Anh Đức Wedding); Hà Nội gói film phóng sự 3,888–16,888 triệu (Tận Tâm Studio); theo mimi.com.vn: cơ bản 2–5 triệu, tiêu chuẩn 5–10 triệu, cao cấp 10–25 triệu.
 
@@ -75,10 +105,22 @@
 - Mùa vụ: mùa cưới tháng 9 đến tháng 4 năm sau, cao điểm tháng 10–12; miền Bắc cao điểm tháng 9–12 và tháng 3–4, miền Trung tháng 2–5, miền Nam tháng 11–4. Tuần 19 (05–11/04/2027) nằm ở cuối mùa cưới — tháng 4 vẫn còn cưới ở cả 3 miền, sau đó bước vào mùa thấp tháng 5–8.
 - Không có khoảnh khắc thứ hai: quay hỏng 1 khoảnh khắc là không quay lại được — và khác chụp ảnh, quay phim còn có âm thanh: mic hết pin, tiếng ồn át lời thề thì cả đoạn phim mất tiếng.
 - Dựng phim tốn thời gian: 1 show quay 6–12 giờ cho ra hàng trăm GB file thô, dựng highlight 3–7 phút và phim full lễ tốn nhiều giờ, có khi nhiều ngày.
-- Thiết bị đắt, vốn lớn: máy quay, gimbal, mic không dây, đèn LED, thẻ nhớ, pin dự phòng, ổ cứng — chưa có số giá cụ thể, ghi "Chưa có số liệu".
-- Flycam phải xin phép: Nghị định 282/2025, phạt đến 40 triệu đồng nếu bay flycam không phép; bay làm dịch vụ luôn phải xin phép.
+- Thiết bị đắt, vốn lớn: máy quay, gimbal, mic không dây, đèn LED, thẻ nhớ, pin dự phòng, ổ cứng — bộ tối thiểu khoảng 47 triệu (mua cũ) đến 80,7 triệu (mua mới), giá tra 23/11/2026; đèn LED và pin dự phòng chưa có số giá — ghi "Chưa có số liệu".
+- Flycam phải xin phép: Nghị định 282/2025/NĐ-CP, bay không phép phạt 20–30 triệu đồng (khoản 10 Điều 8; 30–40 triệu đồng chỉ khi cản trở hoặc gây mất an toàn cho phương tiện bay khác — khoản 11 Điều 8) [Cập nhật: 11/2026 – NĐ 282/2025/NĐ-CP, khoản 10–11 Điều 8, kiểm chứng 24/11/2026]; bay làm dịch vụ luôn phải xin phép.
 - Sức khỏe: đứng và di chuyển liên tục 6–12 giờ/show, mang máy + gimbal nặng cả ngày, làm cuối tuần và ngày lễ, mỏi mắt vì ngồi dựng nhiều giờ.
 - Thu nhập bấp bênh theo mùa, không có chuyện "chắc chắn có việc" hay "làm giàu nhanh".
+
+### Kết luận (mục 11 — tóm tắt, đầy đủ trong file nghiên cứu mục 8)
+
+- Hợp với người có mắt nhìn chuyển động, chịu được áp lực cao, làm cuối tuần và sẵn sàng ngồi dựng nhiều giờ — không hợp với người chỉ thích cầm máy mà ghét dựng, vì dựng là phần việc nặng nhất.
+- Cửa vào thực tế là quay phụ 800.000–1.500.000đ/ngày, không phải nộp đơn qua sàn: trong 9 tin TopCV chỉ 1 tin nhận người dưới 1 năm kinh nghiệm, và các tin không yêu cầu kinh nghiệm mới tìm được cũng đã hết hạn.
+- Vốn khởi điểm không nhỏ: bộ tối thiểu khoảng 47 triệu (mua cũ, chưa gồm ống kính) đến 80,7 triệu (mua mới, đã gồm ống Tamron), chưa tính học phí 3–10 triệu và máy dự phòng — thử nghề bằng máy mượn/thuê trước khi mua.
+- Thử nghề trước khi mua máy: quay thử tiệc người quen, xin làm phụ bằng máy của team — nếu sau 2–3 show vẫn thích cả quay lẫn dựng thì mới đầu tư máy riêng.
+
+### Nguồn tham khảo (mục 12)
+
+- Đầy đủ trong file nghiên cứu mục 11: tin tuyển TopCV/VietnamWorks, bảng học phí (KOV.Pictures, HNAAu, Lavender, Skillmall), giá thiết bị (Sony A7 III, Tamron, gimbal DJI, mic Rode, SSD), bảng giá gói quay cưới, pháp lý (bản quyền nhạc, hợp đồng, Nghị định 168/2025/NĐ-CP, Nghị định 282/2025 về flycam) — mỗi nguồn có link + ngày truy cập 23/11/2026 + loại nguồn + mức tin cậy.
+
 
 ## 3. YouTube - Script video dài Thứ 2
 
@@ -149,7 +191,7 @@ Học ở đâu thì có 3 đường. Đường nhanh nhất: xin làm quay ph�
 
 ### 7:00–8:30 — Career path + tìm việc, tìm khách ở đâu
 
-"Đường đi thường là như thế này. 0–3 tháng đầu: học máy + đi quay phụ, nhận show nhỏ, tiền theo ngày tham khảo 800.000–1.500.000đ 1 ngày. 3–6 tháng: quay chính show nhỏ, có khách quen, lương làm thuê khoảng 9–16 triệu 1 tháng nếu làm cho công ty hoặc trung tâm tiệc cưới. 6–12 tháng: lên tay nghề, nhận show cưới riêng, thu nhập tính theo gói. Sau 1–2 năm: có phong cách dựng riêng, dẫn team, nhận show lớn. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn quay bao nhiêu show mỗi tháng.
+"Đường đi thường là như thế này. 0–3 tháng đầu: học máy + đi quay phụ, nhận show nhỏ, tiền theo ngày tham khảo 800.000–1.500.000đ 1 ngày. 3–6 tháng: quay phụ quen tay, bắt đầu quay chính show nhỏ có người kèm. Lưu ý: lương làm thuê 9–16 triệu 1 tháng chưa tới được ở mốc này — trong 9 tin TopCV chỉ 1 tin nhận người dưới 1 năm kinh nghiệm (13–16 triệu, Hà Nội). 6–12 tháng: lên tay nghề, nhận show cưới riêng, thu nhập tính theo gói. Sau 1–2 năm: có phong cách dựng riêng, dẫn team, nhận show lớn. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn quay bao nhiêu show mỗi tháng.
 
 Tìm việc đầu tiên ở đâu? Bạn xin làm quay phụ cho team cưới hoặc studio quay phim cưới gần nhà — tìm trên Google Maps và Facebook, đi hỏi trực tiếp. Bạn cũng nộp đơn lên TopCV: ngày 23/11/2026 mình đếm thấy có tin tuyển quay phim ở Hà Nội lương 9–16 triệu, ở TP.HCM lương 10–20 triệu, yêu cầu dưới 1 năm đến 2 năm kinh nghiệm ở các tin tìm thấy. Tin đúng ngành cưới nhất là DTV Media / Tony Wedding ở TP.HCM — lương cơ bản 3–5 triệu + thưởng KPI, yêu cầu 6 tháng kinh nghiệm và có thiết bị riêng. Khi đã có showreel, bạn đăng video lên TikTok, Facebook theo khu vực mình làm, chạy quảng cáo đúng quận — để cô dâu chú rể khu vực đó thấy phim bạn trước tiên. Đừng nhận show chính khi chưa cứng tay — quay hỏng 1 đám cưới, khách không quay lại nữa, và bạn cũng không quên được."
 
@@ -221,7 +263,7 @@ Học ở đâu thì có 3 đường. Nhanh nhất: xin làm quay phụ cho team
 
 **Career path**
 
-0–3 tháng đầu: học máy + đi quay phụ, tiền theo ngày tham khảo 800.000–1.500.000đ 1 ngày. 3–6 tháng: quay chính show nhỏ, có khách quen, lương làm thuê khoảng 9–16 triệu 1 tháng nếu làm cho công ty hoặc trung tâm tiệc cưới. 6–12 tháng: lên tay nghề, nhận show cưới riêng, thu nhập tính theo gói. Sau 1–2 năm: có phong cách dựng riêng, dẫn team, nhận show lớn. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn quay bao nhiêu show mỗi tháng.
+0–3 tháng đầu: học máy + đi quay phụ, tiền theo ngày tham khảo 800.000–1.500.000đ 1 ngày. 3–6 tháng: quay phụ quen tay, bắt đầu quay chính show nhỏ có người kèm. Lưu ý: lương làm thuê 9–16 triệu 1 tháng chưa tới được ở mốc này — trong 9 tin TopCV chỉ 1 tin nhận người dưới 1 năm kinh nghiệm (13–16 triệu, Hà Nội). 6–12 tháng: lên tay nghề, nhận show cưới riêng, thu nhập tính theo gói. Sau 1–2 năm: có phong cách dựng riêng, dẫn team, nhận show lớn. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn quay bao nhiêu show mỗi tháng.
 
 **Tìm việc, tìm khách đầu tiên ở đâu**
 
@@ -243,7 +285,7 @@ Số trên các trang tổng hợp lương — ví dụ vieclam24h ghi video edi
 
 Mùa vụ rõ rệt: mùa cưới Việt Nam kéo dài tháng 9 đến tháng 4 năm sau, cao điểm tháng 10–12; miền Bắc cao điểm tháng 9–12 và tháng 3–4, miền Trung tập trung tháng 2–5, miền Nam tháng 11–4. Tháng 5–8 là mùa thấp ở miền Bắc, mùa mưa ở miền Nam. Tuần này (05–11/04/2027) nằm ở cuối mùa cưới — tháng 4 vẫn còn cưới ở cả 3 miền, nhưng sau tuần này mùa thấp bắt đầu.
 
-Không có khoảnh khắc thứ hai: đám cưới chỉ diễn ra 1 lần, quay hỏng 1 khoảnh khắc là không quay lại được — và khác với chụp ảnh, quay phim còn có âm thanh: mic hết pin, tiếng ồn át lời thề thì cả đoạn phim mất tiếng. Dựng phim tốn thời gian: 1 show quay 6–12 giờ cho ra hàng trăm GB file thô, dựng thành highlight 3–7 phút và phim full lễ tốn nhiều giờ, có khi nhiều ngày. Thiết bị đắt, vốn lớn: máy quay, gimbal, mic không dây, đèn LED, thẻ nhớ, pin dự phòng, ổ cứng lưu file là khoản đầu tư lớn nhất của nghề này — chưa có số giá thiết bị cụ thể trong tuần này, ghi "Chưa có số liệu". Flycam phải xin phép: Nghị định 282/2025 có hiệu lực từ 15/12/2025, phạt đến 40 triệu đồng nếu bay flycam không phép — bay để làm dịch vụ thì luôn phải xin phép. Sức khỏe: đứng và di chuyển liên tục 6–12 giờ trong 1 show, mang máy + gimbal nặng cả ngày, làm cuối tuần và ngày lễ là chuyện thường, cộng thêm mỏi mắt vì ngồi dựng nhiều giờ. Và không có chuyện "chắc chắn có việc" hay "làm giàu nhanh" — nghề này làm ra tiền bằng tay, bằng mắt và bằng giờ ngồi dựng, theo mùa, và phải xây khách quen dần.
+Không có khoảnh khắc thứ hai: đám cưới chỉ diễn ra 1 lần, quay hỏng 1 khoảnh khắc là không quay lại được — và khác với chụp ảnh, quay phim còn có âm thanh: mic hết pin, tiếng ồn át lời thề thì cả đoạn phim mất tiếng. Dựng phim tốn thời gian: 1 show quay 6–12 giờ cho ra hàng trăm GB file thô, dựng thành highlight 3–7 phút và phim full lễ tốn nhiều giờ, có khi nhiều ngày. Thiết bị đắt, vốn lớn: máy quay, gimbal, mic không dây, đèn LED, thẻ nhớ, pin dự phòng, ổ cứng lưu file là khoản đầu tư lớn nhất của nghề này — bộ tối thiểu khoảng 47 triệu (mua cũ) đến 80,7 triệu (mua mới), giá tra ngày 23/11/2026 (xem mục 10 trong file nghiên cứu); đèn LED và pin dự phòng chưa có số giá — ghi "Chưa có số liệu". Flycam phải xin phép: Nghị định 282/2025/NĐ-CP có hiệu lực từ 15/12/2025, bay không phép phạt 20–30 triệu đồng (khoản 10 Điều 8; 30–40 triệu đồng chỉ khi cản trở hoặc gây mất an toàn cho phương tiện bay khác — khoản 11 Điều 8) [Cập nhật: 11/2026 – NĐ 282/2025/NĐ-CP, khoản 10–11 Điều 8, kiểm chứng 24/11/2026] — bay để làm dịch vụ thì luôn phải xin phép. Sức khỏe: đứng và di chuyển liên tục 6–12 giờ trong 1 show, mang máy + gimbal nặng cả ngày, làm cuối tuần và ngày lễ là chuyện thường, cộng thêm mỏi mắt vì ngồi dựng nhiều giờ. Và không có chuyện "chắc chắn có việc" hay "làm giàu nhanh" — nghề này làm ra tiền bằng tay, bằng mắt và bằng giờ ngồi dựng, theo mùa, và phải xây khách quen dần.
 
 ---
 
@@ -296,7 +338,7 @@ Mẹo này tiết kiệm cho bạn 1 buổi hẹn tới studio xem phim, và kh�
 # Bài thực hành Thứ 6 — 3 việc thật + CV trước/sau + checklist 30 ngày
 
 - Đăng: Thứ 6 09/04/2027, 12:00, Facebook (carousel / bài viết)
-- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). **Trước khi đăng ngày 09/04/2027, kiểm tra lại xem tin còn hạn không — tin hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn.** Các tin dưới đây đã tìm thấy từ tháng 11/2026, tới tháng 4/2027 rất có thể đã hết hạn.
+- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). **Cảnh báo: tin tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 09/04/2027 — PHẢI tra lại sát ngày đăng.** Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV (từ khóa "quay phim", "quay dựng video", "videographer", lọc tin còn hạn sau 09/04/2027, ưu tiên tin ghi "dưới 1 năm kinh nghiệm" hoặc "không yêu cầu kinh nghiệm"), không đăng tin hết hạn. Các tin dưới đây đã tìm thấy từ tháng 11/2026.
 - Giọng: nói với "bạn", không bịa số liệu
 
 ---
@@ -336,7 +378,7 @@ Mẹo này tiết kiệm cho bạn 1 buổi hẹn tới studio xem phim, và kh�
 - Link: https://www.topcv.vn/viec-lam/nhan-vien-videographer-tiktok/1641142.html
 - Hợp với bạn nếu: bạn mới có 6 tháng kinh nghiệm, muốn vào đúng 1 công ty dịch vụ cưới để học việc trên show thật — lưu ý lương cơ bản thấp (3–5 triệu), thu nhập dựa nhiều vào KPI và sản phẩm, hỏi rõ cách tính KPI trước khi nhận việc.
 
-Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 09/04/2027 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Tin tuyển nhân viên chụp ảnh quay dựng video 8–12 triệu của SWEET DATES (Q.3, TP.HCM) đã ghi "Hết hạn ứng tuyển" trong kết quả tìm kiếm ngày 23/11/2026 — không dùng làm việc thật. Tin VietnamWorks (Phú Gia, Hà Nội, 15–20 triệu, đăng 02/11/2026) cũng đã hết hạn từ đầu tháng 12/2026 — không dùng làm việc thật. Ở Đà Nẵng và Cần Thơ gần như không có tin quay phim trên TopCV ngày 23/11/2026 — nếu bạn ở 2 nơi này thì hỏi trực tiếp team cưới địa phương và xin làm quay phụ.
+Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 09/04/2027 — PHẢI tra lại sát ngày đăng, tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV (từ khóa "quay phim", "quay dựng video", "videographer", lọc tin còn hạn sau 09/04/2027). Tìm thêm ngày 23/11/2026: tin không yêu cầu kinh nghiệm mới tìm được cũng đã hết hạn (Phụng Tiên, TP.HCM — cấp máy Sony A7C, trang hiện "Hết hạn ứng tuyển"); tin TIMI Hà Nội (không yêu cầu kinh nghiệm, 9–15 triệu) chưa xác minh được hạn nộp — kiểm tra lại link trước khi dùng. Tin tuyển nhân viên chụp ảnh quay dựng video 8–12 triệu của SWEET DATES (Q.3, TP.HCM) đã ghi "Hết hạn ứng tuyển" trong kết quả tìm kiếm ngày 23/11/2026 — không dùng làm việc thật. Tin VietnamWorks (Phú Gia, Hà Nội, 15–20 triệu, đăng 02/11/2026) cũng đã hết hạn từ đầu tháng 12/2026 — không dùng làm việc thật. Ở Đà Nẵng và Cần Thơ gần như không có tin quay phim trên TopCV ngày 23/11/2026 — nếu bạn ở 2 nơi này thì hỏi trực tiếp team cưới địa phương và xin làm quay phụ.
 
 ---
 
@@ -401,7 +443,7 @@ Lưu carousel này lại, comment "checklist" để nhận file checklist 30 ng�
 
 ---
 
-Tuần này mình nói về nghề quay phim cưới và sự kiện: làm gì mỗi ngày, ai hợp ai không hợp, học ở đâu bao lâu, lương làm thuê khoảng 9–16 triệu, làm quay phụ 800.000–1.500.000đ 1 ngày, và sự thật phũ là đám cưới chỉ có 1 lần — quay hỏng 1 khoảnh khắc là không quay lại được, cộng thêm phần dựng phim sau show tốn nhiều giờ và thu nhập theo mùa cưới. Bài đầy đủ 8 mục vẫn ở bài ghim, bạn nào chưa đọc thì đọc lại cuối tuần này.
+Tuần này mình nói về nghề quay phim cưới và sự kiện: làm gì mỗi ngày, ai hợp ai không hợp, học ở đâu bao lâu, lương làm thuê 9–16 triệu (cần 1–2 năm kinh nghiệm), làm quay phụ 800.000–1.500.000đ 1 ngày, và sự thật phũ là đám cưới chỉ có 1 lần — quay hỏng 1 khoảnh khắc là không quay lại được, cộng thêm phần dựng phim sau show tốn nhiều giờ và thu nhập theo mùa cưới. Bài đầy đủ 8 mục vẫn ở bài ghim, bạn nào chưa đọc thì đọc lại cuối tuần này.
 
 Tuần sau mình nói về 1 nghề làm đẹp, khách toàn là chị em, làm xong khách soi gương cười ngay: thợ làm tóc nữ. Bạn đoán nghề làm tóc kiếm tiền bằng cách nào mà khách quay lại đều đều?
 
@@ -426,7 +468,7 @@ Mùa cưới Việt Nam kéo dài từ tháng 9 đến tháng 4 năm sau, cao đ
 
 **Chưa có máy quay đắt tiền, có học quay cưới được không?**
 
-Học được, nhưng bạn cần 1 chiếc máy quay để luyện tay — chưa cần máy đắt nhất, cần máy dùng thành thạo. Đường vào nhanh nhất không tốn học phí là xin làm quay phụ cho team cưới: bạn học trên show thật, dùng máy của mình hoặc máy của team tùy thỏa thuận. Trước khi đi show thật, bạn học 3 thông số gốc (khẩu độ, tốc độ, ISO) và quy trình sao lưu file video. Chưa có số giá máy cụ thể trong tuần này — ghi "Chưa có số liệu", bạn ra cửa hàng máy quay hỏi giá máy cũ và máy mới trước khi mua.
+Học được, nhưng bạn cần 1 chiếc máy quay để luyện tay — chưa cần máy đắt nhất, cần máy dùng thành thạo. Đường vào nhanh nhất không tốn học phí là xin làm quay phụ cho team cưới: bạn học trên show thật, dùng máy của mình hoặc máy của team tùy thỏa thuận. Trước khi đi show thật, bạn học 3 thông số gốc (khẩu độ, tốc độ, ISO) và quy trình sao lưu file video. Giá máy tra ngày 23/11/2026: body Sony A7 III cũ 20–25 triệu, mới 36–40 triệu; gimbal DJI RS 3 Combo 11.990.000đ; mic Rode Wireless Go II 7.490.000đ; SSD Samsung T7 1TB 6.050.000đ (xem mục 10 trong file nghiên cứu). Đèn LED và pin dự phòng thì chưa có số giá cụ thể — ghi "Chưa có số liệu".
 
 **Không biết gì về quay phim, có học được không?**
 
@@ -434,11 +476,11 @@ Học được, nếu bạn có mắt nhìn hình ảnh và chịu luyện. Pool
 
 **Cần vốn bao nhiêu để bắt đầu?**
 
-Đi làm thuê thì vốn gần như bằng 0 ngoài tiền máy quay: xin làm quay phụ, team có show, bạn chỉ cần thời gian đi học việc, tiền theo ngày tham khảo 800.000–1.500.000đ 1 ngày cho nhân sự quay bổ sung (theo mimi.com.vn, 24/08/2026). Nếu học khóa quay phim thì học phí khoảng 8–10 triệu 1 khóa (ví dụ KOV.Pictures TP.HCM: 10 triệu, ưu đãi 8 triệu, 2 tháng — lịch khai giảng trong form ghi tháng 8–9/2025, đã cũ, kiểm tra lại trước khi đóng tiền); học dựng phim riêng thì rẻ hơn, ví dụ HNAAu 4,5–5 triệu, 12 buổi. Vốn lớn nhất là thiết bị: máy quay, gimbal, mic không dây, đèn LED, thẻ nhớ, pin dự phòng, ổ cứng lưu file — chưa có số giá cụ thể trong tuần này, ghi "Chưa có số liệu".
+Đi làm thuê thì vốn gần như bằng 0 ngoài tiền máy quay: xin làm quay phụ, team có show, bạn chỉ cần thời gian đi học việc, tiền theo ngày tham khảo 800.000–1.500.000đ 1 ngày cho nhân sự quay bổ sung (theo mimi.com.vn, 24/08/2026). Nếu học khóa quay phim thì học phí khoảng 8–10 triệu 1 khóa (ví dụ KOV.Pictures TP.HCM: 10 triệu, ưu đãi 8 triệu, 2 tháng — lịch khai giảng trong form ghi tháng 8–9/2025, đã cũ, kiểm tra lại trước khi đóng tiền); học dựng phim riêng thì rẻ hơn, ví dụ HNAAu 4,5–5 triệu, 12 buổi. Vốn lớn nhất là thiết bị: bộ tối thiểu khoảng 47 triệu (mua cũ, chưa gồm ống kính) đến 80,7 triệu (mua mới, đã gồm ống Tamron 28–75mm) — máy Sony A7 III, gimbal DJI RS 3 Combo, mic Rode Wireless Go II, thẻ nhớ, ổ cứng SSD (giá tra ngày 23/11/2026, xem mục 10 trong file nghiên cứu); đèn LED và pin dự phòng chưa có số giá — ghi "Chưa có số liệu".
 
 **Quay flycam cho đám cưới có cần xin phép không?**
 
-Có — bay flycam để quay cưới là bay làm dịch vụ, luôn phải xin phép. Nghị định 282/2025 có hiệu lực từ 15/12/2025, mức phạt lên đến 40 triệu đồng nếu bay flycam không phép (nguồn: Thanh Niên, tra cứu 23/11/2026). Chỉ flycam dưới 0,25kg bay giải trí trong tầm mắt và ngoài vùng cấm mới được miễn phép — bay để quay dịch vụ thì không thuộc trường hợp miễn. Trước khi nhận show có flycam, bạn hỏi team xem ai lo giấy phép, đừng tự bay.
+Có — bay flycam để quay cưới là bay làm dịch vụ, luôn phải xin phép. Nghị định 282/2025 có hiệu lực từ 15/12/2025, mức phạt 20–30 triệu đồng nếu bay flycam không phép (khoản 10 Điều 8 Nghị định 282/2025/NĐ-CP; 30–40 triệu đồng chỉ khi cản trở hoặc gây mất an toàn cho phương tiện bay khác — khoản 11 Điều 8) [Cập nhật: 11/2026 – NĐ 282/2025/NĐ-CP, khoản 10–11 Điều 8, kiểm chứng 24/11/2026]. Chỉ flycam dưới 0,25 kg bay vui chơi, giải trí, trong tầm mắt và ngoài vùng cấm/hạn chế bay mới được miễn phép bay (Luật Phòng không nhân dân, khoản 3 Điều 30; NĐ 288/2025/NĐ-CP, điểm b khoản 1 Điều 21) — bay để quay dịch vụ thì không thuộc trường hợp miễn. Điều kiện 'bay dưới 50m': Chưa có số liệu — cần đối chiếu văn bản gốc (điểm b khoản 1 Điều 21 NĐ 288/2025 chỉ ghi <0,25 kg + vui chơi, giải trí + ngoài vùng cấm/hạn chế bay, không thấy điều kiện <50m). Trước khi nhận show có flycam, bạn hỏi team xem ai lo giấy phép, đừng tự bay.
 
 **Videographer cưới có bị AI thay thế không?**
 
@@ -492,12 +534,12 @@ Comment "1" nếu bạn đã từng nghĩ tới nghề này, "2" nếu chưa bao
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Tối đó, anh ấy mở tin tuyển quay phim: làm thuê cho công ty 9 đến 16 triệu một tháng, còn đi quay phụ theo show thì 800.000 đến 1.500.000đ một ngày. Tháng đầu làm quay phụ, anh ấy được bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
+"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Tối đó, anh ấy mở tin tuyển quay phim: làm thuê cho công ty, tin ghi 9 đến 16 triệu một tháng — mà tin nào cũng cần 1 tới 2 năm kinh nghiệm. Người mới thì đi quay phụ theo show, 800.000 đến 1.500.000đ một ngày. Tháng đầu làm quay phụ, anh ấy được bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
 
 ## Chữ trên màn hình
 
 - 0–3s: "Dev bị layoff thì làm gì? — Tập 1"
-- 3–15s: "Làm thuê: 9–16 triệu/tháng — Quay phụ: 800.000–1.500.000đ/ngày"
+- 3–15s: "Làm thuê: 9–16 triệu/tháng (cần 1–2 năm KN) — Quay phụ: 800.000–1.500.000đ/ngày"
 - 15–25s: "Video đầy đủ: YouTube 19h — Facebook 20h"
 
 ## CTA
@@ -635,7 +677,7 @@ Comment câu hỏi của bạn, tuần sau mình trả lời tiếp.
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học quay phim cưới. Ở Hà Nội, có khóa quay phim 2 tới 3 tháng, mà học phí không ghi công khai, phải gọi hỏi trực tiếp; học dựng Premiere thì 4,5 tới 5 triệu, 12 buổi. Vào Đà Nẵng, học dựng Premiere cũng 4,5 tới 5 triệu. Xuống Sài Gòn, có lớp quay dựng 2 tháng, 10 triệu, ưu đãi còn 8 triệu. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong là cầm máy đi quay phụ được ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học quay phim cưới. Ở Hà Nội, có khóa quay phim 2 tới 3 tháng, mà học phí không ghi công khai, phải gọi hỏi trực tiếp; học dựng Premiere thì 4,5 tới 5 triệu, 12 buổi. Vào Đà Nẵng, học dựng Premiere cũng 4,5 tới 5 triệu. Xuống Sài Gòn, có lớp quay dựng 2 tháng, 10 triệu, ưu đãi còn 8 triệu. Ba miền, giá khác nhau. Nhưng học xong khóa chưa phải là có show ngay — đi quay phụ được hay không còn tùy bạn có máy không và team có nhận không. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 
@@ -682,7 +724,7 @@ Comment tỉnh của bạn, mình tìm khóa học gần nhất cho bạn.
 
 - Ngày 22–24: Xin thợ chính cho tự quay 1 phần của show cưới trọn vẹn (từ lúc đón khách đến lúc cắt bánh), thợ chính quay song song để dự phòng. Nhờ thợ chính xem lại đoạn phim của bạn sau show, chỗ nào hỏng thì ghi vào sổ lỗi.
 - Ngày 25–26: Đăng 1 video / bài ngắn lên TikTok hoặc Facebook cá nhân: quay cảnh hậu trường đi quay (xin phép khách trước), kể 1 lỗi hay gặp. Mục đích không phải câu view, mà để khách khu vực biết bạn làm nghề này.
-- Ngày 27–28: Hỏi thợ chính xem bao giờ mình được quay chính 1 show nhỏ, cần thêm kỹ năng gì. Ghi lại thành mục tiêu tháng thứ 2. Tìm hiểu thêm về giấy phép bay flycam (bay dịch vụ luôn phải xin phép — Nghị định 282/2025, phạt đến 40 triệu nếu bay không phép) để biết trước khi nhận show có flycam.
+- Ngày 27–28: Hỏi thợ chính xem bao giờ mình được quay chính 1 show nhỏ, cần thêm kỹ năng gì. Ghi lại thành mục tiêu tháng thứ 2. Tìm hiểu thêm về giấy phép bay flycam (bay dịch vụ luôn phải xin phép — Nghị định 282/2025/NĐ-CP, bay không phép phạt 20–30 triệu đồng, khoản 10 Điều 8) [Cập nhật: 11/2026 – NĐ 282/2025/NĐ-CP, khoản 10 Điều 8, kiểm chứng 24/11/2026] để biết trước khi nhận show có flycam.
 - Ngày 29–30: Tổng kết 30 ngày: bạn đã đi bao nhiêu show, quay được bao nhiêu phút dùng được, đã dựng xong bao nhiêu phim highlight, có bao nhiêu khách quen, thu nhập thực tế tháng đầu là bao nhiêu. So với mục tiêu ngày 1, cái gì đạt, cái gì chưa — viết ra, đừng chỉ nghĩ.
 
 ## 5 việc làm ngay trong 7 ngày tới (dùng cho video dài + clip Thứ 6)

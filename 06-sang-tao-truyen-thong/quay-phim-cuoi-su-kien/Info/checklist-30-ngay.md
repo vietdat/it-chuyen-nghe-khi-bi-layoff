@@ -29,7 +29,7 @@
 
 - Ngày 22–24: Xin thợ chính cho tự quay 1 phần của show cưới trọn vẹn (từ lúc đón khách đến lúc cắt bánh), thợ chính quay song song để dự phòng. Nhờ thợ chính xem lại đoạn phim của bạn sau show, chỗ nào hỏng thì ghi vào sổ lỗi.
 - Ngày 25–26: Đăng 1 video / bài ngắn lên TikTok hoặc Facebook cá nhân: quay cảnh hậu trường đi quay (xin phép khách trước), kể 1 lỗi hay gặp. Mục đích không phải câu view, mà để khách khu vực biết bạn làm nghề này.
-- Ngày 27–28: Hỏi thợ chính xem bao giờ mình được quay chính 1 show nhỏ, cần thêm kỹ năng gì. Ghi lại thành mục tiêu tháng thứ 2. Tìm hiểu thêm về giấy phép bay flycam (bay dịch vụ luôn phải xin phép — Nghị định 282/2025, phạt đến 40 triệu nếu bay không phép) để biết trước khi nhận show có flycam.
+- Ngày 27–28: Hỏi thợ chính xem bao giờ mình được quay chính 1 show nhỏ, cần thêm kỹ năng gì. Ghi lại thành mục tiêu tháng thứ 2. Tìm hiểu thêm về giấy phép bay flycam (bay dịch vụ luôn phải xin phép — Nghị định 282/2025/NĐ-CP, bay không phép phạt 20–30 triệu đồng, khoản 10 Điều 8) [Cập nhật: 11/2026 – NĐ 282/2025/NĐ-CP, khoản 10 Điều 8, kiểm chứng 24/11/2026] để biết trước khi nhận show có flycam.
 - Ngày 29–30: Tổng kết 30 ngày: bạn đã đi bao nhiêu show, quay được bao nhiêu phút dùng được, đã dựng xong bao nhiêu phim highlight, có bao nhiêu khách quen, thu nhập thực tế tháng đầu là bao nhiêu. So với mục tiêu ngày 1, cái gì đạt, cái gì chưa — viết ra, đừng chỉ nghĩ.
 
 ## 5 việc làm ngay trong 7 ngày tới (dùng cho video dài + clip Thứ 6)

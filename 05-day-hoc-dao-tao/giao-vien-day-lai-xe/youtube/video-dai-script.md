@@ -57,13 +57,13 @@ Còn bảng tính thu nhập từng học viên. Bạn biết mỗi học viên 
 
 "Học nghề này có 2 thứ phải học, theo thứ tự: có bằng lái hạng B trước, rồi mới học chứng chỉ sư phạm.
 
-Thứ nhất là bằng lái. Để dạy hạng B, bằng lái hạng B đủ 03 năm trở lên kể từ ngày được cấp, theo Nghị định 94/2026 có hiệu lực từ 01/7/2026. Dạy hạng C thì phải đủ 05 năm. Đây là rào cản lớn nhất của nghề này, và nó không rút ngắn được. Chưa có bằng thì học lấy bằng trước: Hà Nội thì khóa bằng B tại Trung tâm Hỗ trợ Sinh viên Đại học Ngoại thương là 17 triệu, khoảng 3,5 tháng. Đà Nẵng thì khóa B2 trọn gói là 21 triệu. Còn TP.HCM, Trường Sài Gòn Tourist là 19 triệu. Mấy trung tâm quảng cáo 5-7 triệu trọn gói thì hỏi kỹ trước khi đóng tiền, vì số đó thường chỉ là phí hồ sơ ban đầu, tổng thực tế để cầm bằng trên tay khoảng 16-21 triệu.
+Thứ nhất là bằng lái. Để dạy hạng B, chỉ cần có bằng lái hạng B trở lên — từ 01/7/2026, Nghị định 94/2026 đã bãi bỏ yêu cầu bằng phải đủ 03 năm mới được dạy (trước đây Nghị định 160/2024 yêu cầu bằng B đủ 3 năm, hạng C đủ 5 năm). Đây là tin tốt: có bằng là học chứng chỉ sư phạm được ngay, không còn phải đợi 3 năm nữa. [Cập nhật: 11/2026 – Điều 10 NĐ 94/2026/NĐ-CP, đối chiếu 24/11/2026] Chưa có bằng thì học lấy bằng trước: Hà Nội thì khóa bằng B tại Trung tâm Hỗ trợ Sinh viên Đại học Ngoại thương là 17 triệu, khoảng 3,5 tháng. Đà Nẵng thì khóa B2 trọn gói là 21 triệu. Còn TP.HCM, Trường Sài Gòn Tourist là 19 triệu. Mấy trung tâm quảng cáo 5-7 triệu trọn gói thì hỏi kỹ trước khi đóng tiền, vì số đó thường chỉ là phí hồ sơ ban đầu, tổng thực tế để cầm bằng trên tay khoảng 16-21 triệu.
 
 Thứ hai là chứng chỉ nghiệp vụ sư phạm dạy nghề. Khóa sơ cấp học online buổi tối, 1,5 tháng, học phí 2,5 triệu. Khóa trung cấp và cao đẳng là 2,8 triệu, 2,5 tháng. Học xong còn phải qua tập huấn nghiệp vụ dạy thực hành lái xe theo chương trình của Nghị định 94/2026, rồi mới được cấp giấy chứng nhận giáo viên dạy thực hành lái xe.
 
 Ngoài ra còn cần bằng tốt nghiệp trung cấp trở lên. Giáo viên dạy lý thuyết thì cần thêm bằng trung cấp chuyên ngành luật hoặc công nghệ ô tô.
 
-Còn học ở đâu thì có 3 đường đi. Nhanh nhất là xin làm giáo viên tập sự ở trung tâm lớn. Công ty Đào tạo Lái xe Thủ Đức từng tuyển 100 giáo viên tập sự một đợt, không yêu cầu kinh nghiệm, thử việc 6-12 triệu một tháng. Đường thứ hai là học chứng chỉ sư phạm online rồi tự nộp đơn vào trung tâm, tốn 2,5 triệu và 1,5 tháng. Đường thứ ba là vào trung tâm nhận đào tạo miễn phí: Đại An ở Hà Nội đào tạo miễn phí cho người chưa có chứng nhận, sau khi được cấp chứng nhận còn thưởng 5 triệu. Trung tâm Thành Công ở TP.HCM cũng hướng dẫn, hỗ trợ đi tập huấn cho người chưa có chứng nhận. Đường nào cũng phải qua 2 cửa: bằng lái đủ 3 năm và chứng chỉ sư phạm."
+Còn học ở đâu thì có 3 đường đi. Nhanh nhất là xin làm giáo viên tập sự ở trung tâm lớn. Công ty Đào tạo Lái xe Thủ Đức từng tuyển 100 giáo viên tập sự một đợt (đợt 1/2026, hạn nộp 20/11/2026 — đã hết hạn), thử việc 6-12 triệu một tháng. Tin tuyển không ghi rõ có yêu cầu kinh nghiệm hay không — chưa kiểm chứng được, muốn biết thì hỏi trực tiếp trung tâm. Đường thứ hai là học chứng chỉ sư phạm online rồi tự nộp đơn vào trung tâm, tốn 2,5 triệu và 1,5 tháng. Đường thứ ba là vào trung tâm nhận đào tạo miễn phí: Đại An ở Hà Nội đào tạo miễn phí cho người chưa có chứng nhận, sau khi được cấp chứng nhận còn thưởng 5 triệu. Trung tâm Thành Công ở TP.HCM cũng hướng dẫn, hỗ trợ đi tập huấn cho người chưa có chứng nhận. Đường nào cũng phải qua 2 cửa: bằng lái hạng B và chứng chỉ sư phạm."
 
 ### 7:00-8:30 - Career path + tìm việc, tìm khách ở đâu
 
@@ -87,6 +87,6 @@ Còn số Mỹ để đối chiếu, không phải thu nhập Việt Nam: BLS th
 
 "Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới.
 
-Kiểm tra bằng lái của mình: cấp ngày nào, đủ 03 năm chưa, còn giữ bằng trung cấp trở lên không. Đăng ký khóa chứng chỉ nghiệp vụ sư phạm dạy nghề sơ cấp, 2,5 triệu, học online buổi tối. Liệt kê 5 trung tâm dạy lái gần nhà. Đi hỏi 2-3 trung tâm: có nhận giáo viên tập sự không, lương tập sự bao nhiêu, xe của ai. Và bắt đầu ghi sổ lỗi học viên: mỗi lỗi gặp trong ngày ghi lại 1 dòng và cách sửa.
+Kiểm tra bằng lái của mình: còn hạn không, hạng nào, còn giữ bằng trung cấp trở lên không. Đăng ký khóa chứng chỉ nghiệp vụ sư phạm dạy nghề sơ cấp, 2,5 triệu, học online buổi tối. Liệt kê 5 trung tâm dạy lái gần nhà. Đi hỏi 2-3 trung tâm: có nhận giáo viên tập sự không, lương tập sự bao nhiêu, xe của ai. Và bắt đầu ghi sổ lỗi học viên: mỗi lỗi gặp trong ngày ghi lại 1 dòng và cách sửa.
 
 Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau mình nói về hướng dẫn viên du lịch. Comment nghề bạn muốn nghe, mình đọc hết."

@@ -7,7 +7,7 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 3. Chiều thứ năm, khách nước ngoài nhắn: cho tôi lịch trình Hà Nội 1 ngày, chiều nay tôi tới. Anh ấy nhờ AI soạn 3 phương án trong 10 phút, đối chiếu giờ mở cửa và giờ ăn, rồi gửi khách chọn. Khách chọn phương án 1 ngày, đặt tour luôn. Tối đó, anh ấy nghĩ: hồi làm dev, mình viết code cho người khác dùng. Giờ mình viết lịch trình, khách dùng ngay trong ngày."
+"Dev bị layoff thì làm gì? Tập 3. Chiều thứ năm, khách nước ngoài nhắn: cho tôi lịch trình Hà Nội 1 ngày, chiều nay tôi tới. Anh ấy nhờ AI soạn 3 phương án trong 10 phút, đối chiếu giờ mở cửa và giờ ăn, rồi gửi khách chọn. Khách chọn phương án 1 ngày, đặt tour luôn. Tối đó, anh ấy nghĩ: lịch trình mình viết, khách dùng ngay trong ngày. Không cần chờ ai duyệt — khách chọn là đi."
 
 ## Chữ trên màn hình
 

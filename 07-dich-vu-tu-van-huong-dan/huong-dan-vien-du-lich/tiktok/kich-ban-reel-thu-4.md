@@ -10,7 +10,7 @@
 
 ### 01 HOOK (0–3s)
 
-Lời thoại: "Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có nghề học 1 tháng là đi làm được: hướng dẫn viên du lịch."
+Lời thoại: "Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có nghề học 2–3 tháng mới cầm được thẻ đi làm: hướng dẫn viên du lịch."
 
 Chữ trên màn hình: "Dev bị layoff thì làm gì?"
 
@@ -26,9 +26,9 @@ Hình gợi ý: hướng dẫn viên cầm cờ nhỏ, đoàn khách đi theo qu
 
 ### 03 VALUE 1 (8–16s)
 
-Lời thoại: "Học lấy thẻ khoảng 1 tháng rưỡi: khóa nghiệp vụ 2,5 triệu, thi chứng chỉ, cấp thẻ 650 nghìn."
+Lời thoại: "Học lấy thẻ khoảng 2–3 tháng: khóa nghiệp vụ 2,5 triệu, thi chứng chỉ, chờ chứng chỉ cấp trong 30 ngày sau kỳ thi, rồi nộp hồ sơ cấp thẻ 650 nghìn."
 
-Chữ trên màn hình: "1,5 tháng học lấy thẻ"
+Chữ trên màn hình: "2–3 tháng học lấy thẻ"
 
 Hình gợi ý: tấm thẻ hướng dẫn viên, bên cạnh là sách nghiệp vụ và lịch học buổi tối.
 
@@ -50,7 +50,7 @@ Hình gợi ý: hướng dẫn viên đứng trước đoàn khách, tay cầm m
 
 ### 06 PAYOFF + CTA (32–45s)
 
-Lời thoại: "Layoff rồi, giờ làm gì? Có người đổi sang nghề đi cả ngày, nói cả ngày, mà làm ra tiền ngay. Bài đầy đủ ở bài ghim."
+Lời thoại: "Layoff rồi, giờ làm gì? Có người đổi sang nghề đi cả ngày, nói cả ngày — tháng đầu đi tour đều mới có 7–10 triệu, không phải làm ra tiền ngay ngày đầu. Bài đầy đủ ở bài ghim."
 
 Chữ trên màn hình: "Layoff rồi, giờ làm gì? — Tuần sau: người trồng nấm"
 

@@ -9,11 +9,11 @@
 
 ## Mục lục
 
-1. [Lịch tuần 23 - 7 ngày, 15 bài](#1-lịch-tuần-23--7-ngày-15-bài)
+1. [Lịch tuần 23 - 7 ngày, 15 bài](#1-lịch-tuần-23---7-ngày-15-bài)
 2. [Nghiên cứu thị trường tóm tắt](#2-nghiên-cứu-thị-trường-tóm-tắt)
-3. [YouTube - Script video dài Thứ 2](#3-youtube--script-video-dài-thứ-2)
-4. [Facebook - 6 bài](#4-facebook--6-bài)
-5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok--8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
+3. [YouTube - Script video dài Thứ 2](#3-youtube---script-video-dài-thứ-2)
+4. [Facebook - 6 bài](#4-facebook---6-bài)
+5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok---8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
 6. [Checklist 30 ngày đầu](#6-checklist-30-ngày-đầu)
 7. [Lưu ý trước khi đăng](#7-lưu-ý-trước-khi-đăng)
 
@@ -80,7 +80,7 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 
 ### Lương theo nấc (tin tuyển thật + nguồn tổng hợp, tra cứu 23/11/2026)
 
-- HDV mới vào nghề / bán thời gian theo tour: **150.000–350.000đ/giờ** (PLAY, TopCV), **250.000đ/tour 4 giờ + tip** (TopCV, TP.HCM). HDV tại điểm mới ra trường: 5–8 triệu/tháng hoặc 200.000–300.000đ/ngày (Trường Saigontourist).
+- HDV mới vào nghề / bán thời gian theo tour: **150.000–350.000đ/giờ** (PLAY, TopCV), **250.000đ/tour 4 giờ + tip** (TopCV, TP.HCM). HDV tại điểm mới ra trường: 5–8 triệu/tháng hoặc 200.000–300.000đ/ngày (Trường Saigontourist — không ghi ngày, mức tham khảo). **Thống nhất 2 khoảng lương HDV mới (audit 23/11/2026):** 5–8 triệu/tháng (HDV tại điểm mới ra trường) và 7–10 triệu/tháng (HDV mới/không ngoại ngữ mạnh nếu đi tour đều) là 2 trường hợp khác nhau, không gộp thành 1 khoảng — HDV tại điểm khác HDV theo tour (400.000–800.000đ/ngày/đoàn + tip).
 - HDV nội địa làm cho công ty lữ hành (lương cứng): **9–14 triệu/tháng** (Daiichi, TopCV), **9–12 triệu/tháng** (Ảnh Việt, TopCV). JobsGO: trung bình 8 triệu, phổ biến 6–10 triệu. VietnamWorks: nội địa 10–25 triệu/tháng (đã tính cả tour + tip).
 - HDV tiếng Anh / ngoại ngữ: **15–20 triệu/tháng** (Sunlight, Hà Nội), **14–18 triệu/tháng chưa tính tip** (Daiichi, Hải Phòng), tiếng Nga Đà Nẵng: lương cứng + KPI đến 20 triệu trở lên (Victoria, TopCV).
 - HDV quốc tế có kinh nghiệm: lương cứng 10–15 triệu, tour 2–5 triệu/ngày, tip 5–15 triệu/tháng, tổng **30–50 triệu/tháng** (Trường Saigontourist) - mức của người có kinh nghiệm lâu năm, không phải mức người mới chuyển nghề.
@@ -93,9 +93,47 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 - Phụ thuộc vào tour: HDV freelance không có tour thì không có thu nhập, tháng không có đoàn thì thu nhập gần như bằng 0 - đây là rủi ro lớn nhất của nghề.
 - Cần thẻ hành nghề: không có thẻ thì không được dẫn tour hợp pháp, dẫn "chui" bị phạt.
 - Sức khỏe: đi nhiều, nói nhiều, đứng nắng, giọng nói là công cụ làm việc - khản giọng là mất tour.
+- **Tai nạn giao thông / đuối nước trên tour biển đảo (bổ sung 23/11/2026):** HDV đi cùng đoàn trên xe, tàu, thuyền — tai nạn giao thông trên đường tour và đuối nước khi khách tắm biển/lặn là rủi ro thật của nghề, nhất là tour biển đảo. Quy tắc tối thiểu: kiểm tra xe/tàu trước khi đoàn lên, nhắc khách mặc áo phao khi đi tàu/thuyền và tắm biển đúng khu vực cho phép, không để khách bơi xa một mình, nắm số điện thoại cấp cứu và bệnh viện gần nhất của tuyến tour, mua bảo hiểm du lịch cho đoàn (hỏi công ty lữ hành xem bảo hiểm đã gồm những gì trước khi nhận tour). Không có con số thống kê nào về tai nạn HDV trong file này — quy tắc trên là biện pháp phòng ngừa thực tế, không phải số liệu.
 - Ngoại ngữ quyết định thu nhập: cùng 1 tour, HDV tiếng Anh lương cao hơn HDV chỉ dẫn khách Việt.
 - Du lịch nhạy cảm với biến động: dịch bệnh, bão, chính trị đều có thể làm tour hủy hàng loạt trong 1 tuần.
 - Không có chuyện "chắc chắn có việc" hay "ổn định như văn phòng".
+
+### Lộ trình học — tóm tắt
+
+- **Tuần đầu:** chọn loại thẻ (nội địa cần bằng trung cấp trở lên; quốc tế cần bằng cao đẳng trở lên + ngoại ngữ); đăng ký khóa bồi dưỡng nghiệp vụ HDV: Hà Nội Liên Việt 1,6 triệu (online 4 buổi) hoặc ĐH Thành Đông 3 triệu; Đà Nẵng ĐH Duy Tân 2,5–3 triệu (chiêu sinh liên tục); TP.HCM tra khóa mới của ĐH KHXH&NV sát ngày đăng — **lớp K57 đã khai giảng 07/12/2026, học xong trước ngày đăng, không đăng ký được nữa** (Chưa có số liệu khóa mới).
+- **Tháng đầu:** học phần thuyết minh, ghi 10 câu chuyện tuyến điểm, tập nói trước 3–5 người quen, làm 1 lịch trình tour mẫu; thi chứng chỉ nghiệp vụ HDV (ngày 17–18). **Thi xong thì CHỜ chứng chỉ — chứng chỉ cấp trong 30 ngày sau kỳ thi, KHÔNG nộp hồ sơ xin cấp thẻ ngay.**
+- **Tháng 2:** nhận chứng chỉ; nộp hồ sơ xin cấp thẻ tại Sở Du lịch (lệ phí 650.000đ/hồ sơ, thẻ 5 năm); đi theo đoàn với tư cách HDV phụ, xin thuyết minh 1 điểm trong tour.
+- **Tháng 3:** có thẻ trong tay thì bắt đầu dẫn tour nội địa và tour theo giờ. Nhận tour quốc tế: chưa — cần thẻ quốc tế + ngoại ngữ lưu loát.
+- **Sau 6 tháng:** HDV nội địa làm cho công ty lữ hành (lương cứng 9–14 triệu + tour + tip); có đánh giá khách đầu tiên. Còn thiếu để lên nấc HDV quốc tế: thẻ quốc tế + ngoại ngữ lưu loát + thuộc tuyến điểm quốc tế — nấc sau 1–2 năm.
+- **Lưu ý chống hứa quá tay:** "học 1 tháng là đi làm được" là SAI — học lấy thẻ khoảng **2–3 tháng** (khóa 1–1,5 tháng + chờ chứng chỉ 30 ngày + nộp hồ sơ cấp thẻ). "Ngày 30 dẫn tour đầu tiên" là SAI — ngày 30 đi theo tour cùng HDV có thẻ để học việc; dẫn tour khi chưa có thẻ là dẫn "chui".
+
+### Thử nghề — tóm tắt
+
+- **Đi tuyến điểm đầu tiên gần nhà, ghi lại chỗ nào dừng bao lâu (0 đồng):** chọn 1 tuyến điểm gần nhà, đi 1 buổi, ghi từng điểm dừng (dừng bao lâu, kể chuyện gì, khách hay hỏi gì).
+- **Tập nói trước 3–5 người quen (0 đồng):** kể 1 câu chuyện tuyến điểm (1–2 phút), nhờ họ nhận xét: nói có rõ không, có dài dòng không, chỗ nào buồn ngủ. Nói trước người quen còn run thì chưa nên đứng trước đoàn 30 khách.
+- **Đi theo tour cùng HDV có thẻ để học việc (0 đồng, sau khi đã học khóa nghiệp vụ):** xin đi theo 1 tour (nửa ngày, đoàn nhỏ), quan sát HDV chính, xin thuyết minh 1 điểm có HDV chính đứng cạnh. **Chưa có thẻ thì chỉ đi theo học việc, không dẫn chính.**
+- **Làm 1 lịch trình tour mẫu (0 đồng):** soạn 3 phương án (nửa ngày, 1 ngày, 2 ngày), đối chiếu giờ mở cửa, giờ ăn, thời gian di chuyển rồi sửa lại cho đúng.
+- **Tiêu chí dừng/tiếp — đánh giá sau 1 tuần, sau 1 tháng và sau 3 tháng:** tiếp tục nếu thuộc được 3 tuyến điểm, nói được 10 câu chuyện trước người quen mà không run, làm được 1 lịch trình mẫu đúng giờ, đi theo tour học việc được HDV chính nhận xét tốt; dừng lại nếu nói trước 3–5 người quen còn run tới mức không kể xong 1 câu chuyện, không chịu được đi nhiều/đứng nắng/leo dốc, không chịu học ngoại ngữ, hoặc bằng không đủ điều kiện lấy thẻ nào.
+
+### Kết luận — tóm tắt
+
+- **Ưu điểm:** nhiều tin tuyển không yêu cầu kinh nghiệm chuyên môn, có việc HDV phụ / theo xe / bán thời gian cho người mới; học phí khóa bồi dưỡng rẻ (1,6–3 triệu), lệ phí cấp thẻ 650.000đ/hồ sơ, thẻ 5 năm; ngành đang tăng (10 tháng đầu 2026: 19,5 triệu lượt khách quốc tế +13,8%, doanh thu lữ hành 87.500 tỷ +18,1%); lợi thế IT thật (lịch trình bằng AI, đặt tour online, chăm sóc khách).
+- **Nhược điểm:** học lấy thẻ mất 2–3 tháng, không phải 1 tháng; thu nhập bấp bênh theo tour — tháng không có đoàn thì gần như bằng 0 dù đã có thẻ; không có thẻ thì không được dẫn tour hợp pháp; ngoại ngữ quyết định thu nhập; sức khỏe (đi nhiều, nói nhiều, đứng nắng) + tai nạn giao thông/đuối nước trên tour biển đảo là rủi ro thật; du lịch nhạy cảm với biến động (dịch bệnh, bão, chính trị).
+- **Ai nên thử:** thích nói chuyện trước đám đông, không sợ run trước 30 khách; chịu được đi nhiều, đứng nắng, leo dốc; chịu học ngoại ngữ; chấp nhận thu nhập theo tour; có tiền dự phòng cho 2–3 tháng đầu học lấy thẻ chưa có thu nhập. **Ai không nên thử:** sợ đứng trước đám đông; sức khỏe yếu, say xe, sợ độ cao; không chịu học ngoại ngữ; muốn thu nhập cố định đều mỗi tháng; cần tiền ngay tháng đầu; tin rằng "học 1 tháng là đi làm được" hoặc "ngày 30 dẫn tour đầu tiên" (cả 2 đều sai).
+- **Điều chưa biết:** khóa mới của ĐH KHXH&NV TP.HCM sau K57 (Chưa có số liệu — cần tra sát ngày đăng 07/05/2027); hạn nộp của 3 việc trong bài thực hành (tin tra 23/11/2026, phải tra lại sát ngày đăng); học phí khóa bồi dưỡng trực tiếp tại Hà Nội (Chưa có số liệu); thời gian học ngoại ngữ tới mức dẫn tour được (Chưa có số liệu chuẩn).
+
+### Chi phí khởi điểm — tóm tắt
+
+- **A. Dụng cụ/thiết bị:** 0đ nếu đã có điện thoại, laptop. Giày đi bộ, áo chống nắng, ô: Chưa có số liệu.
+- **B. Học phí:** Liên Việt (Hà Nội, online 4 buổi) 1.600.000đ; ĐH Thành Đông (online 2–5 buổi) 3.000.000đ; ĐH Duy Tân (Đà Nẵng, 1–1,5 tháng, chiêu sinh liên tục) nội địa 2.500.000đ / quốc tế 3.000.000đ; lớp K57 (TP.HCM, khóa cũ) 2,5–3 triệu — khóa mới Chưa có số liệu. Lệ phí cấp thẻ HDV 650.000đ/hồ sơ (thẻ 5 năm) [Cập nhật: 11/2026 – trung tâm / khoản 2 Điều 4 TT 33/2018/TT-BTC, đối chiếu 24/11/2026].
+- **Học ngoại ngữ (bổ sung 23/11/2026):** khóa IELTS 3–20 triệu/khóa theo trình độ (cơ bản 3–10 triệu, trung cấp 8–15 triệu, nâng cao 15–21,9 triệu), lệ phí thi IELTS 4.664.000đ/lần (Pasal tổng hợp 2026); tiếng Anh giao tiếp Jaxtina 6–7 triệu/chặng (24 buổi × 1,5 giờ). Nguồn tổng hợp thứ cấp — dùng để ước lượng, hỏi trung tâm trước khi đóng tiền. Thời gian học ngoại ngữ tới mức dẫn tour được: Chưa có số liệu chuẩn.
+- **C. Dự phòng 2 tháng:** ăn ở, sinh hoạt — **Chưa có số liệu**; học ngoại ngữ (nếu chưa có) 6–20 triệu/khóa. Tháng học lấy thẻ (2–3 tháng) gần như chưa có thu nhập.
+- **D. Tổng cộng (A + B, chưa tính ngoại ngữ và C): 3.150.000đ** — cho nấc đã có tiếng Anh giao tiếp + khóa bồi dưỡng ĐH Duy Tân (nội địa 2,5 triệu + lệ phí cấp thẻ 650.000đ). Nếu chưa có ngoại ngữ: cộng thêm 6–20 triệu. Nếu học ở Hà Nội: Liên Việt 1,6 triệu + 650.000đ = 2.250.000đ.
+
+### Nguồn tham khảo — tóm tắt
+
+- Đầy đủ trong file nghiên cứu mục 11: tin tuyển, bảng lương tổng hợp, bảng học phí trung tâm, học phí ngoại ngữ, pháp lý, ngành du lịch, nguồn chưa kiểm chứng — mỗi nguồn có link + ngày truy cập 23/11/2026 + loại nguồn + mức tin cậy.
+
 
 
 
@@ -127,7 +165,7 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 
 [Hình: cận cảnh hướng dẫn viên cầm cờ nhỏ, đoàn 30 khách đi theo sau qua phố cổ. Chữ trên màn hình: "Một đoàn 30 khách, 1 người nói"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 1 tháng là có thể đi làm: hướng dẫn viên du lịch. Một đoàn 30 khách, 1 người nói, 29 người nghe. Cả ngày của hướng dẫn viên là như vậy. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 2–3 tháng mới cầm được thẻ đi làm: hướng dẫn viên du lịch. Khóa nghiệp vụ 1–1,5 tháng, thi chứng chỉ, chờ chứng chỉ cấp trong 30 ngày sau kỳ thi, rồi mới nộp hồ sơ cấp thẻ. Một đoàn 30 khách, 1 người nói, 29 người nghe. Cả ngày của hướng dẫn viên là như vậy. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30-2:00 - Nghề này là gì, 1 ngày làm việc thật
 
@@ -165,7 +203,7 @@ Lên nấc hai, bạn dẫn tour nội địa và tour theo giờ. Bạn học t
 
 Nấc ba là hướng dẫn viên quốc tế. Bạn cần thẻ quốc tế, ngoại ngữ lưu loát, thuộc tuyến điểm quốc tế. Thường sau 1–2 năm mới tới được đây, vì ngoại ngữ không học nhanh được.
 
-Còn học ở đâu thì có 3 đường đi, tùy bạn ở miền nào. Ở Hà Nội, lớp ôn thi chứng chỉ của Liên Việt học online 4 buổi, lệ phí 1,6 triệu. Đại học Thành Đông cũng có lớp online 2–5 buổi, chi phí 3 triệu, thi online, nhận chứng chỉ sau 1 tháng. Ở Đà Nẵng, Trường Du lịch Đại học Duy Tân mở khóa bồi dưỡng 1–1,5 tháng, học online buổi tối: nội địa 2,5 triệu, quốc tế 3 triệu. Ở TP.HCM, Đại học Khoa học Xã hội và Nhân văn mở lớp K57, khai giảng 07/12/2026, học 6 tuần, 5 buổi tối 1 tuần, học trực tiếp tại Đinh Tiên Hoàng: nội địa 2,5 triệu, quốc tế 3 triệu, chưa bao gồm lệ phí thi. Lưu ý là học phí các trường ở Hà Nội chưa tìm thấy công khai, nên bạn gọi hỏi trực tiếp trường trước khi đóng tiền."
+Còn học ở đâu thì có 3 đường đi, tùy bạn ở miền nào. Ở Hà Nội, lớp ôn thi chứng chỉ của Liên Việt học online 4 buổi, lệ phí 1,6 triệu. Đại học Thành Đông cũng có lớp online 2–5 buổi, chi phí 3 triệu, thi online, nhận chứng chỉ sau 1 tháng. Ở Đà Nẵng, Trường Du lịch Đại học Duy Tân mở khóa bồi dưỡng 1–1,5 tháng, học online buổi tối: nội địa 2,5 triệu, quốc tế 3 triệu. Ở TP.HCM, Đại học Khoa học Xã hội và Nhân văn từng mở lớp K57, khai giảng 07/12/2026, học 6 tuần, 5 buổi tối 1 tuần, học trực tiếp tại Đinh Tiên Hoàng: nội địa 2,5 triệu, quốc tế 3 triệu, chưa bao gồm lệ phí thi — lớp này đã học xong trước ngày đăng bài, không đăng ký được nữa; Chưa có số liệu khóa mới, cần tra khóa mới sát ngày đăng. Thay thế: Trường Du lịch Đại học Duy Tân ở Đà Nẵng chiêu sinh liên tục, hoặc lớp online của ĐH Thành Đông (3 triệu, 2–5 buổi, thi online). Lưu ý là học phí các trường ở Hà Nội chưa tìm thấy công khai, nên bạn gọi hỏi trực tiếp trường trước khi đóng tiền."
 
 ### 7:00-8:30 - Career path + tìm việc, tìm khách ở đâu
 
@@ -207,7 +245,7 @@ Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau m
 - Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026)
 - Giọng: nói với "bạn", không liệt kê Một/Hai/Ba, không bịa số liệu
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 1 tháng là có thể đi làm: hướng dẫn viên du lịch.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 2–3 tháng mới cầm được thẻ đi làm: hướng dẫn viên du lịch. Khóa nghiệp vụ 1–1,5 tháng, thi chứng chỉ, chờ chứng chỉ cấp trong 30 ngày sau kỳ thi, rồi mới nộp hồ sơ cấp thẻ.
 
 Một đoàn 30 khách, 1 người nói, 29 người nghe. Cả ngày của hướng dẫn viên là như vậy. Bài này nói hết về nghề hướng dẫn viên du lịch: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
@@ -253,7 +291,7 @@ Còn học ở đâu thì có 3 đường đi, tùy bạn ở miền nào.
 
 Ở Đà Nẵng, Trường Du lịch Đại học Duy Tân mở khóa bồi dưỡng 1–1,5 tháng, học online buổi tối: nội địa 2,5 triệu, quốc tế 3 triệu.
 
-Ở TP.HCM, Đại học Khoa học Xã hội và Nhân văn mở lớp K57, khai giảng 07/12/2026, học 6 tuần, 5 buổi tối 1 tuần, học trực tiếp tại Đinh Tiên Hoàng: nội địa 2,5 triệu, quốc tế 3 triệu, chưa bao gồm lệ phí thi.
+Ở TP.HCM, Đại học Khoa học Xã hội và Nhân văn từng mở lớp K57, khai giảng 07/12/2026, học 6 tuần, 5 buổi tối 1 tuần, học trực tiếp tại Đinh Tiên Hoàng: nội địa 2,5 triệu, quốc tế 3 triệu, chưa bao gồm lệ phí thi — lớp này đã học xong trước ngày đăng bài, không đăng ký được nữa; Chưa có số liệu khóa mới, cần tra khóa mới sát ngày đăng. Thay thế: Trường Du lịch Đại học Duy Tân ở Đà Nẵng chiêu sinh liên tục, hoặc lớp online của ĐH Thành Đông (3 triệu, 2–5 buổi, thi online).
 
 Nhưng học phí các trường ở Hà Nội chưa tìm thấy công khai, nên bạn gọi hỏi trực tiếp trường trước khi đóng tiền.
 
@@ -358,7 +396,7 @@ Mẹo này tiết kiệm cho bạn cả buổi ngồi gõ lịch trình. Khách 
 - Link: https://www.topcv.vn/viec-lam/huong-dan-vien-tieng-nga/1636018.html
 - Hợp với bạn nếu: bạn biết tiếng Nga, đã có thẻ hướng dẫn viên, và muốn làm ở Đà Nẵng nơi khách Nga đang tăng mạnh (1,25 triệu lượt khách Nga trong 10 tháng đầu năm 2026, tăng 150% so với cùng kỳ).
 
-3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 07/05/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Ở Cần Thơ không tìm thấy tin hướng dẫn viên riêng trên TopCV hay VietnamWorks ngày 23/11/2026. Bạn ở Cần Thơ thì tìm việc qua TopCV (lọc Cần Thơ), hỏi trực tiếp công ty lữ hành ở Cần Thơ, hoặc làm hướng dẫn viên tại điểm (chợ nổi Cái Răng, cồn Sơn) — làm theo buổi thuyết minh, không cần theo tour dài ngày.
+3 tin trên là tin tìm thấy ngày 23/11/2026 — **gần như chắc chắn hết hạn trước ngày đăng 07/05/2027 (cách ngày tra cứu hơn 5 tháng), PHẢI tra lại sát ngày đăng**. **[THAY BẰNG TIN MỚI TRƯỚC NGÀY ĐĂNG — hướng dẫn tìm tin thay thế]** Vì cả 3 tin trên đều tra ngày 23/11/2026 (Sunlight IELTS Hà Nội 15–20 triệu, Daiichi tàu Hải Phòng 14–18 triệu, Victoria tiếng Nga Đà Nẵng KPI đến 20 triệu+), trước ngày đăng 07/05/2027 phải tìm tin mới thay thế — không đăng tin cũ. Cách tìm: (1) TopCV, tìm "hướng dẫn viên du lịch" + tên thành phố (Hà Nội / Hải Phòng / Đà Nẵng / TP.HCM), lọc tin còn hạn sau 07/05/2027, ưu tiên tin ghi lương rõ và ghi "không yêu cầu kinh nghiệm" hoặc "HDV bán thời gian / theo giờ" nếu bạn mới vào nghề; (2) hỏi trực tiếp công ty lữ hành gần nhà (tìm trên Google Maps + Facebook công ty) — công ty giao tour theo mùa, hỏi trực tiếp nhanh hơn chờ tin trên sàn; (3) nền tảng đặt tour (Klook, GetYourGuide, Viator) — đăng hồ sơ HDV phụ / theo giờ. Tiêu chí chọn tin thay thế: còn hạn sau 07/05/2027, ghi rõ loại thẻ (nội địa hay quốc tế), có ghi ngoại ngữ yêu cầu hay không, lương ghi rõ theo giờ/tour/tháng (không lấy tin chỉ ghi "thỏa thuận" làm việc chính). Ở Cần Thơ không tìm thấy tin hướng dẫn viên riêng trên TopCV hay VietnamWorks ngày 23/11/2026. Bạn ở Cần Thơ thì tìm việc qua TopCV (lọc Cần Thơ), hỏi trực tiếp công ty lữ hành ở Cần Thơ, hoặc làm hướng dẫn viên tại điểm (chợ nổi Cái Răng, cồn Sơn) — làm theo buổi thuyết minh, không cần theo tour dài ngày.
 
 
 ## CV mẫu: trước và sau
@@ -401,7 +439,7 @@ Mẹo này tiết kiệm cho bạn cả buổi ngồi gõ lịch trình. Khách 
 Tuần 1: chọn loại thẻ (nội địa hay quốc tế) theo bằng cấp, đăng ký 1 khóa bồi dưỡng nghiệp vụ HDV, đi 1 tuyến điểm gần nhà, ôn ngoại ngữ 30 phút mỗi ngày.
 Tuần 2: học thuyết minh, tập nói trước đám đông, làm 1 lịch trình tour mẫu bằng AI.
 Tuần 3: ôn và thi chứng chỉ nghiệp vụ HDV, nộp hồ sơ xin cấp thẻ, nộp đơn xin làm HDV phụ.
-Tuần 4: đi theo đoàn với tư cách HDV phụ, dẫn tour đầu tiên có người kèm, mở trang đặt tour cá nhân, tổng kết 30 ngày.
+Tuần 4: đi theo đoàn với tư cách HDV phụ, đi theo tour cùng HDV có thẻ để học việc, thuyết minh 1 điểm có HDV chính đứng cạnh (chưa dẫn chính — dẫn tour khi chưa có thẻ là dẫn "chui"), mở trang đặt tour cá nhân, tổng kết 30 ngày.
 
 File checklist đầy đủ: `Info/checklist-30-ngay.md`.
 
@@ -473,7 +511,7 @@ Còn câu hỏi nào về nghề hướng dẫn viên du lịch, bạn comment b
 
 ### 01 HOOK (0–3s)
 
-Lời thoại: "Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có nghề học 1 tháng là đi làm được: hướng dẫn viên du lịch."
+Lời thoại: "Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có nghề học 2–3 tháng mới cầm được thẻ đi làm: hướng dẫn viên du lịch."
 
 Chữ trên màn hình: "Dev bị layoff thì làm gì?"
 
@@ -489,9 +527,9 @@ Hình gợi ý: hướng dẫn viên cầm cờ nhỏ, đoàn khách đi theo qu
 
 ### 03 VALUE 1 (8–16s)
 
-Lời thoại: "Học lấy thẻ khoảng 1 tháng rưỡi: khóa nghiệp vụ 2,5 triệu, thi chứng chỉ, cấp thẻ 650 nghìn."
+Lời thoại: "Học lấy thẻ khoảng 2–3 tháng: khóa nghiệp vụ 2,5 triệu, thi chứng chỉ, chờ chứng chỉ cấp trong 30 ngày sau kỳ thi, rồi nộp hồ sơ cấp thẻ 650 nghìn."
 
-Chữ trên màn hình: "1,5 tháng học lấy thẻ"
+Chữ trên màn hình: "2–3 tháng học lấy thẻ"
 
 Hình gợi ý: tấm thẻ hướng dẫn viên, bên cạnh là sách nghiệp vụ và lịch học buổi tối.
 
@@ -513,7 +551,7 @@ Hình gợi ý: hướng dẫn viên đứng trước đoàn khách, tay cầm m
 
 ### 06 PAYOFF + CTA (32–45s)
 
-Lời thoại: "Layoff rồi, giờ làm gì? Có người đổi sang nghề đi cả ngày, nói cả ngày, mà làm ra tiền ngay. Bài đầy đủ ở bài ghim."
+Lời thoại: "Layoff rồi, giờ làm gì? Có người đổi sang nghề đi cả ngày, nói cả ngày — tháng đầu đi tour đều mới có 7–10 triệu, không phải làm ra tiền ngay ngày đầu. Bài đầy đủ ở bài ghim."
 
 Chữ trên màn hình: "Layoff rồi, giờ làm gì? — Tuần sau: người trồng nấm"
 
@@ -583,7 +621,7 @@ Follow để xem Tập 3.
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 3. Chiều thứ năm, khách nước ngoài nhắn: cho tôi lịch trình Hà Nội 1 ngày, chiều nay tôi tới. Anh ấy nhờ AI soạn 3 phương án trong 10 phút, đối chiếu giờ mở cửa và giờ ăn, rồi gửi khách chọn. Khách chọn phương án 1 ngày, đặt tour luôn. Tối đó, anh ấy nghĩ: hồi làm dev, mình viết code cho người khác dùng. Giờ mình viết lịch trình, khách dùng ngay trong ngày."
+"Dev bị layoff thì làm gì? Tập 3. Chiều thứ năm, khách nước ngoài nhắn: cho tôi lịch trình Hà Nội 1 ngày, chiều nay tôi tới. Anh ấy nhờ AI soạn 3 phương án trong 10 phút, đối chiếu giờ mở cửa và giờ ăn, rồi gửi khách chọn. Khách chọn phương án 1 ngày, đặt tour luôn. Tối đó, anh ấy nghĩ: lịch trình mình viết, khách dùng ngay trong ngày. Không cần chờ ai duyệt — khách chọn là đi."
 
 ## Chữ trên màn hình
 
@@ -607,13 +645,13 @@ Follow để xem Tập 4.
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 4. Ngày 1, anh ấy đăng ký khóa nghiệp vụ hướng dẫn viên, học online buổi tối. Ngày 7, anh ấy đi tuyến điểm đầu tiên gần nhà, ghi lại chỗ nào dừng bao lâu. Ngày 15, anh ấy tập nói trước 5 người quen, run. Ngày 30, anh ấy dẫn tour đầu tiên, đoàn nhỏ, nửa ngày. Cũng run, mà lần này có khách vỗ tay cuối tour. 30 ngày, từ người chưa từng đứng trước đám đông đến người dẫn được 1 tour."
+"Dev bị layoff thì làm gì? Tập 4. Ngày 1, anh ấy đăng ký khóa nghiệp vụ hướng dẫn viên, học online buổi tối. Ngày 7, anh ấy đi tuyến điểm đầu tiên gần nhà, ghi lại chỗ nào dừng bao lâu. Ngày 15, anh ấy tập nói trước 5 người quen, run. Ngày 30, anh ấy đi theo tour cùng HDV có thẻ để học việc, thuyết minh 1 điểm có HDV chính đứng cạnh. Chưa dẫn chính — dẫn tour khi chưa có thẻ là dẫn "chui". 30 ngày, từ người chưa từng đứng trước đám đông đến người thuyết minh được 1 điểm trước đoàn thật."
 
 ## Chữ trên màn hình
 
 - 0-3s: "Dev bị layoff thì làm gì? - Tập 4"
 - 3-15s: "Ngày 1: đăng ký khóa nghiệp vụ"
-- 15-25s: "Ngày 30: dẫn tour đầu tiên"
+- 15-25s: "Ngày 30: đi theo tour cùng HDV có thẻ để học việc"
 
 ## CTA
 
@@ -680,7 +718,7 @@ Comment câu hỏi của bạn, tuần sau mình trả lời tiếp.
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học lấy thẻ hướng dẫn viên. Hà Nội thì lớp ôn thi online 4 buổi, 1 triệu 6. Đà Nẵng, khóa bồi dưỡng 1 tháng rưỡi, 2 triệu rưỡi đến 3 triệu. Còn Sài Gòn, lớp 6 tuần học buổi tối, cũng 2 triệu rưỡi đến 3 triệu. Thêm lệ phí cấp thẻ 650 nghìn nữa là đi tour được. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học lấy thẻ hướng dẫn viên. Hà Nội thì lớp ôn thi online 4 buổi, 1 triệu 6. Đà Nẵng, khóa bồi dưỡng 1 tháng rưỡi, 2 triệu rưỡi đến 3 triệu. Còn Sài Gòn, lớp K57 6 tuần học buổi tối, cũng 2 triệu rưỡi đến 3 triệu — nhưng lớp này đã khai giảng 07/12/2026, học xong trước ngày đăng, cần tra khóa mới sát ngày đăng. Thêm lệ phí cấp thẻ 650 nghìn nữa là đi tour được. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 
@@ -701,12 +739,12 @@ Comment tỉnh của bạn, mình tìm khóa học gần nhất cho bạn.
 
 - Dành cho: dev vừa bị layoff, đang học lấy chứng chỉ nghiệp vụ HDV hoặc mới xin làm HDV phụ / bán thời gian
 - Mục tiêu 30 ngày: có chứng chỉ nghiệp vụ HDV đang học hoặc đã thi, thuộc 3 tuyến điểm gần nhà, có 1 nơi nhận làm HDV phụ hoặc dẫn tour theo giờ, biết cách làm lịch trình và giữ khách
-- Căn cứ: khóa bồi dưỡng nghiệp vụ ĐH Duy Tân (1–1,5 tháng, 2,5–3 triệu) + lớp K57 ĐH KHXH&NV TP.HCM (6 tuần) + tin tuyển TopCV ngày 23/11/2026 (nhiều tin không yêu cầu kinh nghiệm chuyên môn, HDV bán thời gian 150.000–350.000đ/giờ)
+- Căn cứ: khóa bồi dưỡng nghiệp vụ ĐH Duy Tân (1–1,5 tháng, 2,5–3 triệu, chiêu sinh liên tục) + lớp K57 ĐH KHXH&NV TP.HCM (khai giảng 07/12/2026 — đã học xong trước ngày đăng 07/05/2027, cần tra khóa mới sát ngày đăng; xem mục 2 file nghiên cứu) + tin tuyển TopCV ngày 23/11/2026 (nhiều tin không yêu cầu kinh nghiệm chuyên môn, HDV bán thời gian 150.000–350.000đ/giờ)
 
 ## Tuần 1 (ngày 1–7): Đăng ký học + chọn tuyến điểm
 
 - Ngày 1–2: Chọn loại thẻ mình sẽ lấy: thẻ nội địa (cần bằng trung cấp trở lên) hay thẻ quốc tế (cần bằng cao đẳng trở lên + ngoại ngữ). Kiểm tra bằng của mình đủ điều kiện loại nào, đừng đăng ký nhầm khóa.
-- Ngày 3–4: Đăng ký 1 khóa bồi dưỡng nghiệp vụ HDV: Hà Nội thì lớp ôn thi online 1,6 triệu (Liên Việt) hoặc ĐH Thành Đông 3 triệu; Đà Nẵng thì ĐH Duy Tân 2,5–3 triệu; TP.HCM thì lớp K57 ĐH KHXH&NV 2,5–3 triệu. Hỏi rõ lịch học, lịch thi, lệ phí thi đã bao gồm chưa.
+- Ngày 3–4: Đăng ký 1 khóa bồi dưỡng nghiệp vụ HDV: Hà Nội thì lớp ôn thi online 1,6 triệu (Liên Việt) hoặc ĐH Thành Đông 3 triệu; Đà Nẵng thì ĐH Duy Tân 2,5–3 triệu (chiêu sinh liên tục); TP.HCM thì tra khóa mới của ĐH KHXH&NV sát ngày đăng — **lớp K57 đã khai giảng 07/12/2026, học xong trước ngày đăng 07/05/2027, không đăng ký được nữa** (Chưa có số liệu khóa mới — cần tra sát ngày đăng; học phí K57 cũ là 2,5–3 triệu để tham khảo). Hỏi rõ lịch học, lịch thi, lệ phí thi đã bao gồm chưa.
 - Ngày 5: Liệt kê 3 tuyến điểm gần nhà mà bạn sẽ dẫn đầu tiên (ví dụ: phố cổ, bảo tàng, chợ địa phương). Đi 1 tuyến trong ngày, ghi lại: điểm nào dừng bao lâu, khách hay hỏi gì, chỗ nào chụp ảnh đẹp.
 - Ngày 6–7: Ôn ngoại ngữ mỗi ngày 30 phút, tập nói về tuyến điểm vừa đi bằng tiếng Anh (hoặc tiếng Trung, tiếng Nga nếu bạn biết). Ghi âm lại, nghe lại xem mình nói có rõ không, có vấp không.
 
@@ -719,16 +757,16 @@ Comment tỉnh của bạn, mình tìm khóa học gần nhất cho bạn.
 ## Tuần 3 (ngày 15–21): Thi chứng chỉ + xin làm HDV phụ
 
 - Ngày 15–16: Ôn thi chứng chỉ: trắc nghiệm 60 câu, tự luận 2 câu, thực hành thuyết minh 10 phút + xử lý tình huống 5 phút. Tập bốc xăm 1 chủ đề rồi thuyết minh ngay, không chuẩn bị trước — giống y như lúc thi thật.
-- Ngày 17–18: Đi thi chứng chỉ nghiệp vụ HDV (theo lịch của khóa đã đăng ký). Thi xong nộp hồ sơ xin cấp thẻ tại Sở Du lịch / Sở Văn hóa, Thể thao và Du lịch (lệ phí 650.000đ/hồ sơ, thẻ có thời hạn 5 năm).
+- Ngày 17–18: Đi thi chứng chỉ nghiệp vụ HDV (theo lịch của khóa đã đăng ký). **Thi xong thì CHỜ chứng chỉ — chứng chỉ cấp trong 30 ngày sau kỳ thi, KHÔNG nộp hồ sơ xin cấp thẻ ngay trong 2 ngày này.** Ghi vào lịch: ngày thi + 30 ngày là ngày dự kiến có chứng chỉ; chỉ nộp hồ sơ xin cấp thẻ tại Sở Du lịch / Sở Văn hóa, Thể thao và Du lịch SAU khi đã có chứng chỉ trong tay (lệ phí 650.000đ/hồ sơ, thẻ có thời hạn 5 năm). Nộp hồ sơ cấp thẻ khi chưa có chứng chỉ là nộp thiếu giấy tờ — hồ sơ không được nhận.
 - Ngày 19–20: Liệt kê 5 công ty lữ hành gần nhà hoặc trên TopCV đang tuyển HDV (tìm "hướng dẫn viên du lịch", lọc tin còn hạn, ưu tiên tin ghi "không yêu cầu kinh nghiệm"). Nộp đơn xin làm HDV phụ / HDV theo xe / HDV bán thời gian.
 - Ngày 21: Tự đánh giá: bạn đã thuộc 3 tuyến điểm chưa, đã nói được 10 câu chuyện chưa, đã có lịch trình mẫu chưa. Chỗ nào chưa được thì tập lại, đừng giấu.
 
 ## Tuần 4 (ngày 22–30): Dẫn tour đầu tiên + xây đánh giá
 
 - Ngày 22–24: Đi theo đoàn với tư cách HDV phụ: quan sát HDV chính xử lý đoàn, ghi lại cách họ mở đầu, cách họ giữ nhịp, cách họ xử lý khách khó. Xin HDV chính cho mình thuyết minh 1 điểm trong tour.
-- Ngày 25–26: Dẫn tour đầu tiên có người kèm (tour ngắn, nửa ngày, đoàn nhỏ). Nhờ khách đánh giá sau tour: chỗ nào hay, chỗ nào cần sửa. Đánh giá đầu tiên này quan trọng hơn tiền tour.
+- Ngày 25–26: Đi theo tour cùng HDV có thẻ để học việc (tour ngắn, nửa ngày, đoàn nhỏ): quan sát HDV chính xử lý đoàn, xin thuyết minh 1 điểm có HDV chính đứng cạnh. **Chưa dẫn chính — dẫn tour khi chưa có thẻ là dẫn "chui"** (xem mục 4 file nghiên cứu). Nhờ HDV chính và khách đánh giá sau tour: chỗ nào hay, chỗ nào cần sửa. Đánh giá đầu tiên này quan trọng hơn tiền tour.
 - Ngày 27–28: Mở trang đặt tour cá nhân (Facebook / TikTok / nền tảng đặt tour): đăng lịch trình mẫu, ảnh tuyến điểm, đánh giá khách đầu tiên. Khách tìm HDV qua đánh giá, không qua quảng cáo.
-- Ngày 29–30: Tổng kết 30 ngày: bạn đã thi chứng chỉ chưa, đã thuộc bao nhiêu tuyến điểm, đã dẫn bao nhiêu tour, thu nhập thực tế tháng đầu là bao nhiêu, có bao nhiêu khách đánh giá tốt. So với mục tiêu ngày 1, cái gì đạt, cái gì chưa — viết ra, đừng chỉ nghĩ.
+- Ngày 29–30: Tổng kết 30 ngày: bạn đã thi chứng chỉ chưa (đã có chứng chỉ chưa — chứng chỉ cấp trong 30 ngày sau kỳ thi nên có thể chưa có trong 30 ngày này), đã thuộc bao nhiêu tuyến điểm, đã đi theo bao nhiêu tour học việc (chưa dẫn chính), thu nhập thực tế tháng đầu là bao nhiêu, có bao nhiêu khách đánh giá tốt. So với mục tiêu ngày 1, cái gì đạt, cái gì chưa — viết ra, đừng chỉ nghĩ.
 
 ## 5 việc làm ngay trong 7 ngày tới (dùng cho video dài + clip Thứ 6)
 

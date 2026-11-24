@@ -62,7 +62,7 @@ Còn học ở đâu thì có 3 đường đi.
 
 Nói thẳng: nghề này gần như không có việc tuyển trên TopCV hay VietnamWorks. Ngày 23/11/2026 mình đếm thấy cả 4 thành phố Hà Nội, TP.HCM, Đà Nẵng, Cần Thơ đều 0 tin tuyển riêng trồng nấm. Việc gần nhất là kỹ thuật nông nghiệp chung: Queen Farm ở Đồng Nai tuyển nhân viên kỹ thuật trồng trọt 12-15 triệu bao ăn ở, SOFa ở TP.HCM tuyển nhân viên kỹ thuật nông nghiệp 12-16 triệu, VNFarm ở Cần Thơ tuyển chuyên viên kỹ thuật cây trồng 10-15 triệu. Nhưng 3 việc này cần bằng cấp nông nghiệp, không phải việc trồng nấm.
 
-Cho nên cửa vào chính của nghề này là tự trồng bán. Đi xin việc gần như không có cửa. Đầu ra thì có 3 chỗ để bắt đầu: chợ đầu mối và chợ gần nhà, quán ăn và siêu thị mini khu vực, và bán lẻ qua Group cư dân với Facebook cá nhân. Trại ở Huế bán cho chợ đầu mối Huế rồi phân phối đi Quảng Trị, Quảng Bình. Trại ở Hà Tĩnh bán cho chợ Bình Hương mỗi ngày 70-80 ký. Bạn mới thì bắt đầu bằng chợ gần nhà và khách quen, đừng mơ siêu thị ngay tháng đầu.
+Cho nên cửa vào chính của nghề này là tự trồng bán. Đi xin việc gần như không có cửa. Đầu ra thì có 3 chỗ để bắt đầu: chợ đầu mối và chợ gần nhà, quán ăn và siêu thị mini khu vực, và bán lẻ qua Group cư dân với Facebook cá nhân. Trại ở Huế bán cho chợ đầu mối Huế rồi phân phối đi Quảng Trị, Quảng Bình. Trại ở Hà Tĩnh bán cho chợ Bình Hương mỗi ngày 70-80 ký (vietnamnet.vn, bài đăng 25/10/2026). Bạn mới thì bắt đầu bằng chợ gần nhà và khách quen, đừng mơ siêu thị ngay tháng đầu.
 
 **Thu nhập bao nhiêu**
 
@@ -82,6 +82,6 @@ Một điểm nữa: không có số lương BLS của Mỹ cho nghề trồng n
 
 **Rủi ro thật**
 
-Mốc xanh là bệnh hại nhất. Nấm mốc xanh làm hỏng cả lứa, phát hiện muộn là mất trắng. Phôi hỏng vì làm sai kỹ thuật nhỏ: rút bông sớm khi bịch chưa đủ tuổi thì bịch yếu rồi mốc. Nhiệt độ và độ ẩm phải giữ đều, trại mái tôn bí hơi thì bịch đọng nước, nấm ra xấu. Nấm tươi chỉ để được vài ngày, thu hoạch xong phải bán ngay trong ngày, nấm ra cả lứa cùng lúc mà không có đầu ra sẵn là mất trắng lứa đó. Vốn thì nằm trong nhà trại và phôi, tiền bỏ ra trước, 1-2 tháng sau mới thu về lứa đầu. Không có chuyện chắc chắn có lãi hay trồng là bán được.
+Mốc xanh là bệnh hại nhất. Nấm mốc xanh làm hỏng cả lứa, phát hiện muộn là mất trắng. Phôi hỏng vì làm sai kỹ thuật nhỏ: rút bông sớm khi bịch chưa đủ tuổi thì bịch yếu rồi mốc. Nhiệt độ và độ ẩm phải giữ đều, trại mái tôn bí hơi thì bịch đọng nước, nấm ra xấu. Nấm tươi chỉ để được vài ngày, thu hoạch xong phải bán ngay trong ngày, nấm ra cả lứa cùng lúc mà không có đầu ra sẵn là mất trắng lứa đó. Vốn thì nằm trong nhà trại và phôi, tiền bỏ ra trước, 1-2 tháng sau mới thu về lứa đầu. Không có chuyện chắc chắn có lãi hay trồng là bán được. Bán nấm thường xuyên thì đăng ký hộ kinh doanh (Nghị định 168/2025/NĐ-CP) và tuân thủ quy định an toàn thực phẩm — nấm tươi là thực phẩm, không bán bừa khi chưa rõ quy định.
 
 Lưu bài này lại, comment "Trồng nấm" để nhận checklist 30 ngày đầu trồng nấm. Đây là tuần nghề cuối cùng trong 24 tuần. 2 tuần sau mình ngồi lại, so sánh hết 24 nghề xem nghề nào hợp với bạn nhất.

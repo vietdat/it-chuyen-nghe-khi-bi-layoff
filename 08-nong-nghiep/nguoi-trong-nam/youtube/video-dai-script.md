@@ -75,7 +75,7 @@ Còn học ở đâu thì có 3 đường đi. Rẻ nhất là mua 200-500 bịc
 
 Tìm việc đầu tiên ở đâu? Nói thẳng: nghề này gần như không có việc tuyển trên TopCV hay VietnamWorks. Ngày 23/11 mình đếm thấy cả 4 thành phố Hà Nội, TP.HCM, Đà Nẵng, Cần Thơ đều 0 tin tuyển riêng trồng nấm. Việc gần nhất là kỹ thuật nông nghiệp chung: Queen Farm ở Đồng Nai tuyển nhân viên kỹ thuật trồng trọt 12-15 triệu bao ăn ở, SOFa ở TP.HCM tuyển nhân viên kỹ thuật nông nghiệp 12-16 triệu, VNFarm ở Cần Thơ tuyển chuyên viên kỹ thuật cây trồng 10-15 triệu. Nhưng 3 việc này cần bằng cấp nông nghiệp, không phải việc trồng nấm.
 
-Cho nên cửa vào chính của nghề này là tự trồng bán. Đi xin việc gần như không có cửa. Đầu ra thì có 3 chỗ để bắt đầu: chợ đầu mối và chợ gần nhà, quán ăn và siêu thị mini khu vực, và bán lẻ qua Group cư dân với Facebook cá nhân. Trại ở Huế bán cho chợ đầu mối Huế rồi phân phối đi Quảng Trị, Quảng Bình. Trại ở Hà Tĩnh bán cho chợ Bình Hương mỗi ngày 70-80 ký. Bạn mới thì bắt đầu bằng chợ gần nhà và khách quen, đừng mơ siêu thị ngay tháng đầu."
+Cho nên cửa vào chính của nghề này là tự trồng bán. Đi xin việc gần như không có cửa. Đầu ra thì có 3 chỗ để bắt đầu: chợ đầu mối và chợ gần nhà, quán ăn và siêu thị mini khu vực, và bán lẻ qua Group cư dân với Facebook cá nhân. Trại ở Huế bán cho chợ đầu mối Huế rồi phân phối đi Quảng Trị, Quảng Bình. Trại ở Hà Tĩnh bán cho chợ Bình Hương mỗi ngày 70-80 ký (vietnamnet.vn, bài đăng 25/10/2026). Bạn mới thì bắt đầu bằng chợ gần nhà và khách quen, đừng mơ siêu thị ngay tháng đầu. Bán nấm thường xuyên thì đăng ký hộ kinh doanh và tuân thủ quy định an toàn thực phẩm — nấm tươi là thực phẩm, không bán bừa khi chưa rõ quy định."
 
 ### 8:30-9:30 - Thu nhập + sự thật + nhu cầu thị trường
 

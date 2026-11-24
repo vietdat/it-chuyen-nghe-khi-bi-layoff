@@ -15,17 +15,17 @@
 - Yêu cầu: nhận cả 2 đối tượng, đã có chứng nhận giáo viên dạy thực hành lái xe, và chưa có chứng nhận thì trung tâm hỗ trợ đào tạo, tập huấn miễn phí để cấp chứng nhận.
 - Ngày thấy tin: 23/11/2026 (viecoday.com, tin đăng 01/11/2026)
 - Link: https://www.viecoday.com/job/giao-vien-day-lai-xe-ha-noi-57e103fae48b
-- Hợp với bạn nếu: bạn ở Hà Nội, đã có bằng B2 đủ 3 năm nhưng chưa có chứng chỉ sư phạm, muốn trung tâm đào tạo miễn phí cho mình.
+- Hợp với bạn nếu: bạn ở Hà Nội, đã có bằng B2 nhưng chưa có chứng chỉ sư phạm, muốn trung tâm đào tạo miễn phí cho mình.
 
 ### Việc 2: Giáo viên dạy thực hành lái xe - TP.HCM (tuyển gấp 10 người)
 
 - Trung tâm: Trung tâm Thành Công, TP.HCM
 - Lương: 15.000.000–20.000.000đ/tháng, được cấp xe tập lái, lương tháng 13, thưởng lễ Tết, du lịch hàng năm
-- Yêu cầu: nam 25–40 tuổi, bằng lái B2 trên 3 năm, bằng trung cấp trở lên, có chứng chỉ sư phạm. Ưu tiên người đã có chứng nhận giáo viên thực hành; chưa có thì trung tâm hướng dẫn, hỗ trợ đi tập huấn.
+- Yêu cầu: nam 25–40 tuổi, bằng lái B2 trên 3 năm (yêu cầu riêng của tin tuyển này, không phải điều kiện pháp luật — theo Điều 10 NĐ 94/2026, giáo viên thực hành chỉ cần GPLX hạng tương ứng trở lên [Cập nhật: 11/2026, đối chiếu 24/11/2026]), bằng trung cấp trở lên, có chứng chỉ sư phạm. Ưu tiên người đã có chứng nhận giáo viên thực hành; chưa có thì trung tâm hướng dẫn, hỗ trợ đi tập huấn.
 - Địa điểm: làm việc gần nhà tại Tân Phú, Quận 2, Quận 7, Nhà Bè. Nộp hồ sơ tại 439 Hoàng Văn Thụ, phường Tân Sơn Nhất, TP.HCM.
 - Ngày thấy tin: 23/11/2026 (thuonghoi.vn, tin cập nhật trong ngày)
 - Link: https://thuonghoi.vn/trung-tam-thanh-cong-tuyen-10-giao-vien-thuc-hanh/91342854.html
-- Hợp với bạn nếu: bạn ở TP.HCM, đã có bằng B2 trên 3 năm và chứng chỉ sư phạm, muốn thu nhập ghi rõ và được cấp xe.
+- Hợp với bạn nếu: bạn ở TP.HCM, đã có bằng B2 trên 3 năm (theo yêu cầu riêng của tin tuyển này) và chứng chỉ sư phạm, muốn thu nhập ghi rõ và được cấp xe.
 
 ### Việc 3: Giáo viên dạy thực hành lái xe hạng B, C1 - TP.HCM (tuyển 10 người)
 
@@ -37,7 +37,9 @@
 - Link: https://www.tuthucbinhduong.com/tin-tuc/tuyen-dung-giao-vien-thuc-hanh-nhan-vien-phong-dao-tao-ttbd/
 - Hợp với bạn nếu: bạn đã đủ giấy tờ (bằng lái + chứng chỉ sư phạm + tập huấn) và muốn dạy cả hạng B lẫn C1.
 
-3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 30/04/2027, cách ngày tra cứu hơn 5 tháng, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở, không đăng tin hết hạn. Nghề này tuyển theo đợt, tin đóng nhanh.
+3 tin trên là tin tìm thấy ngày 23/11/2026 — **gần như chắc chắn hết hạn trước ngày đăng 30/04/2027 (cách ngày tra cứu hơn 5 tháng), PHẢI tra lại sát ngày đăng**. Nghề này tuyển theo đợt, tin đóng nhanh.
+
+**[THAY BẰNG TIN MỚI TRƯỚC NGÀY ĐĂNG — hướng dẫn tìm tin thay thế]** Vì cả 3 tin trên đều tra ngày 23/11/2026 (Đại An đăng 01/11/2026, Tư thục Bình Dương đăng 30/10/2026, Thành Công cập nhật 23/11/2026), trước ngày đăng 30/04/2027 phải tìm tin mới thay thế — không đăng tin cũ. Cách tìm: (1) TopCV và Vieclam24h, tìm "giáo viên dạy lái xe" / "giáo viên dạy thực hành lái xe", lọc tin còn hạn sau 30/04/2027, ưu tiên tin ghi lương rõ (ví dụ Thành Công từng ghi 15–20 triệu) và ghi "nhận cả người chưa có chứng nhận" nếu bạn chưa có chứng chỉ; (2) web của trung tâm lớn — Công ty Đào tạo Lái xe Thủ Đức (daotaolaixethuduc.vn) từng tuyển 165 chỉ tiêu một đợt (11/2026), theo dõi web xem có đợt mới không; (3) hỏi trực tiếp trung tâm dạy lái gần nhà (tìm trên Google Maps + Facebook trung tâm) — trung tâm tuyển theo đợt, hỏi trực tiếp nhanh hơn chờ tin trên sàn; (4) viecoday.com — nơi từng đăng tin Đại An. Tiêu chí chọn tin thay thế: còn hạn sau 30/04/2027, ghi rõ bằng lái hạng nào (lưu ý: một số tin vẫn tự yêu cầu đủ 3 năm — đó là yêu cầu riêng của trung tâm, không phải điều kiện pháp luật), có ghi chứng chỉ sư phạm/tập huấn hay trung tâm đào tạo miễn phí, lương ghi rõ (không lấy tin chỉ ghi "thỏa thuận" làm việc chính).
 
 Riêng 2 tin sau chỉ dùng để tham khảo, KHÔNG dùng làm việc thật vì đã hết hạn từ lúc tra cứu: Công ty CP Đào tạo Lái xe Thủ Đức tuyển 165 chỉ tiêu (50 giáo viên cơ hữu + 100 tập sự), hạn nộp 20/11/2026; Trung tâm GDNN Màu Hoa Đỏ ở Cần Thơ tuyển 2 giáo viên dạy thực hành, tin đã hết hạn trên TopCV. Bạn ở Cần Thơ thì gọi trực tiếp trung tâm Màu Hoa Đỏ (345 Nguyễn Văn Linh, Ninh Kiều) hỏi còn tuyển không, thay vì chờ tin mới trên sàn.
 
@@ -79,7 +81,7 @@ Riêng 2 tin sau chỉ dùng để tham khảo, KHÔNG dùng làm việc thật 
 
 ## Checklist 30 ngày đầu (tóm tắt)
 
-Tuần 1: kiểm tra bằng lái đủ 03 năm chưa, đăng ký khóa chứng chỉ sư phạm sơ cấp (2,5 triệu, học online), liệt kê 5 trung tâm gần nhà, đi hỏi 2-3 trung tâm về tập sự.
+Tuần 1: kiểm tra bằng lái hạng B còn hiệu lực không, đăng ký khóa chứng chỉ sư phạm sơ cấp (2,5 triệu, học online), liệt kê 5 trung tâm gần nhà, đi hỏi 2-3 trung tâm về tập sự.
 Tuần 2: ngồi ghế phụ quan sát, học thuộc 11 bài sa hình, ghi sổ 10 lỗi học viên hay mắc.
 Tuần 3: hỏi bảng học phí và lịch học của trung tâm, dạy thử 1 buổi có người kèm, làm file theo dõi học viên.
 Tuần 4: tự dạy 1 buổi trọn vẹn có người kiểm tra, đăng 1 video ngắn về nghề, hỏi trung tâm bao giờ được lên giáo viên chính thức, tổng kết 30 ngày.

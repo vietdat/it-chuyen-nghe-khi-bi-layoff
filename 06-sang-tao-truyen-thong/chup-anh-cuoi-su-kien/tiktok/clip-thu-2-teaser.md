@@ -7,7 +7,7 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Tối đó, anh ấy mở tin tuyển photographer: làm thuê cho studio 8 đến 12 triệu một tháng, còn đi chụp phụ theo show thì 1 đến 2 triệu một ca. Tháng đầu làm thợ chụp phụ, anh ấy được bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
+"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Tối đó, anh ấy mở tin tuyển photographer: làm thuê cho studio 8 đến 12 triệu một tháng (tin nào cũng cần 1 năm kinh nghiệm), còn đi chụp phụ theo show thì 1 đến 2 triệu một ca. Tháng đầu làm thợ chụp phụ, anh ấy được bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
 
 ## Chữ trên màn hình
 

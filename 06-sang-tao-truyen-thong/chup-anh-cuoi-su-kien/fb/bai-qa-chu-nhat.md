@@ -15,7 +15,7 @@ Mùa cưới Việt Nam kéo dài từ tháng 9 đến tháng 4 năm sau, cao đ
 
 **Chưa có máy ảnh đắt tiền, có học chụp cưới được không?**
 
-Học được, nhưng bạn cần 1 chiếc máy ảnh để luyện tay — chưa cần máy đắt nhất, cần máy dùng thành thạo. Đường vào nhanh nhất không tốn học phí là xin làm second shooter cho team cưới: bạn học trên show thật, dùng máy của mình hoặc máy của team tùy thỏa thuận. Trước khi đi show thật, bạn học 3 thông số gốc (khẩu độ, tốc độ, ISO) và quy trình sao lưu ảnh. Chưa có số giá máy cụ thể trong tuần này — ghi "Chưa có số liệu", bạn ra cửa hàng máy ảnh hỏi giá máy cũ và máy mới trước khi mua.
+Học được, nhưng bạn cần 1 chiếc máy ảnh để luyện tay — chưa cần máy đắt nhất, cần máy dùng thành thạo. Đường vào nhanh nhất không tốn học phí là xin làm second shooter cho team cưới: bạn học trên show thật, dùng máy của mình hoặc máy của team tùy thỏa thuận. Trước khi đi show thật, bạn học 3 thông số gốc (khẩu độ, tốc độ, ISO) và quy trình sao lưu ảnh. Giá máy tra ngày 23/11/2026: body Sony A7 III cũ 20–25 triệu, mới 36–40 triệu; bộ tối thiểu (máy cũ + ống Tamron cũ + đèn Godox V1 + thẻ nhớ + ổ cứng SSD) khoảng 43,5 triệu, mua mới khoảng 66,8 triệu (xem mục 10 trong file nghiên cứu). Pin dự phòng thì chưa có số giá cụ thể — ghi "Chưa có số liệu".
 
 **Không biết gì về nhiếp ảnh, có học được không?**
 
@@ -23,7 +23,7 @@ Học được, nếu bạn có mắt nhìn hình ảnh và chịu luyện. Pool
 
 **Cần vốn bao nhiêu để bắt đầu?**
 
-Đi làm thuê thì vốn gần như bằng 0 ngoài tiền máy ảnh: xin làm second shooter, team có show, bạn chỉ cần thời gian đi học việc, tiền theo ca 1–2 triệu 1 ca theo bảng giá Hà Nội 2024–2025. Nếu học khóa nhiếp ảnh thì học phí khoảng 7–10 triệu 1 khóa (ví dụ Mimosa Academy Hà Nội: cơ bản 7 triệu, nâng cao 10 triệu, 2–5 tháng). Vốn lớn nhất là thiết bị: máy ảnh, ống kính, đèn flash, thẻ nhớ, pin dự phòng — chưa có số giá cụ thể trong tuần này, ghi "Chưa có số liệu".
+Đi làm thuê thì vốn gần như bằng 0 ngoài tiền máy ảnh: xin làm second shooter, team có show, bạn chỉ cần thời gian đi học việc, tiền theo ca 1–2 triệu 1 ca theo bảng giá Hà Nội 2024–2025. Nếu học khóa nhiếp ảnh thì học phí khoảng 7–10 triệu 1 khóa (ví dụ Mimosa Academy Hà Nội: cơ bản 7 triệu, nâng cao 10 triệu, 2–5 tháng). Vốn lớn nhất là thiết bị: bộ tối thiểu khoảng 43,5 triệu (mua cũ) đến 66,8 triệu (mua mới) — body Sony A7 III, ống Tamron 28–75mm, đèn Godox V1, thẻ nhớ, ổ cứng SSD (giá tra ngày 23/11/2026, xem mục 10 trong file nghiên cứu); pin dự phòng chưa có số giá — ghi "Chưa có số liệu".
 
 **Photographer cưới có bị AI thay thế không?**
 

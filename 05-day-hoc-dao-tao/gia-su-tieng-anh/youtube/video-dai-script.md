@@ -25,7 +25,7 @@
 
 [Hình: cận cảnh màn hình Zoom, học viên nói 1 câu tiếng Anh, gia sư mỉm cười sửa lỗi. Chữ trên màn hình: "Học viên nói sai 3 chỗ, sửa xong nói lại đúng ngay"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề không cần mặt bằng, không cần vốn, làm được từ nhà: gia sư tiếng Anh. Học viên nói 1 câu tiếng Anh, sai 3 chỗ. Gia sư sửa từng chỗ, học viên nói lại đúng ngay buổi đó. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề không cần mặt bằng, vốn bắt đầu thấp — tai nghe có mic khoảng 175.000–279.000đ [Cập nhật: 11/2026 – trang bán hàng, tra 23/11/2026] — làm được từ nhà: gia sư tiếng Anh. Nhưng tháng đầu thu nhập gần như bằng 0: dạy thử miễn phí, học viên nghỉ dần vì Tết. Học viên nói 1 câu tiếng Anh, sai 3 chỗ. Gia sư sửa từng chỗ, học viên nói lại đúng ngay buổi đó. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30–2:00 — Nghề này là gì, 1 ngày làm việc thật
 

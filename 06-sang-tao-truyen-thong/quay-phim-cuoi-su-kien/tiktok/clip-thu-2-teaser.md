@@ -7,12 +7,12 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Tối đó, anh ấy mở tin tuyển quay phim: làm thuê cho công ty 9 đến 16 triệu một tháng, còn đi quay phụ theo show thì 800.000 đến 1.500.000đ một ngày. Tháng đầu làm quay phụ, anh ấy được bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
+"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Tối đó, anh ấy mở tin tuyển quay phim: làm thuê cho công ty, tin ghi 9 đến 16 triệu một tháng — mà tin nào cũng cần 1 tới 2 năm kinh nghiệm. Người mới thì đi quay phụ theo show, 800.000 đến 1.500.000đ một ngày. Tháng đầu làm quay phụ, anh ấy được bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
 
 ## Chữ trên màn hình
 
 - 0–3s: "Dev bị layoff thì làm gì? — Tập 1"
-- 3–15s: "Làm thuê: 9–16 triệu/tháng — Quay phụ: 800.000–1.500.000đ/ngày"
+- 3–15s: "Làm thuê: 9–16 triệu/tháng (cần 1–2 năm KN) — Quay phụ: 800.000–1.500.000đ/ngày"
 - 15–25s: "Video đầy đủ: YouTube 19h — Facebook 20h"
 
 ## CTA

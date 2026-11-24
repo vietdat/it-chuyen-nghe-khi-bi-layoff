@@ -11,7 +11,7 @@
 
 | Đoạn | Thời gian | Lời thoại | Chữ trên màn hình | Hình gợi ý |
 |---|---|---|---|---|
-| 01 HOOK | 0–3s | "Bạn là dev, vừa bị layoff. Có một nghề không cần vốn, làm được từ nhà: gia sư tiếng Anh." (20 từ) | "Dev bị layoff đi dạy tiếng Anh?" | Dev ôm thùng đồ ra khỏi văn phòng, bên cạnh là màn hình dạy online |
+| 01 HOOK | 0–3s | "Bạn là dev, vừa bị layoff. Có một nghề không cần mặt bằng, vốn bắt đầu thấp, làm được từ nhà: gia sư tiếng Anh. Nhưng tháng đầu gần như chưa có thu nhập — dạy thử miễn phí, học viên nghỉ Tết." (20 từ) | "Dev bị layoff đi dạy tiếng Anh?" | Dev ôm thùng đồ ra khỏi văn phòng, bên cạnh là màn hình dạy online |
 | 02 CONTEXT | 3–8s | "Học viên nói một câu tiếng Anh, sai ba chỗ. Gia sư sửa từng chỗ, học viên nói lại đúng ngay buổi đó." (23 từ) | "Sửa từng chỗ, nói lại đúng ngay" | Màn hình Zoom, học viên nói, gia sư gạch chân lỗi rồi sửa |
 | 03 VALUE 1 | 8–16s | "Nếu tiếng Anh của bạn đã đủ mức, một hai tuần là có buổi dạy thử đầu tiên. Nền tảng có giáo trình sẵn." (24 từ) | "1–2 tuần là có buổi dạy thử" | Lịch 2 tuần, buổi dạy thử đầu tiên được đánh dấu |
 | 04 VALUE 2 | 16–26s | "Dân IT dạy khác: slide tự làm, AI soạn bài tập theo trình độ từng học viên, app nhắc lịch học và theo dõi tiến độ." (26 từ) | "Slide tự làm, AI soạn bài, app nhắc lịch" | Slide, khung chat AI, bảng theo dõi tiến độ hiện lên |

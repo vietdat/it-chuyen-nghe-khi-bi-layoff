@@ -10,11 +10,11 @@
 
 ## Mục lục
 
-1. [Lịch tuần 24 - 7 ngày, 15 bài](#1-lịch-tuần-24--7-ngày-15-bài)
+1. [Lịch tuần 24 - 7 ngày, 15 bài](#1-lịch-tuần-24---7-ngày-15-bài)
 2. [Nghiên cứu thị trường tóm tắt](#2-nghiên-cứu-thị-trường-tóm-tắt)
-3. [YouTube - Script video dài Thứ 2](#3-youtube--script-video-dài-thứ-2)
-4. [Facebook - 6 bài](#4-facebook--6-bài)
-5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok--8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
+3. [YouTube - Script video dài Thứ 2](#3-youtube---script-video-dài-thứ-2)
+4. [Facebook - 6 bài](#4-facebook---6-bài)
+5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok---8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
 6. [Checklist 30 ngày đầu](#6-checklist-30-ngày-đầu)
 7. [Lưu ý trước khi đăng](#7-lưu-ý-trước-khi-đăng)
 
@@ -83,7 +83,7 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 
 - Giá bán: nấm bào ngư lẻ 40.000-70.000đ/kg, sỉ cho chợ khoảng 30.000đ/kg; nấm rơm 60.000-70.000đ/kg, ngày rằm 90.000-100.000đ/kg; mộc nhĩ khoảng 160.000đ/kg; nấm linh chi khoảng 1-1,2 triệu đồng/kg. Phôi nấm: bào ngư 7.000-12.000đ/bịch, mộc nhĩ 12.000đ/bịch, linh chi 15.000-16.000đ/bịch.
 - Trại 5.000 bịch phôi (anh Đinh Văn Hào, TP. Huế): giai đoạn đầu doanh thu 15-20 triệu/tháng (giá 40.000-50.000đ/kg), hiện nay giá 60.000-70.000đ/kg, doanh thu 30-40 triệu/tháng. Đây là doanh thu, chưa trừ chi phí.
-- Trại 1.000m², vốn 500 triệu (vợ chồng anh Lê Trọng Đức, Hà Tĩnh): thu 100kg nấm/ngày, giá sỉ 30.000đ/kg, doanh thu khoảng 1 tỷ/năm, lãi khoảng 300 triệu/năm. Sản phẩm OCOP 3 sao.
+- Trại 1.000m², vốn 500 triệu (vợ chồng anh Lê Trọng Đức, Hà Tĩnh): thu 100kg nấm/ngày, giá sỉ 30.000đ/kg, doanh thu khoảng 1 tỷ/năm, lãi khoảng 300 triệu/năm. Sản phẩm OCOP 3 sao. Riêng chợ Bình Hương, mỗi ngày cơ sở cung cấp khoảng 70-80kg nấm (vietnamnet.vn, bài đăng 25/10/2026, tra cứu 23/11/2026).
 - Trại hơn 1.000m² (chị Nguyễn Thị Tâm, Phú Xuyên, Hà Nội): doanh thu 600-700 triệu/năm, lãi gần 200 triệu/năm.
 - Trại 1.500m², gần 100.000 phôi (chị Nguyễn Thị Mỹ Hạnh, Gia Lai): 2-3 tấn nấm/tháng, giá 45.000-50.000đ/kg, cao điểm 65.000-70.000đ/kg. Thuê 7 lao động, lương 6-7 triệu/người/tháng.
 - Trại 850m², vốn trên 1 tỷ (ông Phan Huy Tuận, Hà Tĩnh): 17.000 bịch meo/năm, gần 10 tấn nấm sò/năm, giá 40.000-45.000đ/kg, thu nhập trên 200 triệu/năm.
@@ -91,6 +91,34 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 - Chi phí đầu tư: trồng thử 200-500 bịch phôi thì tiền phôi khoảng 1,5-6 triệu. Mô hình nhà nước hỗ trợ ở Tây Ninh: nhà 18m² + 1.500 bịch phôi hết khoảng 200 triệu. Nấm linh chi: vốn tối thiểu 150 triệu quy mô nhỏ, 300 triệu trở lên quy mô vừa.
 - Không có số lương BLS của Mỹ cho nghề trồng nấm, vì BLS không công bố riêng nghề này. Không bịa số so sánh.
 - Kết luận: người mới trồng thử 200-500 bịch thì tiền bán lứa đầu chỉ đủ bù tiền phôi. Trồng ổn định quy mô 5.000 bịch phôi thì doanh thu 15-40 triệu/tháng tùy giá nấm lúc đó (chưa trừ chi phí). Trồng quy mô 1.000m² trở lên thì doanh thu khoảng 1 tỷ/năm, lãi khoảng 200-300 triệu/năm - nhưng vốn ban đầu 500 triệu đến trên 1 tỷ, cần 1-2 năm mới tới được mốc này. Thu nhập theo lứa, không đều tháng nào cũng như tháng nào.
+
+**Career path:** tháng 1-2 trồng thử 200-500 bịch phôi, lứa đầu ra sau 35-60 ngày ủ tơ; tháng 3-6 trồng ổn định, bán được đều; tháng 6-12 mở rộng lên 5.000 bịch phôi; năm 1-2 làm chủ trại (tự làm phôi, tự cấy giống).
+
+### Lộ trình học theo tuần/tháng (mục 9 — tóm tắt, đầy đủ trong file nghiên cứu mục 6)
+
+- Tuần 1–2: học kỹ thuật cơ bản — phôi ủ tơ 35–60 ngày, cách treo phôi, giữ nhiệt độ / độ ẩm; mua 200 bịch phôi về trồng thử; làm nhật ký nhà nấm bằng bảng tính (ghi nhiệt độ, độ ẩm, ngày rút bông).
+- Tuần 3–4: treo phôi, kiểm tra bịch phôi mỗi ngày (tơ trắng ăn đều thì khỏe, ngả vàng thì đánh dấu, mốc xanh thì nhặt ra ngay); học cách xử lý mốc.
+- Tháng 2: lứa đầu ra — thu hoạch, bán thử ở chợ gần nhà / Group cư dân; ghi lại lứa đầu bán được bao nhiêu ký, giá bao nhiêu.
+- Tháng 3–6: đã qua 2–3 lứa, biết xử lý mốc, giữ nhiệt độ / độ ẩm, có đầu ra quen — trồng ổn định, bán được đều.
+- Tháng 6–12: mở rộng quy mô (lên 5.000 bịch phôi nếu đầu ra ổn); cân nhắc khóa 14 ngày ở HTX Sáng Thiện (Hà Nội) khi muốn học bài bản.
+- Năm 1–2: tự làm phôi, tự cấy giống, mở rộng nhà trại — làm chủ trại.
+
+### Thử nghề (mục 10 — tóm tắt, đầy đủ trong file nghiên cứu mục 7)
+
+- Cách 1 — mua 200 bịch phôi trồng thử: tiền phôi 1,5–6 triệu (7.000–12.000đ/bịch), trồng ở nhà / ban công / sân thượng, 1–2 tháng có lứa đầu; xem mình có chịu được việc chờ 35–60 ngày không có đồng nào không.
+- Cách 2 — bán thử lứa đầu: mang nấm lứa đầu ra chợ gần nhà hỏi sạp rau / sạp nấm, hoặc bán lẻ qua Group cư dân; xem có đầu ra không, và mình có chịu được việc nấm ra cả lứa cùng lúc mà phải bán ngay trong ngày không.
+- Cách 3 — xin học việc ở trại nấm gần nhà: làm phụ ở trại 1–2 tuần, học cách kiểm tra phôi, xử lý mốc, giữ nhiệt độ / độ ẩm.
+- Tiếp tục nếu chịu được chờ 1–2 tháng không có thu nhập, thích chăm phôi mỗi ngày, lứa đầu bán được, có ít nhất 1 đầu ra quen; dừng lại nếu không chịu được tháng đầu chưa có đồng nào, ghét làm trong nhà ẩm, bị dị ứng bào tử nấm / khó thở, hoặc lứa đầu hỏng hết vì mốc mà không muốn học lại.
+
+**Pháp lý:** bán nấm thường xuyên thì đăng ký hộ kinh doanh (Nghị định 168/2025/NĐ-CP) + tuân thủ quy định an toàn thực phẩm (Nghị định 15/2018/NĐ-CP); chưa có số liệu về giấy chứng nhận ATTP cụ thể cho hộ trồng nấm bán lẻ.
+
+### Chi phí khởi điểm (tóm tắt, đầy đủ trong file nghiên cứu mục 10)
+
+- Phôi nấm bào ngư 7.000–12.000đ/bịch; trồng thử 200–500 bịch phôi + khóa 14 ngày giá cũ 1,5 triệu (HTX Nấm Sáng Thiện, giá theo bài 2015 — đã cũ, gọi hỏi lại) = khoảng 3–7,5 triệu.
+- Làm thật quy mô nhỏ (nhà trại 18m² + hệ thống tưới phun sương + 1.500 bịch phôi bào ngư) khoảng 200 triệu theo mô hình nhà nước hỗ trợ ở Tây Ninh (thông báo 8/2025); nấm linh chi quy mô nhỏ vốn tối thiểu khoảng 150 triệu.
+- Dự phòng sinh hoạt 2 tháng: Chưa có số liệu. Chưa gồm giá treo, bình phun sương, tiền thuê mặt bằng nếu không có đất sẵn.
+
+**Cảnh báo tin tuyển:** mọi tin trong file tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 10/05/2027 — PHẢI tra lại sát ngày đăng (cách tìm tin thay thế trong mục 1 file nghiên cứu). 0 tin tuyển riêng nghề trồng nấm trên sàn.
 
 ### Rủi ro thật
 
@@ -102,6 +130,19 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 - Vốn nằm trong nhà trại và phôi: tiền bỏ ra trước, 1-2 tháng sau mới thu về lứa đầu. Không có chuyện "chắc chắn có lãi" hay "trồng là bán được".
 - Không gian: cần nhà trại tối thiểu khoảng 18m², không cần đất ruộng nhưng cần chỗ mát, ẩm, có điện nước. Ở chung cư chật thì chỉ trồng thử vài chục bịch.
 - Sức khỏe: làm trong nhà ẩm, hít bào tử nấm nhiều giờ mỗi ngày. Người có bệnh về hô hấp nên đeo khẩu trang và giữ trại thông thoáng.
+- An toàn thực phẩm + đăng ký kinh doanh (khi bán nấm thường xuyên): nấm tươi là thực phẩm — đăng ký hộ kinh doanh (Nghị định 168/2025/NĐ-CP); tuân thủ quy định an toàn thực phẩm (Nghị định 15/2018/NĐ-CP). Chưa có số liệu về giấy chứng nhận ATTP cụ thể cho hộ trồng nấm bán lẻ.
+
+### Kết luận (mục 11 — tóm tắt, đầy đủ trong file nghiên cứu mục 8)
+
+- Hợp với người kiên nhẫn, chịu được chờ 1–2 tháng không có thu nhập, thích làm việc tay chân trong nhà trại và tự lo đầu ra — không hợp với người cần lương cố định cuối tháng, vì thu nhập theo lứa và theo mùa.
+- Gần như không có việc làm thuê riêng nghề trồng nấm (0 tin tuyển ở cả 4 thành phố) — cửa vào là tự trồng bán, không phải đi xin việc.
+- Vốn trồng thử chỉ vài triệu (200–500 bịch phôi 1,5–6 triệu); làm thật để sống bằng nghề thì cần nhà trại + phôi + dự phòng, từ vài chục đến vài trăm triệu tùy quy mô.
+- Thử nghề trước khi đầu tư lớn: trồng thử 200 bịch, bán thử lứa đầu — nếu sau 2–3 lứa vẫn thích và có đầu ra thì mới mở rộng.
+
+### Nguồn tham khảo (mục 12)
+
+- Đầy đủ trong file nghiên cứu mục 11: tin tuyển TopCV/VietnamWorks, hộ trồng thật (báo chí — doanh thu/lãi theo quy mô), học nghề (HTX Sáng Thiện, Học viện Nông nghiệp, ĐH Nông Lâm), kỹ thuật/bệnh nấm, pháp lý (đăng ký hộ kinh doanh, an toàn thực phẩm) — mỗi nguồn có link + ngày truy cập 23/11/2026 + loại nguồn + mức tin cậy.
+
 
 
 ## 3. YouTube - Script video dài Thứ 2
@@ -183,7 +224,7 @@ Còn học ở đâu thì có 3 đường đi. Rẻ nhất là mua 200-500 bịc
 
 Tìm việc đầu tiên ở đâu? Nói thẳng: nghề này gần như không có việc tuyển trên TopCV hay VietnamWorks. Ngày 23/11 mình đếm thấy cả 4 thành phố Hà Nội, TP.HCM, Đà Nẵng, Cần Thơ đều 0 tin tuyển riêng trồng nấm. Việc gần nhất là kỹ thuật nông nghiệp chung: Queen Farm ở Đồng Nai tuyển nhân viên kỹ thuật trồng trọt 12-15 triệu bao ăn ở, SOFa ở TP.HCM tuyển nhân viên kỹ thuật nông nghiệp 12-16 triệu, VNFarm ở Cần Thơ tuyển chuyên viên kỹ thuật cây trồng 10-15 triệu. Nhưng 3 việc này cần bằng cấp nông nghiệp, không phải việc trồng nấm.
 
-Cho nên cửa vào chính của nghề này là tự trồng bán. Đi xin việc gần như không có cửa. Đầu ra thì có 3 chỗ để bắt đầu: chợ đầu mối và chợ gần nhà, quán ăn và siêu thị mini khu vực, và bán lẻ qua Group cư dân với Facebook cá nhân. Trại ở Huế bán cho chợ đầu mối Huế rồi phân phối đi Quảng Trị, Quảng Bình. Trại ở Hà Tĩnh bán cho chợ Bình Hương mỗi ngày 70-80 ký. Bạn mới thì bắt đầu bằng chợ gần nhà và khách quen, đừng mơ siêu thị ngay tháng đầu."
+Cho nên cửa vào chính của nghề này là tự trồng bán. Đi xin việc gần như không có cửa. Đầu ra thì có 3 chỗ để bắt đầu: chợ đầu mối và chợ gần nhà, quán ăn và siêu thị mini khu vực, và bán lẻ qua Group cư dân với Facebook cá nhân. Trại ở Huế bán cho chợ đầu mối Huế rồi phân phối đi Quảng Trị, Quảng Bình. Trại ở Hà Tĩnh bán cho chợ Bình Hương mỗi ngày 70-80 ký (vietnamnet.vn, bài đăng 25/10/2026). Bạn mới thì bắt đầu bằng chợ gần nhà và khách quen, đừng mơ siêu thị ngay tháng đầu. Bán nấm thường xuyên thì đăng ký hộ kinh doanh và tuân thủ quy định an toàn thực phẩm — nấm tươi là thực phẩm, không bán bừa khi chưa rõ quy định."
 
 ### 8:30-9:30 - Thu nhập + sự thật + nhu cầu thị trường
 
@@ -277,7 +318,7 @@ Còn học ở đâu thì có 3 đường đi.
 
 Nói thẳng: nghề này gần như không có việc tuyển trên TopCV hay VietnamWorks. Ngày 23/11/2026 mình đếm thấy cả 4 thành phố Hà Nội, TP.HCM, Đà Nẵng, Cần Thơ đều 0 tin tuyển riêng trồng nấm. Việc gần nhất là kỹ thuật nông nghiệp chung: Queen Farm ở Đồng Nai tuyển nhân viên kỹ thuật trồng trọt 12-15 triệu bao ăn ở, SOFa ở TP.HCM tuyển nhân viên kỹ thuật nông nghiệp 12-16 triệu, VNFarm ở Cần Thơ tuyển chuyên viên kỹ thuật cây trồng 10-15 triệu. Nhưng 3 việc này cần bằng cấp nông nghiệp, không phải việc trồng nấm.
 
-Cho nên cửa vào chính của nghề này là tự trồng bán. Đi xin việc gần như không có cửa. Đầu ra thì có 3 chỗ để bắt đầu: chợ đầu mối và chợ gần nhà, quán ăn và siêu thị mini khu vực, và bán lẻ qua Group cư dân với Facebook cá nhân. Trại ở Huế bán cho chợ đầu mối Huế rồi phân phối đi Quảng Trị, Quảng Bình. Trại ở Hà Tĩnh bán cho chợ Bình Hương mỗi ngày 70-80 ký. Bạn mới thì bắt đầu bằng chợ gần nhà và khách quen, đừng mơ siêu thị ngay tháng đầu.
+Cho nên cửa vào chính của nghề này là tự trồng bán. Đi xin việc gần như không có cửa. Đầu ra thì có 3 chỗ để bắt đầu: chợ đầu mối và chợ gần nhà, quán ăn và siêu thị mini khu vực, và bán lẻ qua Group cư dân với Facebook cá nhân. Trại ở Huế bán cho chợ đầu mối Huế rồi phân phối đi Quảng Trị, Quảng Bình. Trại ở Hà Tĩnh bán cho chợ Bình Hương mỗi ngày 70-80 ký (vietnamnet.vn, bài đăng 25/10/2026). Bạn mới thì bắt đầu bằng chợ gần nhà và khách quen, đừng mơ siêu thị ngay tháng đầu.
 
 **Thu nhập bao nhiêu**
 
@@ -297,7 +338,7 @@ Một điểm nữa: không có số lương BLS của Mỹ cho nghề trồng n
 
 **Rủi ro thật**
 
-Mốc xanh là bệnh hại nhất. Nấm mốc xanh làm hỏng cả lứa, phát hiện muộn là mất trắng. Phôi hỏng vì làm sai kỹ thuật nhỏ: rút bông sớm khi bịch chưa đủ tuổi thì bịch yếu rồi mốc. Nhiệt độ và độ ẩm phải giữ đều, trại mái tôn bí hơi thì bịch đọng nước, nấm ra xấu. Nấm tươi chỉ để được vài ngày, thu hoạch xong phải bán ngay trong ngày, nấm ra cả lứa cùng lúc mà không có đầu ra sẵn là mất trắng lứa đó. Vốn thì nằm trong nhà trại và phôi, tiền bỏ ra trước, 1-2 tháng sau mới thu về lứa đầu. Không có chuyện chắc chắn có lãi hay trồng là bán được.
+Mốc xanh là bệnh hại nhất. Nấm mốc xanh làm hỏng cả lứa, phát hiện muộn là mất trắng. Phôi hỏng vì làm sai kỹ thuật nhỏ: rút bông sớm khi bịch chưa đủ tuổi thì bịch yếu rồi mốc. Nhiệt độ và độ ẩm phải giữ đều, trại mái tôn bí hơi thì bịch đọng nước, nấm ra xấu. Nấm tươi chỉ để được vài ngày, thu hoạch xong phải bán ngay trong ngày, nấm ra cả lứa cùng lúc mà không có đầu ra sẵn là mất trắng lứa đó. Vốn thì nằm trong nhà trại và phôi, tiền bỏ ra trước, 1-2 tháng sau mới thu về lứa đầu. Không có chuyện chắc chắn có lãi hay trồng là bán được. Bán nấm thường xuyên thì đăng ký hộ kinh doanh (Nghị định 168/2025/NĐ-CP) và tuân thủ quy định an toàn thực phẩm — nấm tươi là thực phẩm, không bán bừa khi chưa rõ quy định.
 
 Lưu bài này lại, comment "Trồng nấm" để nhận checklist 30 ngày đầu trồng nấm. Đây là tuần nghề cuối cùng trong 24 tuần. 2 tuần sau mình ngồi lại, so sánh hết 24 nghề xem nghề nào hợp với bạn nhất.
 
@@ -342,7 +383,7 @@ Mẹo này không tốn tiền, chỉ tốn 2 phút mỗi ngày. Mà 2 phút đ�
 # Bài thực hành Thứ 6 - 3 việc thật gần nghề nhất + 3 đầu ra bán nấm + CV trước/sau + checklist 30 ngày
 
 - Đăng: Thứ 6 14/05/2027, 12:00, Facebook (carousel / bài viết)
-- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). Trước khi đăng ngày 14/05/2027, kiểm tra lại xem tin còn hạn không - tin hết hạn thì thay bằng tin khác, không đăng tin hết hạn.
+- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). **Cảnh báo: tin tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 14/05/2027 — PHẢI tra lại sát ngày đăng.** Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV (từ khóa "kỹ thuật nông nghiệp", "kỹ thuật trồng trọt", "kỹ thuật cây trồng", lọc tin còn hạn sau 14/05/2027), không đăng tin hết hạn. Lưu ý: 0 tin tuyển riêng nghề trồng nấm trên sàn — 3 việc dưới đây là việc kỹ thuật nông nghiệp gần nhất, không phải việc trồng nấm.
 - **Nói rõ ngay từ đầu: ngày 23/11/2026 mình đếm thấy cả 4 thành phố Hà Nội, TP.HCM, Đà Nẵng, Cần Thơ đều 0 tin tuyển riêng nghề trồng nấm trên TopCV và VietnamWorks.** 3 việc dưới đây là việc kỹ thuật nông nghiệp GẦN NHẤT với nghề trồng nấm, không phải việc trồng nấm. Đừng đọc nhầm thành "đang tuyển người trồng nấm".
 - Giọng: nói với "bạn", không bịa số liệu
 
@@ -381,13 +422,13 @@ Mẹo này không tốn tiền, chỉ tốn 2 phút mỗi ngày. Mà 2 phút đ�
 - Link: https://www.topcv.vn/viec-lam/chuyen-vien-ky-thuat-cay-trong/1376791.html
 - Hợp với bạn nếu: bạn ở Cần Thơ, có bằng đại học nông nghiệp và 1 năm kinh nghiệm.
 
-3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 14/05/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Ở Hà Nội, 2 tin kỹ thuật nông nghiệp tìm thấy (Agritech 8–10 triệu, Kingbioworld 9 triệu + hoa hồng) đều đã hết hạn ngày 23/11/2026, nên không đưa vào đây. Ở Đà Nẵng không tìm thấy tin nào.
+3 tin trên là tin tìm thấy ngày 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 14/05/2027 — PHẢI tra lại sát ngày đăng, tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV (từ khóa "kỹ thuật nông nghiệp", "kỹ thuật trồng trọt", "kỹ thuật cây trồng", lọc tin còn hạn sau 14/05/2027), không đăng tin hết hạn. Lưu ý: đây là việc kỹ thuật nông nghiệp chung, KHÔNG phải việc trồng nấm — 0 tin tuyển riêng nghề trồng nấm trên sàn ngày 23/11/2026. Ở Hà Nội, 2 tin kỹ thuật nông nghiệp tìm thấy (Agritech 8–10 triệu, Kingbioworld 9 triệu + hoa hồng) đều đã hết hạn ngày 23/11/2026, nên không đưa vào đây. Ở Đà Nẵng không tìm thấy tin nào.
 
 ## 3 đầu ra thật để bán nấm (vì nghề này chủ yếu tự trồng bán, không phải đi xin việc)
 
 ### Đầu ra 1: Chợ đầu mối và chợ gần nhà
 
-- Ví dụ thật: trại nấm bào ngư xám của anh Đinh Văn Hào (TP. Huế) bán nấm cho chợ đầu mối Huế, phân phối đi Quảng Trị, Quảng Bình (danviet.vn, 2026). Trại của vợ chồng anh Lê Trọng Đức (Hà Tĩnh) cung cấp cho chợ Bình Hương mỗi ngày 70–80kg nấm (vietnamnet.vn, 2026).
+- Ví dụ thật: trại nấm bào ngư xám của anh Đinh Văn Hào (TP. Huế) bán nấm cho chợ đầu mối Huế, phân phối đi Quảng Trị, Quảng Bình (danviet.vn, 2026). Trại của vợ chồng anh Lê Trọng Đức (Hà Tĩnh) cung cấp cho chợ Bình Hương mỗi ngày 70–80kg nấm (vietnamnet.vn, bài đăng 25/10/2026).
 - Giá tham khảo: nấm bào ngư sỉ cho chợ khoảng 30.000đ/kg, lẻ 40.000–70.000đ/kg.
 - Cách bắt đầu: mang nấm ra chợ gần nhà hỏi sạp rau, sạp nấm xem họ có lấy hàng hằng ngày không, lấy bao nhiêu ký, trả tiền theo ngày hay theo tuần.
 
@@ -498,7 +539,7 @@ Còn câu hỏi nào về nghề trồng nấm, bạn comment bên dưới, 2 tu
 # Kịch bản reel Thứ 4 - Dev bị layoff đi trồng nấm
 
 - Đăng: Thứ 4 12/05/2027, 20:00, TikTok / Reels / Shorts
-- Thời lượng: 40-45 giây, 145 từ (đếm bằng tay, trong khoảng 140-150 từ theo sườn chung)
+- Thời lượng: 40-45 giây, 150 từ (đếm bằng tay, trong khoảng 140-150 từ theo sườn chung)
 - Kiểu: hoạt hình flat 2D có màu, Dapper Cuff tốc độ 100, dọc 1080x1920
 - Sườn: `video-mau-hoat-hinh/suon-chung-video.md` (6 đoạn, đúng thứ tự)
 - Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026) - phôi ủ tơ 35-60 ngày, trồng thử 200 bịch
@@ -514,17 +555,17 @@ Còn câu hỏi nào về nghề trồng nấm, bạn comment bên dưới, 2 tu
 | 03 VALUE 1 | 8-16s | Học bao lâu thì làm được? Mua 200 bịch phôi về trồng thử, 1 tới 2 tháng có lứa đầu. | 200 bịch phôi, 1-2 tháng có lứa đầu | 200 bịch phôi treo trên giá, lịch đếm ngày |
 | 04 VALUE 2 | 16-26s | Dân IT có 1 cái lợi: nhật ký nhà nấm bằng bảng tính. Ghi nhiệt độ, độ ẩm. Mở sổ ra là thấy hôm nào trại nóng quá. | Nhật ký nhà nấm bằng bảng tính | Bảng tính hiện nhiệt độ, độ ẩm từng ngày, 1 ngày nóng 32 độ được khoanh đỏ |
 | 05 VALUE 3 | 26-32s | Cái phải học lại: chờ. Phôi ủ tơ 35 tới 60 ngày mới cho nấm. Tháng đầu chưa có đồng nào. | Chờ 35-60 ngày, tháng đầu chưa có đồng nào | Đồng hồ đếm ngày 35, 60; túi tiền trống |
-| 06 PAYOFF + CTA | 32-45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền ngay. Bài đầy đủ ở bài ghim. | Layoff rồi, giờ làm gì? | Nấm bào ngư mọc ra từ bịch phôi, tay hái nấm, chữ "Bài đầy đủ ở bài ghim" |
+| 06 PAYOFF + CTA | 32-45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề này — tiền về theo lứa, không phải ngay tuần đầu. Bài đầy đủ ở bài ghim. | Layoff rồi, giờ làm gì? | Nấm bào ngư mọc ra từ bịch phôi, tay hái nấm, chữ "Bài đầy đủ ở bài ghim" |
 
-## Đếm từ (145 từ)
+## Đếm từ (150 từ)
 
 - Đoạn 01: 22 từ
 - Đoạn 02: 32 từ
 - Đoạn 03: 20 từ
 - Đoạn 04: 28 từ
 - Đoạn 05: 21 từ
-- Đoạn 06: 22 từ
-- Tổng: 145 từ
+- Đoạn 06: 27 từ
+- Tổng: 150 từ
 
 ## CTA
 

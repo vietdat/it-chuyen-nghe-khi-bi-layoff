@@ -8,7 +8,7 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học lấy thẻ hướng dẫn viên. Hà Nội thì lớp ôn thi online 4 buổi, 1 triệu 6. Đà Nẵng, khóa bồi dưỡng 1 tháng rưỡi, 2 triệu rưỡi đến 3 triệu. Còn Sài Gòn, lớp 6 tuần học buổi tối, cũng 2 triệu rưỡi đến 3 triệu. Thêm lệ phí cấp thẻ 650 nghìn nữa là đi tour được. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học lấy thẻ hướng dẫn viên. Hà Nội thì lớp ôn thi online 4 buổi, 1 triệu 6. Đà Nẵng, khóa bồi dưỡng 1 tháng rưỡi, 2 triệu rưỡi đến 3 triệu. Còn Sài Gòn, lớp K57 6 tuần học buổi tối, cũng 2 triệu rưỡi đến 3 triệu — nhưng lớp này đã khai giảng 07/12/2026, học xong trước ngày đăng, cần tra khóa mới sát ngày đăng. Thêm lệ phí cấp thẻ 650 nghìn nữa là đi tour được. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 

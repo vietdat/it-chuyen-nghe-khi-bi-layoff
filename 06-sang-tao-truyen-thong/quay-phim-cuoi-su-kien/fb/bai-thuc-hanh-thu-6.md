@@ -1,7 +1,7 @@
 # Bài thực hành Thứ 6 — 3 việc thật + CV trước/sau + checklist 30 ngày
 
 - Đăng: Thứ 6 09/04/2027, 12:00, Facebook (carousel / bài viết)
-- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). **Trước khi đăng ngày 09/04/2027, kiểm tra lại xem tin còn hạn không — tin hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn.** Các tin dưới đây đã tìm thấy từ tháng 11/2026, tới tháng 4/2027 rất có thể đã hết hạn.
+- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). **Cảnh báo: tin tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 09/04/2027 — PHẢI tra lại sát ngày đăng.** Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV (từ khóa "quay phim", "quay dựng video", "videographer", lọc tin còn hạn sau 09/04/2027, ưu tiên tin ghi "dưới 1 năm kinh nghiệm" hoặc "không yêu cầu kinh nghiệm"), không đăng tin hết hạn. Các tin dưới đây đã tìm thấy từ tháng 11/2026.
 - Giọng: nói với "bạn", không bịa số liệu
 
 ---
@@ -41,7 +41,7 @@
 - Link: https://www.topcv.vn/viec-lam/nhan-vien-videographer-tiktok/1641142.html
 - Hợp với bạn nếu: bạn mới có 6 tháng kinh nghiệm, muốn vào đúng 1 công ty dịch vụ cưới để học việc trên show thật — lưu ý lương cơ bản thấp (3–5 triệu), thu nhập dựa nhiều vào KPI và sản phẩm, hỏi rõ cách tính KPI trước khi nhận việc.
 
-Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 09/04/2027 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Tin tuyển nhân viên chụp ảnh quay dựng video 8–12 triệu của SWEET DATES (Q.3, TP.HCM) đã ghi "Hết hạn ứng tuyển" trong kết quả tìm kiếm ngày 23/11/2026 — không dùng làm việc thật. Tin VietnamWorks (Phú Gia, Hà Nội, 15–20 triệu, đăng 02/11/2026) cũng đã hết hạn từ đầu tháng 12/2026 — không dùng làm việc thật. Ở Đà Nẵng và Cần Thơ gần như không có tin quay phim trên TopCV ngày 23/11/2026 — nếu bạn ở 2 nơi này thì hỏi trực tiếp team cưới địa phương và xin làm quay phụ.
+Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 09/04/2027 — PHẢI tra lại sát ngày đăng, tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV (từ khóa "quay phim", "quay dựng video", "videographer", lọc tin còn hạn sau 09/04/2027). Tìm thêm ngày 23/11/2026: tin không yêu cầu kinh nghiệm mới tìm được cũng đã hết hạn (Phụng Tiên, TP.HCM — cấp máy Sony A7C, trang hiện "Hết hạn ứng tuyển"); tin TIMI Hà Nội (không yêu cầu kinh nghiệm, 9–15 triệu) chưa xác minh được hạn nộp — kiểm tra lại link trước khi dùng. Tin tuyển nhân viên chụp ảnh quay dựng video 8–12 triệu của SWEET DATES (Q.3, TP.HCM) đã ghi "Hết hạn ứng tuyển" trong kết quả tìm kiếm ngày 23/11/2026 — không dùng làm việc thật. Tin VietnamWorks (Phú Gia, Hà Nội, 15–20 triệu, đăng 02/11/2026) cũng đã hết hạn từ đầu tháng 12/2026 — không dùng làm việc thật. Ở Đà Nẵng và Cần Thơ gần như không có tin quay phim trên TopCV ngày 23/11/2026 — nếu bạn ở 2 nơi này thì hỏi trực tiếp team cưới địa phương và xin làm quay phụ.
 
 ---
 

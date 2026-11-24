@@ -48,9 +48,38 @@ Bản đầy đủ trong `Info/nghien-cuu-thi-truong.md`. Tóm tắt dưới đ�
 - VietnamWorks: không tìm thấy tin riêng cho nghề này.
 - Vieclam24h: trang chuyên mục hiển thị khoảng 9.900 kết quả cho từ khóa rộng "dạy lái xe" — gồm tin trùng và lệch ngành, KHÔNG dùng làm số đếm chính xác.
 - Tin tuyển đang mở tìm thấy: Trung tâm Thành Công (TP.HCM) tuyển gấp 10 giáo viên, 15–20tr/tháng; Tư thục Bình Dương tuyển 10 giáo viên hạng B, C1; Đại An (Hà Nội) nhận cả người chưa có chứng nhận, đào tạo miễn phí, thưởng 5tr khi được cấp chứng nhận.
-- Bằng chứng nhu cầu mạnh nhất: Công ty Đào tạo Lái xe Thủ Đức tuyển 165 chỉ tiêu một đợt (50 giáo viên cơ hữu + 100 tập sự), hạn nộp 20/11/2026 — đã hết hạn, chỉ dùng làm bằng chứng nhu cầu.
+- Bằng chứng nhu cầu mạnh nhất: Công ty Đào tạo Lái xe Thủ Đức **từng tuyển 165 chỉ tiêu một đợt (11/2026)** (50 giáo viên cơ hữu + 100 tập sự), hạn nộp 20/11/2026 — đã hết hạn, chỉ dùng làm bằng chứng nhu cầu.
 - Facebook: chưa đếm được (cần đăng nhập Group). Google Maps: chưa đếm được (chỉ tra từng địa điểm). TikTok: chưa đếm được lượt xem hashtag.
-- Kết luận: nhu cầu có thật, nhưng tuyển theo đợt, không tuyển quanh năm. Cửa vào nhanh nhất là giáo viên tập sự (không yêu cầu kinh nghiệm) hoặc trung tâm nhận đào tạo miễn phí chứng nhận.
+- Kết luận: nhu cầu có thật, nhưng tuyển theo đợt, không tuyển quanh năm. Cửa vào nhanh nhất là giáo viên tập sự (Thủ Đức từng tuyển 100 tập sự một đợt — đợt 1/2026, đã hết hạn; tin tuyển không ghi rõ có yêu cầu kinh nghiệm hay không, chưa kiểm chứng) hoặc trung tâm nhận đào tạo miễn phí chứng nhận.
+
+### Lộ trình học — tóm tắt
+
+- **Tuần đầu:** kiểm tra bằng lái hạng B còn hiệu lực không, hạng nào; **ngồi ghế phụ 1 buổi với giáo viên chính đang dạy (0 đồng) TRƯỚC khi đóng 2,5 triệu học chứng chỉ** — xem 1 buổi dạy thực tế, mình có chịu được ngồi trong xe 6–8 tiếng không; sau đó mới đăng ký khóa chứng chỉ sư phạm sơ cấp (2,5 triệu, 1,5 tháng, học online buổi tối); liệt kê 5 trung tâm gần nhà, đi hỏi 2–3 trung tâm về tập sự.
+- **Tháng đầu:** ngồi ghế phụ quan sát, học thuộc 11 bài sa hình, ghi sổ 10 lỗi học viên hay mắc; dạy thử 1 buổi có giáo viên chính ngồi sau; tự dạy 1 buổi trọn vẹn có người kiểm tra; hỏi trung tâm bao giờ được lên giáo viên chính thức. **Hết 30 ngày thì xin được làm tập sự — chưa đứng lớp chính thức** (chứng chỉ sư phạm mất 1,5 tháng + tập huấn + cấp giấy chứng nhận).
+- **Tháng 2:** khóa chứng chỉ sư phạm xong (1,5 tháng); tập huấn nghiệp vụ dạy thực hành theo Nghị định 94/2026; được cấp giấy chứng nhận giáo viên dạy thực hành; bắt đầu dạy học viên mới bài đầu tiên có người kèm, rồi dạy độc lập từng buổi.
+- **Tháng 3:** lên giáo viên chính thức (nếu trung tâm xét đủ); trung tâm phân học viên, thu nhập theo giờ dạy và số học viên. Nhận học viên riêng: chưa — giáo viên mới chưa có tiếng thì ít học viên riêng.
+- **Sau 6 tháng:** giáo viên chính thức có lịch dạy ổn định, giữ sổ học viên đỗ làm bằng chứng. Còn thiếu để lên nấc có học viên riêng / dạy ngoài giờ: tỷ lệ đỗ cao + học viên cũ giới thiệu — nấc sau 1–3 năm.
+
+### Thử nghề — tóm tắt
+
+- **Ngồi ghế phụ 1 buổi với giáo viên chính đang dạy (0 đồng) — bước thử quan trọng nhất, làm TRƯỚC khi đóng 2,5 triệu học chứng chỉ:** xin đi theo 1 giáo viên chính 1 buổi, chỉ ngồi ghế phụ quan sát — xem 1 buổi dạy thực tế, học viên căng thẳng ra sao, mình có chịu được ngồi trong xe 6–8 tiếng, nắng nóng, kẹt xe không. Xin ở đâu: trung tâm dạy lái gần nhà (Google Maps + Facebook trung tâm), hoặc người quen làm giáo viên dạy lái.
+- **Xin vào trung tâm làm tập sự 1 tháng:** hỏi 2–3 trung tâm có nhận tập sự không, tập sự làm gì, lương bao nhiêu, ai kèm, xe của ai. Trung tâm nhận đào tạo miễn phí (Đại An Hà Nội, Thành Công TP.HCM) thì hỏi điều kiện trước, so sánh rồi mới chọn.
+- **Dạy thử 1 buổi có giáo viên chính ngồi sau (0 đồng, trong lúc tập sự):** chỉ dạy bài đầu tiên (làm quen xe, chỉnh ghế, chỉnh gương, đạp côn); nói ít, nói chậm, sửa 1 lỗi mỗi lần.
+- **Tiêu chí dừng/tiếp — đánh giá sau 1 buổi ngồi ghế phụ, sau 1 tháng tập sự và sau 3 tháng:** tiếp tục nếu sau 1 buổi ngồi ghế phụ thấy mình chịu được ngồi xe cả ngày, giữ được bình tĩnh khi học viên sai, thuộc được 11 bài sa hình, dạy thử được giáo viên chính nhận xét tốt; dừng lại nếu sau 1 buổi đã thấy không chịu được ngồi xe 6–8 tiếng, nóng tính, hoặc chưa có bằng lái mà đang cần tiền gấp sau layoff (phải mất khoảng 5 tháng học bằng + chứng chỉ mới đứng lớp được), hoặc trung tâm yêu cầu mang xe riêng + lắp DAT mà mình không đủ vốn.
+
+### Kết luận — tóm tắt
+
+- **Ưu điểm:** chứng chỉ sư phạm rẻ và nhanh (2,5–2,8 triệu, 1,5–2,5 tháng, học online); có trung tâm nhận đào tạo miễn phí (Đại An, Thành Công) và hỗ trợ lắp DAT trả góp; cửa vào tập sự có thật — trung tâm lớn từng tuyển 100 tập sự một đợt (Thủ Đức, đợt 1/2026).
+- **Nhược điểm:** chi phí + thời gian lấy bằng là lớn nhất (người chưa có bằng: 17–21 triệu học bằng + khoảng 5 tháng học bằng + chứng chỉ, tổng khoảng 20–24 triệu, không còn 3 năm chờ); 30 ngày xong chỉ xin được làm tập sự, chưa đứng lớp chính thức; thu nhập theo giờ dạy và số học viên, tháng ít học viên thì giảm; ngồi xe 6–8 tiếng/ngày, an toàn là trách nhiệm thật; tuyển theo đợt, tin đóng nhanh; mang xe riêng thì tốn tiền lắp DAT + hao mòn + xăng xe.
+- **Ai nên thử:** đã có bằng B2; kiên nhẫn với người mới, giữ được bình tĩnh khi học viên sai; chịu được ngồi trong xe cả ngày; chấp nhận bắt đầu từ giáo viên tập sự. **Ai không nên thử:** chưa có bằng lái mà đang cần tiền gấp sau layoff (phải mất khoảng 5 tháng học bằng + chứng chỉ mới đứng lớp được); không chịu được ngồi xe 6–8 tiếng/ngày; nóng tính; muốn thu nhập cố định mỗi tháng; tin rằng "30 ngày xong là đứng lớp được" (sai — xem lộ trình trên).
+- **Điều chưa biết:** học phí khóa bồi dưỡng trực tiếp tại TP.HCM (Chưa có số liệu); giá thiết bị DAT hiện tại (số 7–9 triệu/bộ là của bài ~2022, cần kiểm chứng lại); tổng chi phí DAT nếu tự lắp (Chưa có số liệu chính xác hiện tại); hạn nộp của 3 việc trong bài thực hành (tin tra 23/11/2026, phải tra lại sát ngày đăng 30/04/2027).
+
+### Chi phí khởi điểm — tóm tắt
+
+- **A. Dụng cụ/thiết bị:** 0đ nếu trung tâm cấp xe (Thành Công, Thủ Đức). Mang xe riêng: Đại An thưởng nóng 5.000.000đ/xe + hỗ trợ 300.000–500.000đ/tháng tùy đời xe; hỗ trợ 50% chi phí lắp DAT, phần còn lại trả góp 500.000đ/tháng. Thiết bị DAT khoảng 7–9 triệu đồng/bộ theo VietnamNet (bài ~2022 — số cũ, cần kiểm chứng lại, không dùng làm số chính). Xăng xe, bảo dưỡng xe riêng: Chưa có số liệu.
+- **B. Học phí:** chứng chỉ NVSP sơ cấp 2.500.000đ/khóa, 1,5 tháng (Liên Việt, online buổi tối); trung cấp–cao đẳng 2.800.000đ/khóa, 2,5 tháng [Cập nhật: 11/2026 – Liên Việt, tra 23/11/2026]. Đào tạo miễn phí chứng nhận: Đại An, Thành Công (0đ, Đại An thưởng 5.000.000đ sau khi được cấp chứng nhận). Bằng B (chỉ cho người chưa có bằng): Hà Nội 17 triệu, Đà Nẵng 21 triệu, TP.HCM 19 triệu; Cần Thơ Chưa có số liệu. Phí tập huấn nghiệp vụ dạy thực hành: Chưa có số liệu.
+- **C. Dự phòng 2 tháng:** ăn ở, sinh hoạt + xăng xe, bảo dưỡng xe riêng — **Chưa có số liệu**; trả góp DAT (nếu vào Đại An) 500.000đ/tháng. Thu nhập tháng đầu làm tập sự 6–12 triệu/tháng (Thủ Đức, thử việc).
+- **D. Tổng cộng (A + B, chưa tính C): 2.500.000đ** — cho nấc đã có bằng B2 + trung tâm cấp xe. Nếu chưa có bằng: cộng thêm 17–21 triệu học bằng B (tổng khoảng 20–24 triệu tiền học, khoảng 5 tháng, không còn 3 năm chờ). Nếu mang xe riêng: cộng thêm tiền lắp DAT + xăng xe, bảo dưỡng.
 
 ### Nhu cầu theo thành phố (đếm ngày 23/11/2026)
 
@@ -63,22 +92,23 @@ Bản đầy đủ trong `Info/nghien-cuu-thi-truong.md`. Tóm tắt dưới đ�
 
 ### Học ở đâu (3 miền, tra cứu 23/11/2026 - bản đầy đủ trong `Info/nghien-cuu-thi-truong.md` mục 2)
 
-- Điều kiện đứng lớp (Nghị định 94/2026, hiệu lực 01/7/2026): bằng trung cấp trở lên; GPLX hạng tương ứng hoặc cao hơn; chứng chỉ nghiệp vụ sư phạm; qua tập huấn nghiệp vụ dạy thực hành lái xe. Dạy hạng B, C1: GPLX đủ 03 năm trở lên. Dạy hạng C: đủ 05 năm trở lên.
+- Điều kiện đứng lớp (Điều 10 Nghị định 94/2026, hiệu lực 01/7/2026): bằng trung cấp trở lên; GPLX hạng tương ứng hoặc cao hơn; chứng chỉ nghiệp vụ sư phạm; qua tập huấn nghiệp vụ dạy thực hành lái xe. KHÔNG còn yêu cầu GPLX đủ 03/05 năm — yêu cầu cũ của NĐ 160/2024 đã bị bãi bỏ. [Cập nhật: 11/2026 – Điều 10 NĐ 94/2026/NĐ-CP, đối chiếu 24/11/2026]
 - Chứng chỉ sư phạm dạy nghề sơ cấp (Liên Việt, học online): 2,5 triệu/khóa, 1,5 tháng. Trung cấp – cao đẳng: 2,8 triệu/khóa, 2,5 tháng.
 - Bằng lái hạng B: Hà Nội 17 triệu (FSSC ĐH Ngoại thương, 3,5 tháng); Đà Nẵng 21 triệu trọn gói (Ô Tô Đà Nẵng); TP.HCM 19 triệu (Sài Gòn Tourist – An Tâm). Quảng cáo 5–7 triệu trọn gói thường chỉ là phí hồ sơ ban đầu, tổng thực tế 16–21 triệu.
-- Tổng chi phí người chưa có bằng: khoảng 20–24 triệu tiền học + 3 năm chờ bằng đủ tuổi. Người đã có bằng B2 trên 3 năm: chỉ tốn 2,5–2,8 triệu tiền chứng chỉ sư phạm + thời gian tập huấn.
+- Tổng chi phí người chưa có bằng: khoảng 20–24 triệu tiền học, khoảng 5 tháng (3–3,5 tháng học bằng + 1,5 tháng chứng chỉ + tập huấn), không còn 3 năm chờ. Người đã có bằng B2: chỉ tốn 2,5–2,8 triệu tiền chứng chỉ sư phạm + thời gian tập huấn.
 
 ### Lương theo nấc (tin tuyển thật + nguồn tổng hợp, tra cứu 23/11/2026)
 
-- Giáo viên tập sự / mới vào nghề: 6–12 triệu/tháng (Thủ Đức, thử việc); 7–10 triệu (Vieclam24h Hà Nội, dưới 1 năm); 8–12 triệu trong 3–6 tháng đầu (linhna.edu.vn)
-- Giáo viên chính thức 1–3 năm: 10–15 triệu/tháng (Vieclam24h); 12–18 triệu (linhna.edu.vn)
-- Giáo viên 3–5 năm trở lên, có học viên riêng: 15–25 triệu, cao điểm 25–30 triệu (linhna.edu.vn); dạy nhiều ca 25–35 triệu (hocngheoto.edu.vn)
+- Giáo viên tập sự / mới vào nghề: 6–12 triệu/tháng (Thủ Đức, thử việc); 7–10 triệu (Vieclam24h Hà Nội, dưới 1 năm); 8–12 triệu trong 3–6 tháng đầu (linhna.edu.vn — không rõ ngày đăng, cần kiểm chứng, mức tham khảo)
+- Giáo viên chính thức 1–3 năm: 10–15 triệu/tháng (Vieclam24h); 12–18 triệu (linhna.edu.vn — không rõ ngày đăng, cần kiểm chứng, mức tham khảo)
+- Giáo viên 3–5 năm trở lên, có học viên riêng: 15–25 triệu, cao điểm 25–30 triệu (linhna.edu.vn — không rõ ngày đăng, cần kiểm chứng, mức tham khảo); dạy nhiều ca 25–35 triệu (hocngheoto.edu.vn — không rõ ngày đăng, cần kiểm chứng, mức tham khảo)
+- **Ghi chú về linhna.edu.vn và hocngheoto.edu.vn (audit 23/11/2026):** 2 trang này không ghi ngày đăng/cập nhật, không kiểm chứng được số liệu còn đúng không — các mức 8–12 triệu, 12–18 triệu, 25–30 triệu và 25–35 triệu chỉ dùng làm **mức tham khảo**, không dùng làm số chính. Số chính là tin tuyển đang mở (Thành Công 15–20 triệu/tháng) và tin Thủ Đức (thử việc 6–12 triệu/tháng) + Vieclam24h.
 - Tin đang mở: Thành Công 15–20 triệu/tháng. Tin đã hết hạn: Chiến Thắng 20–30 triệu/tháng.
 - So sánh Mỹ (KHÔNG phải thu nhập VN): BLS tháng 5/2024, nhóm Self-Enrichment Teachers (gồm giáo viên dạy lái xe), median 46.800 USD/năm, tăng trưởng dự báo 3,7% giai đoạn 2024–2034.
 
 ### Rủi ro thật + mùa vụ
 
-- Rào cản bằng lái 3 năm là rủi ro lớn nhất: chưa có bằng thì học 3–3,5 tháng lấy bằng, rồi đợi đủ 03 năm mới được dạy hạng B. Không phải nghề chuyển sang trong vài tháng.
+- Chi phí + thời gian lấy bằng là rào cản lớn nhất: chưa có bằng thì học 3–3,5 tháng lấy bằng (17–21 triệu), rồi học chứng chỉ sư phạm 1,5 tháng + tập huấn mới được đứng lớp — tổng khoảng 5 tháng, không phải 3 năm như trước. Không phải nghề chuyển sang trong vài tuần.
 - An toàn là trách nhiệm thật: học viên mới lái trên đường thật, sai 1 nhịp là va chạm. Có ngày dạy 6–8 tiếng ngồi trong xe, nắng nóng, kẹt xe.
 - Thu nhập theo mùa và theo học viên: nhu cầu tuyển tăng vào mùa hè và cuối năm (Vieclam24h). Tháng thấp điểm ít học viên, thu nhập giảm.
 - Tin tuyển ghi yêu cầu tuổi và giới tính: nam 25–40 tuổi (Thành Công), 30–50 tuổi (Chiến Thắng Tiền Giang).
@@ -86,6 +116,11 @@ Bản đầy đủ trong `Info/nghien-cuu-thi-truong.md`. Tóm tắt dưới đ�
 
 
 ---
+
+### Nguồn tham khảo — tóm tắt
+
+- Đầy đủ trong file nghiên cứu mục 11: tin tuyển, bảng lương tổng hợp, bảng học phí trung tâm, pháp lý, thiết bị DAT, nguồn chưa kiểm chứng — mỗi nguồn có link + ngày truy cập 23/11/2026 + loại nguồn + mức tin cậy.
+
 
 ## 3. YouTube - Script video dài Thứ 2
 
@@ -148,13 +183,13 @@ Còn bảng tính thu nhập từng học viên. Bạn biết mỗi học viên 
 
 "Học nghề này có 2 thứ phải học, theo thứ tự: có bằng lái hạng B trước, rồi mới học chứng chỉ sư phạm.
 
-Thứ nhất là bằng lái. Để dạy hạng B, bằng lái hạng B đủ 03 năm trở lên kể từ ngày được cấp, theo Nghị định 94/2026 có hiệu lực từ 01/7/2026. Dạy hạng C thì phải đủ 05 năm. Đây là rào cản lớn nhất của nghề này, và nó không rút ngắn được. Chưa có bằng thì học lấy bằng trước: Hà Nội thì khóa bằng B tại Trung tâm Hỗ trợ Sinh viên Đại học Ngoại thương là 17 triệu, khoảng 3,5 tháng. Đà Nẵng thì khóa B2 trọn gói là 21 triệu. Còn TP.HCM, Trường Sài Gòn Tourist là 19 triệu. Mấy trung tâm quảng cáo 5-7 triệu trọn gói thì hỏi kỹ trước khi đóng tiền, vì số đó thường chỉ là phí hồ sơ ban đầu, tổng thực tế để cầm bằng trên tay khoảng 16-21 triệu.
+Thứ nhất là bằng lái. Để dạy hạng B, chỉ cần có bằng lái hạng B trở lên — từ 01/7/2026, Nghị định 94/2026 đã bãi bỏ yêu cầu bằng phải đủ 03 năm mới được dạy (trước đây Nghị định 160/2024 yêu cầu bằng B đủ 3 năm, hạng C đủ 5 năm). Có bằng là học chứng chỉ sư phạm được ngay, không còn phải đợi 3 năm nữa. [Cập nhật: 11/2026 – Điều 10 NĐ 94/2026/NĐ-CP, đối chiếu 24/11/2026] Chưa có bằng thì học lấy bằng trước: Hà Nội thì khóa bằng B tại Trung tâm Hỗ trợ Sinh viên Đại học Ngoại thương là 17 triệu, khoảng 3,5 tháng. Đà Nẵng thì khóa B2 trọn gói là 21 triệu. Còn TP.HCM, Trường Sài Gòn Tourist là 19 triệu. Mấy trung tâm quảng cáo 5-7 triệu trọn gói thì hỏi kỹ trước khi đóng tiền, vì số đó thường chỉ là phí hồ sơ ban đầu, tổng thực tế để cầm bằng trên tay khoảng 16-21 triệu.
 
 Thứ hai là chứng chỉ nghiệp vụ sư phạm dạy nghề. Khóa sơ cấp học online buổi tối, 1,5 tháng, học phí 2,5 triệu. Khóa trung cấp và cao đẳng là 2,8 triệu, 2,5 tháng. Học xong còn phải qua tập huấn nghiệp vụ dạy thực hành lái xe theo chương trình của Nghị định 94/2026, rồi mới được cấp giấy chứng nhận giáo viên dạy thực hành lái xe.
 
 Ngoài ra còn cần bằng tốt nghiệp trung cấp trở lên. Giáo viên dạy lý thuyết thì cần thêm bằng trung cấp chuyên ngành luật hoặc công nghệ ô tô.
 
-Còn học ở đâu thì có 3 đường đi. Nhanh nhất là xin làm giáo viên tập sự ở trung tâm lớn. Công ty Đào tạo Lái xe Thủ Đức từng tuyển 100 giáo viên tập sự một đợt, không yêu cầu kinh nghiệm, thử việc 6-12 triệu một tháng. Đường thứ hai là học chứng chỉ sư phạm online rồi tự nộp đơn vào trung tâm, tốn 2,5 triệu và 1,5 tháng. Đường thứ ba là vào trung tâm nhận đào tạo miễn phí: Đại An ở Hà Nội đào tạo miễn phí cho người chưa có chứng nhận, sau khi được cấp chứng nhận còn thưởng 5 triệu. Trung tâm Thành Công ở TP.HCM cũng hướng dẫn, hỗ trợ đi tập huấn cho người chưa có chứng nhận. Đường nào cũng phải qua 2 cửa: bằng lái đủ 3 năm và chứng chỉ sư phạm."
+Còn học ở đâu thì có 3 đường đi. Nhanh nhất là xin làm giáo viên tập sự ở trung tâm lớn. Công ty Đào tạo Lái xe Thủ Đức từng tuyển 100 giáo viên tập sự một đợt (đợt 1/2026, hạn nộp 20/11/2026 — đã hết hạn), thử việc 6-12 triệu một tháng. Tin tuyển không ghi rõ có yêu cầu kinh nghiệm hay không — chưa kiểm chứng được, muốn biết thì hỏi trực tiếp trung tâm. Đường thứ hai là học chứng chỉ sư phạm online rồi tự nộp đơn vào trung tâm, tốn 2,5 triệu và 1,5 tháng. Đường thứ ba là vào trung tâm nhận đào tạo miễn phí: Đại An ở Hà Nội đào tạo miễn phí cho người chưa có chứng nhận, sau khi được cấp chứng nhận còn thưởng 5 triệu. Trung tâm Thành Công ở TP.HCM cũng hướng dẫn, hỗ trợ đi tập huấn cho người chưa có chứng nhận. Đường nào cũng phải qua 2 cửa: bằng lái hạng B và chứng chỉ sư phạm."
 
 ### 7:00-8:30 - Career path + tìm việc, tìm khách ở đâu
 
@@ -178,7 +213,7 @@ Còn số Mỹ để đối chiếu, không phải thu nhập Việt Nam: BLS th
 
 "Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới.
 
-Kiểm tra bằng lái của mình: cấp ngày nào, đủ 03 năm chưa, còn giữ bằng trung cấp trở lên không. Đăng ký khóa chứng chỉ nghiệp vụ sư phạm dạy nghề sơ cấp, 2,5 triệu, học online buổi tối. Liệt kê 5 trung tâm dạy lái gần nhà. Đi hỏi 2-3 trung tâm: có nhận giáo viên tập sự không, lương tập sự bao nhiêu, xe của ai. Và bắt đầu ghi sổ lỗi học viên: mỗi lỗi gặp trong ngày ghi lại 1 dòng và cách sửa.
+Kiểm tra bằng lái của mình: còn hạn không, hạng nào, còn giữ bằng trung cấp trở lên không. Đăng ký khóa chứng chỉ nghiệp vụ sư phạm dạy nghề sơ cấp, 2,5 triệu, học online buổi tối. Liệt kê 5 trung tâm dạy lái gần nhà. Đi hỏi 2-3 trung tâm: có nhận giáo viên tập sự không, lương tập sự bao nhiêu, xe của ai. Và bắt đầu ghi sổ lỗi học viên: mỗi lỗi gặp trong ngày ghi lại 1 dòng và cách sửa.
 
 Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau mình nói về hướng dẫn viên du lịch. Comment nghề bạn muốn nghe, mình đọc hết."
 
@@ -227,7 +262,7 @@ Còn một cái nữa: bạn tính được mỗi học viên mang lại bao nhi
 
 Học nghề này có 2 thứ phải học, theo thứ tự: có bằng lái hạng B trước, rồi mới học chứng chỉ sư phạm.
 
-Để dạy hạng B, bằng lái hạng B đủ 03 năm trở lên kể từ ngày được cấp, theo Nghị định 94/2026 có hiệu lực từ 01/7/2026. Dạy hạng C thì phải đủ 05 năm. Đây là rào cản lớn nhất của nghề này, và nó không rút ngắn được.
+Để dạy hạng B, chỉ cần có bằng lái hạng B trở lên — từ 01/7/2026, Nghị định 94/2026 đã bãi bỏ yêu cầu bằng phải đủ 03 năm mới được dạy (trước đây Nghị định 160/2024 yêu cầu bằng B đủ 3 năm, hạng C đủ 5 năm). Có bằng là học chứng chỉ sư phạm được ngay, không còn phải đợi 3 năm nữa. [Cập nhật: 11/2026 – Điều 10 NĐ 94/2026/NĐ-CP, đối chiếu 24/11/2026]
 
 Chưa có bằng thì học lấy bằng trước. Hà Nội thì khóa bằng B tại Trung tâm Hỗ trợ Sinh viên Đại học Ngoại thương là 17 triệu, khoảng 3,5 tháng. Đà Nẵng thì khóa B2 trọn gói là 21 triệu. Còn TP.HCM, Trường Sài Gòn Tourist là 19 triệu. Mấy trung tâm quảng cáo 5-7 triệu trọn gói thì hỏi kỹ trước khi đóng tiền, vì số đó thường chỉ là phí hồ sơ ban đầu, tổng thực tế để cầm bằng trên tay khoảng 16-21 triệu.
 
@@ -235,7 +270,7 @@ Rồi tới chứng chỉ nghiệp vụ sư phạm dạy nghề. Khóa sơ cấp
 
 Còn học ở đâu thì có 3 đường đi.
 
-Đường nhanh nhất là xin làm giáo viên tập sự ở trung tâm lớn. Công ty Đào tạo Lái xe Thủ Đức từng tuyển 100 giáo viên tập sự một đợt, không yêu cầu kinh nghiệm, thử việc 6-12 triệu một tháng.
+Đường nhanh nhất là xin làm giáo viên tập sự ở trung tâm lớn. Công ty Đào tạo Lái xe Thủ Đức từng tuyển 100 giáo viên tập sự một đợt (đợt 1/2026, hạn nộp 20/11/2026 — đã hết hạn), thử việc 6-12 triệu một tháng. Tin tuyển không ghi rõ có yêu cầu kinh nghiệm hay không — chưa kiểm chứng được, muốn biết thì hỏi trực tiếp trung tâm.
 
 Đường thứ hai là học chứng chỉ sư phạm online rồi tự nộp đơn vào trung tâm, tốn 2,5 triệu và 1,5 tháng.
 
@@ -261,7 +296,7 @@ Còn số Mỹ để đối chiếu, không phải thu nhập Việt Nam: BLS th
 
 **Rủi ro thật**
 
-Rào cản bằng lái 3 năm là rủi ro lớn nhất. Người chưa có bằng B2 phải mất 3-3,5 tháng học lấy bằng, rồi đợi đủ 03 năm mới được dạy hạng B. Đây không phải nghề chuyển sang trong vài tháng. Ai đang cần tiền gấp sau layoff thì nghề này không giải quyết được ngay.
+Chi phí + thời gian lấy bằng là rào cản lớn nhất. Người chưa có bằng B2 phải mất 3-3,5 tháng học lấy bằng (17-21 triệu), rồi học chứng chỉ sư phạm 1,5 tháng + tập huấn mới được đứng lớp — tổng khoảng 5 tháng, không phải 3 năm như trước, nhưng vẫn không phải nghề chuyển sang trong vài tuần. Ai đang cần tiền gấp sau layoff thì nghề này không giải quyết được ngay. Lưu ý: một số tin tuyển của trung tâm vẫn tự đặt yêu cầu bằng trên 3 năm (yêu cầu riêng của trung tâm, không phải điều kiện pháp luật) — đọc kỹ từng tin. [Cập nhật: 11/2026 – Điều 10 NĐ 94/2026/NĐ-CP, đối chiếu 24/11/2026]
 
 An toàn là trách nhiệm thật: học viên mới lái trên đường thật, sai 1 nhịp là va chạm. Giáo viên ngồi ghế phụ phải giữ bình tĩnh và can thiệp kịp. Có ngày dạy 6-8 tiếng ngồi trong xe, nắng nóng, kẹt xe, học viên căng thẳng thì mình cũng căng thẳng theo.
 
@@ -284,12 +319,12 @@ Lưu bài này lại, comment "Dạy lái xe" để nhận checklist 30 ngày đ
 
 Hôm qua mình đăng bài đầy đủ về nghề giáo viên dạy lái xe. Có 1 câu hỏi mình muốn hỏi bạn trước, vì câu trả lời của bạn quyết định luôn nghề này có hợp với bạn không.
 
-Nghề dạy lái có 1 cửa mà không rút ngắn được: bằng lái hạng B phải đủ 03 năm trở lên mới được đứng lớp. Chưa có bằng thì học lấy bằng mất 3 tháng rưỡi, rồi đợi đủ 3 năm. Có bằng rồi thì chỉ còn học chứng chỉ sư phạm 1,5 tháng là xin làm tập sự được.
+Tin tốt cho nghề này: từ 01/7/2026, Nghị định 94/2026 đã bãi bỏ yêu cầu bằng lái đủ 3 năm mới được dạy (trước đây Nghị định 160/2024 yêu cầu bằng B đủ 3 năm, hạng C đủ 5 năm). Giờ chỉ cần có bằng lái hạng tương ứng là học chứng chỉ sư phạm 1,5 tháng rồi xin làm tập sự được. Chưa có bằng thì học lấy bằng mất 3 tháng rưỡi, rồi học chứng chỉ — không còn phải đợi 3 năm nữa. [Cập nhật: 11/2026 – Điều 10 NĐ 94/2026/NĐ-CP, đối chiếu 24/11/2026]
 
 Sau layoff, bạn có bằng lái ô tô chưa?
 
-1. Có bằng B2 trên 3 năm rồi, chỉ thiếu chứng chỉ sư phạm
-2. Có bằng B2 nhưng chưa đủ 3 năm, đang đợi đủ tuổi
+1. Có bằng B2 rồi, chỉ thiếu chứng chỉ sư phạm
+2. Có bằng B2 rồi, đang học chứng chỉ sư phạm
 3. Chưa có bằng, đang tính học lấy bằng
 4. Không có bằng và cũng không định học lái
 
@@ -336,17 +371,17 @@ Mẹo này không cần phần mềm gì cao siêu, chỉ cần 1 tờ giấy v�
 - Yêu cầu: nhận cả 2 đối tượng, đã có chứng nhận giáo viên dạy thực hành lái xe, và chưa có chứng nhận thì trung tâm hỗ trợ đào tạo, tập huấn miễn phí để cấp chứng nhận.
 - Ngày thấy tin: 23/11/2026 (viecoday.com, tin đăng 01/11/2026)
 - Link: https://www.viecoday.com/job/giao-vien-day-lai-xe-ha-noi-57e103fae48b
-- Hợp với bạn nếu: bạn ở Hà Nội, đã có bằng B2 đủ 3 năm nhưng chưa có chứng chỉ sư phạm, muốn trung tâm đào tạo miễn phí cho mình.
+- Hợp với bạn nếu: bạn ở Hà Nội, đã có bằng B2 nhưng chưa có chứng chỉ sư phạm, muốn trung tâm đào tạo miễn phí cho mình.
 
 ### Việc 2: Giáo viên dạy thực hành lái xe - TP.HCM (tuyển gấp 10 người)
 
 - Trung tâm: Trung tâm Thành Công, TP.HCM
 - Lương: 15.000.000–20.000.000đ/tháng, được cấp xe tập lái, lương tháng 13, thưởng lễ Tết, du lịch hàng năm
-- Yêu cầu: nam 25–40 tuổi, bằng lái B2 trên 3 năm, bằng trung cấp trở lên, có chứng chỉ sư phạm. Ưu tiên người đã có chứng nhận giáo viên thực hành; chưa có thì trung tâm hướng dẫn, hỗ trợ đi tập huấn.
+- Yêu cầu: nam 25–40 tuổi, bằng lái B2 trên 3 năm (yêu cầu riêng của tin tuyển này, không phải điều kiện pháp luật — theo Điều 10 NĐ 94/2026, giáo viên thực hành chỉ cần GPLX hạng tương ứng trở lên [Cập nhật: 11/2026, đối chiếu 24/11/2026]), bằng trung cấp trở lên, có chứng chỉ sư phạm. Ưu tiên người đã có chứng nhận giáo viên thực hành; chưa có thì trung tâm hướng dẫn, hỗ trợ đi tập huấn.
 - Địa điểm: làm việc gần nhà tại Tân Phú, Quận 2, Quận 7, Nhà Bè. Nộp hồ sơ tại 439 Hoàng Văn Thụ, phường Tân Sơn Nhất, TP.HCM.
 - Ngày thấy tin: 23/11/2026 (thuonghoi.vn, tin cập nhật trong ngày)
 - Link: https://thuonghoi.vn/trung-tam-thanh-cong-tuyen-10-giao-vien-thuc-hanh/91342854.html
-- Hợp với bạn nếu: bạn ở TP.HCM, đã có bằng B2 trên 3 năm và chứng chỉ sư phạm, muốn thu nhập ghi rõ và được cấp xe.
+- Hợp với bạn nếu: bạn ở TP.HCM, đã có bằng B2 trên 3 năm (theo yêu cầu riêng của tin tuyển này) và chứng chỉ sư phạm, muốn thu nhập ghi rõ và được cấp xe.
 
 ### Việc 3: Giáo viên dạy thực hành lái xe hạng B, C1 - TP.HCM (tuyển 10 người)
 
@@ -358,7 +393,9 @@ Mẹo này không cần phần mềm gì cao siêu, chỉ cần 1 tờ giấy v�
 - Link: https://www.tuthucbinhduong.com/tin-tuc/tuyen-dung-giao-vien-thuc-hanh-nhan-vien-phong-dao-tao-ttbd/
 - Hợp với bạn nếu: bạn đã đủ giấy tờ (bằng lái + chứng chỉ sư phạm + tập huấn) và muốn dạy cả hạng B lẫn C1.
 
-3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 30/04/2027, cách ngày tra cứu hơn 5 tháng, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở, không đăng tin hết hạn. Nghề này tuyển theo đợt, tin đóng nhanh.
+3 tin trên là tin tìm thấy ngày 23/11/2026 — **gần như chắc chắn hết hạn trước ngày đăng 30/04/2027 (cách ngày tra cứu hơn 5 tháng), PHẢI tra lại sát ngày đăng**. Nghề này tuyển theo đợt, tin đóng nhanh.
+
+**[THAY BẰNG TIN MỚI TRƯỚC NGÀY ĐĂNG — hướng dẫn tìm tin thay thế]** Vì cả 3 tin trên đều tra ngày 23/11/2026 (Đại An đăng 01/11/2026, Tư thục Bình Dương đăng 30/10/2026, Thành Công cập nhật 23/11/2026), trước ngày đăng 30/04/2027 phải tìm tin mới thay thế — không đăng tin cũ. Cách tìm: (1) TopCV và Vieclam24h, tìm "giáo viên dạy lái xe" / "giáo viên dạy thực hành lái xe", lọc tin còn hạn sau 30/04/2027, ưu tiên tin ghi lương rõ (ví dụ Thành Công từng ghi 15–20 triệu) và ghi "nhận cả người chưa có chứng nhận" nếu bạn chưa có chứng chỉ; (2) web của trung tâm lớn — Công ty Đào tạo Lái xe Thủ Đức (daotaolaixethuduc.vn) từng tuyển 165 chỉ tiêu một đợt (11/2026), theo dõi web xem có đợt mới không; (3) hỏi trực tiếp trung tâm dạy lái gần nhà (tìm trên Google Maps + Facebook trung tâm) — trung tâm tuyển theo đợt, hỏi trực tiếp nhanh hơn chờ tin trên sàn; (4) viecoday.com — nơi từng đăng tin Đại An. Tiêu chí chọn tin thay thế: còn hạn sau 30/04/2027, ghi rõ bằng lái hạng nào + đủ bao nhiêu năm, có ghi chứng chỉ sư phạm/tập huấn hay trung tâm đào tạo miễn phí, lương ghi rõ (không lấy tin chỉ ghi "thỏa thuận" làm việc chính).
 
 Riêng 2 tin sau chỉ dùng để tham khảo, KHÔNG dùng làm việc thật vì đã hết hạn từ lúc tra cứu: Công ty CP Đào tạo Lái xe Thủ Đức tuyển 165 chỉ tiêu (50 giáo viên cơ hữu + 100 tập sự), hạn nộp 20/11/2026; Trung tâm GDNN Màu Hoa Đỏ ở Cần Thơ tuyển 2 giáo viên dạy thực hành, tin đã hết hạn trên TopCV. Bạn ở Cần Thơ thì gọi trực tiếp trung tâm Màu Hoa Đỏ (345 Nguyễn Văn Linh, Ninh Kiều) hỏi còn tuyển không, thay vì chờ tin mới trên sàn.
 
@@ -400,7 +437,7 @@ Riêng 2 tin sau chỉ dùng để tham khảo, KHÔNG dùng làm việc thật 
 
 ## Checklist 30 ngày đầu (tóm tắt)
 
-Tuần 1: kiểm tra bằng lái đủ 03 năm chưa, đăng ký khóa chứng chỉ sư phạm sơ cấp (2,5 triệu, học online), liệt kê 5 trung tâm gần nhà, đi hỏi 2-3 trung tâm về tập sự.
+Tuần 1: kiểm tra bằng lái hạng B còn hiệu lực không, **ngồi ghế phụ 1 buổi với giáo viên chính đang dạy (0 đồng) TRƯỚC khi đóng 2,5 triệu học chứng chỉ**, rồi mới đăng ký khóa chứng chỉ sư phạm sơ cấp (2,5 triệu, học online), liệt kê 5 trung tâm gần nhà, đi hỏi 2-3 trung tâm về tập sự. **30 ngày xong thì xin được làm tập sự — chưa đứng lớp chính thức** (chứng chỉ sư phạm mất 1,5 tháng + tập huấn + cấp giấy chứng nhận).
 Tuần 2: ngồi ghế phụ quan sát, học thuộc 11 bài sa hình, ghi sổ 10 lỗi học viên hay mắc.
 Tuần 3: hỏi bảng học phí và lịch học của trung tâm, dạy thử 1 buổi có người kèm, làm file theo dõi học viên.
 Tuần 4: tự dạy 1 buổi trọn vẹn có người kiểm tra, đăng 1 video ngắn về nghề, hỏi trung tâm bao giờ được lên giáo viên chính thức, tổng kết 30 ngày.
@@ -419,7 +456,7 @@ Lưu carousel này lại, comment "checklist" để nhận file checklist 30 ng�
 - Đăng: Thứ 7 01/05/2027, Facebook (bài ngắn, soạn sẵn, đăng đúng giờ trong ngày lễ)
 - Giọng: nói với "bạn", không bịa số liệu
 
-Tuần này mình nói về giáo viên dạy lái xe, nghề mà cái bằng B2 trong ví bạn có thể là vé vào cửa, nhưng cũng là cái cửa lâu nhất trong 24 nghề của kênh: bằng đủ 03 năm mới được đứng lớp.
+Tuần này mình nói về giáo viên dạy lái xe, nghề mà cái bằng B2 trong ví bạn có thể là vé vào cửa — và từ 01/7/2026, vé đó không còn bắt phải cầm đủ 3 năm nữa: Nghị định 94/2026 đã bãi bỏ yêu cầu thâm niên bằng lái, có bằng là học chứng chỉ sư phạm rồi xin làm tập sự được. [Cập nhật: 11/2026 – Điều 10 NĐ 94/2026/NĐ-CP, đối chiếu 24/11/2026]
 
 Thứ 2 mình đăng video dài và bài đầy đủ 8 mục: nghề này làm gì mỗi ngày, ai hợp, lợi thế của dân IT, học ở đâu, lương bao nhiêu, rủi ro thật. Thứ 3 mình hỏi bạn có bằng lái chưa. Thứ 5 mình chỉ mẹo dạy học viên nhớ 11 bài sa hình bằng 1 tờ giấy. Thứ 6 mình đăng 3 việc thật đang tuyển giáo viên dạy lái, kèm CV mẫu trước và sau. Ai chưa đọc thì kéo lại bài ghim trên trang.
 
@@ -439,7 +476,7 @@ Tuần này mình nhận được nhiều câu hỏi về nghề giáo viên d�
 
 **1. Chưa có bằng lái thì học nghề này được không?**
 
-Được, nhưng không nhanh. Bạn học lấy bằng B trước: ở Hà Nội khoảng 17 triệu, 3,5 tháng; ở Đà Nẵng trọn gói 21 triệu; ở TP.HCM khoảng 19 triệu. Lấy bằng xong, đợi đủ 03 năm kể từ ngày cấp bằng mới được dạy hạng B. Trong 3 năm chờ, bạn làm nghề khác có thu nhập trước, đừng ngồi chờ bằng đủ tuổi.
+Được, và nhanh hơn trước. Bạn học lấy bằng B trước: ở Hà Nội khoảng 17 triệu, 3,5 tháng; ở Đà Nẵng trọn gói 21 triệu; ở TP.HCM khoảng 19 triệu. Lấy bằng xong thì học chứng chỉ sư phạm (1,5 tháng, 2,5 triệu) rồi xin làm tập sự — từ 01/7/2026, Nghị định 94/2026 đã bãi bỏ yêu cầu phải đợi đủ 3 năm kể từ ngày cấp bằng mới được dạy (yêu cầu cũ của Nghị định 160/2024). Tổng cộng khoảng 5 tháng từ lúc chưa có bằng tới lúc xin tập sự được, chi phí khoảng 20–24 triệu tiền học. [Cập nhật: 11/2026 – Điều 10 NĐ 94/2026/NĐ-CP, đối chiếu 24/11/2026]
 
 **2. Dạy lái có cần xe riêng không?**
 
@@ -468,23 +505,23 @@ Comment câu hỏi của bạn bên dưới, tuần sau mình trả lời tiếp
 # Kịch bản reel Thứ 4 - Dev bị layoff đi dạy lái xe
 
 - Đăng: Thứ 4 28/04/2027, 20:00, TikTok / Reels / Shorts
-- Thời lượng: 40–45 giây, 149 từ (đếm tay, theo sườn 6 đoạn `suon-chung-video.md`)
+- Thời lượng: 40–45 giây, 145 từ (đếm tay, theo sườn 6 đoạn `suon-chung-video.md`)
 - Định dạng: hoạt hình flat 2D, Dapper Cuff tốc độ 100, dọc 1080x1920
-- Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026) — bằng B đủ 03 năm (Nghị định 94/2026), chứng chỉ sư phạm sơ cấp 2,5 triệu / 1,5 tháng (Liên Việt)
+- Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026) — NĐ 94/2026 bãi bỏ yêu cầu bằng đủ 03 năm (Điều 10, đối chiếu 24/11/2026), chứng chỉ sư phạm sơ cấp 2,5 triệu / 1,5 tháng (Liên Việt)
 - Giọng: nói với "bạn", không liệt kê Một/Hai/Ba, không bịa số liệu
 - Lưu ý tuần lễ: reel quay/dựng sẵn từ trước lễ 30/04, đăng đúng giờ
 - Chỉ viết kịch bản, KHÔNG render video trong tuần này
 
-## Lời thoại đầy đủ (149 từ)
+## Lời thoại đầy đủ (145 từ)
 
 | Đoạn | Thời gian | Lời thoại | Chữ trên màn hình | Hình gợi ý |
 |---|---|---|---|---|
 | 01 HOOK | 0–3s | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có nghề mà bằng lái là vé vào cửa: giáo viên dạy lái xe. | Dev bị layoff thì làm gì? | Dev ôm thùng đồ ra cửa EXIT, tay cầm bằng lái |
-| 02 CONTEXT | 3–8s | Anh ấy đón học viên đầu tiên. Kiểm tra xe, chỉnh ghế, chỉnh gương, rồi ngồi ghế phụ, chân để hờ phanh. | Ngồi ghế phụ, chân để hờ phanh | Giáo viên ngồi ghế phụ, học viên cầm vô lăng |
-| 03 VALUE 1 | 8–16s | Muốn đứng lớp, bằng B phải đủ 3 năm. Có bằng rồi, học chứng chỉ sư phạm online, 1 tháng rưỡi, 2 triệu rưỡi. | Bằng B đủ 3 năm + chứng chỉ 2,5 triệu | Bằng lái + chứng chỉ sư phạm hiện lên |
+| 02 CONTEXT | 3–8s | Anh ấy đón học viên đầu tiên. Kiểm tra xe, chỉnh ghế, chỉnh gương, ngồi ghế phụ, chân để hờ phanh. | Ngồi ghế phụ, chân để hờ phanh | Giáo viên ngồi ghế phụ, học viên cầm vô lăng |
+| 03 VALUE 1 | 8–16s | Muốn đứng lớp, chỉ cần bằng B — từ tháng 7/2026 không còn bắt đủ 3 năm. Học chứng chỉ sư phạm online, 1 tháng rưỡi, 2 triệu rưỡi. | Bằng B + chứng chỉ 2,5 triệu | Bằng lái + chứng chỉ sư phạm hiện lên |
 | 04 VALUE 2 | 16–26s | Cái lợi của dân IT: xe có camera hành trình, buổi học ghi lại hết. Học viên mở video ra xem đoạn mình sai, hôm sau lái khác. | Xem lại video buổi học | Màn hình video dashcam, học viên xem lại |
 | 05 VALUE 3 | 26–32s | Cái phải học lại: giữ bình tĩnh ở ghế phụ. Học viên đạp nhầm ga, bạn có 1 giây đạp phanh phụ. | 1 giây đạp phanh phụ | Chân đạp phanh phụ, xe dừng kịp |
-| 06 PAYOFF + CTA | 32–45s | Layoff rồi, giờ làm gì? Có người ngồi ghế phụ mà làm ra tiền. Bài đầy đủ ở bài ghim. Tuần sau: hướng dẫn viên du lịch. | Layoff rồi, giờ làm gì? | Giáo viên và học viên bắt tay sau buổi học |
+| 06 PAYOFF + CTA | 32–45s | Layoff rồi, giờ làm gì? Có người ngồi ghế phụ mà làm ra tiền. Bài đầy đủ ở bài ghim. | Layoff rồi, giờ làm gì? | Giáo viên và học viên bắt tay sau buổi học |
 
 ## CTA
 
@@ -499,16 +536,16 @@ Comment "1" nếu bạn đã từng nghĩ tới nghề này, "2" nếu chưa bao
 - Đăng: Thứ 2 26/04/2027, TikTok (đăng trước video dài YouTube 19:00 và bài dài Facebook 20:00)
 - Thời lượng: 15-30 giây
 - Viết dạng truyện nhiều tập: câu hook chung "Dev bị layoff thì làm gì?" + số tập, 1 nhân vật "anh ấy" xuyên suốt 6 tập (nhân vật kể chuyện hư cấu, không lấy từ trải nghiệm của Ngoc)
-- Giọng: ngôi thứ ba "anh ấy", không bịa số liệu (điều kiện bằng B2 đủ 03 năm theo Nghị định 94/2026; tin tuyển Thủ Đức, Thành Công tra cứu 23/11/2026)
+- Giọng: ngôi thứ ba "anh ấy", không bịa số liệu (NĐ 94/2026 bãi bỏ yêu cầu bằng đủ 3 năm — Điều 10, đối chiếu 24/11/2026; tin tuyển Thủ Đức, Thành Công tra cứu 23/11/2026)
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Tối đó, anh ấy mở ví, thấy cái bằng B2 lấy từ 3 năm trước. Bằng lái đủ 3 năm là đủ điều kiện đứng lớp dạy lái. Trung tâm Thủ Đức vừa tuyển 165 người, Thành Công tuyển gấp 10 giáo viên, thu nhập 15 đến 20 triệu. Cái bằng trong ví anh ấy, giờ đáng giá bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
+"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Tối đó, anh ấy mở ví, thấy cái bằng B2 lấy từ 3 năm trước. Từ tháng 7 năm nay, bằng lái không còn phải đủ 3 năm mới được dạy — có bằng là học chứng chỉ sư phạm rồi xin làm tập sự được. Trung tâm Thủ Đức vừa tuyển 165 người, Thành Công tuyển gấp 10 giáo viên, thu nhập 15 đến 20 triệu. Cái bằng trong ví anh ấy, giờ đáng giá bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
 
 ## Chữ trên màn hình
 
 - 0-3s: "Dev bị layoff thì làm gì? - Tập 1"
-- 3-15s: "Bằng B2 đủ 3 năm = đủ điều kiện dạy lái"
+- 3-15s: "Có bằng B2 là học chứng chỉ sư phạm được — không cần đợi đủ 3 năm"
 - 15-25s: "Video đầy đủ: YouTube 19h - Facebook 20h"
 
 ## CTA
@@ -578,7 +615,7 @@ Follow để xem Tập 4. Bạn học lái bằng cách nào, comment kể mình
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 4. 30 ngày đầu làm giáo viên dạy lái, anh ấy làm 5 việc. Kiểm tra bằng lái của mình, đủ 3 năm chưa. Đăng ký khóa chứng chỉ sư phạm, 2 triệu rưỡi, học online buổi tối. Liệt kê 5 trung tâm dạy lái gần nhà. Đi hỏi 2 trung tâm, có nhận giáo viên tập sự không. Và bắt đầu ghi sổ lỗi học viên, mỗi lỗi 1 dòng. 30 ngày, 5 việc, xong là đứng lớp được."
+"Dev bị layoff thì làm gì? Tập 4. 30 ngày đầu làm giáo viên dạy lái, anh ấy làm 5 việc. Kiểm tra bằng lái của mình, còn hạn không. Đăng ký khóa chứng chỉ sư phạm, 2 triệu rưỡi, học online buổi tối. Liệt kê 5 trung tâm dạy lái gần nhà. Đi hỏi 2 trung tâm, có nhận giáo viên tập sự không. Và bắt đầu ghi sổ lỗi học viên, mỗi lỗi 1 dòng. 30 ngày, 5 việc, xong là xin được làm tập sự."
 
 ## Chữ trên màn hình
 
@@ -629,12 +666,12 @@ Comment nghề bạn muốn nghe tuần sau: hướng dẫn viên du lịch.
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 6. Có bạn comment: em chưa có bằng lái, giờ học thì bao lâu mới dạy được? Anh ấy tính thử: học lấy bằng B mất 3 tháng rưỡi, ở Hà Nội khoảng 17 triệu, Đà Nẵng 21 triệu, Sài Gòn 19 triệu. Lấy bằng xong, đợi đủ 3 năm mới được đứng lớp. Học chứng chỉ sư phạm thì nhanh, 1 tháng rưỡi, 2 triệu rưỡi. Tổng cộng: 3 năm rưỡi. Bạn thì sao, bạn có bằng lái chưa?"
+"Dev bị layoff thì làm gì? Tập 6. Có bạn comment: em chưa có bằng lái, giờ học thì bao lâu mới dạy được? Anh ấy tính thử: học lấy bằng B mất 3 tháng rưỡi, ở Hà Nội khoảng 17 triệu, Đà Nẵng 21 triệu, Sài Gòn 19 triệu. Lấy bằng xong là học chứng chỉ sư phạm được ngay, 1 tháng rưỡi, 2 triệu rưỡi — không còn phải đợi đủ 3 năm như trước, Nghị định 94/2026 bãi bỏ từ tháng 7/2026 rồi. Tổng cộng: khoảng 5 tháng. Bạn thì sao, bạn có bằng lái chưa?"
 
 ## Chữ trên màn hình
 
 - 0-3s: "Dev bị layoff thì làm gì? - Tập 6"
-- 3-15s: "Chưa có bằng: 3 tháng rưỡi lấy bằng + 3 năm chờ"
+- 3-15s: "Chưa có bằng: 3 tháng rưỡi lấy bằng + 1,5 tháng chứng chỉ"
 - 15-25s: "Chứng chỉ sư phạm: 1,5 tháng, 2,5 triệu"
 - 25-30s: "Bạn có bằng lái chưa?"
 
@@ -656,14 +693,14 @@ Comment câu hỏi của bạn, tuần sau mình trả lời tiếp.
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề dạy lái. Chứng chỉ sư phạm thì rẻ, học online 1 tháng rưỡi, 2 triệu rưỡi, miền nào học cũng được. Còn bằng lái mới là khoản lớn: Hà Nội 17 triệu, Đà Nẵng 21 triệu, Sài Gòn 19 triệu. Ba miền, giá khác nhau, nhưng bằng nào cũng phải đợi đủ 3 năm mới dạy được. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề dạy lái. Chứng chỉ sư phạm thì rẻ, học online 1 tháng rưỡi, 2 triệu rưỡi, miền nào học cũng được. Còn bằng lái mới là khoản lớn: Hà Nội 17 triệu, Đà Nẵng 21 triệu, Sài Gòn 19 triệu. Ba miền, giá khác nhau, nhưng bằng nào cũng dạy được ngay sau khi học xong chứng chỉ sư phạm — không còn phải đợi đủ 3 năm như trước. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 
 - 0-3s: "Dev bị layoff thì làm gì? - Tập 7 (ngoại truyện)"
 - 3-15s: "Chứng chỉ sư phạm: 1,5 tháng, 2,5 triệu"
 - 15-25s: "Bằng B: Hà Nội 17 triệu - Đà Nẵng 21 triệu"
-- 25-35s: "Sài Gòn 19 triệu - Đợi đủ 3 năm mới dạy được"
+- 25-35s: "Sài Gòn 19 triệu - Có bằng là dạy được, không đợi 3 năm"
 - 35-45s: "Bạn ở miền nào? Comment tỉnh của bạn"
 
 ## CTA
@@ -676,17 +713,18 @@ Comment tỉnh của bạn, mình tìm khóa học gần nhất cho bạn.
 
 # Checklist 30 ngày đầu làm giáo viên dạy lái xe
 
-- Dành cho: dev vừa bị layoff, đã có bằng lái hạng B từ 03 năm trở lên, đang học chứng chỉ sư phạm hoặc mới xin làm giáo viên tập sự
+- Dành cho: dev vừa bị layoff, đã có bằng lái hạng B, đang học chứng chỉ sư phạm hoặc mới xin làm giáo viên tập sự [Cập nhật: 11/2026 – Điều 10 NĐ 94/2026/NĐ-CP bãi bỏ yêu cầu bằng đủ 3 năm từ 01/7/2026, đối chiếu 24/11/2026]
 - Mục tiêu 30 ngày: nắm được quy trình dạy 1 buổi thực hành, dạy được học viên mới bài đầu tiên có người kèm, có 1 trung tâm nhận mình làm tập sự, biết cách ghi sổ học viên và theo dõi tiến độ
-- Căn cứ: Nghị định 94/2026/NĐ-CP (điều kiện giáo viên dạy thực hành, hiệu lực 01/7/2026) + tin tuyển Thủ Đức đợt 1/2026 (giáo viên tập sự không yêu cầu kinh nghiệm, thử việc 6–12 triệu/tháng) + mức lương Vieclam24h / linhna.edu.vn tra cứu 23/11/2026
-- Lưu ý: checklist này dành cho người ĐÃ có bằng B2 từ 3 năm trở lên. Chưa có bằng thì 30 ngày đầu là đi học lấy bằng, không phải checklist này.
+- Căn cứ: Nghị định 94/2026/NĐ-CP (điều kiện giáo viên dạy thực hành, hiệu lực 01/7/2026) + tin tuyển Thủ Đức đợt 1/2026 (tuyển 100 tập sự một đợt, hạn nộp 20/11/2026 — đã hết hạn; tin tuyển không ghi rõ có yêu cầu kinh nghiệm hay không, chưa kiểm chứng) + mức lương Vieclam24h / linhna.edu.vn tra cứu 23/11/2026 (linhna.edu.vn không rõ ngày, mức tham khảo)
+- Lưu ý: checklist này dành cho người ĐÃ có bằng B2. Chưa có bằng thì 30 ngày đầu là đi học lấy bằng, không phải checklist này.
 
 ## Tuần 1 (ngày 1–7): Giấy tờ + tìm chỗ tập sự
 
-- Ngày 1–2: Kiểm tra lại hồ sơ của mình: bằng lái hạng B cấp ngày nào, đủ 03 năm chưa; bằng tốt nghiệp trung cấp trở lên còn giữ không; đã có chứng chỉ nghiệp vụ sư phạm chưa. Thiếu cái nào thì ghi ra, đừng đoán.
-- Ngày 3–4: Đăng ký khóa bồi dưỡng chứng chỉ nghiệp vụ sư phạm dạy nghề sơ cấp (học online buổi tối, 2,5 triệu/khóa, 1,5 tháng, Liên Việt). Nếu trung tâm nhận đào tạo miễn phí thì hỏi điều kiện trước, so sánh rồi mới chọn.
+- Ngày 1–2: Kiểm tra lại hồ sơ của mình: bằng lái hạng B còn hiệu lực không, hạng nào; bằng tốt nghiệp trung cấp trở lên còn giữ không; đã có chứng chỉ nghiệp vụ sư phạm chưa. Thiếu cái nào thì ghi ra, đừng đoán.
+- **Ngày 2–3: Ngồi ghế phụ 1 buổi TRƯỚC khi đóng 2,5 triệu học chứng chỉ (bước thử nghề — bổ sung 23/11/2026):** xin đi theo 1 giáo viên chính đang dạy 1 buổi, chỉ ngồi ghế phụ quan sát — xem 1 buổi dạy thực tế diễn ra thế nào, học viên căng thẳng ra sao, mình có chịu được ngồi trong xe 6–8 tiếng, nắng nóng, kẹt xe không. Xin ở đâu: trung tâm dạy lái gần nhà (tìm trên Google Maps + Facebook trung tâm), hoặc người quen làm giáo viên dạy lái. Chi phí: 0 đồng. **Chưa ngồi ghế phụ thì đừng đóng tiền học chứng chỉ** — 1 buổi quan sát cho biết mình có hợp nghề ngồi xe cả ngày hay không, trước khi bỏ 2,5 triệu và 1,5 tháng học.
+- Ngày 3–4: Đăng ký khóa bồi dưỡng chứng chỉ nghiệp vụ sư phạm dạy nghề sơ cấp (học online buổi tối, 2,5 triệu/khóa, 1,5 tháng, Liên Việt) — chỉ đăng ký SAU khi đã ngồi ghế phụ 1 buổi (ngày 2–3) và thấy mình hợp nghề. Nếu trung tâm nhận đào tạo miễn phí thì hỏi điều kiện trước, so sánh rồi mới chọn.
 - Ngày 5: Liệt kê 5 trung tâm dạy lái gần nhà (tìm trên Google Maps + Facebook trung tâm), ghi tên, địa chỉ, số điện thoại, đang tuyển giáo viên tập sự không.
-- Ngày 6–7: Đi hỏi 2–3 trung tâm đã liệt kê: có nhận giáo viên tập sự không, tập sự làm gì, lương tập sự bao nhiêu, ai kèm mình, xe của trung tâm hay xe của mình. Nói thẳng mình là dân IT chuyển nghề, đã có bằng B2 đủ 3 năm, đang học chứng chỉ sư phạm.
+- Ngày 6–7: Đi hỏi 2–3 trung tâm đã liệt kê: có nhận giáo viên tập sự không, tập sự làm gì, lương tập sự bao nhiêu, ai kèm mình, xe của trung tâm hay xe của mình. Nói thẳng mình là dân IT chuyển nghề, đã có bằng B2, đang học chứng chỉ sư phạm.
 
 ## Tuần 2 (ngày 8–14): Ngồi ghế phụ, học cách dạy
 
@@ -710,7 +748,7 @@ Comment tỉnh của bạn, mình tìm khóa học gần nhất cho bạn.
 
 ## 5 việc làm ngay trong 7 ngày tới (dùng cho video dài + clip Thứ 6)
 
-1. Kiểm tra bằng lái của mình: cấp ngày nào, đủ 03 năm chưa, còn giữ bằng trung cấp trở lên không.
+1. Kiểm tra bằng lái của mình: còn hiệu lực không, hạng nào, còn giữ bằng trung cấp trở lên không.
 2. Đăng ký khóa chứng chỉ nghiệp vụ sư phạm dạy nghề sơ cấp (2,5 triệu, học online buổi tối).
 3. Liệt kê 5 trung tâm dạy lái gần nhà.
 4. Đi hỏi 2–3 trung tâm: có nhận giáo viên tập sự không, lương tập sự bao nhiêu, xe của ai.
@@ -735,7 +773,7 @@ Comment tỉnh của bạn, mình tìm khóa học gần nhất cho bạn.
 - [ ] Hook Thứ 2 và hook reel đều nhắc layoff + tên nghề trong 3 giây đầu
 - [ ] 3 việc thật còn hạn, có nguồn + ngày đăng (kiểm tra lại trước 30/04/2027)
 - [ ] CV trước/sau đã sửa đúng nghề, không để sót thông tin dev không liên quan
-- [ ] Reel đúng sườn `suon-chung-video.md` (flat 2D, Dapper Cuff tốc độ 100, 40–45s, 140–150 từ); kịch bản reel tuần này 149 từ
+- [ ] Reel đúng sườn `suon-chung-video.md` (flat 2D, Dapper Cuff tốc độ 100, 40–45s, 140–150 từ); kịch bản reel tuần này 145 từ
 - [ ] Không còn giọng dạy đời trong lời thoại TikTok và kịch bản reel
 - [ ] Không còn câu đối lập gượng gạo kiểu phủ định rồi khẳng định trong toàn bộ file
 - [ ] Ngoc duyệt script + bài viết trước khi đăng

@@ -7,12 +7,12 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 6. Có bạn comment: em chưa có bằng lái, giờ học thì bao lâu mới dạy được? Anh ấy tính thử: học lấy bằng B mất 3 tháng rưỡi, ở Hà Nội khoảng 17 triệu, Đà Nẵng 21 triệu, Sài Gòn 19 triệu. Lấy bằng xong, đợi đủ 3 năm mới được đứng lớp. Học chứng chỉ sư phạm thì nhanh, 1 tháng rưỡi, 2 triệu rưỡi. Tổng cộng: 3 năm rưỡi. Bạn thì sao, bạn có bằng lái chưa?"
+"Dev bị layoff thì làm gì? Tập 6. Có bạn comment: em chưa có bằng lái, giờ học thì bao lâu mới dạy được? Anh ấy tính thử: học lấy bằng B mất 3 tháng rưỡi, ở Hà Nội khoảng 17 triệu, Đà Nẵng 21 triệu, Sài Gòn 19 triệu. Lấy bằng xong là học chứng chỉ sư phạm được ngay, 1 tháng rưỡi, 2 triệu rưỡi — không còn phải đợi đủ 3 năm như trước, Nghị định 94/2026 bãi bỏ từ tháng 7/2026 rồi. Tổng cộng: khoảng 5 tháng. Bạn thì sao, bạn có bằng lái chưa?"
 
 ## Chữ trên màn hình
 
 - 0-3s: "Dev bị layoff thì làm gì? - Tập 6"
-- 3-15s: "Chưa có bằng: 3 tháng rưỡi lấy bằng + 3 năm chờ"
+- 3-15s: "Chưa có bằng: 3 tháng rưỡi lấy bằng + 1,5 tháng chứng chỉ"
 - 15-25s: "Chứng chỉ sư phạm: 1,5 tháng, 2,5 triệu"
 - 25-30s: "Bạn có bằng lái chưa?"
 

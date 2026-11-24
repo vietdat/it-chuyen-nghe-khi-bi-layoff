@@ -1,7 +1,7 @@
 # Bài thực hành Thứ 6 — 3 việc thật + CV trước/sau + checklist 30 ngày
 
 - Đăng: Thứ 6 12/02/2027, 12:00, Facebook (carousel / bài viết)
-- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). **Trước khi đăng ngày 12/02/2027, kiểm tra lại xem tin còn hạn không — tin hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn.** Các tin dưới đây đã tìm thấy từ tháng 11/2026, tới tháng 2/2027 rất có thể đã hết hạn.
+- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). **Cảnh báo: tin tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 12/02/2027 — PHẢI tra lại sát ngày đăng.** Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV (từ khóa "photographer", "nhân viên chụp ảnh", "thợ chụp ảnh cưới", lọc tin còn hạn sau 12/02/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm"), không đăng tin hết hạn. Các tin dưới đây đã tìm thấy từ tháng 11/2026.
 - Giọng: nói với "bạn", không bịa số liệu
 
 ---
@@ -41,7 +41,7 @@
 - Link: https://www.topcv.vn/viec-lam/nhan-vien-quay-phim-chup-anh-san-pham-su-kien/2345283.html
 - Hợp với bạn nếu: bạn biết cả chụp và quay, muốn làm media cho 1 công ty thay vì chỉ chụp cưới.
 
-Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 12/02/2027 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Ở Đà Nẵng, tin tuyển nhân viên media 8–10 triệu của Nacy Studio (không yêu cầu kinh nghiệm) đã hết hạn nộp từ 30/11/2026 — không dùng làm việc thật. Ở Cần Thơ gần như không có tin photographer trên TopCV — nếu bạn ở Cần Thơ thì hỏi trực tiếp studio ảnh cưới gần nhà và xin làm second shooter cho team cưới địa phương.
+Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 12/02/2027 — PHẢI tra lại sát ngày đăng, tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV (từ khóa "photographer", "nhân viên chụp ảnh", "thợ chụp ảnh cưới", lọc tin còn hạn sau 12/02/2027). Rào cản bằng cấp: cả 3 việc trên đều yêu cầu "Cao đẳng trở lên" — nếu bạn chưa có bằng cao đẳng thì cửa vào là second shooter cho team cưới, không qua sàn. Tìm thêm ngày 23/11/2026: không có tin second shooter / trợ lý studio cưới nào không yêu cầu kinh nghiệm còn hạn sau ngày đăng (tin thực tập sinh À Ơi Concept hạn 31/12/2026, tin trợ lý LASA đã hết hạn) — tìm việc ngoài sàn bằng cách hỏi trực tiếp studio gần nhà hoặc nhóm Facebook nghề ảnh (từ khóa "tuyển second shooter", "tìm thợ chụp phụ"). Ở Đà Nẵng, tin tuyển nhân viên media 8–10 triệu của Nacy Studio (không yêu cầu kinh nghiệm) đã hết hạn nộp từ 30/11/2026 — không dùng làm việc thật. Ở Cần Thơ gần như không có tin photographer trên TopCV — nếu bạn ở Cần Thơ thì hỏi trực tiếp studio ảnh cưới gần nhà và xin làm second shooter cho team cưới địa phương.
 
 ---
 
@@ -78,7 +78,7 @@ Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là
 ## Tìm việc, tìm khách đầu tiên ở đâu
 
 - Xin làm second shooter cho team cưới hoặc studio ảnh cưới gần nhà — tìm trên Google Maps và Facebook, đi hỏi trực tiếp.
-- Nộp đơn lên TopCV — tìm "photographer", "nhân viên chụp ảnh", lọc tin còn hạn, ưu tiên tin ghi "không yêu cầu kinh nghiệm" (hiếm, nhưng có — ví dụ tin Nacy Studio Đà Nẵng từng tuyển media không yêu cầu kinh nghiệm).
+- Nộp đơn lên TopCV — tìm "photographer", "nhân viên chụp ảnh", lọc tin còn hạn sau ngày đăng, ưu tiên tin ghi "không yêu cầu kinh nghiệm" (hiếm — ví dụ tin Nacy Studio Đà Nẵng từng tuyển media không yêu cầu kinh nghiệm, nhưng đã hết hạn 30/11/2026).
 - Khi đã có portfolio: đăng ảnh lên TikTok, Facebook theo khu vực mình làm, chạy quảng cáo đúng quận — để cô dâu chú rể khu vực đó thấy ảnh bạn trước tiên.
 - Nhóm Facebook tuyển thợ chụp: tìm từ khóa "tuyển photographer", "tìm thợ chụp ảnh cưới", "second shooter" trong Group việc làm nhiếp ảnh và Group cư dân khu vực.
 

@@ -24,7 +24,7 @@
 
 [Hình: cận cảnh điện thoại rung, tin nhắn khách: "Căn hôm qua còn không anh, mai em đi xem được không?" Chữ trên màn hình: "Khách nhắn lúc 9 giờ tối: mai đi xem được không?"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề mà tin tuyển ghi không yêu cầu kinh nghiệm, học chứng chỉ chỉ 1 tới 3 tháng: môi giới bất động sản. Khách đi xem 3 căn trong 1 buổi chiều, về nhà nhắn: căn thứ 2, em chốt. Một buổi chiều mà chốt được 1 căn. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề mà tin tuyển ghi không yêu cầu kinh nghiệm, học chứng chỉ chỉ 1 tới 3 tháng: môi giới bất động sản. 2–3 tháng đầu chưa có giao dịch là chuyện thường — tháng đó bạn sống bằng lương cứng. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30-2:00 - Nghề này là gì, 1 ngày làm việc thật
 

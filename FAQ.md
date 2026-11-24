@@ -8,7 +8,7 @@
 
 ### Kênh này là gì?
 
-Nơi tổng hợp kiến thức chuyển nghề phi-tech cho bạn IT bị layoff. Mỗi nghề có đủ 8 mục: làm gì mỗi ngày, ai hợp với nghề, kỹ năng IT mang sang được, học gì học ở đâu bao lâu, career path đi từ đâu tới đâu, cách tìm việc và khách đầu tiên, thu nhập thực tế, rủi ro thật của nghề đó.
+Nơi tổng hợp kiến thức chuyển nghề phi-tech cho bạn IT bị layoff. Mỗi nghề có đủ 8 mục: làm gì mỗi ngày, ai hợp với nghề, kỹ năng IT mang sang được, học gì học ở đâu bao lâu, career path đi từ đâu tới đâu, cách tìm việc và khách đầu tiên, thu nhập thực tế, rủi ro thật của nghề đó. (Chuẩn viết mới là 12 mục — thêm lộ trình học, thử nghề, kết luận, nguồn tham khảo; xem `_TEMPLATE.md`.)
 
 ### Đọc ở đây có mất phí không?
 
@@ -34,7 +34,7 @@ Chỉ ghi khi có nguồn thật: tin tuyển trên TopCV, VietnamWorks, Vieclam
 
 ### 30 ngày đầu sau layoff làm gì?
 
-Mỗi nghề trong repo có 1 checklist 30 ngày, 5 việc mỗi tuần. Tuần 1 tìm hiểu nghề và hỏi người đang làm, tuần 2 thử làm phụ hoặc đi xem lớp học, tuần 3 chốt 1 nghề và đăng ký học hoặc xin phụ việc, tuần 4 đi làm buổi đầu và ghi lại những gì chưa biết. Xem mẫu checklist của tuần điều hòa: [checklist 30 ngày](01-ky-thuat-sua-chua/tho-lap-dat-sua-dieu-hoa/Info/checklist-30-ngay.md).
+Mỗi nghề trong repo có 1 checklist 30 ngày, 5 việc mỗi tuần. Tuần 1 tìm hiểu nghề và hỏi người đang làm, tuần 2 thử làm phụ hoặc đi xem lớp học, tuần 3 chốt 1 nghề và đăng ký học hoặc xin phụ việc, tuần 4 đi làm buổi đầu và ghi lại những gì chưa biết. Xem mẫu checklist của tuần điều hòa: [checklist 30 ngày trong file tổng tuần 1](01-ky-thuat-sua-chua/tho-lap-dat-sua-dieu-hoa/tuan-1-tho-dieu-hoa-day-du.md).
 
 ### Cần bao nhiêu tiền dự phòng để chuyển nghề?
 
@@ -46,13 +46,13 @@ Không có nghề nào hợp với tất cả mọi người. Người khỏe ta
 
 ### Nộp đơn mấy tháng không ai trả lời thì làm gì?
 
-Đây là câu hỏi thật trong bình luận Facebook (9/2026): một bạn tìm việc hơn 2 tháng, không ai phản hồi hay nhắn tin gì cả. Nộp đơn tiếp mà không đổi gì thì kết quả thường cũng vậy. Cách nhiều người làm: vừa nộp đơn vừa đi làm phụ 1, 2 buổi/tuần ở nghề tay chân để có thu nhập và xem mình có hợp không, đồng thời luyện lại tiếng Anh giao tiếp và live code nếu vẫn muốn ở lại IT. Hai hướng chạy song song, hướng nào có tín hiệu trước thì theo hướng đó.
+Đây là câu hỏi thật trong bình luận Facebook (9/2026): một bạn tìm việc hơn 2 tháng, không ai phản hồi hay nhắn tin gì cả. Nộp đơn tiếp mà không đổi gì thì kết quả thường cũng vậy. Rà lại cách nộp đơn xin việc nghề mới trước: CV có ghi rõ nghề mục tiêu không, đã nộp đúng kênh của nghề đó chưa, hay vẫn nộp dàn trải. Trong lúc chờ, chuyển trọng tâm sang thử nghề tay chân: xin làm phụ 1, 2 buổi/tuần để có thu nhập và xem mình có hợp nghề không. Sau 1 tháng, đánh giá lại: nghề phụ nào làm được, có khách không, có muốn học tiếp không — rồi chốt 1 nghề để theo, thay vì nộp đơn mãi mà không đổi gì.
 
 *Nguồn câu hỏi: bình luận Facebook dưới bài về IT bị layoff, 9/2026.*
 
 ### Có nên bỏ phố về quê làm nghề khác không?
 
-Một bạn IT 6 năm kinh nghiệm hỏi đúng câu này trên diễn đàn VOZ (11/2026), sau khi nộp 20 đơn mà hơn 10 đơn không phản hồi, vài lần trượt phỏng vấn tiếng Anh và live code, rồi viết: "Đến Tết không ổn chắc mình bỏ phố về quê làm việc khác". Về quê thì tiền nhà, tiền ăn nhẹ hơn, nhưng việc tay chân ở quê cũng ít hơn phố, khách cũng ít hơn. Nhiều người chọn cách ở lại phố thêm 1, 2 tháng, vừa tìm việc IT vừa thử làm phụ nghề tay chân, rồi mới quyết. Về quê hay ở lại, cái cần có trước là 1 nghề cầm tay, chứ không chỉ đổi chỗ ở.
+Một bạn IT 6 năm kinh nghiệm hỏi đúng câu này trên diễn đàn VOZ (11/2026), sau khi nộp 20 đơn mà hơn 10 đơn không phản hồi, vài lần trượt phỏng vấn tiếng Anh và live code, rồi viết: "Đến Tết không ổn chắc mình bỏ phố về quê làm việc khác". Về quê thì tiền nhà, tiền ăn nhẹ hơn, nhưng việc tay chân ở quê cũng ít hơn phố, khách cũng ít hơn. Đừng quyết về quê chỉ vì chán nộp đơn. Thử nghề trước rồi mới quyết: về quê làm phụ 1, 2 tuần ở nghề định làm, hỏi người đang làm nghề ở quê xem có việc, có khách đều không, tính chi phí sống ở quê so với phố. Trước khi về, kiểm tra 3 điều: ở quê có việc/khách cho nghề đó không, có đủ vốn để sống và làm nghề 2, 3 tháng đầu không, và có chỗ ở ổn định không. Về quê hay ở lại, cái cần có trước là 1 nghề cầm tay, chứ không chỉ đổi chỗ ở.
 
 *Nguồn câu hỏi: bài đăng trên diễn đàn VOZ, 11/2026.*
 
@@ -92,7 +92,7 @@ Repo này không đặt giới hạn tuổi. Tin tuyển tra cứu 23/11/2026 gh
 
 ### Có cần bằng cấp không?
 
-Tùy nghề. Đa số nghề tay chân không đòi bằng, chỉ cần tay nghề: sửa xe, cắt tóc, điều hòa, ống nước. Vài nghề bắt buộc có giấy tờ: dạy lái xe cần bằng B đủ 3 năm cộng chứng chỉ sư phạm, hướng dẫn viên cần thẻ hành nghề với lệ phí 650.000đ/hồ sơ, môi giới cần chứng chỉ hành nghề nếu muốn làm lâu dài, thợ điện dân dụng thì chứng chỉ an toàn điện giúp xin việc dễ hơn.
+Tùy nghề. Đa số nghề tay chân không đòi bằng, chỉ cần tay nghề: sửa xe, cắt tóc, điều hòa, ống nước. Vài nghề bắt buộc có giấy tờ: dạy lái xe cần bằng B cộng chứng chỉ sư phạm (không còn yêu cầu đủ 3 năm từ 01/7/2026), hướng dẫn viên cần thẻ hành nghề với lệ phí 650.000đ/hồ sơ, môi giới cần chứng chỉ hành nghề nếu muốn làm lâu dài, thợ điện dân dụng thì chứng chỉ an toàn điện giúp xin việc dễ hơn.
 
 ### Không biết gì về điện, có học được nghề điện không?
 
@@ -128,15 +128,15 @@ Bảng dưới đây gom từ tin tuyển thật tra cứu 23/11/2026 trên TopC
 | Sửa điện gia dụng | 8, 15 triệu/tháng |
 | Thợ khóa | 7, 15 triệu/tháng; Cần Thơ 5, 8 triệu/tháng |
 | Sửa xe máy | 8, 16 triệu/tháng; thợ phụ 8,5, 11 triệu/tháng |
-| Cắt tóc nam | Thợ chính 7,5, 18 triệu/tháng |
-| Chăm sóc người già | 10, 20 triệu/tháng |
+| Cắt tóc nam | Thợ phụ 6–10 triệu/tháng; thợ chính 10–15 triệu/tháng |
+| Chăm sóc người già | Người mới 6–8 triệu/tháng; có chứng chỉ + kinh nghiệm 9–12 triệu/tháng; qua công ty dịch vụ 10–20 triệu/tháng (tin đã hết hạn lúc tra cứu 23/11/2026, chỉ tham khảo) |
 | Cắt tỉa thú cưng | 10, 14 triệu/tháng |
 | Gia sư tiếng Anh | Tiểu học online 70.000, 135.000đ/giờ; IELTS 250.000, 500.000đ/giờ |
 | Shipper / giao hàng | 10, 15 triệu/tháng |
-| Điện mặt trời mái nhà | 9, 22 triệu/tháng |
-| Thợ làm bánh | 8, 12 triệu/tháng; thợ chính 15, 20 triệu/tháng |
-| Môi giới bất động sản | Lương cứng 6, 22 triệu/tháng, cộng hoa hồng 1, 4% |
-| Giáo viên dạy lái xe | Tập sự 6, 12 triệu/tháng; 3, 5 năm kinh nghiệm 15, 25 triệu/tháng |
+| Điện mặt trời mái nhà | Nhân viên thi công mới 8–15 triệu/tháng; kỹ thuật viên sau 1 năm 10–16 triệu/tháng |
+| Thợ làm bánh | Phụ bếp 7–9 triệu/tháng; thợ chính 8–12 triệu/tháng; thợ bánh kem có tay nghề 15–20 triệu/tháng (tin đã hết hạn, chỉ tham khảo) |
+| Môi giới bất động sản | Lương cứng toàn quốc 4,4–22 triệu/tháng (Hà Nội + Đà Nẵng 8–15 triệu; TP.HCM 6–22 triệu; Cần Thơ 4,4–6,25 triệu), cộng hoa hồng 1–3% |
+| Giáo viên dạy lái xe | Mới vào nghề 6–12 triệu/tháng; 1–3 năm 12–18 triệu/tháng; 3–5 năm 15–25 triệu/tháng |
 | Hướng dẫn viên du lịch | Nội địa 9, 14 triệu/tháng; tiếng Anh 15, 20 triệu/tháng |
 | Trồng nấm | Tiền bán nấm: bào ngư lẻ 40.000, 70.000đ/kg |
 
@@ -182,11 +182,11 @@ Kỹ năng làm việc với khách qua tin nhắn và quản lý lịch hẹn. 
 
 ### AI có giúp nghề tay chân không, hay chỉ là chuyện kể?
 
-Có, nhưng chỉ giúp việc phụ. Ví dụ thật trong tuần điều hòa: khách gửi ảnh máy kêu to lúc 11 giờ trưa, thợ dùng AI tra lỗi và báo giá trong 30 giây, khách nhắn lại "ừ, qua đi". Tiết kiệm 1 chuyến chạy tới tận nơi chỉ để báo giá.
+Có, nhưng chỉ giúp việc phụ. Ví dụ minh họa (tình huống trong clip TikTok tuần 1): khách gửi ảnh máy kêu to lúc 11 giờ trưa, thợ dùng AI tra lỗi và báo giá trong 30 giây, khách nhắn lại "ừ, qua đi". Tiết kiệm 1 chuyến chạy tới tận nơi chỉ để báo giá.
 
 ### Nghe nói 5 năm nữa AI thay hết code, có nên bỏ IT luôn không?
 
-Bình luận Facebook (9/2026): "Chỉ 5 năm nữa thôi, nghề code sẽ ko còn mấy nữa, AI sẽ thay thế phần lớn". Không ai biết chắc mốc 5 năm có đúng không, nhưng hướng đi thì rõ: code cơ bản ngày càng rẻ, người chỉ viết code theo mẫu thì khó cạnh tranh. Bỏ IT hay ở lại không quyết bằng tin đồn, mà bằng việc bạn có làm được phần khó của IT không: thiết kế hệ thống, hiểu nghiệp vụ, làm việc với khách. Làm được thì ở lại, không làm được thì học thêm 1 nghề tay chân làm đường lui, chứ không cần bỏ hết ngay hôm nay.
+Bình luận Facebook (9/2026): "Chỉ 5 năm nữa thôi, nghề code sẽ ko còn mấy nữa, AI sẽ thay thế phần lớn". Không ai biết chắc mốc 5 năm có đúng không, nhưng hướng đi thì rõ: code cơ bản ngày càng rẻ, người chỉ viết code theo mẫu thì khó cạnh tranh. Repo này dành cho người đã quyết rời IT, nên câu hỏi đúng không phải là có nên ở lại hay không, mà là quyết định rời của bạn đã chắc chưa: lý do rời là gì — mất việc, chán nghề, hay chỉ nghe tin đồn; bạn đã thử nghề mới nào chưa, hay mới chỉ nghĩ tới; và kế hoạch tài chính cho 2, 3 tháng học nghề, làm phụ đã có chưa. Nếu 3 điều đó đã rõ thì bắt đầu thử nghề ngay, đừng chờ tới khi tin đồn thành sự thật mới quyết.
 
 *Nguồn câu hỏi: bình luận Facebook dưới bài về IT bị layoff, 9/2026.*
 
@@ -210,7 +210,7 @@ Không. Mùa lạnh ít việc nên thợ chính rảnh, dạy kỹ hơn, học 
 
 ### Giáo viên dạy lái xe: chưa có bằng lái thì học nghề này được không?
 
-Được, nhưng đường dài. Bằng B phải đủ 3 năm mới được dạy hạng B (Nghị định 94/2026, hiệu lực 01/7/2026). Người chưa có bằng tốn khoảng 20, 24 triệu học phí bằng lái cộng 3 năm chờ, người đã có B2 trên 3 năm chỉ cần 2,5, 2,8 triệu chứng chỉ sư phạm. Chi tiết trong [Tuần 22, Giáo viên dạy lái xe](05-day-hoc-dao-tao/giao-vien-day-lai-xe/tuan-22-giao-vien-day-lai-xe-day-du.md).
+Được, và nhanh hơn trước. Từ 01/7/2026, Nghị định 94/2026 đã bãi bỏ yêu cầu bằng B phải đủ 3 năm mới được dạy hạng B (yêu cầu cũ của Nghị định 160/2024). Người chưa có bằng tốn khoảng 20–24 triệu học phí bằng lái + khoảng 5 tháng (3–3,5 tháng học bằng + 1,5 tháng chứng chỉ sư phạm), người đã có B2 chỉ cần 2,5–2,8 triệu chứng chỉ sư phạm. [Cập nhật: 11/2026 – Điều 10 NĐ 94/2026/NĐ-CP, đối chiếu 24/11/2026] Chi tiết trong [Tuần 22, Giáo viên dạy lái xe](05-day-hoc-dao-tao/giao-vien-day-lai-xe/tuan-22-giao-vien-day-lai-xe-day-du.md).
 
 ### Trồng nấm: sao 4 thành phố đều không có tin tuyển?
 
@@ -218,7 +218,7 @@ Vì đây là nghề tự làm chủ, tự trồng tự bán, không có công t
 
 ### Môi giới bất động sản: lương cứng bao nhiêu, hoa hồng tính sao?
 
-Lương cứng trong tin tuyển tra cứu 23/11/2026 là 6, 22 triệu/tháng tùy công ty, hoa hồng 1, 4% giá trị căn. Thu nhập ghi 15, 200 triệu/tháng là con số tin đăng khi đạt 100% KPI, chưa kiểm chứng, đừng lấy làm lương chắc chắn. Chi tiết trong [Tuần 14, Môi giới bất động sản](07-dich-vu-tu-van-huong-dan/moi-gioi-bat-dong-san/tuan-14-moi-gioi-bat-dong-san-day-du.md).
+Lương cứng trong tin tuyển tra cứu 23/11/2026 là 4,4–22 triệu/tháng toàn quốc (Hà Nội + Đà Nẵng 8–15 triệu; TP.HCM 6–22 triệu; Cần Thơ 4,4–6,25 triệu), hoa hồng 1–3% giá trị căn. Thu nhập ghi 15, 200 triệu/tháng là con số tin đăng khi đạt 100% KPI, chưa kiểm chứng, đừng lấy làm lương chắc chắn. Chi tiết trong [Tuần 14, Môi giới bất động sản](07-dich-vu-tu-van-huong-dan/moi-gioi-bat-dong-san/tuan-14-moi-gioi-bat-dong-san-day-du.md).
 
 ### Hướng dẫn viên du lịch: không biết ngoại ngữ thì làm được không?
 

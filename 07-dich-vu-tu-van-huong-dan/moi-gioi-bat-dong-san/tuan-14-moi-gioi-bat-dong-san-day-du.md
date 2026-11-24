@@ -10,11 +10,11 @@
 
 ## Mục lục
 
-1. [Lịch tuần 14 - 7 ngày, 15 bài](#1-lịch-tuần-14--7-ngày-15-bài)
+1. [Lịch tuần 14 - 7 ngày, 15 bài](#1-lịch-tuần-14---7-ngày-15-bài)
 2. [Nghiên cứu thị trường tóm tắt](#2-nghiên-cứu-thị-trường-tóm-tắt)
-3. [YouTube - Script video dài Thứ 2](#3-youtube--script-video-dài-thứ-2)
-4. [Facebook - 6 bài](#4-facebook--6-bài)
-5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok--8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
+3. [YouTube - Script video dài Thứ 2](#3-youtube---script-video-dài-thứ-2)
+4. [Facebook - 6 bài](#4-facebook---6-bài)
+5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok---8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
 6. [Checklist 30 ngày đầu](#6-checklist-30-ngày-đầu)
 7. [Lưu ý trước khi đăng](#7-lưu-ý-trước-khi-đăng)
 
@@ -25,7 +25,7 @@
 |---|---|---|---|---|
 | Thứ 2 01/03 | TikTok | - | Clip Tập 1: 9 giờ tối, khách nhắn mai đi xem được không? | Dev bị layoff thì làm gì? - Tập 1 |
 | Thứ 2 01/03 | YouTube | 19:00 | Video dài 5-10 phút, đủ 8 mục | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? |
-| Thứ 2 01/03 | Facebook | 20:00 | Bài viết dài, đủ 8 mục | Khách đi xem 3 căn trong 1 buổi chiều, về nhà nhắn: căn thứ 2, em chốt |
+| Thứ 2 01/03 | Facebook | 20:00 | Bài viết dài, đủ 8 mục | 2–3 tháng đầu chưa có giao dịch là chuyện thường — tháng đó sống bằng lương cứng |
 | Thứ 3 02/03 | TikTok | 12:00 | Clip Tập 2: dẫn khách đi xem căn đầu tiên, khách hỏi sổ đỏ đâu | Dev bị layoff thì làm gì? - Tập 2 |
 | Thứ 3 02/03 | Facebook | - | Bài tương tác: Sau layoff, bạn đang ở bước nào? | Layoff rồi, nhiều dev đang đứng đúng chỗ bạn đang đứng |
 | Thứ 4 03/03 | TikTok / Reels / Shorts | 20:00 | Reel 40-45s (hoạt hình flat 2D), kịch bản 149 từ | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? |
@@ -53,6 +53,35 @@ Tóm tắt từ `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026). Bản đ
 - TikTok: chưa đếm được lượt xem hashtag (cần đăng nhập).
 - Thị trường BĐS: VARS nhận định thị trường đang "phục hồi có chọn lọc", phân hóa mạnh, sức cầu chưa phục hồi hoàn toàn. Batdongsan.com.vn quý 1/2026: mức độ quan tâm chung cư tăng 4–7% so với tháng 12/2025; giá rao trung bình chung cư Hà Nội 87 triệu đồng/m2, TP.HCM cũ 69 triệu đồng/m2; 67% người mua chung cư mua để ở. Savills quý 1/2026: Hà Nội khoảng 11.000 căn hộ sơ cấp, hấp thụ 43%; TP.HCM khoảng 4.700 căn, hấp thụ 41%.
 - Kết luận: nhu cầu tuyển môi giới đang có thật và đang mở. Cửa vào rộng nhất trong các nghề đã làm, nhưng tuyển nhiều cũng vì nghề này nghỉ nhiều — người mới vào mà 2–3 tháng không có giao dịch thì khó trụ lại với lương cứng thấp.
+
+### Lộ trình học — tóm tắt
+
+- **Tuần đầu:** chọn 1 khu vực (1–2 quận/phường gần nhà) + 1 phân khúc (căn hộ để ở, nhà phố thổ cư, hoặc cho thuê — chỉ chọn 1); đọc Điều 61/63/65/70 Luật Kinh doanh BĐS 2023; đăng ký khóa bồi dưỡng 74 tiết (1,5 triệu/khóa, Viện QLXD khai giảng ngày 15 hàng tháng); liệt kê 5 sàn đang tuyển ở khu vực đã chọn.
+- **Tháng đầu:** xin vào 2–3 sàn, học thuộc 10 căn đầu tiên, đi xem nhà thật, lập bảng tính giá 20 căn cùng phân khúc; đăng 5 tin rao đầu tiên; thu nhập là lương cứng (4,4–15 triệu tùy nơi), chưa có hoa hồng.
+- **Tháng 2:** đi theo người kèm dẫn khách lần đầu, ghi 10 câu khách hay hỏi nhất, làm file quản lý khách bằng bảng tính, tự dẫn 1 lượt khách có người kèm nghe lại.
+- **Tháng 3:** tự dẫn khách độc lập, chốt giao dịch đầu tiên (nếu có); ôn chương trình khóa bồi dưỡng theo lịch thi sát hạch của Sở Xây dựng. Chưa có chứng chỉ thì chưa hành nghề độc lập (Điều 61 Luật Kinh doanh BĐS 2023).
+- **Sau 6 tháng:** có file khách quen và giao dịch đều hơn; thi sát hạch xong thì có chứng chỉ hành nghề (5 năm) mới được hành nghề đúng luật. Học xong khóa bồi dưỡng 74 tiết chưa có nghĩa là có chứng chỉ — phải thi sát hạch tại Sở Xây dựng, 2 phần đều đạt từ 70 điểm trở lên mới được cấp.
+
+### Thử nghề — tóm tắt
+
+- **Đi xem nhà thật 1 buổi với môi giới đang làm (0 đồng):** xin đi theo 1 môi giới ở sàn gần nhà 1 buổi dẫn khách, hoặc giả làm khách đi xem 1–2 căn — xem họ mở đầu câu chuyện thế nào, trả lời câu hỏi về sổ đỏ và giá ra sao.
+- **Xin vào sàn làm thử 1 tháng trước khi đóng tiền học chứng chỉ:** hầu hết tin tuyển không yêu cầu kinh nghiệm, vào sàn là được đào tạo sản phẩm + kỹ năng bán hàng, tháng đầu có lương cứng (4,4–15 triệu tùy nơi). Thử 1 tháng trong sàn rồi mới quyết định có đóng 1,5 triệu học khóa bồi dưỡng 74 tiết hay không.
+- **Đăng thử 5 tin rao (ảnh thật):** xem có khách nào nhắn không, khách hỏi gì — 5 tin không có khách nhắn nào cũng là dữ liệu thật.
+- **Tiêu chí dừng/tiếp — đánh giá sau 1 tháng trong sàn và sau 3 tháng:** tiếp tục nếu chịu được gọi điện cho người lạ và bị từ chối nhiều lần, thuộc được 10 căn và bảng giá khu vực, có khách nhắn sau khi đăng tin; dừng lại nếu ghét gọi điện cho người lạ tới mức không gọi được cuộc nào, sau 1 tháng đăng tin không có khách nào nhắn, không chịu được giờ giấc theo khách hoặc dẫn khách lạ xem nhà một mình buổi tối, hoặc 2–3 tháng không có giao dịch mà lương cứng không đủ sống.
+
+### Kết luận — tóm tắt
+
+- **Ưu điểm:** cửa vào rộng nhất trong các nghề đã làm (hầu hết tin tuyển không yêu cầu kinh nghiệm, chỉ cần tốt nghiệp THPT); học phí khóa bồi dưỡng rẻ (1,5 triệu/khóa); lương cứng tháng đầu có thật (4,4–15 triệu tùy nơi); lợi thế IT thật (tin rao đẹp, quảng cáo đúng quận, quản lý khách bằng bảng tính).
+- **Nhược điểm:** 2–3 tháng đầu chưa có giao dịch là chuyện thường, chỉ còn lương cứng; thu nhập gắn chặt với chu kỳ thị trường; làm không chứng chỉ phạt 40–60 triệu; chi phí đăng tin/quảng cáo/xăng xe tự bỏ trước khi có thu nhập; dẫn khách lạ xem nhà một mình buổi tối có rủi ro an toàn thật.
+- **Ai nên thử:** thích nói chuyện với người lạ, không ngại bị từ chối, chịu được giờ giấc theo khách, chấp nhận 2–3 tháng đầu chỉ sống bằng lương cứng và có tiền dự phòng cho 2–3 tháng đó. **Ai không nên thử:** ghét gọi điện cho người lạ; muốn giờ giấc cố định và thu nhập đều mỗi tháng; cần thu nhập cao ngay tháng đầu; không đủ tiền dự phòng cho 2–3 tháng đầu.
+- **Điều chưa biết:** phí đăng tin/quảng cáo/xăng xe 1 tháng (Chưa có số liệu); tổng dự phòng 2–3 tháng đầu (Chưa có số liệu); học phí khóa bồi dưỡng trực tiếp tại TP.HCM (Chưa có số liệu); hạn nộp của 4 việc trong bài thực hành (phải tra lại sát ngày đăng 05/03/2027).
+
+### Chi phí khởi điểm — tóm tắt
+
+- **A. Dụng cụ/thiết bị:** 0đ nếu đã có điện thoại, laptop, xe máy (không tính thêm). Xăng xe theo tháng: Chưa có số liệu.
+- **B. Học phí:** vào sàn làm việc 0đ (sàn đào tạo); khóa bồi dưỡng 74 tiết 1.500.000đ/khóa (Viện QLXD / Viện Nghiên cứu Đào tạo Bồi dưỡng Cán bộ / GCDRI — 1,5 triệu; Liên Việt 1,5–3 triệu) [Cập nhật: 11/2026 – trung tâm, tra 23/11/2026]. Lệ phí thi sát hạch + cấp chứng chỉ: Chưa có số liệu.
+- **C. Dự phòng 2–3 tháng đầu:** phí đăng tin, chạy quảng cáo, xăng xe, ăn ở sinh hoạt — **Chưa có số liệu** (đã tra ngày 23/11/2026, không tìm thấy bảng giá công khai nào ghi đủ 3 khoản này). Hỏi sàn trước khi vào: sàn hỗ trợ marketing bao nhiêu % (SRT Miền Nam 50–100%, Landmart Realty 100%).
+- **D. Tổng cộng (A + B, chưa tính C): 1.500.000đ** — cho nấc vào sàn làm việc + học khóa bồi dưỡng 74 tiết.
 
 ### Nhu cầu theo thành phố (đếm ngày 23/11/2026)
 
@@ -82,6 +111,13 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 ### Rủi ro thật - tóm tắt
 
 - Không có giao dịch = không có hoa hồng, chỉ còn lương cứng. Thị trường đóng băng hoặc chững lại là rủi ro lớn nhất (VARS: sức cầu chưa phục hồi hoàn toàn). Pháp lý: làm không chứng chỉ phạt 40–60 triệu, tư vấn sai thông tin thì phải bồi thường. Chi phí đăng tin/quảng cáo/xăng xe vẫn mất dù tháng đó không chốt được. Cạnh tranh rất đông (133 tin tuyển toàn quốc trên TopCV). Giờ giấc theo khách, tối và cuối tuần. Không có chuyện "chốt 1 căn đổi đời" — nghề này sống bằng số lượng giao dịch đều đặn và khách quen giới thiệu.
+- **An toàn khi dẫn khách xem nhà một mình:** dẫn khách lạ đi xem nhà — nhất là nhà trống, buổi tối — là lúc rủi ro nhất của nghề này. Trước khi đi, nhắn cho người nhà hoặc người kèm ở sàn: tên khách, số điện thoại, địa chỉ căn xem, giờ đi và giờ dự kiến về; gặp khách lần đầu ở nơi đông người hoặc tại sàn, đừng hẹn thẳng ở nhà trống; buổi tối chỉ dẫn khách đã quen hoặc khách đã gặp ban ngày, khách lạ thì hẹn ban ngày hoặc đi cùng người kèm; giữ điện thoại đủ pin, chia sẻ vị trí trực tiếp cho người nhà trong lúc đi xem.
+- **Vốn khởi điểm:** phí đăng tin/quảng cáo/xăng xe + dự phòng 2–3 tháng đầu — **Chưa có số liệu** (đã tra ngày 23/11/2026, không tìm thấy bảng giá công khai nào ghi đủ 3 khoản này cho môi giới mới vào nghề). Hỏi sàn trước khi vào: sàn hỗ trợ marketing bao nhiêu % (SRT Miền Nam hỗ trợ 50–100%, Landmart Realty hỗ trợ 100% chi phí marketing), phần còn lại tự bỏ là bao nhiêu/tháng.
+
+### Nguồn tham khảo — tóm tắt
+
+- Đầy đủ trong file nghiên cứu mục 11: tin tuyển, bảng học phí trung tâm, pháp lý, thị trường BĐS, nguồn chưa kiểm chứng — mỗi nguồn có link + ngày truy cập 23/11/2026 + loại nguồn + mức tin cậy.
+
 
 
 ## 3. YouTube - Script video dài Thứ 2
@@ -112,7 +148,7 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 
 [Hình: cận cảnh điện thoại rung, tin nhắn khách: "Căn hôm qua còn không anh, mai em đi xem được không?" Chữ trên màn hình: "Khách nhắn lúc 9 giờ tối: mai đi xem được không?"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề mà tin tuyển ghi không yêu cầu kinh nghiệm, học chứng chỉ chỉ 1 tới 3 tháng: môi giới bất động sản. Khách đi xem 3 căn trong 1 buổi chiều, về nhà nhắn: căn thứ 2, em chốt. Một buổi chiều mà chốt được 1 căn. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề mà tin tuyển ghi không yêu cầu kinh nghiệm, học chứng chỉ chỉ 1 tới 3 tháng: môi giới bất động sản. 2–3 tháng đầu chưa có giao dịch là chuyện thường — tháng đó bạn sống bằng lương cứng. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30-2:00 - Nghề này là gì, 1 ngày làm việc thật
 
@@ -192,7 +228,7 @@ Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau m
 
 Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề mà tin tuyển ghi không yêu cầu kinh nghiệm, học chứng chỉ chỉ 1 tới 3 tháng: môi giới bất động sản.
 
-Khách đi xem 3 căn trong 1 buổi chiều, về nhà nhắn: căn thứ 2, em chốt. Một buổi chiều mà chốt được 1 căn. Bài này nói hết về nghề môi giới BĐS: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
+2–3 tháng đầu chưa có giao dịch là chuyện thường — tháng đó bạn sống bằng lương cứng. Bài này nói hết về nghề môi giới BĐS: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
 **Nghề này làm gì mỗi ngày**
 
@@ -340,7 +376,7 @@ Mẹo này không tốn tiền, chỉ tốn 2 phút sau mỗi buổi xem nhà. K
 - Link: https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-bat-dong-san/2318383.html
 - Hợp với bạn nếu: bạn ở Cần Thơ, chấp nhận lương cứng thấp nhất trong 4 nơi (4,4–6,25 triệu) để vào làm ở sàn lớn và học nghề.
 
-4 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 05/03/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Ở Cần Thơ, ngoài TopCV thì tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com): CEN Land tuyển 12 chuyên viên kinh doanh BĐS (hạn nộp 31/12/2026, lương cơ bản ghi 6–40 triệu/tháng — mức ghi trong tin, chênh lệch rất lớn, chưa kiểm chứng) và Đất Xanh Miền Tây tuyển nhân viên kinh doanh (lương cơ bản 4,5–6,2 triệu, hoa hồng 1,6–3%).
+4 tin trên là tin tìm thấy ngày 23/11/2026 — **gần như chắc chắn hết hạn trước ngày đăng 05/03/2027, PHẢI tra lại sát ngày đăng** (mở lại từng link kiểm tra còn hạn không; hạn nộp không ghi trong bản tra cứu 23/11/2026). Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV: tìm "nhân viên kinh doanh bất động sản" + tên thành phố, lọc tin còn hạn sau 05/03/2027, ưu tiên tin ghi lương cứng cụ thể và "không yêu cầu kinh nghiệm". Không đăng tin hết hạn. Ở Cần Thơ, ngoài TopCV thì tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com). **Tin CEN Land tuyển 12 chuyên viên (hạn nộp 31/12/2026, lương cơ bản ghi 6–40 triệu/tháng — mức ghi trong tin, chưa kiểm chứng) đã hết hạn trước ngày đăng 05/03/2027, KHÔNG dùng làm việc thật; số 6–40 triệu KHÔNG dùng được làm số chính.** Cách tìm tin thay thế trước ngày đăng: vào sanvieclamcantho.com và topcv.vn, tìm "nhân viên kinh doanh bất động sản Cần Thơ" hoặc "chuyên viên kinh doanh BĐS Cần Thơ", lọc tin còn hạn sau 05/03/2027, ưu tiên tin ghi lương cứng cụ thể 1 khoảng hẹp và ghi rõ "lương cứng không phụ thuộc doanh số". Đất Xanh Miền Tây tuyển nhân viên kinh doanh (lương cơ bản 4,5–6,2 triệu, hoa hồng 1,6–3%) — cũng tra lại hạn trước khi đăng.
 
 
 ## CV mẫu: trước và sau

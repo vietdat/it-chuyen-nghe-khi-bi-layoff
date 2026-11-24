@@ -1,7 +1,7 @@
 # Bài thực hành Thứ 6 - 3 việc thật gần nghề nhất + 3 đầu ra bán nấm + CV trước/sau + checklist 30 ngày
 
 - Đăng: Thứ 6 14/05/2027, 12:00, Facebook (carousel / bài viết)
-- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). Trước khi đăng ngày 14/05/2027, kiểm tra lại xem tin còn hạn không - tin hết hạn thì thay bằng tin khác, không đăng tin hết hạn.
+- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). **Cảnh báo: tin tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 14/05/2027 — PHẢI tra lại sát ngày đăng.** Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV (từ khóa "kỹ thuật nông nghiệp", "kỹ thuật trồng trọt", "kỹ thuật cây trồng", lọc tin còn hạn sau 14/05/2027), không đăng tin hết hạn. Lưu ý: 0 tin tuyển riêng nghề trồng nấm trên sàn — 3 việc dưới đây là việc kỹ thuật nông nghiệp gần nhất, không phải việc trồng nấm.
 - **Nói rõ ngay từ đầu: ngày 23/11/2026 mình đếm thấy cả 4 thành phố Hà Nội, TP.HCM, Đà Nẵng, Cần Thơ đều 0 tin tuyển riêng nghề trồng nấm trên TopCV và VietnamWorks.** 3 việc dưới đây là việc kỹ thuật nông nghiệp GẦN NHẤT với nghề trồng nấm, không phải việc trồng nấm. Đừng đọc nhầm thành "đang tuyển người trồng nấm".
 - Giọng: nói với "bạn", không bịa số liệu
 
@@ -40,13 +40,13 @@
 - Link: https://www.topcv.vn/viec-lam/chuyen-vien-ky-thuat-cay-trong/1376791.html
 - Hợp với bạn nếu: bạn ở Cần Thơ, có bằng đại học nông nghiệp và 1 năm kinh nghiệm.
 
-3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 14/05/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Ở Hà Nội, 2 tin kỹ thuật nông nghiệp tìm thấy (Agritech 8–10 triệu, Kingbioworld 9 triệu + hoa hồng) đều đã hết hạn ngày 23/11/2026, nên không đưa vào đây. Ở Đà Nẵng không tìm thấy tin nào.
+3 tin trên là tin tìm thấy ngày 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 14/05/2027 — PHẢI tra lại sát ngày đăng, tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV (từ khóa "kỹ thuật nông nghiệp", "kỹ thuật trồng trọt", "kỹ thuật cây trồng", lọc tin còn hạn sau 14/05/2027), không đăng tin hết hạn. Lưu ý: đây là việc kỹ thuật nông nghiệp chung, KHÔNG phải việc trồng nấm — 0 tin tuyển riêng nghề trồng nấm trên sàn ngày 23/11/2026. Ở Hà Nội, 2 tin kỹ thuật nông nghiệp tìm thấy (Agritech 8–10 triệu, Kingbioworld 9 triệu + hoa hồng) đều đã hết hạn ngày 23/11/2026, nên không đưa vào đây. Ở Đà Nẵng không tìm thấy tin nào.
 
 ## 3 đầu ra thật để bán nấm (vì nghề này chủ yếu tự trồng bán, không phải đi xin việc)
 
 ### Đầu ra 1: Chợ đầu mối và chợ gần nhà
 
-- Ví dụ thật: trại nấm bào ngư xám của anh Đinh Văn Hào (TP. Huế) bán nấm cho chợ đầu mối Huế, phân phối đi Quảng Trị, Quảng Bình (danviet.vn, 2026). Trại của vợ chồng anh Lê Trọng Đức (Hà Tĩnh) cung cấp cho chợ Bình Hương mỗi ngày 70–80kg nấm (vietnamnet.vn, 2026).
+- Ví dụ thật: trại nấm bào ngư xám của anh Đinh Văn Hào (TP. Huế) bán nấm cho chợ đầu mối Huế, phân phối đi Quảng Trị, Quảng Bình (danviet.vn, 2026). Trại của vợ chồng anh Lê Trọng Đức (Hà Tĩnh) cung cấp cho chợ Bình Hương mỗi ngày 70–80kg nấm (vietnamnet.vn, bài đăng 25/10/2026).
 - Giá tham khảo: nấm bào ngư sỉ cho chợ khoảng 30.000đ/kg, lẻ 40.000–70.000đ/kg.
 - Cách bắt đầu: mang nấm ra chợ gần nhà hỏi sạp rau, sạp nấm xem họ có lấy hàng hằng ngày không, lấy bao nhiêu ký, trả tiền theo ngày hay theo tuần.
 

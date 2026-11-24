@@ -7,7 +7,7 @@
 
 Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề mà tin tuyển ghi không yêu cầu kinh nghiệm, học chứng chỉ chỉ 1 tới 3 tháng: môi giới bất động sản.
 
-Khách đi xem 3 căn trong 1 buổi chiều, về nhà nhắn: căn thứ 2, em chốt. Một buổi chiều mà chốt được 1 căn. Bài này nói hết về nghề môi giới BĐS: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
+2–3 tháng đầu chưa có giao dịch là chuyện thường — tháng đó bạn sống bằng lương cứng. Bài này nói hết về nghề môi giới BĐS: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
 **Nghề này làm gì mỗi ngày**
 

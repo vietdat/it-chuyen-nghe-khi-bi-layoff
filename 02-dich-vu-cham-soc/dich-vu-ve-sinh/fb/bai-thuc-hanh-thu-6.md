@@ -30,19 +30,17 @@
 - Link: https://worklink.vn/job/376389/tuyen-ctv-don-dep-nha-linh-dong-thoi-gian/
 - Hợp với bạn nếu: bạn muốn chủ động giờ làm, nhận ca qua app, làm nhiều thì thu nhập cao hơn làm thuê cố định. Lưu ý: bTaskee tuyển chủ yếu nữ 18–50 tuổi — bạn là nam thì đăng ký sẽ khó được nhận hơn.
 
-### Việc 3: Nhân Viên Tạp Vụ - Cleaner (TP.HCM) - đã hết hạn, chỉ tham khảo lương + cách ứng tuyển
+### Việc 3: Cách tìm tin tạp vụ TP.HCM đang mở — thay cho tin El Gaucho TP.HCM đã hết hạn 08/02/2027
 
-- Công ty: Nhà Hàng El Gaucho - Công Ty TNHH Cao Bồi Nam Mỹ
-- Lương: 6.000.000 – 8.500.000 VNĐ/tháng
-- Công việc: kiểm tra, lau dọn và vệ sinh các khu vực được phân công theo tiêu chuẩn nhà hàng
-- Quyền lợi: thưởng Tết + lương tháng 13 khi làm đủ 12 tháng
-- Địa điểm: TP.HCM (74/1–74/1A Hai Bà Trưng hoặc 64–66 Lê Lợi, Sài Gòn)
-- Ngày thấy tin: 23/11/2026 (viecday.com, tin đăng 14/11/2026)
-- Hạn nộp: 08/02/2027 — ĐÃ HẾT HẠN trước ngày đăng bài 19/02/2027. Tin này chỉ dùng để tham khảo mức lương và cách ứng tuyển, KHÔNG dùng để nộp đơn. Trước khi đăng, thay bằng tin tạp vụ TP.HCM đang mở trên Việc Làm Tốt (ngày 23/11/2026 trang này ghi 1.604 việc tạp vụ tại TP.HCM) hoặc TopCV.
-- Link: https://viecday.com/viec-lam/nhan-vien-tap-vu-cleaner-ho-chi-minh-va-binh-duong-2558994/
-- Hợp với bạn nếu: bạn ở TP.HCM và muốn hình dung mức lương tạp vụ nhà hàng — rồi tìm tin đang mở tương tự để nộp.
+- Tin cũ chỉ để tham khảo lương: Nhân Viên Tạp Vụ – Cleaner, Nhà Hàng El Gaucho TP.HCM, 6–8,5 triệu/tháng, hạn nộp 08/02/2027 — ĐÃ HẾT HẠN trước ngày đăng 19/02/2027, KHÔNG nộp đơn. Link cũ để đối chiếu lương: https://viecday.com/viec-lam/nhan-vien-tap-vu-cleaner-ho-chi-minh-va-binh-duong-2558994/
+- Cách tìm tin thay thế sát ngày đăng 19/02/2027 (4 bước):
+  1. Việc Làm Tốt → chọn TP.HCM → tìm "tạp vụ" hoặc "nhân viên vệ sinh" → lọc tin còn hạn sau 19/02/2027. Ngày 23/11/2026 trang này ghi 1.604 việc tạp vụ tại TP.HCM, lương 4,5–13,37 triệu/tháng.
+  2. TopCV → tìm "tạp vụ", "nhân viên vệ sinh", "dọn dẹp" → lọc "không yêu cầu kinh nghiệm", còn hạn sau 19/02/2027.
+  3. Ưu tiên tin ghi rõ lương tháng (mốc tham khảo: làm thuê mới vào 5–8 triệu/tháng; lương tối thiểu vùng I từ 01/01/2026 là 5.310.000đ/tháng — tin nào ghi thấp hơn thì xem lại trước khi nộp).
+  4. Không tìm được tin online thì hỏi trực tiếp nhà hàng, khách sạn, văn phòng gần nhà — nhiều nơi dán bảng tuyển ngay cửa, không đăng tin online.
+- Hợp với bạn nếu: bạn ở TP.HCM và muốn làm thuê toàn thời gian có lương tháng 13 — tìm tin đang mở tương tự để nộp.
 
-3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 19/02/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở, không đăng tin hết hạn. Ở Hà Nội, tìm việc qua TopCV: ngày 23/11/2026 tìm thấy 7 tin tạp vụ / vệ sinh (Fuji Lifecare 4–5 triệu buổi sáng, Lavender 7,5 triệu + thưởng, Ami&M housekeeping 6–7 triệu, Ngân Lực 6–8 triệu...). Ở Cần Thơ, tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com) và Joboko: ngày 23/11/2026 tìm thấy tạp vụ giúp việc nhà 5–7 triệu (hạn 06/12/2026, đã hết hạn trước ngày đăng — chỉ tham khảo). App dọn dẹp bTaskee, JupViec, Ting tuyển liên tục quanh năm, không có hạn cụ thể — đây là đường vào nhanh nhất nếu bạn muốn bắt đầu ngay.
+Tin tuyển tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 19/02/2027 — PHẢI tra lại sát ngày đăng. Việc 1 (El Gaucho Đà Nẵng, hạn 28/02/2027) còn hạn vào ngày đăng nhưng vẫn kiểm tra lại link trước khi đăng; Việc 2 là app tuyển liên tục, không có hạn; Việc 3 đã thay bằng hướng dẫn tìm tin đang mở 4 bước ở trên (tin El Gaucho TP.HCM cũ đã hết hạn 08/02/2027, KHÔNG nộp đơn). Ở Hà Nội, tìm việc qua TopCV: ngày 23/11/2026 tìm thấy 7 tin tạp vụ / vệ sinh (Fuji Lifecare 4–5 triệu buổi sáng, Lavender 7,5 triệu + thưởng, Ami&M housekeeping 6–7 triệu, Ngân Lực 6–8 triệu...). Ở Cần Thơ, tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com) và Joboko: ngày 23/11/2026 tìm thấy tạp vụ giúp việc nhà 5–7 triệu (hạn 06/12/2026, đã hết hạn trước ngày đăng — chỉ tham khảo). App dọn dẹp bTaskee, JupViec, Ting tuyển liên tục quanh năm, không có hạn cụ thể — đây là đường vào nhanh nhất nếu bạn muốn bắt đầu ngay.
 
 
 ## CV mẫu: trước và sau

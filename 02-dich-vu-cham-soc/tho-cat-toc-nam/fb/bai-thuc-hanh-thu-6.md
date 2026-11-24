@@ -1,7 +1,8 @@
 # Bài thực hành Thứ 6 — 3 việc thật + CV trước/sau + checklist 30 ngày
 
 - Đăng: Thứ 6 08/01/2027, 12:00, Facebook (carousel / bài viết)
-- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV, Vieclamtot). Trước khi đăng ngày 08/01, kiểm tra lại xem tin còn hạn không — tin hết hạn thì thay bằng tin khác, không đăng tin hết hạn.
+- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV, Vieclamtot).
+- ⚠️ **Tin tra ngày 23/11/2026 — PHẢI tra lại và thay tin mới sát ngày đăng (trước 08/01/2027).** Tuần đăng là 04–10/01/2027, tin tra hôm nay gần như chắc chắn hết hạn trước ngày đăng — KHÔNG đăng nguyên 3 tin dưới đây mà chưa kiểm tra lại link. Tin nào hết hạn thì thay bằng tin khác đang mở (xem "Cách tìm tin thay thế" ở cuối mục 3 việc thật), không đăng tin hết hạn.
 - Giọng: nói với "bạn", không bịa số liệu
 
 ---
@@ -33,18 +34,29 @@
 - Link: https://www.topcv.vn/viec-lam/nhan-vien-hair-stylist/1971058.html
 - Hợp với bạn nếu: bạn ở Hà Nội, đã biết cắt tóc nam/nữ và muốn môi trường làm việc theo chuẩn Nhật, có đào tạo nâng cao.
 
-### Việc 3: Tuyển Thợ Phụ & Dạy Nghề Tóc tại Cần Thơ — Cần Thơ
+### Việc 3: Thợ Phụ Tóc — TP. Thủ Đức, TP.HCM (không yêu cầu giới tính)
 
-- Tiệm: Sài Gòn Hair
-- Lương: thợ phụ lương chia 50/50 (có bao lương); tuyển 2 bạn nữ dạy nghề miễn phí tóc Nam – Nữ, học 1–2 tháng sẽ có thu nhập theo tay nghề
-- Yêu cầu: thợ phụ nữ làm tóc nam/nữ, biết ráy tai càng tốt; không yêu cầu kinh nghiệm, không yêu cầu học vấn
-- Thời gian làm việc: 9h–19h, tháng nghỉ 4 ngày
-- Địa điểm: 25 Trần Hoàng Na, Cái Răng, Cần Thơ (gần bến xe Cần Thơ)
-- Ngày thấy tin: 23/11/2026 (Vieclamtot, tin đăng 31/10/2026)
-- Link: https://www.vieclamtot.com/viec-lam-quan-cai-rang-can-tho/135565675.htm
-- Hợp với bạn nếu: bạn là người mới chuyển nghề, chưa biết việc — nộp vị trí học nghề miễn phí, vừa học vừa làm vẫn có thu nhập theo tay nghề.
+- Tiệm: A NEW DAY Korean Hair Salon
+- Lương: thu nhập 15–20 triệu/tháng (lương cơ bản 9.000.000đ + tip + hoa hồng + phụ cấp theo chính sách salon) — lưu ý: 15–20 triệu là mức thu nhập ghi trong tin (cơ bản + tip + hoa hồng), không phải lương cứng; hỏi rõ lúc phỏng vấn
+- Yêu cầu: thợ phụ; không yêu cầu kinh nghiệm, không yêu cầu học vấn, không yêu cầu giới tính (tin ghi "Giới tính: Không yêu cầu", tuổi tối thiểu 18)
+- Quyền lợi: được đào tạo, nâng cao tay nghề cùng đội ngũ giàu kinh nghiệm; BHXH, BHYT theo quy định
+- Số lượng tuyển: 3 người
+- Địa điểm: Thảo Điền, Quận 2 (cũ), TP. Thủ Đức, TP.HCM
+- Ngày thấy tin: 23/11/2026 (Vieclamtot, tin đăng 20/11/2026)
+- Link: https://www.vieclamtot.com/viec-lam-thanh-pho-thu-duc-tp-ho-chi-minh/135962574.htm
+- Hợp với bạn nếu: bạn là người mới chuyển nghề, chưa biết việc, muốn làm thợ phụ được đào tạo lên tay nghề — tin này không giới hạn giới tính nên dev nam nộp được (khác với tin cũ đã loại, xem ghi chú dưới đây).
 
-Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 08/01/2027 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên Vieclamtot hoặc TopCV, không đăng tin hết hạn. Ngoài 3 tin trên, Vieclamtot ngày 23/11/2026 có 150 tin tuyển thợ cắt tóc cả nước, TP.HCM chiếm 112 tin — bạn ở TP.HCM thì tìm trên Vieclamtot sẽ thấy nhiều tin nhất. Ở Đà Nẵng, 123job có tin Trình Barbershop (16 Hà Tông Quyền, lương ăn chia + % hóa chất) và Barbershop Hoàng Phi (8–10 triệu/tháng); ở Cần Thơ còn có tin Long Tuyền ăn chia 6/4, lương 6–8 triệu/tháng.
+> **Vì sao thay Việc 3 cũ:** Việc 3 cũ là tin Sài Gòn Hair (Cần Thơ, Vieclamtot, tin đăng 31/10/2026) tuyển "2 bạn nữ" dạy nghề miễn phí — chỉ tuyển nữ, không phù hợp đối tượng độc giả là dev nam muốn chuyển nghề, nên đã loại khỏi bài này. Tin Sài Gòn Hair vẫn được nhắc trong file nghiên cứu (`Info/nghien-cuu-thi-truong.md` §1, mục Cần Thơ) như một ví dụ về tiệm dạy nghề miễn phí — nhưng là ví dụ về đường học nghề, không phải việc để nộp đơn. Các tin Muaban trong file nghiên cứu (Masteri, Bắc Từ Liêm, Sơn Trà, Hòa Vang) đều đã hết hạn trước tuần đăng nên cũng không dùng làm việc thật ở đây — chỉ dùng tham khảo lương.
+
+⚠️ **Tin tra ngày 23/11/2026 — PHẢI tra lại và thay tin mới sát ngày đăng (trước 08/01/2027).** Ngày đăng bài là 08/01/2027, cách ngày tra cứu hơn 1 tháng — cả 3 tin trên gần như chắc chắn hết hạn trước ngày đăng. Trước khi đăng: mở lại từng link, tin nào hết hạn thì thay bằng tin khác đang mở, không đăng tin hết hạn. Lưu ý riêng: Việc 1 (30Shine) và Việc 2 (ONE DINING) lúc tra cứu 23/11/2026 không ghi hạn nộp trong tin — kiểm chứng lại hạn nộp khi tra lại. Lương theo nấc nào lấy từ tin đã hết hạn thì ghi rõ "tin đã hết hạn lúc tra cứu, chỉ tham khảo, kiểm chứng lại" — không dùng tin hết hạn làm số lương chính.
+
+**Cách tìm tin thay thế (làm trước 08/01/2027):**
+- Sàn: Vieclamtot (nhiều tin thợ tóc nhất — 150 tin cả nước ngày 23/11/2026, TP.HCM 112 tin) và TopCV.
+- Từ khóa tìm kiếm cụ thể: "thợ cắt tóc nam" + thành phố; "thợ phụ cắt tóc" + thành phố; "học việc cắt tóc" + thành phố; "barber" + quận (ví dụ: "thợ cắt tóc nam TP.HCM", "thợ phụ cắt tóc Hà Nội", "học việc cắt tóc Đà Nẵng").
+- Tiêu chí chọn tin thay thế: tin đang mở (còn hạn nộp sau 08/01/2027); KHÔNG giới hạn nữ (đọc kỹ mục giới tính trong tin — tin chỉ tuyển nữ thì loại, như tin Sài Gòn Hair cũ); ưu tiên tin ghi "không yêu cầu kinh nghiệm" hoặc "dạy nghề miễn phí" cho người mới; ghi đủ tên tiệm/công ty, vị trí, lương, link, ngày tra cứu mới.
+- Tin dự phòng đã tìm sẵn ngày 23/11/2026 (cũng phải tra lại hạn trước khi dùng): THE CUT STATION, thợ chính cắt tóc nam–nữ, 11–20 triệu/tháng, 241A Đề Thám, Q.1, TP.HCM, kinh nghiệm 1–2 năm, giới tính không yêu cầu, tin đăng 22/11/2026 — https://www.vieclamtot.com/viec-lam-quan-1-tp-ho-chi-minh/135856039.htm
+
+Ngoài 3 tin trên, Vieclamtot ngày 23/11/2026 có 150 tin tuyển thợ cắt tóc cả nước, TP.HCM chiếm 112 tin — bạn ở TP.HCM thì tìm trên Vieclamtot sẽ thấy nhiều tin nhất. Ở Đà Nẵng, 123job có tin Trình Barbershop (16 Hà Tông Quyền, lương ăn chia + % hóa chất) và Barbershop Hoàng Phi (8–10 triệu/tháng) — cả 2 đều là tin cũ, chỉ tham khảo, kiểm chứng lại; ở Cần Thơ còn có tin Long Tuyền ăn chia 6/4, lương 6–8 triệu/tháng (tin cũ, chỉ tham khảo).
 
 ---
 

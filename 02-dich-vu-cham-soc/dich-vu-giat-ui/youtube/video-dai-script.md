@@ -38,7 +38,7 @@ Cả ngày bạn làm việc với đồ của người khác. Mỗi túi đồ 
 
 "Nghề này hợp với người thích việc đều tay, lặp lại mỗi ngày mà không chán. Nhận đồ, giặt, sấy, gấp, trả đồ — làm xong thấy kết quả ngay trong ngày, túi đồ sạch thơm đưa tận tay khách. Gặp khách trực tiếp, nói chuyện với khách khu vực cũng là một phần việc. Khách quen gửi đồ theo tuần, theo tháng, bạn nhớ được nhà nào thích nước xả nào, nhà nào hay gửi chăn ga.
 
-Còn nếu bạn chán việc lặp lại thì nên suy nghĩ lại. Mỗi ngày cũng là nhận đồ, phân loại, cho máy chạy, gấp, trả đồ. Đứng máy cả ngày, tay ướt, mùi nước giặt quanh người. Ca làm trong tin tuyển mình thấy: 7 giờ sáng tới 12 giờ trưa, 12 giờ tới 10 giờ tối, có xưởng làm ca 4 giờ rưỡi sáng. Muốn ngồi văn phòng 8 tiếng, giờ giấc cố định thì tìm nghề khác. Nói thẳng như vậy để bạn khỏi mất thời gian học rồi mới biết mình không hợp."
+Còn nếu bạn chán việc lặp lại thì nên suy nghĩ lại. Mỗi ngày cũng là nhận đồ, phân loại, cho máy chạy, gấp, trả đồ. Đứng máy cả ngày, tay ướt, mùi nước giặt quanh người. Và có một rủi ro sức khỏe ít người nói tới: viêm da do hóa chất giặt tẩy và tay ướt liên tục cả ca, bỏng hơi nước nóng từ bàn là hơi nước công nghiệp, hít bụi vải khi gấp và sấy đồ. Đeo găng tay chống hóa chất khi xử lý hóa chất và đồ ướt, đeo khẩu trang khi gấp sấy nhiều đồ. Ca làm trong tin tuyển mình thấy: 7 giờ sáng tới 12 giờ trưa, 12 giờ tới 10 giờ tối, có xưởng làm ca 4 giờ rưỡi sáng. Muốn ngồi văn phòng 8 tiếng, giờ giấc cố định thì tìm nghề khác. Nói thẳng như vậy để bạn khỏi mất thời gian học rồi mới biết mình không hợp."
 
 ### 3:30-5:30 - Lợi thế của dân IT
 
@@ -48,7 +48,7 @@ Cái lợi đầu tiên là nhận đồ qua app và quản lý đơn bằng b�
 
 Rồi tới nhắc khách lấy đồ đúng hẹn. Đồ nằm ở tiệm càng lâu càng dễ nhầm, càng chật chỗ. Bạn nhắn khách đúng ngày hẹn trả, khách tới lấy, chỗ trống ra cho đơn mới. Khách nhớ mình là nhờ được nhắc đúng lúc.
 
-Còn bảng tính giá vốn từng mẻ giặt. Bạn biết 1 mẻ máy 10kg tốn bao nhiêu điện, nước, hóa chất, công gấp — cộng lại chia cho số ký là ra giá vốn 1kg. Tiệm không tính thì làm nhiều mà không biết đơn nào lãi, đơn nào hòa vốn. Có 1 ví dụ thật: nhận chăn ga 50.000đ 1 cái, giặt riêng 1 mẻ tốn điện nước hóa chất 35.000đ, công phơi gấp 15.000đ — tổng đúng bằng giá bán, lãi bằng 0. Bạn tính được cái này thì không nhận đơn hòa vốn mà tưởng đang có lãi.
+Còn bảng tính giá vốn từng mẻ giặt. Bạn biết 1 mẻ máy 10kg tốn bao nhiêu điện, nước, hóa chất, công gấp — cộng lại chia cho số ký là ra giá vốn 1kg. Tiệm không tính thì làm nhiều mà không biết đơn nào lãi, đơn nào hòa vốn. Có 1 ví dụ minh họa (e-biz.com.vn): nhận chăn ga 50.000đ 1 cái, giặt riêng 1 mẻ tốn điện nước hóa chất 35.000đ, công phơi gấp 15.000đ — tổng đúng bằng giá bán, lãi bằng 0. Bạn tính được cái này thì không nhận đơn hòa vốn mà tưởng đang có lãi.
 
 Và quảng cáo theo khu vực. Tiệm giặt ủi sống bằng khách quanh tiệm: chung cư, khu sinh viên, khu văn phòng. Bạn chạy quảng cáo theo quận, theo phường, đăng video gấp đồ lên TikTok cho khách khu vực thấy. Thợ thường chỉ chờ khách đi ngang qua cửa, bạn thì đi tìm khách quanh tiệm."
 
@@ -62,7 +62,7 @@ Lên nấc hai, bạn làm tốt: phân biệt chất liệu vải, tẩy điể
 
 Nấc ba là mở tiệm hoặc quản lý: chọn máy, tính giá vốn từng mẻ, ký hợp đồng giặt cho khách sạn, quản lý nhân viên. Thường sau 1-2 năm làm thuê mới tới được đây. Mốc thời gian này là ước lượng thôi.
 
-Còn học ở đâu thì có 2 đường đi. Đường chính là xin làm nhân viên giặt sấy tại tiệm. Nhiều tin tuyển ghi rõ: không yêu cầu kinh nghiệm, được đào tạo, chưa có kinh nghiệm được hướng dẫn kỹ. Học việc 2 tháng hưởng 85% lương, học phí 0đ, có lương từ tháng đầu. Ví dụ tin của Vinplus ở Hà Nội: vận hành cửa hàng giặt là, lương 9-13 triệu, học việc 2 tháng hưởng 85% lương, hạn nộp 31/12/2026. Đây là đường học rẻ nhất và thật nhất.
+Còn học ở đâu thì có 2 đường đi. Đường chính là xin làm nhân viên giặt sấy tại tiệm. Nhiều tin tuyển ghi rõ: không yêu cầu kinh nghiệm, được đào tạo, chưa có kinh nghiệm được hướng dẫn kỹ. Học việc 2 tháng hưởng 85% lương, học phí 0đ, có lương từ tháng đầu. Ví dụ tin của Vinplus ở Hà Nội: vận hành cửa hàng giặt là, lương 9-13 triệu, học việc 2 tháng hưởng 85% lương, hạn nộp 31/12/2026 — tin này đã hết hạn trước ngày đăng video 22/02/2027, chỉ dùng làm ví dụ về hình thức học việc, không nộp đơn. Đây là đường học rẻ nhất và thật nhất.
 
 Đường thứ hai là học qua đào tạo kèm nhượng quyền. Giặt Là Sạch Cộng có chương trình đào tạo nghề giặt là miễn phí khi tham gia chuỗi nhượng quyền: học nhận đồ, phân biệt chất liệu vải, tẩy vết bẩn, giặt các loại vải, là quần áo, quản lý tiệm. Mô hình Basic vốn đầu tư khoảng 200-300 triệu theo trang của thương hiệu. Sell Laundry Korea Vina cũng chuyển giao nghề kèm nhượng quyền, hỗ trợ học tại cửa hàng đang vận hành. Lưu ý là 2 chỗ này đào tạo đi kèm nhượng quyền, không phải khóa học độc lập, không có học phí khóa riêng công khai.
 
@@ -90,7 +90,7 @@ Còn thu nhập chủ tiệm thì sao. Chưa có số liệu. Không tìm thấy
 
 ### 9:30-10:00 - Checklist 5 việc + CTA
 
-"Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới.
+"Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới. Nhưng trước khi tính mở tiệm, xin làm nhân viên giặt sấy ở tiệm 1 tới 2 tuần thử trước đã — xem mình có chịu được đứng máy cả ngày, tay ướt, mùi nước giặt và ca 4 giờ rưỡi sáng không. Mở tiệm thì đăng ký kinh doanh mã ngành 9610 (giặt là, theo Quyết định 36/2025/QĐ-TTg [Cập nhật: 11/2026]), thường đăng ký hộ kinh doanh, giặt là thông thường không cần giấy phép chuyên ngành.
 
 Học phân biệt chất liệu vải và đọc nhãn giặt trước khi đụng vào máy thật. Học quy trình nhận đồ: cân ký trước mặt khách, ghi phiếu, khách ký xác nhận. Liệt kê 5 tiệm giặt ủi hoặc xưởng giặt gần nhà. Đi xin làm nhân viên giặt sấy hoặc học việc ở 2-3 chỗ, hỏi rõ lương tính theo giờ hay theo tháng và ai kèm mình. Và bắt đầu ghi sổ lỗi: mỗi lỗi gặp trong ngày ghi lại 1 dòng và cách xử lý.
 

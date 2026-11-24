@@ -9,15 +9,15 @@
 
 ## Lời thoại đầy đủ (148 từ)
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: cắt tỉa thú cưng. Mỗi ngày, anh ấy đón từng bé chó, bé mèo theo lịch hẹn. Tắm, sấy, chải lông, cắt tỉa theo giống, cắt móng, vệ sinh tai. Học cắt tỉa cơ bản mất khoảng 1 tới 2 tháng, có khóa 5 triệu, học xong cầm kéo đi làm được ngay. Dân IT có lợi thế riêng: đặt lịch online, lưu hồ sơ từng bé theo giống và tính nết, chụp ảnh trước và sau, nhắn nhắc lịch cắt lại đúng hẹn. Cái khó thì không né được: thú cưng cắn, cào, lông bay khắp phòng, có bé sợ tới mức không đứng yên. Bị layoff không có nghĩa là hết nghề. Bài đầy đủ ở bài ghim. Tuần sau: gia sư tiếng Anh."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 1–2 tháng là bắt đầu làm được, nhưng cắt đẹp theo giống thì cần thêm nhiều tháng làm thật: cắt tỉa thú cưng. Mỗi ngày, anh ấy đón từng bé chó, bé mèo theo lịch hẹn. Tắm, sấy, chải lông, cắt tỉa theo giống, cắt móng, vệ sinh tai. Học cắt tỉa cơ bản mất khoảng 1 tới 2 tháng, có khóa 5 triệu, học xong làm phụ tắm/sấy rồi mới học cắt trên thú thật. Dân IT có lợi thế riêng: đặt lịch online, lưu hồ sơ từng bé theo giống và tính nết, chụp ảnh trước và sau, nhắn nhắc lịch cắt lại đúng hẹn. Cái khó thì không né được: thú cưng cắn, cào, lông bay khắp phòng, có bé sợ tới mức không đứng yên. Bị layoff không có nghĩa là hết nghề. Bài đầy đủ ở bài ghim. Tuần sau: gia sư tiếng Anh."
 
 ## Bảng 2 cột: lời thoại | chữ trên màn hình | hình gợi ý
 
 | Đoạn | Thời gian | Lời thoại | Chữ trên màn hình | Hình gợi ý |
 |---|---|---|---|---|
-| 01 HOOK | 0–3s | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: cắt tỉa thú cưng. | "Dev bị layoff thì làm gì?" | Dev ôm thùng đồ ra khỏi văn phòng, bên cạnh là 1 bé Poodle trên bàn grooming |
+| 01 HOOK | 0–3s | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 1–2 tháng là bắt đầu làm được, nhưng cắt đẹp theo giống thì cần thêm nhiều tháng làm thật: cắt tỉa thú cưng. | "Dev bị layoff thì làm gì?" | Dev ôm thùng đồ ra khỏi văn phòng, bên cạnh là 1 bé Poodle trên bàn grooming |
 | 02 CONTEXT | 3–8s | Mỗi ngày, anh ấy đón từng bé chó, bé mèo theo lịch hẹn. Tắm, sấy, chải lông, cắt tỉa theo giống, cắt móng, vệ sinh tai. | "Tắm, sấy, cắt tỉa theo lịch hẹn" | Bàn grooming, vòi nước, máy sấy, kéo — từng bé chó, bé mèo xếp hàng theo lịch |
-| 03 VALUE 1 | 8–16s | Học cắt tỉa cơ bản mất khoảng 1 tới 2 tháng, có khóa 5 triệu, học xong cầm kéo đi làm được ngay. | "Học 1–2 tháng, khóa 5 triệu" | Lịch 2 tháng + tờ tiền 5 triệu + cây kéo |
+| 03 VALUE 1 | 8–16s | Học cắt tỉa cơ bản mất khoảng 1 tới 2 tháng, có khóa 5 triệu, học xong làm phụ tắm/sấy rồi mới học cắt trên thú thật. | "Học 1–2 tháng, khóa 5 triệu" | Lịch 2 tháng + tờ tiền 5 triệu + cây kéo |
 | 04 VALUE 2 | 16–26s | Dân IT có lợi thế riêng: đặt lịch online, lưu hồ sơ từng bé theo giống và tính nết, chụp ảnh trước và sau, nhắn nhắc lịch cắt lại đúng hẹn. | "Lịch online — hồ sơ từng bé — ảnh trước/sau" | Điện thoại hiện lịch hẹn + hồ sơ bé Poodle + 2 tấm ảnh trước/sau |
 | 05 VALUE 3 | 26–32s | Cái khó thì không né được: thú cưng cắn, cào, lông bay khắp phòng, có bé sợ tới mức không đứng yên. | "Cắn, cào, lông bay khắp phòng" | Bé mèo giãy trên bàn, lông bay khắp phòng |
 | 06 PAYOFF + CTA | 32–45s | Bị layoff không có nghĩa là hết nghề. Bài đầy đủ ở bài ghim. Tuần sau: gia sư tiếng Anh. | "Bị layoff không có nghĩa là hết nghề" | Bé Poodle sau khi cắt xong, gọn gàng, ngồi cạnh chữ CTA |

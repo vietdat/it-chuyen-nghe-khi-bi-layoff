@@ -13,7 +13,7 @@ Thử dị ứng là thoa một ít thuốc nhuộm lên vùng da nhỏ sau tai 
 
 **Nam làm tóc nữ được không?**
 
-Được. Tin tuyển thợ phụ nữ có ghi giới tính nữ, nhưng tin tuyển thợ chính thì nhiều nơi ghi nam hoặc nữ đều được. THE CUT STATION ở Cầu Giấy tuyển thợ chính cắt tóc nam–nữ, không ghi giới tính. Salon Lê Hiếu tuyển nữ thợ phụ, còn nhiều salon khác tuyển không phân biệt giới tính. Khách nữ quan tâm tay nghề và cách tư vấn, không quan tâm thợ là nam hay nữ. Bạn là nam mà muốn làm tóc nữ thì xin làm thợ phụ ở salon tuyển không phân biệt giới tính, đừng nộp vào tin ghi rõ chỉ tuyển nữ.
+Được. Nhiều tin tuyển ghi rõ chỉ tuyển nữ thợ phụ — salon quận 3 tuyển phụ nữ 18–35 tuổi; salon Ivy Quận 1 tuyển phụ nữ; Lê Hiếu tuyển nữ 20–37 tuổi; Sài Gòn Hair Cần Thơ tuyển 2 bạn nữ — đừng nộp vào những tin này nếu bạn là nam. Nhưng cũng có tin không ghi giới tính: Allie Bình Chánh tuyển thợ chính, thợ phụ, gội dưỡng sinh không ghi giới tính; A NEW DAY Thảo Điền tuyển thợ phụ 15–20 triệu không ghi giới tính. Bạn là nam thì xin làm thợ phụ ở salon tuyển không ghi giới tính, đừng nộp vào tin ghi rõ chỉ tuyển nữ. Khách nữ quan tâm tay nghề và cách tư vấn, không quan tâm thợ là nam hay nữ.
 
 **Không biết gì về hóa chất, có học được không?**
 

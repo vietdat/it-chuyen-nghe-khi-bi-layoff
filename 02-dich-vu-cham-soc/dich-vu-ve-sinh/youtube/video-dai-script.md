@@ -83,7 +83,7 @@ Làm thuê toàn thời gian, mới vào, không cần kinh nghiệm: 5–8 tri�
 
 Có kinh nghiệm hoặc ca đặc thù: 8–11 triệu một tháng. T-Khoa Đà Nẵng 8–11 triệu, Esco Beach Đà Nẵng chính thức 8,5–9 triệu, Lavender Hà Nội thu nhập 8–9 triệu, Haviland House Đà Nẵng 8–10 triệu.
 
-Làm theo giờ qua app, nhận ca đều: 60.000–120.000đ một giờ ca thường. bTaskee ca cơ bản 65.000–80.000đ một giờ, cuối tuần cộng thêm 20%. JupViec 70.000–120.000đ một giờ, lễ Tết đến 250.000đ một giờ. Ting thực nhận 70.000–90.000đ một giờ, không chiết khấu. Thu nhập tháng nếu làm đều: bTaskee công bố bình quân khoảng 19 triệu một tháng chưa tính thưởng, JupViec ghi 15–25 triệu một tháng. Hai con số này đi kèm điều kiện làm nhiều ca, cuối tuần, lễ Tết — làm ít ca thì ít hơn, không lấy làm thu nhập đảm bảo.
+Làm theo giờ qua app, nhận ca đều: 60.000–120.000đ một giờ ca thường. bTaskee ca cơ bản 65.000–80.000đ một giờ, cuối tuần cộng thêm 20%. JupViec 70.000–120.000đ một giờ, lễ Tết đến 250.000đ một giờ. Ting thực nhận 70.000–90.000đ một giờ, không chiết khấu. Thu nhập tháng nếu làm đều: bTaskee công bố bình quân khoảng 19 triệu một tháng chưa tính thưởng (con số từ báo Thanh Niên 04/02/2026 — đã hơn 9 tháng trước ngày tra cứu 23/11/2026, kiểm tra lại trước ngày đăng), JupViec ghi 15–25 triệu một tháng. Hai con số này đi kèm điều kiện làm nhiều ca, cuối tuần, lễ Tết — làm ít ca thì ít hơn, không lấy làm thu nhập đảm bảo.
 
 Lên giám sát hoặc quản lý: 10–15 triệu một tháng. Quản lý, giám sát vệ sinh công nghiệp TINA 12–15 triệu, Hygiene Supervisor khách sạn 10–18 triệu.
 
@@ -93,7 +93,7 @@ Về nhu cầu theo thành phố, tra ngày 23/11: Hà Nội có nhiều tin t�
 
 ### 9:30-10:00 - Checklist 5 việc + CTA
 
-"Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới.
+"Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới. Nhưng trước khi nghỉ việc, đăng ký app và thử 1 ca đã — xem mình có dọn xong 1 căn hộ trong 2 giờ không, có chịu được mùi hóa chất không. Hồ sơ cần lý lịch tư pháp 200.000đ một lần, theo Thông tư 244/2016/TT-BTC.
 
 Chuẩn bị hồ sơ: CCCD công chứng, sơ yếu lý lịch, giấy xác nhận hạnh kiểm hoặc lý lịch tư pháp. Học phân biệt hóa chất trước khi đụng vào nhà khách: chất nào dùng cho bề mặt nào, không pha trộn bừa. Liệt kê 5 nơi nhận việc gần nhà: 2 công ty hoặc khách sạn, 2 app dọn dẹp, 1 Group cư dân. Tải app bTaskee Partner và JupViec, xem trước cách nhận ca, làm bài kiểm tra kiến thức trên app. Và mua đồ nghề cơ bản, nhưng hỏi trước xem công ty hoặc app có cấp không.
 

@@ -16,7 +16,7 @@
 
 - Ngày 8–10: Đi xin làm phụ bếp / phụ quán ở 1–2 quán đang bán tốt gần nhà, làm ca ngắn hoặc xin phụ vài buổi. Nói thẳng mình là dân IT chuyển nghề, đang học cách vận hành quán. Quan sát: quán mua nguyên liệu lúc nào, nấu số lượng lớn ra sao, dọn dẹp cuối ngày như thế nào.
 - Ngày 11–12: Hỏi 3 chỗ cho thuê điểm đặt xe / mặt bằng nhỏ gần khu đông người (gần trường, khu văn phòng, khu dân cư): giá thuê tháng, cọc bao nhiêu tháng, có được để xe qua đêm không, chủ nhà có tăng giá sau vài tháng không. Ghi lại từng chỗ để so sánh.
-- Ngày 13–14: Hỏi UBND phường nơi bạn tính đặt quán về thủ tục an toàn thực phẩm cho mô hình của mình (xe đẩy không địa điểm cố định hay quán có mặt bằng cố định — thủ tục khác nhau theo Nghị định 15/2018/NĐ-CP, Điều 12). Ghi lại câu trả lời, đừng nghe 1 nguồn rồi làm theo.
+- Ngày 13–14: Hỏi UBND phường nơi bạn tính đặt quán về thủ tục an toàn thực phẩm cho mô hình của mình (xe đẩy không địa điểm cố định hay quán có mặt bằng cố định — thủ tục khác nhau theo Nghị định 15/2018/NĐ-CP, Điều 12). Hỏi thêm 2 việc: đăng ký hộ kinh doanh (nộp tại cơ quan đăng ký kinh doanh cấp xã theo Nghị định 168/2025/NĐ-CP [Cập nhật: 11/2026], lệ phí 100.000đ/lần) và đăng ký sử dụng tạm thời vỉa hè (chỉ tuyến đường có trong danh mục đủ điều kiện mới được đăng ký, phải lập phương án gửi UBND quận duyệt). Ghi lại câu trả lời, đừng nghe 1 nguồn rồi làm theo.
 
 ## Tuần 3 (ngày 15–21): Bán thử nhỏ + mở kênh đặt món
 

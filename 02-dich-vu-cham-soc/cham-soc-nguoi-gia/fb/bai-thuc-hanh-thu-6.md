@@ -12,32 +12,28 @@
 
 - Người đăng: gia đình (nhà riêng), Quận 12, TP.HCM
 - Lương: 6.000.000–8.000.000đ/tháng, trả theo tháng
-- Công việc: chăm ông lớn tuổi không đi lại được; buổi tối đi vệ sinh 2–3 lần cần người khiêng ngồi qua toilet (ông 60kg); ông tự đi vệ sinh, không phải đi trong tả; ngoài lúc đỡ ông qua toilet thì ngủ bình thường
+- Công việc: chăm ông lớn tuổi không đi lại được; buổi tối đi vệ sinh 2–3 lần cần người khiêng ngồi qua toilet (ông 60kg); ngoài lúc đỡ ông qua toilet thì ngủ bình thường
 - Yêu cầu: nữ, 20–60 tuổi, không yêu cầu học vấn, không yêu cầu kinh nghiệm
 - Ngày đăng tin: 17/11/2026 (Vieclamtot)
+- Lưu ý hạn: tin đăng 17/11/2026, không ghi hạn nộp — tới ngày đăng bài 15/01/2027 đã gần 2 tháng, kiểm tra lại link trước khi đăng; nếu tin đã có người nhận thì tìm tin thay thế theo hướng dẫn ở cuối bài
 - Link: https://www.vieclamtot.com/viec-lam-quan-12-tp-ho-chi-minh/135898016.htm
 - Hợp với bạn nếu: bạn muốn bắt đầu bằng ca tối, công việc nhẹ về chuyên môn nhưng đòi hỏi dậy đêm 2–3 lần. Lưu ý: tin này tuyển nữ — bạn nam thì hỏi rõ gia đình trước khi ứng tuyển, đừng nộp đơn rồi mới biết.
 
-### Việc 2: Ứng viên nhận giúp việc chăm em, chăm già, nấu ăn — Đà Nẵng
+### Việc 2: ĐÃ HẾT HẠN 31/12/2026 — tìm tin thay thế theo hướng dẫn dưới đây (không đăng tin hết hạn)
 
-- Người đăng: Giúp việc Thành Công (trung tâm giới thiệu việc), Đà Nẵng — 98 Lê Thạch, An Khê
-- Lương: 7–8 triệu/tháng
-- Công việc: giúp việc nhà, chăm em bé, chăm người già, nấu ăn, tạp vụ, chăm bệnh
-- Yêu cầu: nữ, 30–55 tuổi, không yêu cầu kinh nghiệm, tuyển 10 người, luôn có sẵn 50 ứng viên cho gia chủ lựa chọn
-- Ngày đăng tin: 14/11/2026, hạn nộp 31/12/2026 (vieclamngay.vn)
-- Link: https://www.vieclamngay.vn/viec-lam/ung-vien-nhan-giup-viec-cham-em-cham-gia-nau-an-ngon-viec-lam-hoang-ha-0afa8552-1775-417f-8511-bdcab57d6a9d
-- Hợp với bạn nếu: bạn ở Đà Nẵng và muốn vào nghề qua trung tâm giới thiệu việc — đăng ký 1 lần, trung tâm giới thiệu nhiều gia đình. Lưu ý: tin này tuyển nữ 30–55 tuổi; bạn nam hoặc dưới 30 tuổi thì hỏi trung tâm xem có gia đình nào nhận nam không trước khi đăng ký.
+- Tin cũ (chỉ để tham khảo, KHÔNG nộp đơn): Giúp việc Thành Công, Đà Nẵng — ứng viên nhận giúp việc chăm em, chăm già, nấu ăn, lương 7–8 triệu/tháng, tuyển 10 người, nữ 30–55 tuổi, đăng 14/11/2026, **hạn nộp 31/12/2026 — đã hết hạn trước ngày đăng bài 15/01/2027**. Link cũ: https://www.vieclamngay.vn/viec-lam/ung-vien-nhan-giup-viec-cham-em-cham-gia-nau-an-ngon-viec-lam-hoang-ha-0afa8552-1775-417f-8511-bdcab57d6a9d
+- Cách tìm tin thay thế (làm sát ngày đăng 15/01/2027): (1) Vào vieclamtot.com, tìm "chăm người già Đà Nẵng" / "giúp việc chăm người già", lọc tin đăng trong 7 ngày gần nhất, ưu tiên tin ghi rõ giờ làm, lương, tình trạng sức khỏe người được chăm. (2) Vào vieclamngay.vn, tìm "giúp việc chăm già Đà Nẵng", lọc tin còn hạn sau 15/01/2027. (3) Hỏi trực tiếp Giúp việc Thành Công (98 Lê Thạch, An Khê, Đà Nẵng) xem có gia đình nào đang cần người không — trung tâm giới thiệu việc nhận đăng ký quanh năm, không chỉ qua tin đăng. (4) Tiêu chí chọn tin thay thế: còn hạn sau ngày đăng, ghi rõ lương + giờ làm + yêu cầu giới tính/độ tuổi, không yêu cầu kinh nghiệm nếu bạn mới vào nghề.
 
 ### Việc 3: San Nurse — Chăm sóc người già tại nhà theo giờ — TP.HCM
 
 - Công ty: San Care Platform (San Pro), 220/27 Nguyễn Trọng Tuyên, Phú Nhuận, TP.HCM
 - Thu nhập: 10–15 triệu đồng/tháng, có thưởng thâm niên và thưởng hiệu suất
 - Công việc: chăm sóc người già tại nhà theo giờ, làm trong đội San Nurse
-- Ngày thấy tin: 23/11/2026 (trang tuyển dụng sanpro.vn — không ghi hạn, kiểm tra lại trước ngày đăng)
+- Ngày thấy tin: 23/11/2026 (trang tuyển dụng sanpro.vn — không ghi hạn, kiểm tra lại link trước ngày đăng 15/01/2027; nếu trang đã gỡ tin thì tìm tin thay thế theo hướng dẫn ở cuối bài)
 - Link: https://sanpro.vn/en/recruitment/
 - Hợp với bạn nếu: bạn muốn làm qua công ty chuyên nghiệp, có đào tạo, có thưởng thâm niên, thu nhập cao hơn làm trực tiếp cho gia đình. Hỏi rõ trước khi nhận: làm theo giờ thì tháng được bao nhiêu giờ, công ty giữ lại bao nhiêu phần giá dịch vụ.
 
-Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 15/01/2027 — gần 2 tháng sau — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên Việc Làm Tốt hoặc TopCV, không đăng tin hết hạn. 2 tin TopCV của Tâm An (Chuyên viên Chăm sóc sức khỏe người cao tuổi 10–20 triệu; Điều dưỡng viên/Chăm sóc viên 12–20 triệu, TP.HCM) đã ghi "Hết hạn ứng tuyển" ở thời điểm tra cứu 23/11/2026 nên KHÔNG đưa vào 3 việc thật — chỉ nhắc ở đây để bạn tự kiểm tra lại nếu muốn nộp. Ở Hà Nội và Cần Thơ không tìm thấy tin tuyển trực tiếp nào trên TopCV/VietnamWorks ngày 23/11/2026 — nếu bạn ở 2 nơi này thì tìm việc qua trung tâm giới thiệu việc địa phương (Hà Nội: Giúp Việc Cô Tấm; Cần Thơ: Thành Tâm Care — chăm sóc tại nhà 8–12 triệu/tháng theo giá dịch vụ, hỏi rõ lương nhận về trước khi nhận việc).
+Lưu ý: Việc 1 và Việc 3 là tin tìm thấy ngày 23/11/2026; Việc 2 đã hết hạn 31/12/2026 nên bài này không đăng tin đó mà để hướng dẫn tìm tin thay thế ở trên. Ngày đăng bài là 15/01/2027 — gần 2 tháng sau ngày tra cứu — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên Việc Làm Tốt hoặc TopCV, không đăng tin hết hạn. 2 tin TopCV của Tâm An (Chuyên viên Chăm sóc sức khỏe người cao tuổi 10–20 triệu; Điều dưỡng viên/Chăm sóc viên 12–20 triệu, TP.HCM) đã ghi "Hết hạn ứng tuyển" ở thời điểm tra cứu 23/11/2026 nên KHÔNG đưa vào 3 việc thật — chỉ nhắc ở đây để bạn tự kiểm tra lại nếu muốn nộp. Ở Hà Nội và Cần Thơ không tìm thấy tin tuyển trực tiếp nào trên TopCV/VietnamWorks ngày 23/11/2026 — nếu bạn ở 2 nơi này thì tìm việc qua trung tâm giới thiệu việc địa phương (Hà Nội: Giúp Việc Cô Tấm; Cần Thơ: Thành Tâm Care — chăm sóc tại nhà 8–12 triệu/tháng theo giá dịch vụ, hỏi rõ lương nhận về trước khi nhận việc).
 
 ---
 

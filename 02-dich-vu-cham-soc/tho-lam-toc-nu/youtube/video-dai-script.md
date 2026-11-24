@@ -25,7 +25,7 @@
 
 [Hình: cận cảnh tay thợ chải thuốc nhuộm lên lọn tóc dài, màu nâu lên dần. Chữ trên màn hình: "Nhuộm sai màu, khách soi gương là thấy ngay"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: thợ làm tóc nữ. Khách nữ ngồi xuống ghế, đưa ảnh một màu tóc trên điện thoại, hỏi: làm được màu này không? Thợ nhìn tóc khách, nhìn ảnh, rồi nói: được, nhưng tóc bạn đã nhuộm rồi, phải tẩy nhẹ trước. Một câu mà biết ngay tay nghề. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng mới làm phụ cứng tay, còn cắt nhuộm độc lập thì cần 9–12 tháng: thợ làm tóc nữ. Khách nữ ngồi xuống ghế, đưa ảnh một màu tóc trên điện thoại, hỏi: làm được màu này không? Thợ nhìn tóc khách, nhìn ảnh, rồi nói: được, nhưng tóc bạn đã nhuộm rồi, phải tẩy nhẹ trước. Một câu mà biết ngay tay nghề. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30-2:00 - Nghề này là gì, 1 ngày làm việc thật
 
@@ -67,7 +67,7 @@ Còn học ở đâu thì có 3 đường đi. Nhanh nhất là xin làm thợ p
 
 ### 7:00-8:30 - Career path + tìm việc, tìm khách ở đâu
 
-"Đường đi thường là như thế này. 0–3 tháng đầu: học và làm phụ, gội sấy, phụ hóa chất, thu nhập thợ phụ khoảng 5,5–10 triệu một tháng. 3–6 tháng: gội sấy cứng tay, bắt đầu phụ ca uốn nhuộm có người kèm. 9–12 tháng: làm độc lập dịch vụ cơ bản, tự cắt và nhuộm một màu, thu nhập khoảng 10–15 triệu. Sau 1,5–3 năm: lên thợ chính, nhận ca khó, có khách quen, thu nhập thêm % hóa chất và tip. Sau đó nữa: có người mở salon nhỏ hoặc dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+"Đường đi thường là như thế này. 0–3 tháng đầu: học và làm phụ, gội sấy, phụ hóa chất, thu nhập thợ phụ khoảng 5,5–20 triệu một tháng theo tin thật (lương cứng 5,5–9 triệu cộng thêm % hóa chất và tip; salon Thảo Điền 15–20 triệu, Bình Chánh 5,5–6 triệu cứng — chênh nhau theo khu vực salon). 3–6 tháng: gội sấy cứng tay, bắt đầu phụ ca uốn nhuộm có người kèm. 9–12 tháng: làm độc lập dịch vụ cơ bản, tự cắt và nhuộm một màu, thu nhập khoảng 10–15 triệu. Sau 1,5–3 năm: lên thợ chính, nhận ca khó, có khách quen, thu nhập thêm % hóa chất và tip. Sau đó nữa: có người mở salon nhỏ hoặc dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần. Nhưng trước khi đóng học phí khóa 10 tới 25 triệu, xin làm thợ phụ ở salon 1 tới 2 tuần thử trước đã — xem mình có chịu được mùi hóa chất, đứng cả ngày, tay chạm thuốc nhuộm mỗi ngày không. Một điều nữa: cắt uốn nhuộm gội thông thường không bắt buộc chứng chỉ hành nghề, mở salon thì đăng ký hộ kinh doanh mã 9621; có massage kèm gội dưỡng sinh thì cần giấy đủ điều kiện về an ninh trật tự.
 
 Tìm việc đầu tiên ở đâu? Có 3 chỗ để bắt đầu. Xin làm thợ phụ cho salon tóc nữ gần nhà, tìm trên Google Maps và Group cư dân khu vực. Nộp đơn lên Vieclamtot: ngày 23/11 mình đếm thấy có nhiều tin tuyển thợ phụ nữ, có nơi ghi được đào tạo khi mới vào làm. Khi đã cứng tay thì đăng ảnh trước và sau lên TikTok, Facebook theo quận mình làm, để khách khu vực biết bạn. Đừng nhận ca hóa chất khi chưa cứng tay. Làm hỏng tóc khách nữ, khách không quay lại nữa."
 

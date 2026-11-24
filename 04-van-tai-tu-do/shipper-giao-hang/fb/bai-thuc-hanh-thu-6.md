@@ -8,13 +8,14 @@
 
 ## 3 việc thật đang tuyển shipper
 
-### Việc 1: Nhân Viên Lấy Hàng — thu nhập 12–18 triệu/tháng — TP.HCM
+### Việc 1: Nhân Viên Lấy Hàng — thu nhập 12–15 triệu/tháng (cao điểm hơn) — TP.HCM
 
 - Công ty: Công ty CP Dịch vụ Giao Hàng Nhanh (GHN)
-- Thu nhập: 12–15 triệu/tháng hoặc hơn vào mùa cao điểm. Lương đảm bảo 400.000đ/ngày trong 2 tháng đầu, trung bình 400.000–500.000đ/ngày, cao điểm 700.000–800.000đ/ngày.
+- Thu nhập: 12–15 triệu/tháng hoặc hơn vào mùa cao điểm (tiêu đề tin ghi 12–18 triệu/tháng — xem chốt số trong `Info/nghien-cuu-thi-truong.md` mục 2). Lương đảm bảo 400.000đ/ngày trong 2 tháng đầu, trung bình 400.000–500.000đ/ngày, cao điểm 700.000–800.000đ/ngày.
 - Công việc: lấy hàng trong khu vực được phân công.
 - Địa điểm: 508 Lê Thị Riêng, phường Thới An, Quận 12, TP.HCM.
 - Ngày thấy tin: 23/11/2026 (TopCV)
+- Hạn nộp: không ghi hạn nộp trong bản tra cứu 23/11/2026 — tin tra 23/11/2026, PHẢI tra lại sát ngày đăng 05/02/2027, mở lại link kiểm tra còn hạn không trước khi đăng
 - Link: https://www.topcv.vn/viec-lam/nhan-vien-lay-hang-thu-nhap-12-18-trieu-thang/2331369.html
 - Hợp với bạn nếu: bạn ở TP.HCM, muốn thu nhập theo đơn nhưng vẫn có lương đảm bảo 2 tháng đầu để yên tâm làm quen tuyến.
 
@@ -25,6 +26,7 @@
 - Yêu cầu: nam 18–45 tuổi, có xe máy cá nhân, điện thoại thông minh, thông thuộc đường xá. Không yêu cầu kinh nghiệm (tin đăng ghi "KO CẦN KN").
 - Địa điểm: nhiều bưu cục — Hải Châu (217 Tiểu La), Liên Chiểu, Hòa Vang, Thanh Khê, Sơn Trà, Ngũ Hành Sơn (404 Lê Văn Hiến), Cẩm Lệ.
 - Ngày thấy tin: 20/11/2026 (Vieclamtot, tin đăng ngày 20/11/2026)
+- Hạn nộp: không ghi hạn nộp trong bản tra cứu 23/11/2026 — tin tra 23/11/2026, PHẢI tra lại sát ngày đăng 05/02/2027, mở lại link kiểm tra còn hạn không trước khi đăng
 - Link: https://www.vieclamtot.com/viec-lam-quan-lien-chieu-da-nang/135944098.htm
 - Hợp với bạn nếu: bạn ở Đà Nẵng, muốn làm hãng có bảo hiểm đầy đủ thay vì chạy app tự do.
 
@@ -34,11 +36,11 @@
 - Thu nhập: đến 15 triệu/tháng (tin tuyển tài xế tháng 11/2026).
 - Công việc: giao đồ ăn theo app ShopeeFood Driver, có 3 mô hình — Part-time (lịch tự do), HUB Food và HUB Ship (đăng ký giờ trước, có thu nhập đảm bảo và thưởng theo tuần).
 - Địa điểm: Hà Nội. Văn phòng tiếp nhận hồ sơ Hà Nội: tầng 3, tòa nhà 101 Láng Hạ.
-- Ngày thấy tin: 23/11/2026 (Vieclamtot — trang nghề nhân viên giao hàng, cập nhật 23/11/2026)
-- Link: https://www.vieclamtot.com/nghe-giao-hang-sd6a0e
+- Ngày thấy tin: 23/11/2026 (Vieclamtot — tin tuyển tài xế tháng 11/2026)
+- Link: https://www.vieclamtot.com/kinh-nghiem/dang-ky-lam-tai-xe-shopeefood.html — **link này là trang tổng hợp tin tuyển + hướng dẫn đăng ký tài xế ShopeeFood trên Vieclamtot (cập nhật liên tục), thay cho link trang nghề chung trước đây**. Mở link, lọc tin tuyển ShopeeFood theo thành phố của bạn (Hà Nội: văn phòng tầng 3, tòa nhà 101 Láng Hạ), chỉ nộp tin còn hạn sau ngày đăng 05/02/2027. Đăng ký ShopeeFood cũng có thể làm trực tiếp trên app ShopeeFood Driver rồi tới văn phòng đối chiếu giấy tờ — không cần chờ tin tuyển của công ty.
 - Hợp với bạn nếu: bạn ở Hà Nội, muốn bắt đầu nhanh — đăng ký app, 1–3 ngày là chạy được đơn đầu tiên, không phải chờ phỏng vấn công ty.
 
-Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 05/02/2027 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV hoặc Vieclamtot, không đăng tin hết hạn. Ở Cần Thơ gần như không có tin shipper trên TopCV (0 tin trong kết quả tìm thấy ngày 23/11/2026, Vieclamtot có 112 tin, chưa công bố lương trung bình) — nếu bạn ở Cần Thơ thì đăng ký app trực tiếp (ShopeeFood phủ sóng tại Cần Thơ, theo Shopee Blog) hoặc hỏi bưu cục GHN / Viettel Post gần nhà.
+Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 05/02/2027 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV hoặc Vieclamtot, không đăng tin hết hạn. Riêng Việc 3 (ShopeeFood) không phụ thuộc 1 tin tuyển cụ thể — đăng ký trực tiếp qua app ShopeeFood Driver hoặc link Vieclamtot ở trên, lọc tin còn hạn sau 05/02/2027. Ở Cần Thơ gần như không có tin shipper trên TopCV (0 tin trong kết quả tìm thấy ngày 23/11/2026, Vieclamtot có 112 tin, chưa công bố lương trung bình) — nếu bạn ở Cần Thơ thì đăng ký app trực tiếp (ShopeeFood phủ sóng tại Cần Thơ, theo Shopee Blog) hoặc hỏi bưu cục GHN / Viettel Post gần nhà.
 
 ---
 

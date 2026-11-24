@@ -8,7 +8,7 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Ở Hà Nội, khóa cắt tỉa 1 tới 2 tháng, khoảng 5 triệu, có chỗ 10 triệu. Xuống Đà Nẵng, cũng có khóa 5 triệu, 3 trung tâm dạy nghề chưa ghi học phí công khai. Vào Sài Gòn, khóa cơ bản 15 triệu 30 buổi. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong là cầm kéo đi làm được ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Ở Hà Nội, khóa cắt tỉa 1 tới 2 tháng, khoảng 5 triệu, có chỗ 10 triệu. Xuống Đà Nẵng, cũng có khóa 5 triệu, 3 trung tâm dạy nghề chưa ghi học phí công khai. Vào Sài Gòn, khóa cơ bản 15 triệu 30 buổi. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong cầm kéo cắt được bé đơn giản có người kèm, cắt độc lập theo giống thì cần thêm nhiều tháng làm thật. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 

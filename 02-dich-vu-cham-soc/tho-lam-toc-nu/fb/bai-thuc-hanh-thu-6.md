@@ -7,14 +7,14 @@
 
 ## 3 việc thật đang tuyển thợ làm tóc nữ
 
-### Việc 1: 10 Stylist + 10 Thợ phụ làm tóc - TP.HCM (tuyển 20 người)
+### Việc 1: Thợ chính + Thợ phụ + Gội dưỡng sinh - TP.HCM
 
-- Salon: SUSI HAIR SALON, 230 đường Tên Lửa, Quận Bình Tân, TP.HCM
-- Lương: stylist (thợ chính) thu nhập 15–40 triệu/tháng trở lên, 18–20% doanh thu + tip + thưởng, biết quay chụp là lợi thế; thợ phụ (technician) lương cứng + % + tiền gội + % sản phẩm + thưởng + tip (tin không ghi con số lương cứng cụ thể cho thợ phụ)
-- Ngày thấy tin: 23/11/2026 (Vieclamtot, tin đăng 16/11/2026, tổng hợp từ bài đăng Facebook Group)
-- Link: https://www.vieclamtot.com/viec-lam-quan-binh-tan-tp-ho-chi-minh/135876129.htm
-- Hợp với bạn nếu: bạn đã biết cắt, uốn, nhuộm và muốn thu nhập theo % doanh thu, không chỉ lương cứng. Mức 15–40 triệu là con số trong tin tuyển của salon này, chưa kiểm chứng, đừng lấy làm mức chung.
-
+- Salon: Allie Hair Salon, Block C1, Shophouse Westgate, Tân Túc, Bình Chánh, TP.HCM
+- Lương: thợ chính lương cơ bản 7–9 triệu + hoa hồng uốn, duỗi, nhuộm 10% + tip 100%; thợ phụ lương cơ bản 5,5–6 triệu + hoa hồng uốn, duỗi, nhuộm 5%; gội dưỡng sinh 20%, headspa 10%; tháng nghỉ 4 ngày, thưởng Tết
+- Thời gian: 9h–19h50
+- Ngày thấy tin: 23/11/2026 (Vieclamtot, tin đăng 22/11/2026)
+- Link: https://www.vieclamtot.com/viec-lam-huyen-binh-chanh-tp-ho-chi-minh/135949091.htm
+- Hợp với bạn nếu: bạn là người mới chuyển nghề, chưa biết việc - nộp vị trí thợ phụ, lương cứng 5,5–6 triệu cộng thêm % hóa chất và tip, vừa làm vừa học.
 ### Việc 2: Thợ chính cắt tóc nam–nữ - Hà Nội (không làm hóa chất)
 
 - Salon: THE CUT STATION, Phố Trần Thái Tông, Cầu Giấy, Hà Nội
@@ -24,16 +24,17 @@
 - Link: https://www.vieclamtot.com/viec-lam-quan-cau-giay-ha-noi/135856940.htm
 - Hợp với bạn nếu: bạn ở Hà Nội, đã cắt cứng tay và muốn tránh hẳn thuốc uốn/nhuộm. Tin này tuyển cả nam và nữ, hợp với người mới chuyển nghề mà da tay nhạy cảm với hóa chất.
 
-### Việc 3: Thợ chính + Thợ phụ + Gội dưỡng sinh - TP.HCM
+### Việc 3: 10 Stylist + 10 Thợ phụ làm tóc - TP.HCM (tuyển 20 người)
 
-- Salon: Allie Hair Salon, Block C1, Shophouse Westgate, Tân Túc, Bình Chánh, TP.HCM
-- Lương: thợ chính lương cơ bản 7–9 triệu + hoa hồng uốn, duỗi, nhuộm 10% + tip 100%; thợ phụ lương cơ bản 5,5–6 triệu + hoa hồng uốn, duỗi, nhuộm 5%; gội dưỡng sinh 20%, headspa 10%; tháng nghỉ 4 ngày, thưởng Tết
-- Thời gian: 9h–19h50
-- Ngày thấy tin: 23/11/2026 (Vieclamtot, tin đăng 22/11/2026)
-- Link: https://www.vieclamtot.com/viec-lam-huyen-binh-chanh-tp-ho-chi-minh/135949091.htm
-- Hợp với bạn nếu: bạn là người mới chuyển nghề, chưa biết việc - nộp vị trí thợ phụ, lương cứng 5,5–6 triệu cộng thêm % hóa chất và tip, vừa làm vừa học.
+- Salon: SUSI HAIR SALON, 230 đường Tên Lửa, Quận Bình Tân, TP.HCM
+- Lương: stylist (thợ chính) thu nhập 15–40 triệu/tháng trở lên, 18–20% doanh thu + tip + thưởng, biết quay chụp là lợi thế; thợ phụ (technician) lương cứng + % + tiền gội + % sản phẩm + thưởng + tip (tin không ghi con số lương cứng cụ thể cho thợ phụ)
+- Ngày thấy tin: 23/11/2026 (Vieclamtot, tin đăng 16/11/2026, tổng hợp từ bài đăng Facebook Group)
+- Link: https://www.vieclamtot.com/viec-lam-quan-binh-tan-tp-ho-chi-minh/135876129.htm
+- Lưu ý: tin này đứng cuối vì mức lương 15–40 triệu chưa kiểm chứng — ưu tiên nộp Việc 1 (Allie) và Việc 2 (CUT STATION) trước.
+- Hợp với bạn nếu: bạn đã biết cắt, uốn, nhuộm và muốn thu nhập theo % doanh thu, không chỉ lương cứng. Mức 15–40 triệu là con số trong tin tuyển của salon này, chưa kiểm chứng, đừng lấy làm mức chung.
 
-3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 16/04/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên Vieclamtot, không đăng tin hết hạn.
+
+Tin tuyển tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 16/04/2027 — PHẢI tra lại sát ngày đăng. 3 tin trên là tin tìm thấy ngày 23/11/2026 (đăng 16–22/11/2026, không ghi hạn nộp); tới ngày đăng 16/04/2027 đã qua gần 5 tháng — kiểm tra lại từng link trước khi đăng. Tin nào hết hạn thì thay bằng tin đang mở trên Vieclamtot (tìm "thợ làm tóc nữ", "thợ phụ salon", lọc tin đăng trong 7 ngày gần nhất, còn hạn sau 16/04/2027), không đăng tin hết hạn.
 
 Ở Đà Nẵng, bảng tham khảo của Muaban.net (tháng 11/2026) ghi thợ chính 8–15 triệu, thợ phụ 5–8 triệu, học việc 3–5 triệu — nhưng đây là bảng tổng hợp, không phải tin tuyển riêng lẻ. Bạn ở Đà Nẵng thì tìm việc qua Vieclamtot (hơn 10 tin thợ cắt tóc, cập nhật 21/11/2026) và hỏi trực tiếp salon gần nhà.
 

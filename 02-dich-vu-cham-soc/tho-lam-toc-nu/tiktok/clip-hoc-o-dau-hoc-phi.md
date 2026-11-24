@@ -8,7 +8,7 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề tóc nữ. Hà Nội thì khóa chuyên nữ 6 tháng khoảng 16 triệu. Đà Nẵng, khóa cơ bản 3 tháng, 10 triệu. Còn Sài Gòn, khóa 3 tới 6 tháng khoảng 10 tới 20 triệu, có chỗ trọn gói 25 triệu. Ba miền, giá khác nhau. Nhưng học xong khóa nào cũng cầm kéo đi làm được ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề tóc nữ. Hà Nội thì khóa chuyên nữ 6 tháng khoảng 16 triệu. Đà Nẵng, khóa cơ bản 3 tháng, 10 triệu. Còn Sài Gòn, khóa 3 tới 6 tháng khoảng 10 tới 20 triệu, có chỗ trọn gói 25 triệu. Ba miền, giá khác nhau. Nhưng học xong khóa nào cũng chỉ làm thợ phụ có người kèm — làm độc lập dịch vụ cơ bản sau 9–12 tháng, thợ chính sau 1,5–3 năm. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 

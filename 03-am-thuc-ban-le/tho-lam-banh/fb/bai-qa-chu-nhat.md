@@ -21,7 +21,7 @@ Học được, nhưng phải học an toàn thực phẩm trước khi đụng 
 
 **Cần vốn bao nhiêu để bắt đầu?**
 
-Đi làm thuê thì vốn gần như bằng 0. Xin làm phụ bếp bánh, tiệm có lò, có đồ dùng, bạn chỉ cần thời gian đi học việc. Tin tuyển TopCV ngày 23/11/2026 cho thấy phụ bếp bánh không yêu cầu kinh nghiệm, lương 7-9 triệu một tháng. Học khóa ngắn thì học phí khoảng 3-8 triệu đồng tùy nơi, khóa 1-2 tháng. Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1-2 năm: một bài trên CareerLink nói tiệm nhỏ cần khoảng 100-300 triệu đồng, gồm lò nướng công nghiệp, máy trộn bột, tủ trưng bày lạnh, nguyên liệu ban đầu và tiền thuê mặt bằng — con số tham khảo từ bài viết, chưa kiểm chứng bằng báo giá thật.
+Đi làm thuê thì vốn gần như bằng 0. Xin làm phụ bếp bánh, tiệm có lò, có đồ dùng, bạn chỉ cần thời gian đi học việc. Tin tuyển TopCV ngày 23/11/2026 cho thấy phụ bếp bánh không yêu cầu kinh nghiệm, lương 7-9 triệu một tháng. Học khóa ngắn thì học phí khoảng 3-8 triệu đồng tùy nơi, khóa 1-2 tháng. Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1-2 năm: một bài trên CareerLink nói tiệm nhỏ cần khoảng 100-300 triệu đồng, gồm lò nướng công nghiệp, máy trộn bột, tủ trưng bày lạnh, nguyên liệu ban đầu và tiền thuê mặt bằng — con số tham khảo từ bài viết, chưa kiểm chứng bằng báo giá trọn bộ. Báo giá thật tra ngày 23/11/2026 (xem mục 10 trong file nghiên cứu): lò nướng bánh ngọt 1 tầng 2 khay điện 9,5-9,7 triệu, máy trộn bột 10-30 triệu tùy dung tích; tủ trưng bày lạnh chưa có số giá — ghi "Chưa có số liệu".
 
 **Thợ làm bánh có bị AI thay thế không?**
 

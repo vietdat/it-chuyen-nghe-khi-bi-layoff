@@ -29,7 +29,7 @@ Khách đặt lịch qua điện thoại, bạn ghi đơn vào bảng: tên khá
 
 Đồ nằm ở tiệm càng lâu càng dễ nhầm, càng chật chỗ. Bạn nhắn khách đúng ngày hẹn trả, khách tới lấy, chỗ trống ra cho đơn mới. Khách nhớ mình là nhờ được nhắc đúng lúc.
 
-Còn một cái nữa: bạn tính được giá vốn 1 mẻ giặt. 1 mẻ máy 10kg tốn bao nhiêu điện, nước, hóa chất, công gấp — cộng lại chia cho số ký là ra giá vốn 1kg. Có 1 ví dụ thật: nhận chăn ga 50.000đ 1 cái, giặt riêng 1 mẻ tốn điện nước hóa chất 35.000đ, công phơi gấp 15.000đ — tổng đúng bằng giá bán, lãi bằng 0. Bạn tính được cái này thì không nhận đơn hòa vốn mà tưởng đang có lãi.
+Còn một cái nữa: bạn tính được giá vốn 1 mẻ giặt. 1 mẻ máy 10kg tốn bao nhiêu điện, nước, hóa chất, công gấp — cộng lại chia cho số ký là ra giá vốn 1kg. Có 1 ví dụ minh họa (e-biz.com.vn): nhận chăn ga 50.000đ 1 cái, giặt riêng 1 mẻ tốn điện nước hóa chất 35.000đ, công phơi gấp 15.000đ — tổng đúng bằng giá bán, lãi bằng 0. Bạn tính được cái này thì không nhận đơn hòa vốn mà tưởng đang có lãi.
 
 Và quảng cáo theo khu vực. Tiệm giặt ủi sống bằng khách quanh tiệm: chung cư, khu sinh viên, khu văn phòng. Bạn chạy quảng cáo theo quận, theo phường, đăng video gấp đồ lên TikTok cho khách khu vực thấy.
 
@@ -72,6 +72,14 @@ Còn thu nhập chủ tiệm thì sao. Chưa có số liệu. Không tìm thấy
 **Rủi ro thật**
 
 Nghề này thuộc nhóm tự làm chủ, nên rủi ro không phải là layoff. Rủi ro là không có khách. Tiệm mới mở chưa có khách quen, trong khi tiền nhà, tiền điện, tiền nước vẫn chạy hàng tháng. Mở tiệm thì vốn máy là tiền thật bỏ ra trước: tiệm nhỏ 80-200 triệu, laundromat 300-600 triệu, xưởng giặt khách sạn khoảng 770 triệu theo ví dụ giả định.
+
+**Rủi ro sức khỏe:** viêm da tiếp xúc do hóa chất giặt–tẩy và tay ướt liên tục cả ca ("wet work" trên 2 giờ/ca hoặc rửa tay trên 20 lần/ca làm tăng nguy cơ; hơn 90% bệnh da nghề nghiệp là viêm da tiếp xúc); bỏng hơi nước nóng từ bàn là hơi nước công nghiệp và máy sấy nhiệt cao; hít bụi vải khi gấp/sấy đồ. Giảm rủi ro: găng tay chống hóa chất, không để tay ướt liên tục cả ca, khẩu trang khi gấp/sấy nhiều đồ, kiểm tra bàn là hơi nước trước khi dùng.
+
+**Thử nghề trước khi tính mở tiệm:** xin làm nhân viên giặt sấy ở tiệm 1–2 tuần trước — xem mình có chịu được đứng máy cả ngày, tay ướt, mùi nước giặt và ca 4 giờ rưỡi sáng không, rồi mới quyết định theo tiếp hay tính mở tiệm.
+
+**Pháp lý khi mở tiệm:** đăng ký kinh doanh mã ngành 9610 (Dịch vụ giặt là, làm sạch các sản phẩm dệt và lông thú — theo Quyết định 36/2025/QĐ-TTg [Cập nhật: 11/2026]), thường đăng ký hộ kinh doanh; giặt là thông thường không cần giấy phép chuyên ngành. Làm rách 1 áo hàng hiệu hoặc mất 1 mẻ đồ thì đền tiền thật — tự bảo vệ bằng phiếu nhận đồ (cân ký trước mặt khách, ghi số ký/số món/vết bẩn/đồ có giá trị, khách ký xác nhận); không nhận đồ mà không ghi phiếu.
+
+**Chi phí khởi điểm:** máy giặt công nghiệp 30–60 triệu/máy, máy sấy 10–30 triệu/máy (số chính đã chốt theo misaeshop.vn; nguồn thietkewebwio.com ghi khác: máy giặt 60–120 triệu, máy sấy công nghiệp 50–100 triệu); hóa chất 3–7 triệu/tháng, điện nước 5–10 triệu/tháng; tổng theo nấc: tiệm nhỏ 80–200 triệu, laundromat 300–600 triệu, xưởng khoảng 770 triệu (ví dụ giả định). Học phí 0đ nếu học việc tại tiệm. Thu nhập chủ tiệm: Chưa có số liệu.
 
 Hỏng đồ khách, mất đồ khách là đền tiền thật. Làm rách 1 chiếc áo hàng hiệu hoặc mất 1 mẻ đồ, tiền đền bằng cả tuần tiền lãi, chưa kể mất uy tín. Tính giá sai cũng là lỗ mà không biết: đồ nhẹ cồng kềnh chiếm trọn 1 mẻ máy mà cân chỉ 1-2kg, tính theo ký thì tiệm bù tiền điện. Máy chạy liên tục 8-12 tiếng mỗi ngày thì nhanh hỏng trục, hỏng bo mạch sau 1-2 năm. Mùa vụ thì theo thời tiết: mưa kéo dài, nồm ẩm làm đồ ở nhà lâu khô, tiệm quá tải theo đợt; trời nắng khô, khách gửi tiệm ít hơn. Nghề này làm ra tiền bằng tay, theo kg đồ, và phải xây khách quen dần. Không có chuyện chắc chắn có việc hay làm giàu nhanh.
 

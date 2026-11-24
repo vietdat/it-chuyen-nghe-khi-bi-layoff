@@ -10,11 +10,11 @@
 
 ## Mục lục
 
-1. [Lịch tuần 12 - 7 ngày, 15 bài](#1-lịch-tuần-12--7-ngày-15-bài)
+1. [Lịch tuần 12 - 7 ngày, 15 bài](#1-lịch-tuần-12---7-ngày-15-bài)
 2. [Nghiên cứu thị trường tóm tắt](#2-nghiên-cứu-thị-trường-tóm-tắt)
-3. [YouTube - Script video dài Thứ 2](#3-youtube--script-video-dài-thứ-2)
-4. [Facebook - 6 bài](#4-facebook--6-bài)
-5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok--8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
+3. [YouTube - Script video dài Thứ 2](#3-youtube---script-video-dài-thứ-2)
+4. [Facebook - 6 bài](#4-facebook---6-bài)
+5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok---8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
 6. [Checklist 30 ngày đầu](#6-checklist-30-ngày-đầu)
 7. [Lưu ý trước khi đăng](#7-lưu-ý-trước-khi-đăng)
 
@@ -59,12 +59,12 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 | Thành phố | TopCV (tin tìm thấy) | VietnamWorks (tin tìm thấy) | Nguồn địa phương / khác | Lương phổ biến |
 |---|---|---|---|---|
 | Hà Nội | 7 tin tạp vụ / vệ sinh | 0 tin tạp vụ trực tiếp | JupViec/HMC tuyển 100 người; VinCons tuyển 200 NV vệ sinh công trường 14–18tr | Làm thuê 6–9tr/tháng; theo giờ 60–200k/giờ |
-| TP.HCM | 1 tin (đã hết hạn) | 0 tin tạp vụ trực tiếp | Việc Làm Tốt 1.604 việc, 4,5–13,37tr; El Gaucho 6–8,5tr | Làm thuê 6–8,5tr/tháng; theo giờ 70–120k/giờ |
+| TP.HCM | 0 tin còn hạn — El Gaucho 6–8,5tr đã hết hạn 08/02/2027, đã thay bằng hướng dẫn tìm tin đang mở | 0 tin tạp vụ trực tiếp | Việc Làm Tốt 1.604 việc, 4,5–13,37tr; El Gaucho 6–8,5tr (chỉ tham khảo lương) | Làm thuê 6–8,5tr/tháng; theo giờ 70–120k/giờ |
 | Đà Nẵng | 0 tin riêng Đà Nẵng | 0 tin riêng Đà Nẵng | T-Khoa 8–11tr, SongAnhHYG từ 7tr, Esco Beach 8,5–9tr, El Gaucho 6–6,5tr, Haviland House 8–10tr, bTaskee CTV 300–500k/ngày | Làm thuê 6–11tr/tháng |
 | Cần Thơ | 0 tin riêng Cần Thơ | 0 tin riêng Cần Thơ | Joboko tạp vụ 5–7tr; Sàn VL Cần Thơ: phụ việc 7,5tr, NV vệ sinh thỏa thuận | Làm thuê 5–7tr/tháng (thấp nhất 4 nơi) |
 
 - Hà Nội: TopCV 7 tin (Fuji Lifecare 4–5tr buổi sáng, HMC Ocean Park 60–200k/giờ, Lavender 7,5tr thu nhập 8–9tr, Ami&M housekeeping 6–7tr + 500k, Ngân Lực 6–8tr, Aeon 25–26k/giờ, Lavender thẩm mỹ 8–10tr). JupViec/HMC tuyển 100 người giúp việc theo giờ, 15–25tr/tháng (tin đã hết hạn hiển thị, chỉ tham khảo mức thu nhập).
-- TP.HCM: Việc Làm Tốt 1.604 việc tạp vụ, 4,5–13,37tr. El Gaucho tạp vụ 6–8,5tr, hạn 08/02/2027.
+- TP.HCM: Việc Làm Tốt 1.604 việc tạp vụ, 4,5–13,37tr. El Gaucho tạp vụ 6–8,5tr đã hết hạn 08/02/2027 trước ngày đăng — đã thay bằng hướng dẫn tìm tin đang mở.
 - Đà Nẵng: T-Khoa 8–11tr (hạn 31/12/2026), SongAnhHYG từ 7tr (bảng hạch toán trên cùng trang ghi 4,9tr lương + phụ cấp — 2 số không khớp, ghi rõ để đối chiếu), Esco Beach chính thức 8,5–9tr, El Gaucho ĐN 6–6,5tr (hạn 28/02/2027), Haviland House 8–10tr, bTaskee ĐN CTV 300–500k/ngày.
 - Cần Thơ: lương thấp nhất 4 nơi (làm thuê 5–7tr). Tạp vụ giúp việc nhà 5–7tr (hạn 06/12/2026), phụ việc cửa hàng Triều Phát 7,5tr (hết hạn 17/11/2026, chỉ tham khảo).
 
@@ -80,8 +80,39 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 ### Lương theo nấc (tin tuyển thật + nền tảng app, tra cứu 23/11/2026)
 
 - Làm thuê toàn thời gian, mới vào, không cần kinh nghiệm: **5–8 triệu/tháng** (Vieclam24h dưới 1 năm kinh nghiệm 5–8tr; TopCV Hà Nội housekeeping 6–7tr, dọn dẹp 6–8tr; El Gaucho TP.HCM 6–8,5tr, Đà Nẵng 6–6,5tr; Cần Thơ 5–7tr).
+- Lương tối thiểu vùng làm mốc (từ 01/01/2026, Nghị định 293/2025/NĐ-CP): vùng I 5.310.000đ/tháng, vùng II 4.730.000đ, vùng III 4.140.000đ, vùng IV 3.700.000đ; tối thiểu vùng I theo giờ 25.500đ/giờ. Lương làm thuê 5–8tr/tháng vẫn trên mức tối thiểu vùng — nếu tin tuyển ghi lương thấp hơn mức này thì xem lại trước khi nộp.
+- Số bTaskee 19 triệu/tháng: từ báo Thanh Niên 04/02/2026 — đã hơn 9 tháng trước ngày tra cứu 23/11/2026, kiểm tra lại trước ngày đăng 19/02/2027.
+
+### Lộ trình học theo tuần/tháng (tóm tắt mục 6 file nghiên cứu)
+
+- Tuần đầu: đăng ký app, làm bài kiểm tra 15 câu, thử việc 1 ca, đi theo người có kinh nghiệm vài ca. Học phí: 0đ.
+- Tháng đầu: nhận 1 ca/ngày, học phân biệt hóa chất theo bề mặt, chụp ảnh trước/sau mỗi ca.
+- Tháng 2–3: nhận 2 ca/ngày, dọn căn hộ 2 giờ xong.
+- Sau 6 tháng: làm tốt độc lập, khách quen đặt lại đều. Sau 1–2 năm: tổ trưởng/giám sát hoặc tự nhận khách riêng.
+
+### Thử nghề (tóm tắt mục 7 file nghiên cứu)
+
+- Đăng ký app và làm bài kiểm tra 15 câu (0đ, chỉ tốn phí hồ sơ: lý lịch tư pháp 200.000đ), thử việc 1 ca, đi theo người có kinh nghiệm vài ca, dọn nhà người quen 1–2 lần.
+- Tiếp tục nếu: dọn xong 1 ca 2 giờ không kiệt sức; chịu được mùi hóa chất; không dị ứng da/hô hấp; qua được bài kiểm tra của app; nhận được ca đều trong tuần đầu. Dừng lại nếu: dị ứng hóa chất sau ca thử; không chịu được làm việc ướt, đứng cả ngày; không qua được bài kiểm tra; không nhận được ca nào trong 1 tuần. Đánh giá sau 1 tuần thử và sau 3 tháng.
+
+### Pháp lý / thủ tục hồ sơ (tóm tắt mục 9 file nghiên cứu)
+
+- Hồ sơ app: CCCD công chứng, xác nhận cư trú công chứng, sơ yếu lý lịch công chứng, xác nhận hạnh kiểm hoặc lý lịch tư pháp; Ting yêu cầu lý lịch tư pháp trong 6 tháng + giấy khám sức khỏe có xét nghiệm ma túy.
+- Phí lý lịch tư pháp 200.000đ/lần/người (Thông tư 244/2016/TT-BTC; từ 01/01/2026 áp lại 200.000đ). Phí công chứng bản sao và phí khám sức khỏe: Chưa có số liệu.
+- Người làm qua app là cộng tác viên, không phải hợp đồng lao động — tự chịu trách nhiệm thuế thu nhập cá nhân; cách tính thuế: Chưa có số liệu, hỏi app khi đăng ký.
+- Tự nhận khách riêng: đăng ký hộ kinh doanh; từ 01/01/2026 đã bỏ thuế khoán (Nghị quyết 198/2025/QH15); hộ có doanh thu từ 1 tỷ đồng/năm trở xuống không chịu thuế GTGT, không phải nộp thuế TNCN (Nghị định 141/2026/NĐ-CP). [Cập nhật: 11/2026 – Nghị quyết 198/2025/QH15, Nghị định 141/2026/NĐ-CP]
+
+### Chi phí khởi điểm (tóm tắt mục 10 file nghiên cứu)
+
+- Dụng cụ: cây lau xoay 360 độ 200–500k, cây lau phẳng 150–400k, cây lau truyền thống 50–120k, cây lau công nghiệp 200–560k (Yên Phát); bộ dụng cụ theo ANITIME không công khai giá bộ; máy hút bụi, máy chà sàn: Chưa có số liệu. Đi làm qua app thì không cần tự mua.
+- Học phí: 0đ. Dự phòng 2 tháng: Chưa có số liệu (+ 200.000đ phí lý lịch tư pháp 1 lần). Tổng chưa chốt được con số — nghề có chi phí khởi điểm thấp nhất trong 24 nghề.
+
+### Kết luận (tóm tắt mục 8 file nghiên cứu)
+
+- Ưu điểm: cửa vào nhanh nhất (học phí 0đ, app tuyển liên tục); không cần bằng cấp; thu nhập theo ca, làm nhiều nhận nhiều; lợi thế IT thật (nhận ca qua app, quản lý lịch, nhắc khách, chụp ảnh trước/sau). Nhược điểm: thu nhập tháng đầu chưa đều; rủi ro sức khỏe thật (VOC, viêm da 10–15% so với 2–3% dân số chung); đứng cả ngày, làm cuối tuần; một số app tuyển chủ yếu nữ 18–50 tuổi.
+- Ai nên thử: người cần việc ngay, chấp nhận làm tay chân, chịu được hóa chất. Ai không nên thử: người dị ứng hóa chất hoặc bệnh hô hấp, muốn ngồi làm việc và nghỉ cuối tuần cố định.
 - Làm thuê có kinh nghiệm / ca đặc thù: **8–11 triệu/tháng** (T-Khoa Đà Nẵng 8–11tr, Esco Beach chính thức 8,5–9tr, Lavender Hà Nội 8–9tr, Haviland House 8–10tr).
-- Làm theo giờ qua app, nhận ca đều: **60.000–120.000đ/giờ** (bTaskee ca cơ bản 65–80k/giờ, cuối tuần +20%; JupViec 70–120k/giờ, lễ Tết đến 250k/giờ; Ting thực nhận 70–90k/giờ). Thu nhập tháng nếu làm đều: bTaskee công bố bình quân khoảng 19 triệu/tháng chưa tính thưởng, JupViec ghi 15–25 triệu/tháng — đi kèm điều kiện làm nhiều ca, cuối tuần, lễ Tết.
+- Làm theo giờ qua app, nhận ca đều: **60.000–120.000đ/giờ** (bTaskee ca cơ bản 65–80k/giờ, cuối tuần +20%; JupViec 70–120k/giờ, lễ Tết đến 250k/giờ; Ting thực nhận 70–90k/giờ). Thu nhập tháng nếu làm đều: bTaskee công bố bình quân khoảng 19 triệu/tháng chưa tính thưởng (con số từ báo Thanh Niên 04/02/2026 — đã hơn 9 tháng trước ngày tra cứu 23/11/2026, kiểm tra lại trước ngày đăng), JupViec ghi 15–25 triệu/tháng — đi kèm điều kiện làm nhiều ca, cuối tuần, lễ Tết.
 - Giám sát / quản lý vệ sinh: **10–15 triệu/tháng** (TINA 12–15tr, Hygiene Supervisor 10–18tr).
 - Giá khách trả (tham khảo, khác với thu nhập người làm): ngày thường 60–80k/giờ; cận Tết 120–150k/giờ, ngày 26–29 Tết 180–200k/giờ.
 - Pool nghiên cứu (#85): thu nhập ghi "No data" — mọi số lương trong tuần này đều tra lại ngày 23/11/2026.
@@ -93,6 +124,11 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 - Tin tưởng + đánh giá: cầm chìa khóa nhà khách, chạm vào đồ cá nhân. Trên app, bTaskee khóa tài khoản nếu trong 7 ngày có 3 lần đánh giá 3 sao trở xuống.
 - Mùa vụ: tháng Chạp kín lịch nhất (thu nhập tháng Tết có thể lên 30–40 triệu nếu làm kín lịch); sau Tết ca trống nhiều hơn, quay về dọn định kỳ và hợp đồng văn phòng.
 - Không có chuyện "chắc chắn có việc" hay "làm giàu nhanh".
+
+### Nguồn tham khảo (tóm tắt mục 11 file nghiên cứu)
+
+- Đầy đủ trong file nghiên cứu mục 11: tin tuyển, số nền tảng công bố, lương tối thiểu vùng, giá đồ nghề, phí hồ sơ, nguồn chưa kiểm chứng — mỗi nguồn có link + ngày truy cập 23/11/2026 + loại nguồn + mức tin cậy.
+
 
 
 ## 3. YouTube - Script video dài Thứ 2
@@ -183,7 +219,7 @@ Làm thuê toàn thời gian, mới vào, không cần kinh nghiệm: 5–8 tri�
 
 Có kinh nghiệm hoặc ca đặc thù: 8–11 triệu một tháng. T-Khoa Đà Nẵng 8–11 triệu, Esco Beach Đà Nẵng chính thức 8,5–9 triệu, Lavender Hà Nội thu nhập 8–9 triệu, Haviland House Đà Nẵng 8–10 triệu.
 
-Làm theo giờ qua app, nhận ca đều: 60.000–120.000đ một giờ ca thường. bTaskee ca cơ bản 65.000–80.000đ một giờ, cuối tuần cộng thêm 20%. JupViec 70.000–120.000đ một giờ, lễ Tết đến 250.000đ một giờ. Ting thực nhận 70.000–90.000đ một giờ, không chiết khấu. Thu nhập tháng nếu làm đều: bTaskee công bố bình quân khoảng 19 triệu một tháng chưa tính thưởng, JupViec ghi 15–25 triệu một tháng. Hai con số này đi kèm điều kiện làm nhiều ca, cuối tuần, lễ Tết — làm ít ca thì ít hơn, không lấy làm thu nhập đảm bảo.
+Làm theo giờ qua app, nhận ca đều: 60.000–120.000đ một giờ ca thường. bTaskee ca cơ bản 65.000–80.000đ một giờ, cuối tuần cộng thêm 20%. JupViec 70.000–120.000đ một giờ, lễ Tết đến 250.000đ một giờ. Ting thực nhận 70.000–90.000đ một giờ, không chiết khấu. Thu nhập tháng nếu làm đều: bTaskee công bố bình quân khoảng 19 triệu một tháng chưa tính thưởng (con số từ báo Thanh Niên 04/02/2026 — đã hơn 9 tháng trước ngày tra cứu 23/11/2026, kiểm tra lại trước ngày đăng), JupViec ghi 15–25 triệu một tháng. Hai con số này đi kèm điều kiện làm nhiều ca, cuối tuần, lễ Tết — làm ít ca thì ít hơn, không lấy làm thu nhập đảm bảo.
 
 Lên giám sát hoặc quản lý: 10–15 triệu một tháng. Quản lý, giám sát vệ sinh công nghiệp TINA 12–15 triệu, Hygiene Supervisor khách sạn 10–18 triệu.
 
@@ -273,7 +309,7 @@ Mình nói bằng tin tuyển thật và số nền tảng công bố, tra ngày
 
 Có kinh nghiệm hoặc ca đặc thù: 8–11 triệu một tháng. T-Khoa Đà Nẵng 8–11 triệu, Esco Beach Đà Nẵng chính thức 8,5–9 triệu, Lavender Hà Nội thu nhập 8–9 triệu, Haviland House Đà Nẵng 8–10 triệu.
 
-Làm theo giờ qua app, nhận ca đều: 60.000–120.000đ một giờ ca thường. bTaskee ca cơ bản 65.000–80.000đ một giờ, cuối tuần cộng thêm 20%. JupViec 70.000–120.000đ một giờ, lễ Tết đến 250.000đ một giờ. Ting thực nhận 70.000–90.000đ một giờ, không chiết khấu. Thu nhập tháng nếu làm đều: bTaskee công bố bình quân khoảng 19 triệu một tháng chưa tính thưởng, JupViec ghi 15–25 triệu một tháng. Hai con số này đi kèm điều kiện làm nhiều ca, cuối tuần, lễ Tết — làm ít ca thì ít hơn, không lấy làm thu nhập đảm bảo.
+Làm theo giờ qua app, nhận ca đều: 60.000–120.000đ một giờ ca thường. bTaskee ca cơ bản 65.000–80.000đ một giờ, cuối tuần cộng thêm 20%. JupViec 70.000–120.000đ một giờ, lễ Tết đến 250.000đ một giờ. Ting thực nhận 70.000–90.000đ một giờ, không chiết khấu. Thu nhập tháng nếu làm đều: bTaskee công bố bình quân khoảng 19 triệu một tháng chưa tính thưởng (con số từ báo Thanh Niên 04/02/2026 — đã hơn 9 tháng trước ngày tra cứu 23/11/2026, kiểm tra lại trước ngày đăng), JupViec ghi 15–25 triệu một tháng. Hai con số này đi kèm điều kiện làm nhiều ca, cuối tuần, lễ Tết — làm ít ca thì ít hơn, không lấy làm thu nhập đảm bảo.
 
 Lên giám sát hoặc quản lý: 10–15 triệu một tháng. Quản lý, giám sát vệ sinh công nghiệp TINA 12–15 triệu, Hygiene Supervisor khách sạn 10–18 triệu.
 
@@ -364,19 +400,17 @@ Mẹo này không giúp bạn dọn nhanh hơn, nó giúp khách nhớ bạn và
 - Link: https://worklink.vn/job/376389/tuyen-ctv-don-dep-nha-linh-dong-thoi-gian/
 - Hợp với bạn nếu: bạn muốn chủ động giờ làm, nhận ca qua app, làm nhiều thì thu nhập cao hơn làm thuê cố định. Lưu ý: bTaskee tuyển chủ yếu nữ 18–50 tuổi — bạn là nam thì đăng ký sẽ khó được nhận hơn.
 
-### Việc 3: Nhân Viên Tạp Vụ - Cleaner (TP.HCM) - đã hết hạn, chỉ tham khảo lương + cách ứng tuyển
+### Việc 3: Cách tìm tin tạp vụ TP.HCM đang mở — thay cho tin El Gaucho TP.HCM đã hết hạn 08/02/2027
 
-- Công ty: Nhà Hàng El Gaucho - Công Ty TNHH Cao Bồi Nam Mỹ
-- Lương: 6.000.000 – 8.500.000 VNĐ/tháng
-- Công việc: kiểm tra, lau dọn và vệ sinh các khu vực được phân công theo tiêu chuẩn nhà hàng
-- Quyền lợi: thưởng Tết + lương tháng 13 khi làm đủ 12 tháng
-- Địa điểm: TP.HCM (74/1–74/1A Hai Bà Trưng hoặc 64–66 Lê Lợi, Sài Gòn)
-- Ngày thấy tin: 23/11/2026 (viecday.com, tin đăng 14/11/2026)
-- Hạn nộp: 08/02/2027 — ĐÃ HẾT HẠN trước ngày đăng bài 19/02/2027. Tin này chỉ dùng để tham khảo mức lương và cách ứng tuyển, KHÔNG dùng để nộp đơn. Trước khi đăng, thay bằng tin tạp vụ TP.HCM đang mở trên Việc Làm Tốt (ngày 23/11/2026 trang này ghi 1.604 việc tạp vụ tại TP.HCM) hoặc TopCV.
-- Link: https://viecday.com/viec-lam/nhan-vien-tap-vu-cleaner-ho-chi-minh-va-binh-duong-2558994/
-- Hợp với bạn nếu: bạn ở TP.HCM và muốn hình dung mức lương tạp vụ nhà hàng — rồi tìm tin đang mở tương tự để nộp.
+- Tin cũ chỉ để tham khảo lương: Nhân Viên Tạp Vụ – Cleaner, Nhà Hàng El Gaucho TP.HCM, 6–8,5 triệu/tháng, hạn nộp 08/02/2027 — ĐÃ HẾT HẠN trước ngày đăng 19/02/2027, KHÔNG nộp đơn. Link cũ để đối chiếu lương: https://viecday.com/viec-lam/nhan-vien-tap-vu-cleaner-ho-chi-minh-va-binh-duong-2558994/
+- Cách tìm tin thay thế sát ngày đăng 19/02/2027 (4 bước):
+  1. Việc Làm Tốt → chọn TP.HCM → tìm "tạp vụ" hoặc "nhân viên vệ sinh" → lọc tin còn hạn sau 19/02/2027. Ngày 23/11/2026 trang này ghi 1.604 việc tạp vụ tại TP.HCM, lương 4,5–13,37 triệu/tháng.
+  2. TopCV → tìm "tạp vụ", "nhân viên vệ sinh", "dọn dẹp" → lọc "không yêu cầu kinh nghiệm", còn hạn sau 19/02/2027.
+  3. Ưu tiên tin ghi rõ lương tháng (mốc tham khảo: làm thuê mới vào 5–8 triệu/tháng; lương tối thiểu vùng I từ 01/01/2026 là 5.310.000đ/tháng — tin nào ghi thấp hơn thì xem lại trước khi nộp).
+  4. Không tìm được tin online thì hỏi trực tiếp nhà hàng, khách sạn, văn phòng gần nhà — nhiều nơi dán bảng tuyển ngay cửa, không đăng tin online.
+- Hợp với bạn nếu: bạn ở TP.HCM và muốn làm thuê toàn thời gian có lương tháng 13 — tìm tin đang mở tương tự để nộp.
 
-3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 19/02/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở, không đăng tin hết hạn. Ở Hà Nội, tìm việc qua TopCV: ngày 23/11/2026 tìm thấy 7 tin tạp vụ / vệ sinh (Fuji Lifecare 4–5 triệu buổi sáng, Lavender 7,5 triệu + thưởng, Ami&M housekeeping 6–7 triệu, Ngân Lực 6–8 triệu...). Ở Cần Thơ, tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com) và Joboko: ngày 23/11/2026 tìm thấy tạp vụ giúp việc nhà 5–7 triệu (hạn 06/12/2026, đã hết hạn trước ngày đăng — chỉ tham khảo). App dọn dẹp bTaskee, JupViec, Ting tuyển liên tục quanh năm, không có hạn cụ thể — đây là đường vào nhanh nhất nếu bạn muốn bắt đầu ngay.
+Tin tuyển tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 19/02/2027 — PHẢI tra lại sát ngày đăng. Việc 1 (El Gaucho Đà Nẵng, hạn 28/02/2027) còn hạn vào ngày đăng nhưng vẫn kiểm tra lại link trước khi đăng; Việc 2 là app tuyển liên tục, không có hạn; Việc 3 đã thay bằng hướng dẫn tìm tin đang mở 4 bước ở trên (tin El Gaucho TP.HCM cũ đã hết hạn 08/02/2027, KHÔNG nộp đơn). Ở Hà Nội, tìm việc qua TopCV: ngày 23/11/2026 tìm thấy 7 tin tạp vụ / vệ sinh (Fuji Lifecare 4–5 triệu buổi sáng, Lavender 7,5 triệu + thưởng, Ami&M housekeeping 6–7 triệu, Ngân Lực 6–8 triệu...). Ở Cần Thơ, tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com) và Joboko: ngày 23/11/2026 tìm thấy tạp vụ giúp việc nhà 5–7 triệu (hạn 06/12/2026, đã hết hạn trước ngày đăng — chỉ tham khảo). App dọn dẹp bTaskee, JupViec, Ting tuyển liên tục quanh năm, không có hạn cụ thể — đây là đường vào nhanh nhất nếu bạn muốn bắt đầu ngay.
 
 
 ## CV mẫu: trước và sau
@@ -538,11 +572,11 @@ Follow để xem Tập 3.
 | 03 VALUE 1 | 8-16s | Học mất bao lâu? Gần như không mất thời gian học. Đăng ký app, làm bài kiểm tra, đi theo người có kinh nghiệm vài ca là nhận việc được. | "Học vài ngày là nhận ca" | Điện thoại mở app nhận ca, bài kiểm tra 15 câu, đi theo người kèm |
 | 04 VALUE 2 | 16-26s | Dân IT có một cái lợi: nhận việc qua app, quản lý lịch, nhắc khách đặt lại đúng hẹn, chụp ảnh trước và sau cho khách thấy. | "App + lịch + ảnh trước/sau" | Lịch ca trên điện thoại, tin nhắn nhắc khách, ảnh trước/sau đặt cạnh nhau |
 | 05 VALUE 3 | 26-32s | Cái phải học lại: hóa chất, chất nào dùng cho bề mặt nào. | "Hóa chất: học kỹ rồi mới làm" | 2 chai tẩy đặt riêng, găng tay và khẩu trang |
-| 06 PAYOFF + CTA | 32-45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền ngay. Bài đầy đủ ở bài ghim. | "Bài đầy đủ ở bài ghim" | Người dọn xong đứng nhìn căn phòng sạch, chữ bài ghim hiện lên |
+| 06 PAYOFF + CTA | 32-45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền, ca nào xong ca đó. Bài đầy đủ ở bài ghim. | "Bài đầy đủ ở bài ghim" | Người dọn xong đứng nhìn căn phòng sạch, chữ bài ghim hiện lên |
 
 ## Lời thoại đầy đủ (148 từ)
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề vào làm ngay, không cần bằng cấp: dọn nhà, văn phòng. Sáng anh ấy tới nhà khách, 2 giờ dọn xong căn hộ: lau sàn, lau bếp, dọn nhà tắm. Chiều sang văn phòng, dọn 3 tầng trước giờ tan làm. Học mất bao lâu? Gần như không mất thời gian học. Đăng ký app, làm bài kiểm tra, đi theo người có kinh nghiệm vài ca là nhận việc được. Dân IT có một cái lợi: nhận việc qua app, quản lý lịch, nhắc khách đặt lại đúng hẹn, chụp ảnh trước và sau cho khách thấy. Cái phải học lại: hóa chất, chất nào dùng cho bề mặt nào. Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền ngay. Bài đầy đủ ở bài ghim."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề vào làm ngay, không cần bằng cấp: dọn nhà, văn phòng. Sáng anh ấy tới nhà khách, 2 giờ dọn xong căn hộ: lau sàn, lau bếp, dọn nhà tắm. Chiều sang văn phòng, dọn 3 tầng trước giờ tan làm. Học mất bao lâu? Gần như không mất thời gian học. Đăng ký app, làm bài kiểm tra, đi theo người có kinh nghiệm vài ca là nhận việc được. Dân IT có một cái lợi: nhận việc qua app, quản lý lịch, nhắc khách đặt lại đúng hẹn, chụp ảnh trước và sau cho khách thấy. Cái phải học lại: hóa chất, chất nào dùng cho bề mặt nào. Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền, ca nào xong ca đó. Bài đầy đủ ở bài ghim."
 
 ## CTA dự phòng (không đọc cùng lúc)
 
@@ -717,7 +751,7 @@ Comment tỉnh của bạn, mình tìm chỗ bắt đầu gần nhất cho bạn
 - Đủ 8 mục, mỗi mục có nguồn/ngày hoặc ghi rõ "Chưa có số liệu"
 - Phân tích nhu cầu đã đếm thật (Việc Làm Tốt + Vieclam24h + TopCV; VietnamWorks gần như không có tin tạp vụ; Facebook Group + Google Maps + TikTok chưa đếm được, cần đếm thủ công), ghi số + ngày đếm
 - Hook Thứ 2 và hook reel đều nhắc layoff + tên nghề trong 3 giây đầu
-- 3 việc thật: 1 tin còn hạn tới ngày đăng (El Gaucho Đà Nẵng, hạn 28/02/2027), 1 tin tuyển liên tục qua app (bTaskee Đà Nẵng), 1 tin đã hết hạn trước ngày đăng (El Gaucho TP.HCM, hạn 08/02/2027 — chỉ tham khảo, thay bằng tin đang mở trước khi đăng 19/02/2027). Tin tuyển tìm thấy ngày 23/11/2026, tới ngày đăng đã qua gần 3 tháng — kiểm tra lại toàn bộ link trước khi đăng
+- 3 việc thật: 1 tin còn hạn tới ngày đăng (El Gaucho Đà Nẵng, hạn 28/02/2027 — vẫn kiểm tra lại link trước khi đăng), 1 tin tuyển liên tục qua app (bTaskee Đà Nẵng), 1 tin đã hết hạn (El Gaucho TP.HCM, hạn 08/02/2027) đã THAY bằng hướng dẫn tìm tin đang mở 4 bước. Tin tuyển tìm thấy ngày 23/11/2026, tới ngày đăng đã qua gần 3 tháng — kiểm tra lại toàn bộ link trước khi đăng
 - CV trước/sau đã sửa đúng nghề, không để sót thông tin dev không liên quan
 - Reel đúng sườn `suon-chung-video.md` (flat 2D, Dapper Cuff tốc độ 100, 40–45s, 148 từ)
 - Ngoc duyệt script + bài viết trước khi đăng

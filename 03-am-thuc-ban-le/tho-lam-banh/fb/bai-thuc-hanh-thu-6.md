@@ -1,47 +1,38 @@
 # Bài thực hành Thứ 6 - 3 việc thật + CV trước/sau + checklist 30 ngày
 
 - Đăng: Thứ 6 23/04/2027, 12:00, Facebook (carousel / bài viết)
-- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (Joboko, Vieclamdn.vn, TopCV). Trước khi đăng ngày 23/04/2027, kiểm tra lại xem tin còn hạn không - tin hết hạn thì thay bằng tin khác, không đăng tin hết hạn.
+- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (Joboko, Vieclamdn.vn, TopCV). **Cảnh báo: cả 3 tin tìm thấy ngày 23/11/2026 đều hết hạn trước ngày đăng 23/04/2027 — bài này KHÔNG đăng tin cũ, mà hướng dẫn cách tìm 3 việc thật còn hạn sát ngày đăng (xem mục dưới).**
 - Giọng: nói với "bạn", không bịa số liệu
 
 
-## 3 việc thật đang tuyển thợ làm bánh
+## Tìm 3 việc thật trước ngày đăng (thay cho 3 tin đã hết hạn)
 
-### Việc 1: Thợ Bánh Mì / Bánh Cán - Đà Nẵng
+3 tin tìm thấy ngày 23/11/2026 đều hết hạn trước ngày đăng 23/04/2027 — Le Bordeaux Bakery Đà Nẵng (hạn nộp 19/12/2026), Nata Dessert Đà Nẵng (đăng 21/11/2026), tiệm bánh Việt Quận 9 TP.HCM (không ghi hạn nộp) — nên bài này không đăng tin cũ. Trước ngày đăng, tìm 3 việc thật còn hạn theo 6 bước dưới đây, rồi điền vào đúng 3 khung Việc 1-3.
 
-- Công ty: Le Bordeaux Bakery (Le Bordeaux Factory)
-- Lương: 7,5–9 triệu/tháng (theo tay nghề) + phụ cấp bữa ăn 50.000đ/ngày + thưởng tháng, lương ngày lễ Tết x3 + thưởng Tết
-- Yêu cầu: kinh nghiệm làm bánh mì / bánh cán ít nhất 1 năm, hộ khẩu Đà Nẵng là lợi thế, định hướng làm việc ổn định
-- Thời gian: ca 1: 4:00–12:00, ca 2: 12:00–20:00 (nghỉ ăn 60 phút), 5,5 ngày/tuần (tháng nghỉ 6 ngày)
-- Địa điểm: 25 Trần Thánh Tông, Sơn Trà, Đà Nẵng
-- Ngày thấy tin: 19/11/2026 (Joboko), hạn nộp hồ sơ 19/12/2026
-- Link: https://vn.joboko.com/viec-lam-tho-banh-mi-banh-can-xvi6848602?apply=true
-- Hợp với bạn nếu: bạn ở Đà Nẵng, đã biết làm bánh mì cơ bản và dậy sớm được — ca 4 giờ sáng là ca chính của tiệm.
+### Bước 1: TopCV — tìm "thợ làm bánh", "phụ bếp bánh", "bếp bánh"
 
-### Việc 2: Phụ Bếp Bánh - Đà Nẵng
+- Lọc tin còn hạn sau 23/04/2027. Ưu tiên tin ghi "không yêu cầu kinh nghiệm" (7-9 triệu/tháng, vừa làm vừa học — ví dụ tiệm bánh Việt Quận 9 từng tuyển 7-9 triệu, không yêu cầu kinh nghiệm) hoặc "dưới 1 năm kinh nghiệm" (8-9 triệu/tháng — ví dụ T-MartStores Hà Nội từng tuyển Nhân Viên Bếp Bánh Mì 8-9 triệu, dưới 1 năm kinh nghiệm).
+- Ghi rõ cho mỗi tin: tên tiệm, lương, yêu cầu kinh nghiệm, ca làm (nhiều tiệm bắt đầu 4h-5h30 sáng), địa điểm, link tin.
 
-- Công ty: Nata Dessert
-- Lương: lương cơ bản 30.000–35.000đ/giờ (tùy kinh nghiệm và năng lực) + service charge khoảng 1–2 triệu/tháng + tip 500.000đ–1 triệu/tháng, tổng thu nhập dự kiến khoảng 9–11 triệu/tháng; bao ăn ca, lương tháng 13, 14 ngày phép năm
-- Yêu cầu: có kinh nghiệm làm bánh lạnh, bánh ngọt Âu, ưu tiên có kinh nghiệm làm bánh mì châu Âu và sourdough, chăm chỉ, đúng giờ
-- Thời gian: 08:00–16:00, nghỉ 1 ngày/tuần, được nghỉ Tết Âm lịch
-- Địa điểm: 77/25 Trần Khánh Dư, Đà Nẵng
-- Ngày thấy tin: 21/11/2026 (Vieclamdn.vn)
-- Link: https://vieclamdn.vn/nata-dessert/
-- Hợp với bạn nếu: bạn đã biết làm bánh lạnh, bánh ngọt Âu và muốn thu nhập có thêm service charge + tip, giờ làm ban ngày, không phải dậy 4 giờ sáng.
+### Bước 2: Joboko — tìm "thợ làm bánh"
 
-### Việc 3: Nhân Viên Bếp Bánh (bánh Việt) - TP.HCM
+- Lọc tin còn hạn sau 23/04/2027, ưu tiên Đà Nẵng và TP.HCM (ví dụ Le Bordeaux Bakery Đà Nẵng từng tuyển Thợ Bánh Mì / Bánh Cán 7,5-9 triệu, hạn 19/12/2026 — tìm lại tin tương tự còn hạn).
 
-- Công ty: tiệm bánh tại Quận 9 (112 đường Gò Cát, Long Trường) — tên công ty không ghi trong tin đăng
-- Lương: 7–9 triệu/tháng + thưởng 700.000đ–1 triệu/tháng + lương tháng 13, trợ cấp 1 suất cơm trong ca, làm lâu dài có BHXH, 12 ngày phép/năm, xem xét tăng lương hàng năm
-- Yêu cầu: không yêu cầu kinh nghiệm, nam/nữ 18–50 tuổi, yêu thích công việc làm bánh, nấu chè
-- Công việc: chế biến bánh Việt (bánh bò, bánh da lợn, bánh su kem, bánh dứa, bánh bông lan...), nấu các loại chè, chuẩn bị nguyên liệu, sơ chế theo công thức
-- Thời gian: ca làm việc 5h30–14h00, nghỉ 1 ngày bất kỳ trong tuần
-- Địa điểm: 112 đường Gò Cát, Phường Long Trường, TP.HCM
-- Ngày thấy tin: 23/11/2026 (TopCV)
-- Link: https://www.topcv.vn/viec-lam/tho-lam-banh-quan-9/2338073.html
-- Hợp với bạn nếu: bạn là người mới chuyển nghề, chưa biết việc — nộp vị trí này, vừa làm vừa học vẫn có lương, làm bánh Việt nên công thức gần gũi, dễ bắt đầu.
+### Bước 3: Vieclam24h — tìm "thợ làm bánh", lọc "dưới 1 năm kinh nghiệm"
 
-3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 23/04/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, Joboko hoặc sàn địa phương, không đăng tin hết hạn. Ở Hà Nội, tin Nhân Viên Bếp Bánh Mì của T-MartStores (8–9 triệu/tháng, dưới 1 năm kinh nghiệm) và tin Thợ Bánh Sinh Nhật của Abby.vn (8–10 triệu/tháng, không yêu cầu kinh nghiệm) cũng là cửa vào tốt cho người mới — tìm lại trên TopCV và JobsGO trước ngày đăng. Ở Cần Thơ gần như không có tin thợ làm bánh trên TopCV hay VietnamWorks. Bạn ở Cần Thơ thì tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com) và hỏi trực tiếp tiệm bánh gần nhà.
+- Ví dụ tin từng thấy: Thợ Bánh Kem (Bánh Mì C, TP.HCM) 15-20 triệu, hạn 27/11/2026 — tìm lại tin tương tự còn hạn sau 23/04/2027.
+
+### Bước 4: Sàn địa phương + CareerLink
+
+- Đà Nẵng: Vieclamdn.vn (ví dụ Nata Dessert từng tuyển Phụ Bếp Bánh, tổng thu nhập dự kiến 9-11 triệu). Cần Thơ: Sàn Việc làm Cần Thơ (sanvieclamcantho.com). CareerLink: tìm "phụ bếp bánh" (ví dụ từng tuyển 9-10 triệu, 0-1 năm kinh nghiệm).
+
+### Bước 5: Ngoài sàn — hỏi trực tiếp tiệm bánh gần nhà
+
+- Ở Cần Thơ gần như không có tin thợ bánh công khai trên TopCV hay VietnamWorks — hỏi trực tiếp tiệm bánh gần nhà và nhóm Facebook việc làm tay nghề (từ khóa "thợ làm bánh", "phụ bếp bánh").
+
+### Bước 6: Kiểm tra trước khi đăng
+
+- Mỗi tin phải còn hạn sau 23/04/2027 (mở link kiểm tra, tin nào ghi "Hết hạn ứng tuyển" thì bỏ). Không đăng tin hết hạn. Ghi rõ ngày thấy tin và link tin cho mỗi việc.
 
 
 ## CV mẫu: trước và sau

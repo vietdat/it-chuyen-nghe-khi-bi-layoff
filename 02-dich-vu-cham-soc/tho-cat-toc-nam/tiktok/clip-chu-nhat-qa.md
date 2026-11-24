@@ -8,7 +8,7 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 6, tập cuối tuần này. Có bạn comment: em không khéo tay, học cắt tóc được không? Anh ấy cũng từng nghĩ vậy, rồi anh ấy cắt trên đầu thật, hỏng vài đầu, ghi lại lỗi vào sổ, cắt lại. Khóa cơ bản 2 tới 3 tháng là cầm tông đơ đứng ghế được, còn cắt đẹp thì 6 tới 12 tháng vừa học vừa làm. Bạn thì sao, tay bạn khéo hay vụng? Tuần sau, chăm sóc người già tại nhà."
+"Dev bị layoff thì làm gì? Tập 6, tập cuối tuần này. Có bạn comment: em không khéo tay, học cắt tóc được không? Anh ấy cũng từng nghĩ vậy, rồi anh ấy cắt trên đầu thật, hỏng vài đầu, ghi lại lỗi vào sổ, cắt lại. Khóa cơ bản 2–3 tháng là cầm tông đơ cắt được tóc đơn giản dưới sự kèm cặp; 6–12 tháng mới đứng ghế cắt khách riêng độc lập. Bạn thì sao, tay bạn khéo hay vụng? Tuần sau, chăm sóc người già tại nhà."
 
 ## Chữ trên màn hình
 

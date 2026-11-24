@@ -10,12 +10,12 @@
 
 | Đoạn | Thời gian | Lời thoại | Chữ trên màn hình |
 |---|---|---|---|
-| 01 HOOK | 0–3s | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề chỉ cần bằng lái với cái xe máy là chạy được: shipper giao hàng. | "Dev bị layoff thì làm gì?" |
+| 01 HOOK | 0–3s | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề chạy được đơn đầu tiên sau khoảng 1–3 ngày làm thủ tục: shipper giao hàng — nhưng phải đủ giấy tờ, đồng phục và ký quỹ trước đã. | "Dev bị layoff thì làm gì?" |
 | 02 CONTEXT | 3–8s | Mỗi sáng, anh ấy mở app, nhận đơn trong quận mình chạy. Lấy hàng ở kho, giao tới tay khách, chụp ảnh xác nhận, nhận đơn khác. | "Mở app — nhận đơn — giao tới tay khách" |
 | 03 VALUE 1 | 8–16s | Đăng ký xong là chạy được, 1 tới 3 ngày làm thủ tục, học hướng dẫn của app rồi nhận đơn. | "Đăng ký 1–3 ngày là chạy được" |
 | 04 VALUE 2 | 16–26s | Dân IT có lợi: bảng tính theo dõi từng đơn, biết đơn nào lãi, đơn nào lỗ. Tuyến đường xếp bằng app, chạy ít vòng mà giao nhiều đơn hơn. | "Bảng tính theo đơn + xếp tuyến bằng app" |
 | 05 VALUE 3 | 26–32s | Cái khó thì không né được: nắng, mưa, kẹt xe. Giao muộn là khách đánh giá thấp, đơn sau ít đi. | "Nắng, mưa, kẹt xe — giao muộn là mất điểm" |
-| 06 PAYOFF + CTA | 32–45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền ngay. Bài đầy đủ ở bài ghim. | "Bài đầy đủ ở bài ghim" |
+| 06 PAYOFF + CTA | 32–45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề này — chạy đơn nào, tiền về đơn đó. Bài đầy đủ ở bài ghim. | "Bài đầy đủ ở bài ghim" |
 
 ## CTA
 

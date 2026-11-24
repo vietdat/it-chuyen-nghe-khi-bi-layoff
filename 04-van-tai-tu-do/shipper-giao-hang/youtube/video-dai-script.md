@@ -24,7 +24,7 @@
 
 [Hình: cận cảnh tay shipper nhận đơn trên app, màn hình hiện "Đơn mới — giao trong 30 phút". Chữ trên màn hình: "Giáp Tết, đơn tăng 70–80%: shipper chạy không kịp nghỉ"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề chỉ cần bằng lái với cái xe máy là chạy được ngay: shipper giao hàng. Giáp Tết, shipper của J&T Express kể lượng đơn mỗi ngày tăng 70 tới 80 phần trăm so với ngày thường, chạy không kịp nghỉ. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề chạy được đơn đầu tiên sau khoảng 1–3 ngày làm thủ tục — nhưng không chỉ cần bằng lái với cái xe máy: còn cần CCCD, cà vẹt xe, lý lịch tư pháp, đồng phục 250.000–600.000đ và ký quỹ 300.000–500.000đ [Cập nhật: 11/2026 – Shopee Blog / Vieclamtot, tra 23/11/2026]: shipper giao hàng. Giáp Tết, shipper của J&T Express kể lượng đơn mỗi ngày tăng 70 tới 80 phần trăm so với ngày thường, chạy không kịp nghỉ. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30–2:00 — Nghề này là gì, 1 ngày làm việc thật
 

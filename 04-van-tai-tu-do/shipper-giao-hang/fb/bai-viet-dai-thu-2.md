@@ -8,7 +8,7 @@
 
 ---
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề chỉ cần bằng lái với cái xe máy là chạy được ngay: shipper giao hàng.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề chạy được đơn đầu tiên sau khoảng 1–3 ngày làm thủ tục — nhưng không chỉ cần bằng lái với cái xe máy: còn cần CCCD, cà vẹt xe, lý lịch tư pháp, đồng phục 250.000–600.000đ và ký quỹ 300.000–500.000đ [Cập nhật: 11/2026 – Shopee Blog / Vieclamtot, tra 23/11/2026]: shipper giao hàng.
 
 Giáp Tết, shipper của J&T Express kể lượng đơn mỗi ngày tăng 70 tới 80 phần trăm so với ngày thường, bưu cục tăng gấp 2–3 lần trong vòng 1 tháng trước Tết. Chạy không kịp nghỉ. Bài này nói hết về nghề shipper: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 

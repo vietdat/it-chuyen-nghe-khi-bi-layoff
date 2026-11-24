@@ -39,8 +39,45 @@
 - **Lương (tin tuyển thật, 23/11/2026):** groomer mới vào 10–14 triệu/tháng (PetHealth, Hà Nội); 1 năm kinh nghiệm 9–12 triệu/tháng (Kohnan); có bằng C/B, trên 1 năm: lương cứng 8 triệu + hoa hồng tắm 10%, cắt 15%, rối/nhuộm 20% (PetGrocer, Thủ Đức). Thợ phụ tắm/sấy chưa có số liệu từ tin tuyển thật. Giá dịch vụ (không phải lương): Pet Mart trọn gói dưới 5kg 350.000đ, dưới 10kg 500.000đ, dưới 20kg 650.000đ.
 - **Rủi ro thật:** cao điểm trước Tết, sau Tết vắng khách; thú cưng cắn, cào; dị ứng lông; đứng cả ngày, làm việc ướt, làm cả cuối tuần; cắt sai form 1 lần, chủ không quay lại nữa.
 - **Số liệu chưa đếm được:** Facebook (số bài tìm thợ grooming trong 30 ngày), Google Maps (số spa theo quận), TikTok (lượt xem hashtag), VietnamWorks (không tìm thấy tin), lương thợ phụ tắm/sấy từ tin tuyển thật, lương groomer riêng tại Đà Nẵng và Cần Thơ, học phí 3 trung tâm Đà Nẵng.
+- **Tin mới tìm thấy 23/11/2026:** Vieclamtot đăng 20/11/2026 tuyển CHUYÊN VIÊN SPA/CHĂM SÓC THÚ CƯNG, không cần kinh nghiệm, đào tạo miễn phí nghề spa thú cưng — tin không ghi lương, kiểm tra lại link trước ngày đăng 22/01/2027.
+
+### Lộ trình học theo tuần/tháng (tóm tắt mục 6 file nghiên cứu)
+
+- Tuần đầu: học cách giữ thú an toàn, tên các giống và kiểu lông, liệt kê 5 spa gần nhà, xin làm thợ phụ tắm/sấy ở 2–3 chỗ.
+- Tháng đầu: theo groomer chính, tự tắm + sấy 1 bé có người kèm; làm được tắm/sấy/vệ sinh cơ bản có người kèm. Lương thợ phụ: Chưa có số liệu từ tin tuyển thật.
+- Tháng 2: tự làm 1 ca tắm + sấy + vệ sinh trọn vẹn; bắt đầu học cắt tỉa bé đơn giản có người kèm.
+- Tháng 3: cắt tỉa độc lập bé đơn giản (lông ngắn, hiền). Chưa nhận khách riêng.
+- Sau 6 tháng: cắt tỉa độc lập theo giống, xử lý lông rối; tay nghề cao (tạo kiểu theo giống, nhuộm) cần thêm 1–2 năm làm thật. Học xong khóa 1–2 tháng chỉ cắt được bé đơn giản có người kèm — không phải cầm kéo là đi làm độc lập được ngay.
+
+### Thử nghề (tóm tắt mục 7 file nghiên cứu)
+
+- Theo groomer 1 ngày (0đ), rồi xin làm phụ tắm/sấy 1–2 tuần trước khi đóng học phí khóa cắt tỉa 5–15 triệu — xem mình có chịu được lông bay, nước bắn, tiếng sủa cả ngày không. Học thử miễn phí: Chưa có số liệu.
+- Tiếp tục nếu: chịu được lông bay, nước bắn, tiếng sủa; tắm/sấy được 1 bé có người kèm; không dị ứng lông; chi phí khóa 5–15 triệu trong khả năng. Dừng lại nếu: dị ứng lông hoặc hen suyễn tới mức không làm nổi 1 ca; sợ bị cắn/cào tới mức không dám chạm vào thú. Đánh giá sau 1–2 tuần làm phụ và sau 3 tháng.
+
+### Pháp lý cần biết (tóm tắt mục 9 file nghiên cứu)
+
+- Mở spa chỉ tắm/cắt tỉa: đăng ký hộ kinh doanh là đủ (mã ngành tham khảo 96090), không cần giấy phép chuyên ngành riêng. Có khám chữa bệnh cho thú thì cần chứng chỉ/bằng thú y + giấy phép thú y.
+- Chứng chỉ grooming Level C/B là yêu cầu của nhà tuyển dụng, không phải giấy phép hành nghề bắt buộc — quy định bắt buộc: Chưa có số liệu.
+- Thú bị thương/chết tại spa: quy định bồi thường cụ thể: Chưa có số liệu — tự bảo vệ bằng thỏa thuận văn bản trước khi nhận bé (tình trạng sức khỏe, tính nết, mức đền bù nếu sự cố), chụp ảnh bé trước khi làm. Không nhận thú đang mang thai, đang điều trị bệnh, mới phẫu thuật, tiền sử hen/co giật (quy định loại trừ của Pet Mart).
+- Tiêm phòng bắt buộc khi gửi spa: Chưa có số liệu về quy định pháp luật — thực hành nên làm: yêu cầu chủ thú xác nhận bé đã tiêm phòng đầy đủ và đang khỏe mạnh.
+
+### Chi phí khởi điểm (tóm tắt mục 10 file nghiên cứu)
+
+- Dụng cụ (bàn, tông đơ, bồn tắm, máy sấy, kéo): Chưa có số liệu giá trọn bộ; một số khóa cấp/mượn dụng cụ học (KimiPet, Queen Pet, LanLan, DogParadise). Đi làm thuê thì spa có đồ nghề.
+- Học phí: 0đ (làm phụ tại spa) hoặc khóa cắt tỉa cơ bản 5–15 triệu (Pet Mart 5 triệu; LanLan 10 triệu; KimiPet 14 triệu; Teddy/DogParadise 15 triệu); 3 trung tâm Đà Nẵng (RITDO, Phú Spa, Alo and Pom): Chưa có số liệu — gọi hotline RITDO 0898 222 215 để hỏi.
+- Dự phòng 2 tháng: Chưa có số liệu. Tổng chưa chốt được con số.
+
+### Kết luận (tóm tắt mục 8 file nghiên cứu)
+
+- Ưu điểm: cửa vào nhanh (thợ phụ không cần kinh nghiệm); cao điểm trước Tết đông khách; khách quen quay lại mỗi 4–6 tuần; lợi thế IT thật (đặt lịch, hồ sơ từng bé, ảnh trước/sau, nhắc lịch). Nhược điểm: sau Tết vắng khách; rủi ro cắn/cào, dị ứng lông, làm cả cuối tuần; tin tuyển trên sàn ít và phần lớn đã hết hạn — phải tìm việc qua Facebook/Zalo/hỏi trực tiếp spa; cắt sai form 1 lần, chủ không quay lại.
+- Ai nên thử: người thật sự thích chó mèo, chịu được lông bay, nước bắn, tiếng sủa cả ngày. Ai không nên thử: người dị ứng lông hoặc hen suyễn, không thích chó mèo, muốn nghỉ cuối tuần cố định.
 
 ---
+
+### Nguồn tham khảo (tóm tắt mục 11 file nghiên cứu)
+
+- Đầy đủ trong file nghiên cứu mục 11: tin tuyển, bảng học phí trung tâm, giá dịch vụ, pháp lý mở spa, số liệu Mỹ, nguồn chưa kiểm chứng — mỗi nguồn có link + ngày truy cập 23/11/2026 + loại nguồn + mức tin cậy.
+
 
 ## 2. Kế hoạch tuần — bảng lịch 7 ngày
 
@@ -117,7 +154,7 @@
 
 [Hình: cận cảnh tay groomer cắt tỉa lông cho 1 bé Poodle trên bàn, lông rơi xuống bàn. Chữ trên màn hình: "Chó nhà khách sủa ầm lên, lông rối thành cục"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: cắt tỉa thú cưng. Chó nhà khách sủa ầm lên, lông rối thành cục, chủ thì sắp Tết rồi, muốn bé đẹp đón Tết. Groomer đón bé, tắm, sấy, cắt tỉa, 2 tiếng rưỡi sau giao lại 1 bé sạch sẽ, gọn gàng. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 1–2 tháng là bắt đầu làm được, nhưng cắt đẹp theo giống thì cần thêm nhiều tháng làm thật: cắt tỉa thú cưng. Chó nhà khách sủa ầm lên, lông rối thành cục, chủ thì sắp Tết rồi, muốn bé đẹp đón Tết. Groomer đón bé, tắm, sấy, cắt tỉa, 2 tiếng rưỡi sau giao lại 1 bé sạch sẽ, gọn gàng. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30–2:00 — Nghề này là gì, 1 ngày làm việc thật
 
@@ -193,7 +230,7 @@ Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau m
 
 ---
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: cắt tỉa thú cưng.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 1–2 tháng là bắt đầu làm được, nhưng cắt đẹp theo giống thì cần thêm nhiều tháng làm thật: cắt tỉa thú cưng.
 
 Chó nhà khách sủa ầm lên, lông rối thành cục, chủ thì sắp Tết rồi, muốn bé đẹp đón Tết. Groomer đón bé, tắm, sấy, cắt tỉa, 2 tiếng rưỡi sau giao lại 1 bé sạch sẽ, gọn gàng. Bài này nói hết về nghề cắt tỉa thú cưng: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
@@ -295,7 +332,7 @@ Mẹo này không tốn tiền quảng cáo, mà khách khu vực nhìn ảnh tr
 
 
 - Đăng: Thứ 6 22/01/2027, 12:00, Facebook (carousel / bài viết)
-- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). **Lưu ý quan trọng: 2 trong 3 tin dưới đây đã hiện "Hết hạn ứng tuyển" trong kết quả tìm kiếm ngày 23/11/2026 — trước khi đăng ngày 22/01/2027, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn.**
+- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). **Lưu ý quan trọng: tin tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 22/01/2027 — PHẢI tra lại sát ngày đăng. 2 trong 3 tin dưới đây đã hiện "Hết hạn ứng tuyển" ngay lúc tra cứu 23/11/2026; tin còn lại (PetHealth) cũng đã qua 2 tháng tới ngày đăng. Không đăng tin hết hạn — thay bằng tin đang mở theo hướng dẫn ở cuối bài.**
 - Giọng: nói với "bạn", không bịa số liệu
 
 ---
@@ -321,7 +358,7 @@ Mẹo này không tốn tiền quảng cáo, mà khách khu vực nhìn ảnh tr
 - Yêu cầu: 1 năm kinh nghiệm; có chứng chỉ/chứng nhận grooming là lợi thế; tham gia bài test kỹ năng khi phỏng vấn
 - Địa điểm: Hưng Yên (Vincom Ocean Mega Mall, Văn Giang) + Hà Nội (Long Biên, Gia Lâm)
 - Giờ làm: xoay ca, 44 giờ/tuần
-- Ngày thấy tin: 23/11/2026 (TopCV — tin này hiện "Hết hạn ứng tuyển", kiểm tra lại hạn trước ngày đăng 22/01/2027)
+- Ngày thấy tin: 23/11/2026 (TopCV — tin này ĐÃ HIỆN "Hết hạn ứng tuyển" ngay lúc tra cứu, KHÔNG nộp đơn — chỉ tham khảo mức lương; thay bằng tin đang mở theo hướng dẫn ở cuối bài)
 - Link: https://www.topcv.vn/viec-lam/nhan-vien-grooming-cat-tia-ve-sinh-thu-cung-thu-nhap-9-12-trieu-thang-tai-hung-yen/1949912.html
 - Hợp với bạn nếu: bạn đã có 1 năm kinh nghiệm grooming và ở Hưng Yên hoặc phía Đông Hà Nội.
 
@@ -332,11 +369,12 @@ Mẹo này không tốn tiền quảng cáo, mà khách khu vực nhìn ảnh tr
 - Yêu cầu: đạt bằng C/B grooming; kinh nghiệm trên 1 năm; tuổi 18–30
 - Giờ làm: 7h30/ngày hoặc ca 9h/ngày; nghỉ 3 ngày/tháng, không nghỉ T7, CN, T2, ngày lễ
 - Địa điểm: Nhà số 9 đường số 3, khu phố 5, P. Hiệp Bình Chánh, TP. Thủ Đức
-- Ngày thấy tin: 23/11/2026 (TopCV — tin này hiện "Hết hạn ứng tuyển", kiểm tra lại hạn trước ngày đăng 22/01/2027)
+- Ngày thấy tin: 23/11/2026 (TopCV — tin này ĐÃ HIỆN "Hết hạn ứng tuyển" ngay lúc tra cứu, KHÔNG nộp đơn — chỉ tham khảo mức lương; thay bằng tin đang mở theo hướng dẫn ở cuối bài)
 - Link: https://www.topcv.vn/viec-lam/nhan-vien-groomer-tam-cat-tia-thu-cung/1684635.html
 - Hợp với bạn nếu: bạn đã có bằng C/B grooming và muốn thu nhập theo ca, không chỉ lương cứng.
 
-Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 22/01/2027 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Ở Đà Nẵng gần như không có tin groomer trên TopCV — nếu bạn ở Đà Nẵng thì hỏi trực tiếp spa gần nhà và qua 3 trung tâm dạy grooming tại chỗ (RITDO PET, Phú Spa Academy, Alo and Pom). Ở Cần Thơ, tin tìm thấy gần nhất là Pet Zone tuyển 3 nhân viên pet shop (Vieclamtot, đăng 22/11/2026): thử việc 5 triệu, chính thức 5,5–6 triệu + doanh số, 18B Võ Thị Sáu, Ninh Kiều — đây là vị trí pet shop chung, không phải groomer riêng.
+Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026, trong đó Việc 2 và Việc 3 đã hết hạn ngay lúc tra cứu — tới ngày đăng 22/01/2027 thì gần như chắc chắn cả 3 tin đều không còn nộp được. Trước khi đăng, PHẢI tìm lại 3 tin đang mở sát ngày 22/01/2027 (cách tìm: vào TopCV, tìm "groomer", "grooming", "cắt tỉa thú cưng", lọc tin còn hạn sau 22/01/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm" hoặc "chấp nhận tay nghề còn yếu"; vào Vieclamtot, tìm "spa thú cưng", "chăm sóc thú cưng", lọc tin đăng trong 7 ngày gần nhất). Tin mới tìm thấy 23/11/2026 để kiểm tra lại: Vieclamtot tuyển CHUYÊN VIÊN SPA/CHĂM SÓC THÚ CƯNG (đăng 20/11/2026), không cần kinh nghiệm, đào tạo miễn phí — tin không ghi lương: https://www.vieclamtot.com/viec-lam-quan-1-tp-ho-chi-minh/135741870.htm?_ga=2.1795173762212.8628489.1795173746&ctfp=79514645-61e8-479c-a347-338d92f8c61e
+Ở Đà Nẵng gần như không có tin groomer trên TopCV (0 tin riêng Đà Nẵng ngày 23/11/2026, tra lại vẫn 0 tin) — đừng chỉ nộp đơn online. Tìm việc qua Facebook/Zalo và hỏi trực tiếp spa có tên cụ thể: Pet Mart Đà Nẵng; RITDO PET (21 Lý Tự Trọng, hotline 0898 222 215); Phú Spa Academy (184 Lý Tự Trọng); Alo and Pom Pet Grooming Academy (90/26 Nguyễn Văn Linh). Ở Cần Thơ cũng 0 tin groomer trên TopCV — hỏi trực tiếp Pet Zone (18B Võ Thị Sáu, Ninh Kiều; tin pet shop đăng 22/11/2026: thử việc 5 triệu, chính thức 5,5–6 triệu + doanh số — đây là vị trí pet shop chung, không phải groomer riêng) và các spa thú cưng gần nhà, theo dõi Group Facebook/Zalo yêu chó mèo Cần Thơ.
 
 ---
 
@@ -508,15 +546,15 @@ Follow để xem Tập 3.
 
 ## Lời thoại đầy đủ (148 từ)
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: cắt tỉa thú cưng. Mỗi ngày, anh ấy đón từng bé chó, bé mèo theo lịch hẹn. Tắm, sấy, chải lông, cắt tỉa theo giống, cắt móng, vệ sinh tai. Học cắt tỉa cơ bản mất khoảng 1 tới 2 tháng, có khóa 5 triệu, học xong cầm kéo đi làm được ngay. Dân IT có lợi thế riêng: đặt lịch online, lưu hồ sơ từng bé theo giống và tính nết, chụp ảnh trước và sau, nhắn nhắc lịch cắt lại đúng hẹn. Cái khó thì không né được: thú cưng cắn, cào, lông bay khắp phòng, có bé sợ tới mức không đứng yên. Bị layoff không có nghĩa là hết nghề. Bài đầy đủ ở bài ghim. Tuần sau: gia sư tiếng Anh."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 1–2 tháng là bắt đầu làm được, nhưng cắt đẹp theo giống thì cần thêm nhiều tháng làm thật: cắt tỉa thú cưng. Mỗi ngày, anh ấy đón từng bé chó, bé mèo theo lịch hẹn. Tắm, sấy, chải lông, cắt tỉa theo giống, cắt móng, vệ sinh tai. Học cắt tỉa cơ bản mất khoảng 1 tới 2 tháng, có khóa 5 triệu, học xong làm phụ tắm/sấy rồi mới học cắt trên thú thật. Dân IT có lợi thế riêng: đặt lịch online, lưu hồ sơ từng bé theo giống và tính nết, chụp ảnh trước và sau, nhắn nhắc lịch cắt lại đúng hẹn. Cái khó thì không né được: thú cưng cắn, cào, lông bay khắp phòng, có bé sợ tới mức không đứng yên. Bị layoff không có nghĩa là hết nghề. Bài đầy đủ ở bài ghim. Tuần sau: gia sư tiếng Anh."
 
 ## Bảng 2 cột: lời thoại | chữ trên màn hình | hình gợi ý
 
 | Đoạn | Thời gian | Lời thoại | Chữ trên màn hình | Hình gợi ý |
 |---|---|---|---|---|
-| 01 HOOK | 0–3s | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: cắt tỉa thú cưng. | "Dev bị layoff thì làm gì?" | Dev ôm thùng đồ ra khỏi văn phòng, bên cạnh là 1 bé Poodle trên bàn grooming |
+| 01 HOOK | 0–3s | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 1–2 tháng là bắt đầu làm được, nhưng cắt đẹp theo giống thì cần thêm nhiều tháng làm thật: cắt tỉa thú cưng. | "Dev bị layoff thì làm gì?" | Dev ôm thùng đồ ra khỏi văn phòng, bên cạnh là 1 bé Poodle trên bàn grooming |
 | 02 CONTEXT | 3–8s | Mỗi ngày, anh ấy đón từng bé chó, bé mèo theo lịch hẹn. Tắm, sấy, chải lông, cắt tỉa theo giống, cắt móng, vệ sinh tai. | "Tắm, sấy, cắt tỉa theo lịch hẹn" | Bàn grooming, vòi nước, máy sấy, kéo — từng bé chó, bé mèo xếp hàng theo lịch |
-| 03 VALUE 1 | 8–16s | Học cắt tỉa cơ bản mất khoảng 1 tới 2 tháng, có khóa 5 triệu, học xong cầm kéo đi làm được ngay. | "Học 1–2 tháng, khóa 5 triệu" | Lịch 2 tháng + tờ tiền 5 triệu + cây kéo |
+| 03 VALUE 1 | 8–16s | Học cắt tỉa cơ bản mất khoảng 1 tới 2 tháng, có khóa 5 triệu, học xong làm phụ tắm/sấy rồi mới học cắt trên thú thật. | "Học 1–2 tháng, khóa 5 triệu" | Lịch 2 tháng + tờ tiền 5 triệu + cây kéo |
 | 04 VALUE 2 | 16–26s | Dân IT có lợi thế riêng: đặt lịch online, lưu hồ sơ từng bé theo giống và tính nết, chụp ảnh trước và sau, nhắn nhắc lịch cắt lại đúng hẹn. | "Lịch online — hồ sơ từng bé — ảnh trước/sau" | Điện thoại hiện lịch hẹn + hồ sơ bé Poodle + 2 tấm ảnh trước/sau |
 | 05 VALUE 3 | 26–32s | Cái khó thì không né được: thú cưng cắn, cào, lông bay khắp phòng, có bé sợ tới mức không đứng yên. | "Cắn, cào, lông bay khắp phòng" | Bé mèo giãy trên bàn, lông bay khắp phòng |
 | 06 PAYOFF + CTA | 32–45s | Bị layoff không có nghĩa là hết nghề. Bài đầy đủ ở bài ghim. Tuần sau: gia sư tiếng Anh. | "Bị layoff không có nghĩa là hết nghề" | Bé Poodle sau khi cắt xong, gọn gàng, ngồi cạnh chữ CTA |
@@ -638,7 +676,7 @@ Comment câu hỏi của bạn, tuần sau mình trả lời tiếp.
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Ở Hà Nội, khóa cắt tỉa 1 tới 2 tháng, khoảng 5 triệu, có chỗ 10 triệu. Xuống Đà Nẵng, cũng có khóa 5 triệu, 3 trung tâm dạy nghề chưa ghi học phí công khai. Vào Sài Gòn, khóa cơ bản 15 triệu 30 buổi. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong là cầm kéo đi làm được ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Ở Hà Nội, khóa cắt tỉa 1 tới 2 tháng, khoảng 5 triệu, có chỗ 10 triệu. Xuống Đà Nẵng, cũng có khóa 5 triệu, 3 trung tâm dạy nghề chưa ghi học phí công khai. Vào Sài Gòn, khóa cơ bản 15 triệu 30 buổi. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong cầm kéo cắt được bé đơn giản có người kèm, cắt độc lập theo giống thì cần thêm nhiều tháng làm thật. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 

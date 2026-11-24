@@ -25,7 +25,7 @@
 
 [Hình: cận cảnh tay groomer cắt tỉa lông cho 1 bé Poodle trên bàn, lông rơi xuống bàn. Chữ trên màn hình: "Chó nhà khách sủa ầm lên, lông rối thành cục"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: cắt tỉa thú cưng. Chó nhà khách sủa ầm lên, lông rối thành cục, chủ thì sắp Tết rồi, muốn bé đẹp đón Tết. Groomer đón bé, tắm, sấy, cắt tỉa, 2 tiếng rưỡi sau giao lại 1 bé sạch sẽ, gọn gàng. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 1–2 tháng là bắt đầu làm được, nhưng cắt đẹp theo giống thì cần thêm nhiều tháng làm thật: cắt tỉa thú cưng. Chó nhà khách sủa ầm lên, lông rối thành cục, chủ thì sắp Tết rồi, muốn bé đẹp đón Tết. Groomer đón bé, tắm, sấy, cắt tỉa, 2 tiếng rưỡi sau giao lại 1 bé sạch sẽ, gọn gàng. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30–2:00 — Nghề này là gì, 1 ngày làm việc thật
 
@@ -83,7 +83,7 @@ Về nhu cầu theo thành phố, tra ngày 23/11: Hà Nội và TP.HCM tuyển 
 
 ### 9:30–10:00 — Checklist 5 việc + CTA
 
-"Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới.
+"Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới. Nhưng trước khi đóng học phí khóa cắt tỉa 5 tới 15 triệu, xin làm thợ phụ tắm/sấy ở spa 1 tới 2 tuần thử trước đã — xem mình có chịu được lông bay, nước bắn, tiếng sủa cả ngày không. Học xong khóa 1 tới 2 tháng chỉ cắt được bé đơn giản có người kèm, cắt đẹp theo giống cần thêm nhiều tháng làm thật.
 
 Học cách giữ thú cưng an toàn trước khi đụng vào kéo. Liệt kê 5 spa thú cưng hoặc phòng khám thú y có dịch vụ spa gần nhà. Đi xin làm thợ phụ tắm/sấy ở 2–3 chỗ, hỏi rõ phụ cấp và ai kèm mình. Bắt đầu ghi sổ tình huống: mỗi tình huống gặp trong ngày ghi lại 1 dòng và cách xử lý. Và làm 1 file hồ sơ từng bé trên điện thoại: tên, giống, cân nặng, tính nết, ngày hẹn cắt lại.
 

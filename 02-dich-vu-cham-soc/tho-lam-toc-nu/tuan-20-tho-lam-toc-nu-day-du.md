@@ -10,11 +10,11 @@
 
 ## Mục lục
 
-1. [Lịch tuần 20 - 7 ngày, 15 bài](#1-lịch-tuần-20--7-ngày-15-bài)
+1. [Lịch tuần 20 - 7 ngày, 15 bài](#1-lịch-tuần-20---7-ngày-15-bài)
 2. [Nghiên cứu thị trường tóm tắt](#2-nghiên-cứu-thị-trường-tóm-tắt)
-3. [YouTube - Script video dài Thứ 2](#3-youtube--script-video-dài-thứ-2)
-4. [Facebook - 6 bài](#4-facebook--6-bài)
-5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok--8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
+3. [YouTube - Script video dài Thứ 2](#3-youtube---script-video-dài-thứ-2)
+4. [Facebook - 6 bài](#4-facebook---6-bài)
+5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok---8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
 6. [Checklist 30 ngày đầu](#6-checklist-30-ngày-đầu)
 7. [Lưu ý trước khi đăng](#7-lưu-ý-trước-khi-đăng)
 
@@ -61,7 +61,7 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 | Thành phố | Vieclamtot (tin tìm thấy) | TopCV (tin tìm thấy) | Nguồn địa phương / khác | Lương phổ biến thợ tóc nữ |
 |---|---|---|---|---|
 | Hà Nội | 5 tin | 2 tin tóc nữ + 1 tin chuỗi | THE CUT STATION Cầu Giấy 11–20tr | Thợ chính 11–20tr; phụ nữ: Chưa có số liệu riêng |
-| TP.HCM | 112 tin | 30Shine tuyển cả HCM | Nhiều tin salon Q.1, Q.3, Bình Tân, Bình Chánh, Thủ Đức, Gò Vấp | Phụ 5,5–15tr; chính 15–40tr (SUSI); thợ nữ uốn nhuộm TB 12,9tr |
+| TP.HCM | 112 tin | 30Shine tuyển cả HCM | Nhiều tin salon Q.1, Q.3, Bình Tân, Bình Chánh, Thủ Đức, Gò Vấp | Phụ 5,5–20tr (Allie 5,5–6tr cứng, salon Q.3 10–15tr, A NEW DAY 15–20tr); chính 15–40tr (SUSI — chưa kiểm chứng); thợ nữ uốn nhuộm TB 12,9tr |
 | Đà Nẵng | 12 tin (cập nhật 21/11/2026) | 30Shine tuyển cả ĐN | Muaban: học việc 3–5tr, phụ 5–8tr, chính 8–15tr | Chính 8–15tr; phụ 5–8tr (bảng tham khảo Muaban) |
 | Cần Thơ | 11 tin (cập nhật 17/11/2026) | 0 tin riêng Cần Thơ | Sài Gòn Hair dạy nghề miễn phí | Chưa có số liệu riêng — tin lẻ ít, hỏi trực tiếp salon |
 
@@ -84,6 +84,36 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 - Học viên / học việc (gội, dọn, phụ việc): phụ cấp 0–4 triệu/tháng, có nơi bao ăn (Nambin, tham khảo 2026); Vieclamtot ghi học viên 6–12 triệu, trung bình 9,3 triệu (chỉ tham khảo); Muaban Đà Nẵng ghi học việc 3–5 triệu (tham khảo).
 - Thợ phụ tóc nữ (gội sấy, phụ hóa chất): **5,5–6 triệu lương cứng + 5% hóa chất + tip** (Allie, Bình Chánh), **9 triệu + 5% hóa chất + tip** (Ivy, Quận 1), **10–15 triệu** (salon quận 3), **15–20 triệu, cơ bản 9 triệu + tip + hoa hồng** (A NEW DAY, Thảo Điền); Vieclamtot ghi thợ phụ 8,5–12,5 triệu, trung bình 10,6 triệu (chỉ tham khảo).
 - Thợ chính tóc nữ (tự cắt, uốn, nhuộm một màu): **11–20 triệu, bao lương 11 triệu** (THE CUT STATION, Cầu Giấy — chuyên cắt, không làm hóa chất), **7–9 triệu cứng + 10% hóa chất + tip 100%** (Allie, Bình Chánh); Vieclamtot ghi thợ nữ uốn nhuộm 10–14 triệu, trung bình 12,9 triệu (chỉ tham khảo).
+- Thợ phụ: **5,5–20 triệu theo tin thật** (lương cứng 5,5–9 triệu + % hóa chất + tip; salon Thảo Điền 15–20tr, Bình Chánh 5,5–6tr cứng — chênh nhau theo khu vực salon; trung bình Vieclamtot 10,6 triệu chỉ tham khảo).
+
+### Lộ trình học theo tuần/tháng (tóm tắt mục 6 file nghiên cứu)
+
+- Tuần đầu: học an toàn hóa chất và thử dị ứng 48 giờ, học phân biệt tóc và bảng màu, liệt kê 5 salon gần nhà, xin làm thợ phụ ở 2–3 chỗ.
+- Tháng 1–3: gội sấy, phụ hóa chất, cắt đơn giản có người kèm. Tháng 3–6: gội sấy cứng tay, phụ ca uốn nhuộm có người kèm. Tháng 9–12: làm độc lập dịch vụ cơ bản, tự cắt và nhuộm một màu. Sau 1,5–3 năm: thợ chính, nhận ca khó, có khách quen.
+- Học xong khóa 3–6 tháng chỉ làm thợ phụ có người kèm — không phải cầm kéo là đi làm độc lập được ngay.
+
+### Thử nghề (tóm tắt mục 7 file nghiên cứu)
+
+- Xin làm thợ phụ ở salon 1–2 tuần trước khi đóng học phí khóa 10–25 triệu — xem mình có chịu được mùi hóa chất, đứng cả ngày, tay chạm thuốc nhuộm mỗi ngày không. Học thử miễn phí: Chưa có số liệu.
+- Thử dị ứng 48 giờ trước khi cầm chén thuốc (thoa thuốc nhuộm lên da sau tai hoặc mặt trong khuỷu tay, quan sát 48 giờ).
+- Tiếp tục nếu: chịu được mùi hóa chất, đứng cả ngày; gội/sấy được 1 khách có người kèm; không dị ứng PPD; chi phí khóa 10–25 triệu trong khả năng. Dừng lại nếu: dị ứng PPD hoặc da tay nhạy cảm với hóa chất tới mức không làm nổi 1 ca; không chịu được mùi hóa chất. Đánh giá sau 1–2 tuần làm phụ và sau 3–6 tháng.
+
+### Pháp lý cần biết (tóm tắt mục 9 file nghiên cứu)
+
+- Cắt/uốn/nhuộm/gội thông thường KHÔNG phải ngành có điều kiện, không bắt buộc chứng chỉ hành nghề. Mở salon phải đăng ký hộ kinh doanh mã 9621 (QĐ 36/2025/QĐ-TTg, thay mã cũ 9631) hoặc thành lập công ty.
+- Có massage/gội dưỡng sinh kèm massage thì cần giấy chứng nhận đủ điều kiện về an ninh, trật tự (NĐ 96/2016/NĐ-CP). Thẩm mỹ can thiệp cơ thể (tiêm filler, phun xăm) từ 15/3/2026 thuộc diện ANTT theo NĐ 58/2026/NĐ-CP.
+- Chứng chỉ học nghề hữu ích tạo uy tín nhưng không bắt buộc; quy định bắt buộc chứng chỉ hành nghề: Chưa có số liệu.
+
+### Chi phí khởi điểm (tóm tắt mục 10 file nghiên cứu)
+
+- Dụng cụ: bộ dụng cụ tối thiểu khoảng 4,2 triệu (khoảng 3–7 triệu, Nambin); mở salon riêng (ghế, bồn gội, thuốc, mặt bằng): Chưa có số liệu.
+- Học phí: 0đ (học việc tại salon) hoặc khóa trọn gói 10–25 triệu (Tuấn Kọt 16tr/6 tháng; Seoul 10–20tr/3–6 tháng; A Vòong 25tr/3–5 tháng; Seoul ĐN cơ bản 10tr, nâng cao 16tr); Sài Gòn Hair Cần Thơ dạy nghề miễn phí 1–2 tháng cho nữ.
+- Dự phòng 2 tháng: Chưa có số liệu. Tổng đi làm thuê: khoảng 4,2 triệu + học phí 0–25 triệu; mở salon riêng: chưa chốt được con số.
+
+### Kết luận (tóm tắt mục 8 file nghiên cứu)
+
+- Ưu điểm: thợ phụ không cần kinh nghiệm, vừa làm vừa học; khách quen quay lại dặm chân tóc theo chu kỳ; AI không cầm kéo được; lợi thế IT thật (đọc bảng màu, quản lý lịch, ảnh trước/sau, nhắc khách). Nhược điểm: dị ứng PPD, thử dị ứng 48 giờ bắt buộc; học xong khóa chỉ làm thợ phụ — độc lập sau 9–12 tháng, thợ chính sau 1,5–3 năm; lương phụ chênh nhau nhiều theo khu vực salon; tin tuyển ít ở Đà Nẵng và Cần Thơ.
+- Ai nên thử: người khéo tay, kiên nhẫn, chịu được mùi hóa chất và đứng cả ngày. Ai không nên thử: người dị ứng PPD hoặc da tay nhạy cảm với hóa chất, muốn thu nhập ổn định ngay tháng đầu.
 - Thợ chính lành nghề (màu thời trang, khách quen): **15–40 triệu trở lên, 18–20% doanh thu + tip** (SUSI, Bình Tân — con số trong tin tuyển của một salon lớn, chưa kiểm chứng, không dùng làm số chính).
 - % hóa chất trong tin thật: Allie chính 10% / phụ 5%; Ivy phụ 5%; SUSI stylist 18–20% doanh thu; Lê Hiếu phụ lương cứng + % doanh thu + % hóa chất + 100% tip (không ghi con số %).
 - Số cũ trong pool: thu nhập VN "No data". So sánh Mỹ (chỉ để so sánh, không dùng làm thu nhập VN): BLS 5/2024, nhóm thợ tóc median 35.420 USD/năm.
@@ -96,6 +126,11 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 - Mùa vụ: trước Tết và mùa cưới salon đông gấp nhiều lần. Tháng 4 đã qua cao điểm Tết.
 - Thu nhập không đều: lương cứng chỉ là một phần, còn lại là % hóa chất, % bán sản phẩm và tip.
 - Không có chuyện "chắc chắn có việc" hay "làm giàu nhanh".
+
+### Nguồn tham khảo (tóm tắt mục 11 file nghiên cứu)
+
+- Đầy đủ trong file nghiên cứu mục 11: tin tuyển, lộ trình học/học phí, pháp lý mở salon, nguồn chưa kiểm chứng — mỗi nguồn có link + ngày truy cập 23/11/2026 + loại nguồn + mức tin cậy.
+
 
 
 ## 3. YouTube - Script video dài Thứ 2
@@ -126,7 +161,7 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 
 [Hình: cận cảnh tay thợ chải thuốc nhuộm lên lọn tóc dài, màu nâu lên dần. Chữ trên màn hình: "Nhuộm sai màu, khách soi gương là thấy ngay"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: thợ làm tóc nữ. Khách nữ ngồi xuống ghế, đưa ảnh một màu tóc trên điện thoại, hỏi: làm được màu này không? Thợ nhìn tóc khách, nhìn ảnh, rồi nói: được, nhưng tóc bạn đã nhuộm rồi, phải tẩy nhẹ trước. Một câu mà biết ngay tay nghề. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng mới làm phụ cứng tay, còn cắt nhuộm độc lập thì cần 9–12 tháng: thợ làm tóc nữ. Khách nữ ngồi xuống ghế, đưa ảnh một màu tóc trên điện thoại, hỏi: làm được màu này không? Thợ nhìn tóc khách, nhìn ảnh, rồi nói: được, nhưng tóc bạn đã nhuộm rồi, phải tẩy nhẹ trước. Một câu mà biết ngay tay nghề. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30-2:00 - Nghề này là gì, 1 ngày làm việc thật
 
@@ -168,7 +203,7 @@ Còn học ở đâu thì có 3 đường đi. Nhanh nhất là xin làm thợ p
 
 ### 7:00-8:30 - Career path + tìm việc, tìm khách ở đâu
 
-"Đường đi thường là như thế này. 0–3 tháng đầu: học và làm phụ, gội sấy, phụ hóa chất, thu nhập thợ phụ khoảng 5,5–10 triệu một tháng. 3–6 tháng: gội sấy cứng tay, bắt đầu phụ ca uốn nhuộm có người kèm. 9–12 tháng: làm độc lập dịch vụ cơ bản, tự cắt và nhuộm một màu, thu nhập khoảng 10–15 triệu. Sau 1,5–3 năm: lên thợ chính, nhận ca khó, có khách quen, thu nhập thêm % hóa chất và tip. Sau đó nữa: có người mở salon nhỏ hoặc dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+"Đường đi thường là như thế này. 0–3 tháng đầu: học và làm phụ, gội sấy, phụ hóa chất, thu nhập thợ phụ khoảng 5,5–20 triệu một tháng theo tin thật (lương cứng 5,5–9 triệu cộng thêm % hóa chất và tip; salon Thảo Điền 15–20 triệu, Bình Chánh 5,5–6 triệu cứng — chênh nhau theo khu vực salon). 3–6 tháng: gội sấy cứng tay, bắt đầu phụ ca uốn nhuộm có người kèm. 9–12 tháng: làm độc lập dịch vụ cơ bản, tự cắt và nhuộm một màu, thu nhập khoảng 10–15 triệu. Sau 1,5–3 năm: lên thợ chính, nhận ca khó, có khách quen, thu nhập thêm % hóa chất và tip. Sau đó nữa: có người mở salon nhỏ hoặc dạy lại cho thợ mới. Mốc thời gian này là ước lượng, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 Tìm việc đầu tiên ở đâu? Có 3 chỗ để bắt đầu. Xin làm thợ phụ cho salon tóc nữ gần nhà, tìm trên Google Maps và Group cư dân khu vực. Nộp đơn lên Vieclamtot: ngày 23/11 mình đếm thấy có nhiều tin tuyển thợ phụ nữ, có nơi ghi được đào tạo khi mới vào làm. Khi đã cứng tay thì đăng ảnh trước và sau lên TikTok, Facebook theo quận mình làm, để khách khu vực biết bạn. Đừng nhận ca hóa chất khi chưa cứng tay. Làm hỏng tóc khách nữ, khách không quay lại nữa."
 
@@ -208,7 +243,7 @@ Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau m
 - Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026)
 - Giọng: nói với "bạn", không liệt kê Một/Hai/Ba, không bịa số liệu
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: thợ làm tóc nữ.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng mới làm phụ cứng tay, còn cắt nhuộm độc lập thì cần 9–12 tháng: thợ làm tóc nữ.
 
 Khách nữ ngồi xuống ghế, đưa ảnh một màu tóc trên điện thoại, hỏi: làm được màu này không? Thợ nhìn tóc khách, nhìn ảnh, rồi nói: được, nhưng tóc bạn đã nhuộm rồi, phải tẩy nhẹ trước. Một câu mà biết ngay tay nghề. Bài này nói hết về nghề thợ làm tóc nữ ở salon: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
@@ -256,7 +291,7 @@ Còn học ở đâu thì có 3 đường đi.
 
 **Career path**
 
-0–3 tháng đầu, bạn học và làm phụ, gội sấy, phụ hóa chất, thu nhập thợ phụ khoảng 5,5–10 triệu một tháng. 3–6 tháng thì gội sấy cứng tay, bắt đầu phụ ca uốn nhuộm có người kèm. 9–12 tháng, làm độc lập dịch vụ cơ bản, tự cắt và nhuộm một màu, thu nhập khoảng 10–15 triệu. Sau 1,5–3 năm, lên thợ chính, nhận ca khó, có khách quen, thu nhập thêm % hóa chất và tip. Sau đó nữa, có người mở salon nhỏ hoặc dạy lại cho thợ mới. Mấy mốc này là ước lượng thôi, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+0–3 tháng đầu, bạn học và làm phụ, gội sấy, phụ hóa chất, thu nhập thợ phụ khoảng 5,5–20 triệu một tháng theo tin thật (lương cứng 5,5–9 triệu cộng thêm % hóa chất và tip; salon Thảo Điền 15–20 triệu, Bình Chánh 5,5–6 triệu cứng — chênh nhau theo khu vực salon). 3–6 tháng thì gội sấy cứng tay, bắt đầu phụ ca uốn nhuộm có người kèm. 9–12 tháng, làm độc lập dịch vụ cơ bản, tự cắt và nhuộm một màu, thu nhập khoảng 10–15 triệu. Sau 1,5–3 năm, lên thợ chính, nhận ca khó, có khách quen, thu nhập thêm % hóa chất và tip. Sau đó nữa, có người mở salon nhỏ hoặc dạy lại cho thợ mới. Mấy mốc này là ước lượng thôi, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
 
 **Tìm việc, tìm khách đầu tiên ở đâu**
 
@@ -333,14 +368,14 @@ Mẹo này giữ được khách quen mà không tốn tiền quảng cáo. Khá
 
 ## 3 việc thật đang tuyển thợ làm tóc nữ
 
-### Việc 1: 10 Stylist + 10 Thợ phụ làm tóc - TP.HCM (tuyển 20 người)
+### Việc 1: Thợ chính + Thợ phụ + Gội dưỡng sinh - TP.HCM
 
-- Salon: SUSI HAIR SALON, 230 đường Tên Lửa, Quận Bình Tân, TP.HCM
-- Lương: stylist (thợ chính) thu nhập 15–40 triệu/tháng trở lên, 18–20% doanh thu + tip + thưởng, biết quay chụp là lợi thế; thợ phụ (technician) lương cứng + % + tiền gội + % sản phẩm + thưởng + tip (tin không ghi con số lương cứng cụ thể cho thợ phụ)
-- Ngày thấy tin: 23/11/2026 (Vieclamtot, tin đăng 16/11/2026, tổng hợp từ bài đăng Facebook Group)
-- Link: https://www.vieclamtot.com/viec-lam-quan-binh-tan-tp-ho-chi-minh/135876129.htm
-- Hợp với bạn nếu: bạn đã biết cắt, uốn, nhuộm và muốn thu nhập theo % doanh thu, không chỉ lương cứng. Mức 15–40 triệu là con số trong tin tuyển của salon này, chưa kiểm chứng, đừng lấy làm mức chung.
-
+- Salon: Allie Hair Salon, Block C1, Shophouse Westgate, Tân Túc, Bình Chánh, TP.HCM
+- Lương: thợ chính lương cơ bản 7–9 triệu + hoa hồng uốn, duỗi, nhuộm 10% + tip 100%; thợ phụ lương cơ bản 5,5–6 triệu + hoa hồng uốn, duỗi, nhuộm 5%; gội dưỡng sinh 20%, headspa 10%; tháng nghỉ 4 ngày, thưởng Tết
+- Thời gian: 9h–19h50
+- Ngày thấy tin: 23/11/2026 (Vieclamtot, tin đăng 22/11/2026)
+- Link: https://www.vieclamtot.com/viec-lam-huyen-binh-chanh-tp-ho-chi-minh/135949091.htm
+- Hợp với bạn nếu: bạn là người mới chuyển nghề, chưa biết việc - nộp vị trí thợ phụ, lương cứng 5,5–6 triệu cộng thêm % hóa chất và tip, vừa làm vừa học.
 ### Việc 2: Thợ chính cắt tóc nam–nữ - Hà Nội (không làm hóa chất)
 
 - Salon: THE CUT STATION, Phố Trần Thái Tông, Cầu Giấy, Hà Nội
@@ -350,16 +385,17 @@ Mẹo này giữ được khách quen mà không tốn tiền quảng cáo. Khá
 - Link: https://www.vieclamtot.com/viec-lam-quan-cau-giay-ha-noi/135856940.htm
 - Hợp với bạn nếu: bạn ở Hà Nội, đã cắt cứng tay và muốn tránh hẳn thuốc uốn/nhuộm. Tin này tuyển cả nam và nữ, hợp với người mới chuyển nghề mà da tay nhạy cảm với hóa chất.
 
-### Việc 3: Thợ chính + Thợ phụ + Gội dưỡng sinh - TP.HCM
+### Việc 3: 10 Stylist + 10 Thợ phụ làm tóc - TP.HCM (tuyển 20 người)
 
-- Salon: Allie Hair Salon, Block C1, Shophouse Westgate, Tân Túc, Bình Chánh, TP.HCM
-- Lương: thợ chính lương cơ bản 7–9 triệu + hoa hồng uốn, duỗi, nhuộm 10% + tip 100%; thợ phụ lương cơ bản 5,5–6 triệu + hoa hồng uốn, duỗi, nhuộm 5%; gội dưỡng sinh 20%, headspa 10%; tháng nghỉ 4 ngày, thưởng Tết
-- Thời gian: 9h–19h50
-- Ngày thấy tin: 23/11/2026 (Vieclamtot, tin đăng 22/11/2026)
-- Link: https://www.vieclamtot.com/viec-lam-huyen-binh-chanh-tp-ho-chi-minh/135949091.htm
-- Hợp với bạn nếu: bạn là người mới chuyển nghề, chưa biết việc - nộp vị trí thợ phụ, lương cứng 5,5–6 triệu cộng thêm % hóa chất và tip, vừa làm vừa học.
+- Salon: SUSI HAIR SALON, 230 đường Tên Lửa, Quận Bình Tân, TP.HCM
+- Lương: stylist (thợ chính) thu nhập 15–40 triệu/tháng trở lên, 18–20% doanh thu + tip + thưởng, biết quay chụp là lợi thế; thợ phụ (technician) lương cứng + % + tiền gội + % sản phẩm + thưởng + tip (tin không ghi con số lương cứng cụ thể cho thợ phụ)
+- Ngày thấy tin: 23/11/2026 (Vieclamtot, tin đăng 16/11/2026, tổng hợp từ bài đăng Facebook Group)
+- Link: https://www.vieclamtot.com/viec-lam-quan-binh-tan-tp-ho-chi-minh/135876129.htm
+- Lưu ý: tin này đứng cuối vì mức lương 15–40 triệu chưa kiểm chứng — ưu tiên nộp Việc 1 (Allie) và Việc 2 (CUT STATION) trước.
+- Hợp với bạn nếu: bạn đã biết cắt, uốn, nhuộm và muốn thu nhập theo % doanh thu, không chỉ lương cứng. Mức 15–40 triệu là con số trong tin tuyển của salon này, chưa kiểm chứng, đừng lấy làm mức chung.
 
-3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 16/04/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên Vieclamtot, không đăng tin hết hạn.
+
+Tin tuyển tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 16/04/2027 — PHẢI tra lại sát ngày đăng. 3 tin trên là tin tìm thấy ngày 23/11/2026 (đăng 16–22/11/2026, không ghi hạn nộp); tới ngày đăng 16/04/2027 đã qua gần 5 tháng — kiểm tra lại từng link trước khi đăng. Tin nào hết hạn thì thay bằng tin đang mở trên Vieclamtot (tìm "thợ làm tóc nữ", "thợ phụ salon", lọc tin đăng trong 7 ngày gần nhất, còn hạn sau 16/04/2027), không đăng tin hết hạn.
 
 Ở Đà Nẵng, bảng tham khảo của Muaban.net (tháng 11/2026) ghi thợ chính 8–15 triệu, thợ phụ 5–8 triệu, học việc 3–5 triệu — nhưng đây là bảng tổng hợp, không phải tin tuyển riêng lẻ. Bạn ở Đà Nẵng thì tìm việc qua Vieclamtot (hơn 10 tin thợ cắt tóc, cập nhật 21/11/2026) và hỏi trực tiếp salon gần nhà.
 
@@ -422,7 +458,7 @@ Lưu carousel này lại, comment "checklist" để nhận file checklist 30 ng�
 - Đăng: Thứ 7 17/04/2027, Facebook (bài ngắn cuối tuần)
 - Giọng: nói với "bạn", không bịa số liệu
 
-Tuần này mình nói về nghề thợ làm tóc nữ. Làm gì mỗi ngày, ai hợp ai không hợp, học ở đâu bao lâu. Lương thợ phụ khoảng 5,5–10 triệu, thợ chính khoảng 10–15 triệu, cộng thêm % hóa chất và tip. Và một sự thật là nghề này chạm vào hóa chất mỗi ngày: thuốc nhuộm, thuốc uốn, thử dị ứng 48 giờ là việc bắt buộc trước khi nhuộm. Bài đầy đủ 8 mục vẫn ở bài ghim, bạn nào chưa đọc thì đọc lại cuối tuần này.
+Tuần này mình nói về nghề thợ làm tóc nữ. Làm gì mỗi ngày, ai hợp ai không hợp, học ở đâu bao lâu. Lương thợ phụ khoảng 5,5–20 triệu theo tin thật (lương cứng 5,5–9 triệu + % hóa chất + tip; Thảo Điền 15–20 triệu, Bình Chánh 5,5–6 triệu cứng), thợ chính khoảng 10–15 triệu, cộng thêm % hóa chất và tip. Và một sự thật là nghề này chạm vào hóa chất mỗi ngày: thuốc nhuộm, thuốc uốn, thử dị ứng 48 giờ là việc bắt buộc trước khi nhuộm. Bài đầy đủ 8 mục vẫn ở bài ghim, bạn nào chưa đọc thì đọc lại cuối tuần này.
 
 Tuần sau mình nói về 1 nghề mà cả con phố thơm mùi bơ và bột mỗi sáng: thợ làm bánh. Bánh mì, bánh ngọt, bánh cưới. Bạn đoán thợ làm bánh dậy từ mấy giờ để kịp mẻ bánh đầu tiên?
 
@@ -445,7 +481,7 @@ Thử dị ứng là thoa một ít thuốc nhuộm lên vùng da nhỏ sau tai 
 
 **Nam làm tóc nữ được không?**
 
-Được. Tin tuyển thợ phụ nữ có ghi giới tính nữ, nhưng tin tuyển thợ chính thì nhiều nơi ghi nam hoặc nữ đều được. THE CUT STATION ở Cầu Giấy tuyển thợ chính cắt tóc nam–nữ, không ghi giới tính. Salon Lê Hiếu tuyển nữ thợ phụ, còn nhiều salon khác tuyển không phân biệt giới tính. Khách nữ quan tâm tay nghề và cách tư vấn, không quan tâm thợ là nam hay nữ. Bạn là nam mà muốn làm tóc nữ thì xin làm thợ phụ ở salon tuyển không phân biệt giới tính, đừng nộp vào tin ghi rõ chỉ tuyển nữ.
+Được. Nhiều tin tuyển ghi rõ chỉ tuyển nữ thợ phụ — salon quận 3 tuyển phụ nữ 18–35 tuổi; salon Ivy Quận 1 tuyển phụ nữ; Lê Hiếu tuyển nữ 20–37 tuổi; Sài Gòn Hair Cần Thơ tuyển 2 bạn nữ — đừng nộp vào những tin này nếu bạn là nam. Nhưng cũng có tin không ghi giới tính: Allie Bình Chánh tuyển thợ chính, thợ phụ, gội dưỡng sinh không ghi giới tính; A NEW DAY Thảo Điền tuyển thợ phụ 15–20 triệu không ghi giới tính. Bạn là nam thì xin làm thợ phụ ở salon tuyển không ghi giới tính, đừng nộp vào tin ghi rõ chỉ tuyển nữ. Khách nữ quan tâm tay nghề và cách tư vấn, không quan tâm thợ là nam hay nữ.
 
 **Không biết gì về hóa chất, có học được không?**
 
@@ -594,11 +630,11 @@ Comment nghề bạn muốn nghe tuần sau: thợ làm bánh.
 - Đăng: Chủ nhật 18/04/2027, TikTok
 - Thời lượng: 30 giây
 - Viết dạng truyện nhiều tập: câu hook chung "Dev bị layoff thì làm gì?" + số tập, nhân vật "anh ấy" tiếp nối Tập 5
-- Giọng: ngôi thứ ba "anh ấy", không bịa số liệu (tin tuyển THE CUT STATION Cầu Giấy tuyển thợ chính cắt tóc nam–nữ, Vieclamtot 20/11/2026)
+- Giọng: ngôi thứ ba "anh ấy", không bịa số liệu (tin tuyển Allie Bình Chánh và A NEW DAY Thảo Điền không ghi giới tính, Vieclamtot 21–22/11/2026)
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 6, tập cuối tuần này. Có bạn comment: em là nam, làm tóc nữ được không? Anh ấy cũng từng hỏi câu đó. Salon thì có nơi chỉ tuyển nữ thợ phụ, nhưng thợ chính thì nhiều nơi tuyển nam nữ đều được. Có salon ở Cầu Giấy tuyển thợ chính cắt tóc nam nữ, không ghi giới tính. Khách nữ quan tâm tay nghề và cách tư vấn, không quan tâm thợ là nam hay nữ. Học nghề tóc nữ ở đâu, học phí bao nhiêu? Tập 7 ngoại truyện, tối nay 20 giờ."
+"Dev bị layoff thì làm gì? Tập 6, tập cuối tuần này. Có bạn comment: em là nam, làm tóc nữ được không? Anh ấy cũng từng hỏi câu đó. Salon thì có nơi chỉ tuyển nữ thợ phụ, nhưng thợ chính thì nhiều nơi tuyển nam nữ đều được. Có salon ở Bình Chánh và Thảo Điền tuyển thợ phụ không ghi giới tính. Khách nữ quan tâm tay nghề và cách tư vấn, không quan tâm thợ là nam hay nữ. Học nghề tóc nữ ở đâu, học phí bao nhiêu? Tập 7 ngoại truyện, tối nay 20 giờ."
 
 ## Chữ trên màn hình
 
@@ -622,7 +658,7 @@ Comment câu hỏi của bạn, tuần sau mình trả lời tiếp. Tối nay 2
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề tóc nữ. Hà Nội thì khóa chuyên nữ 6 tháng khoảng 16 triệu. Đà Nẵng, khóa cơ bản 3 tháng, 10 triệu. Còn Sài Gòn, khóa 3 tới 6 tháng khoảng 10 tới 20 triệu, có chỗ trọn gói 25 triệu. Ba miền, giá khác nhau. Nhưng học xong khóa nào cũng cầm kéo đi làm được ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề tóc nữ. Hà Nội thì khóa chuyên nữ 6 tháng khoảng 16 triệu. Đà Nẵng, khóa cơ bản 3 tháng, 10 triệu. Còn Sài Gòn, khóa 3 tới 6 tháng khoảng 10 tới 20 triệu, có chỗ trọn gói 25 triệu. Ba miền, giá khác nhau. Nhưng học xong khóa nào cũng chỉ làm thợ phụ có người kèm — làm độc lập dịch vụ cơ bản sau 9–12 tháng, thợ chính sau 1,5–3 năm. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 

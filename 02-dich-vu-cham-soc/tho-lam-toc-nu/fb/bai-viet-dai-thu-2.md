@@ -6,7 +6,7 @@
 - Giọng: nói với "bạn", không liệt kê Một/Hai/Ba, không bịa số liệu
 - Phân biệt với tuần 6 (thợ cắt tóc nam / barber): tuần này là tóc nữ — uốn, nhuộm, duỗi, phục hồi, thử dị ứng 48 giờ
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: thợ làm tóc nữ.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng mới làm phụ cứng tay, còn cắt nhuộm độc lập thì cần 9–12 tháng: thợ làm tóc nữ.
 
 Khách nữ ngồi xuống ghế, đưa ảnh một màu tóc trên điện thoại, hỏi: làm được màu này không? Thợ nhìn tóc khách, nhìn ảnh, rồi nói: được, nhưng tóc bạn đã nhuộm rồi, phải tẩy nhẹ trước. Một câu mà biết ngay tay nghề. Bài này nói hết về nghề thợ làm tóc nữ ở salon: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
@@ -54,7 +54,13 @@ Còn học ở đâu thì có 3 đường đi.
 
 **Career path**
 
-0–3 tháng đầu, bạn học và làm phụ, gội sấy, phụ hóa chất, thu nhập thợ phụ khoảng 5,5–10 triệu một tháng. 3–6 tháng thì gội sấy cứng tay, bắt đầu phụ ca uốn nhuộm có người kèm. 9–12 tháng, làm độc lập dịch vụ cơ bản, tự cắt và nhuộm một màu, thu nhập khoảng 10–15 triệu. Sau 1,5–3 năm, lên thợ chính, nhận ca khó, có khách quen, thu nhập thêm % hóa chất và tip. Sau đó nữa, có người mở salon nhỏ hoặc dạy lại cho thợ mới. Mấy mốc này là ước lượng thôi, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+0–3 tháng đầu, bạn học và làm phụ, gội sấy, phụ hóa chất, thu nhập thợ phụ khoảng 5,5–20 triệu một tháng theo tin thật (lương cứng 5,5–9 triệu cộng thêm % hóa chất và tip; salon Thảo Điền 15–20 triệu, Bình Chánh 5,5–6 triệu cứng — chênh nhau theo khu vực salon). 3–6 tháng thì gội sấy cứng tay, bắt đầu phụ ca uốn nhuộm có người kèm. 9–12 tháng, làm độc lập dịch vụ cơ bản, tự cắt và nhuộm một màu, thu nhập khoảng 10–15 triệu. Sau 1,5–3 năm, lên thợ chính, nhận ca khó, có khách quen, thu nhập thêm % hóa chất và tip. Sau đó nữa, có người mở salon nhỏ hoặc dạy lại cho thợ mới. Mấy mốc này là ước lượng thôi, nhanh hay chậm tùy bạn học và làm bao nhiêu giờ mỗi tuần.
+
+**Thử nghề trước khi đóng học phí:** xin làm thợ phụ ở salon 1–2 tuần trước khi đóng học phí khóa 10–25 triệu — xem mình có chịu được mùi hóa chất, đứng cả ngày, tay chạm thuốc nhuộm mỗi ngày không. Thử dị ứng 48 giờ trước khi cầm chén thuốc. Học thử miễn phí: Chưa có số liệu.
+
+**Pháp lý cần biết:** cắt/uốn/nhuộm/gội thông thường không bắt buộc chứng chỉ hành nghề. Mở salon phải đăng ký hộ kinh doanh mã 9621 (theo QĐ 36/2025/QĐ-TTg, thay mã cũ 9631). Có massage/gội dưỡng sinh kèm massage thì cần giấy đủ điều kiện về an ninh, trật tự (NĐ 96/2016/NĐ-CP).
+
+**Chi phí khởi điểm:** bộ dụng cụ tối thiểu khoảng 4,2 triệu (khoảng 3–7 triệu); học phí khóa trọn gói 10–25 triệu (Tuấn Kọt 16tr/6 tháng; Seoul 10–20tr/3–6 tháng; A Vòong 25tr/3–5 tháng); học việc tại salon thì 0đ. Dự phòng 2 tháng: Chưa có số liệu.
 
 **Tìm việc, tìm khách đầu tiên ở đâu**
 

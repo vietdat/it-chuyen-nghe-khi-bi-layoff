@@ -16,11 +16,11 @@
 | 03 VALUE 1 | 8-16s | Học mất bao lâu? Gần như không mất thời gian học. Đăng ký app, làm bài kiểm tra, đi theo người có kinh nghiệm vài ca là nhận việc được. | "Học vài ngày là nhận ca" | Điện thoại mở app nhận ca, bài kiểm tra 15 câu, đi theo người kèm |
 | 04 VALUE 2 | 16-26s | Dân IT có một cái lợi: nhận việc qua app, quản lý lịch, nhắc khách đặt lại đúng hẹn, chụp ảnh trước và sau cho khách thấy. | "App + lịch + ảnh trước/sau" | Lịch ca trên điện thoại, tin nhắn nhắc khách, ảnh trước/sau đặt cạnh nhau |
 | 05 VALUE 3 | 26-32s | Cái phải học lại: hóa chất, chất nào dùng cho bề mặt nào. | "Hóa chất: học kỹ rồi mới làm" | 2 chai tẩy đặt riêng, găng tay và khẩu trang |
-| 06 PAYOFF + CTA | 32-45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền ngay. Bài đầy đủ ở bài ghim. | "Bài đầy đủ ở bài ghim" | Người dọn xong đứng nhìn căn phòng sạch, chữ bài ghim hiện lên |
+| 06 PAYOFF + CTA | 32-45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền, ca nào xong ca đó. Bài đầy đủ ở bài ghim. | "Bài đầy đủ ở bài ghim" | Người dọn xong đứng nhìn căn phòng sạch, chữ bài ghim hiện lên |
 
 ## Lời thoại đầy đủ (148 từ)
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề vào làm ngay, không cần bằng cấp: dọn nhà, văn phòng. Sáng anh ấy tới nhà khách, 2 giờ dọn xong căn hộ: lau sàn, lau bếp, dọn nhà tắm. Chiều sang văn phòng, dọn 3 tầng trước giờ tan làm. Học mất bao lâu? Gần như không mất thời gian học. Đăng ký app, làm bài kiểm tra, đi theo người có kinh nghiệm vài ca là nhận việc được. Dân IT có một cái lợi: nhận việc qua app, quản lý lịch, nhắc khách đặt lại đúng hẹn, chụp ảnh trước và sau cho khách thấy. Cái phải học lại: hóa chất, chất nào dùng cho bề mặt nào. Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền ngay. Bài đầy đủ ở bài ghim."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề vào làm ngay, không cần bằng cấp: dọn nhà, văn phòng. Sáng anh ấy tới nhà khách, 2 giờ dọn xong căn hộ: lau sàn, lau bếp, dọn nhà tắm. Chiều sang văn phòng, dọn 3 tầng trước giờ tan làm. Học mất bao lâu? Gần như không mất thời gian học. Đăng ký app, làm bài kiểm tra, đi theo người có kinh nghiệm vài ca là nhận việc được. Dân IT có một cái lợi: nhận việc qua app, quản lý lịch, nhắc khách đặt lại đúng hẹn, chụp ảnh trước và sau cho khách thấy. Cái phải học lại: hóa chất, chất nào dùng cho bề mặt nào. Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền, ca nào xong ca đó. Bài đầy đủ ở bài ghim."
 
 ## CTA dự phòng (không đọc cùng lúc)
 

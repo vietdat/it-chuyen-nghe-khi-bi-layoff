@@ -53,7 +53,7 @@
 
 | Thành phố | TopCV (tin tìm thấy) | VietnamWorks | Nguồn khác | Lương phổ biến |
 |---|---|---|---|---|
-| Hà Nội | 3 tin + 1 ca đêm (đã hết hạn) | 0 tin | JobsGO: nhiều tin bếp bánh HN | Thợ mới 8-9tr, thợ chính 10-15tr |
+| Hà Nội | 3 tin + 1 ca đêm (đã hết hạn) | 0 tin | JobsGO: nhiều tin bếp bánh HN | Thợ mới 8-9tr, thợ chính 13-15tr (JobsGO, Love Maxx, đăng 10/11/2026) |
 | TP.HCM | 5 tin | 0 tin | Vieclam24h: thợ bánh kem 15-20tr | 7-12tr; thợ kem có tay nghề 15-20tr |
 | Đà Nẵng | 1 tin (đã hết hạn) | 0 tin | Joboko Le Bordeaux 7,5-9tr, Nata Dessert 9-11tr, Ba Hưng Bakery | 7,5-11tr |
 | Cần Thơ | 0 tin | 0 tin | Sàn Việc làm Cần Thơ: 1 tin (nơi làm ở Vĩnh Long) | Chưa có số liệu lương thợ bánh tại Cần Thơ từ tin tuyển thật |
@@ -77,9 +77,49 @@
 
 - Dậy sớm, đứng lâu: ca bánh mì bắt đầu 4h-5h sáng, cả ngày đứng trước lò nóng.
 - An toàn thực phẩm: nguyên liệu hết hạn, bảo quản sai nhiệt độ thì khách ăn vào là có chuyện.
+- Dị ứng bột / bệnh hô hấp do bột bay: làm bánh tiếp xúc với bột mì bay trong không khí cả ngày — người có tiền sử hen suyễn, dị ứng bột hoặc bệnh hô hấp cần cân nhắc trước khi vào nghề.
 - Mùa vụ: lễ, Tết, Trung thu, mùa cưới đơn đặt trước dồn dập; ngày thường ít đơn hơn. Bánh có hạn sử dụng ngắn (1-3 ngày với nhiều loại bánh tươi), làm thừa là bỏ, làm thiếu là mất khách.
 - Cạnh tranh: nhiều tiệm bánh ở khu dân cư đông, chuỗi lớn có sẵn khách quen.
-- Vốn mở tiệm nhỏ: khoảng 100-300 triệu đồng theo bài CareerLink (con số tham khảo, chưa kiểm chứng bằng báo giá thật). Đi làm thuê thì vốn gần như bằng 0.
+- Vốn mở tiệm nhỏ: khoảng 100-300 triệu đồng theo bài CareerLink (con số tham khảo, chưa kiểm chứng bằng báo giá trọn bộ — báo giá thật 2 hạng mục tra 23/11/2026: lò 1 tầng 2 khay 9,5-9,7 triệu, máy trộn 10-30 triệu). Đi làm thuê thì vốn gần như bằng 0.
+
+**Thợ chính Hà Nội (đã chốt theo audit):** 13-15 triệu (theo tin Love Maxx trên JobsGO, đăng 10/11/2026); tin Love Maxx trên TopCV ghi 15-20 triệu nhưng đã hết hạn, chỉ tham khảo. Con số 13-20 triệu cũ không truy được về 1 tin tuyển cụ thể nào — đã bỏ.
+
+### Lộ trình học theo tuần/tháng (mục 9 — tóm tắt, đầy đủ trong file nghiên cứu mục 6)
+
+- Tháng 1: học an toàn thực phẩm trước khi đụng vào bếp thật; học 1 công thức gốc thật kỹ (bánh bông lan / bánh mì cơ bản); liệt kê 5 tiệm bánh gần nhà; xin làm phụ bếp ở 2–3 chỗ.
+- Tháng 2: làm phụ bếp — cân bột, nhào bột, vệ sinh bếp; học cách dùng lò (nhiệt độ, thời gian nướng); ghi sổ lỗi mỗi ngày 1 dòng.
+- Tháng 3: tự làm 1 mẻ bánh hoàn chỉnh (nấu thử 1 món 3 lần); bán thử 30–50 suất cho người quen; học cách nhận đơn và giao đúng ngày.
+- Tháng 4–6: làm thợ chính 1 dòng bánh (bánh mì / bánh ngọt / bánh kem); học thêm 1 dòng bánh thứ 2; đăng bánh lên TikTok/Facebook khu vực.
+- Tháng 6–12: đứng bếp độc lập; cân nhắc khóa Bếp Trưởng Bếp Bánh (HNAAu 2–6 tháng) hoặc khóa Bánh Kinh Doanh (HNAAu, theo chuyên đề) khi muốn bán online / mở tiệm.
+
+### Thử nghề (mục 10 — tóm tắt, đầy đủ trong file nghiên cứu mục 7)
+
+- Cách 1 — nấu thử 1 món 3 lần: chọn 1 món (bánh bông lan / bánh mì), nấu 3 lần ở nhà, ghi lại lỗi mỗi lần (bột ủ chưa tới, lò chưa đủ nóng); xem mình có thích làm bánh không trước khi bỏ tiền học.
+- Cách 2 — bán thử 30–50 suất: làm 1 mẻ bánh, bán thử cho người quen / đồng nghiệp cũ, giá đủ bù nguyên liệu; xem có người mua lại không, và mình có chịu được việc giao đúng giờ không.
+- Cách 3 — xin làm phụ bếp 1–2 tháng: làm phụ bếp bánh ở tiệm gần nhà, 7–9 triệu/tháng, vừa làm vừa học trên bếp thật; xem mình có chịu được dậy 4–5 giờ sáng và đứng cả ngày trước lò nóng không.
+- Tiếp tục nếu thích làm bánh, chịu được dậy sớm và đứng lâu, có ít nhất 1 tiệm nhận mình làm phụ lần nữa, bán thử có người mua lại; dừng lại nếu không chịu được dậy 4–5 giờ sáng, ghét đứng trước lò nóng, bị dị ứng bột / khó thở khi làm bánh, hoặc sau 1–2 tháng phụ bếp vẫn không có tiệm nào gọi lại.
+
+**Pháp lý:** an toàn thực phẩm + đăng ký kinh doanh khi mở tiệm/bán online thường xuyên (giấy chứng nhận cơ sở đủ điều kiện ATTP, giấy chứng nhận kiến thức ATTP, đăng ký hộ kinh doanh theo Nghị định 168/2025/NĐ-CP); rủi ro dị ứng bột/bệnh hô hấp do bột bay — xem mục 9 trong file nghiên cứu.
+
+### Chi phí khởi điểm (tóm tắt, đầy đủ trong file nghiên cứu mục 10)
+
+- Tiệm nhỏ tối thiểu khoảng 23,5 triệu: lò nướng bánh ngọt 1 tầng 2 khay 9,5 triệu (NEWSUN, bảng giá 2025) + máy trộn bột 10 triệu (mức thấp của khoảng 10–30 triệu) + khóa ngắn 4 triệu (HNAAu khóa ngắn, mức thấp).
+- Chưa gồm tủ trưng bày, mặt bằng, nguyên liệu ban đầu và dự phòng sinh hoạt 2 tháng ("Chưa có số liệu"); tủ trưng bày, cân, phới, khuôn nhỏ cũng chưa có số giá.
+- Tổng vốn mở tiệm 100–300 triệu (CareerLink) vẫn giữ nhãn chưa kiểm chứng trọn bộ — mới chỉ có báo giá thật của 2 hạng mục (lò, máy trộn).
+
+**Cảnh báo tin tuyển:** mọi tin trong file tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 19/04/2027 — PHẢI tra lại sát ngày đăng (cách tìm tin thay thế trong mục 1 file nghiên cứu). Bài thực hành Thứ 6 đã thay cả 3 tin cũ bằng hướng dẫn tìm việc còn hạn.
+
+### Kết luận (mục 11 — tóm tắt, đầy đủ trong file nghiên cứu mục 8)
+
+- Hợp với người thích làm bánh, chịu được dậy sớm (4–5 giờ sáng), đứng cả ngày trước lò nóng và làm việc ngày lễ, Tết — không hợp với người không dậy sớm được hoặc có bệnh hô hấp / dị ứng bột.
+- Cửa vào nhanh nhất là phụ bếp bánh không yêu cầu kinh nghiệm, 7–9 triệu/tháng, vừa làm vừa học — không cần học phí trước.
+- Muốn sống bằng nghề thì phải qua 6–12 tháng vừa học vừa làm ở tiệm mới lên thợ chính (8–12 triệu); học vài tháng chỉ làm được món đầu tiên, chưa làm ra tiền ngay.
+- Vốn mở tiệm không nhỏ: 100–300 triệu theo bài viết (chưa kiểm chứng trọn bộ), mới chỉ có báo giá thật 2 hạng mục (lò 9,5–9,7 triệu, máy trộn 10–30 triệu) — đi làm thuê trước, mở tiệm sau 1–2 năm.
+
+### Nguồn tham khảo (mục 12)
+
+- Đầy đủ trong file nghiên cứu mục 11: tin tuyển TopCV/JobsGO/Joboko/Vieclam24h/CareerLink/sàn địa phương, bảng học phí (Văn Lang, HNAAu, Netspace, Thành Công Việt), báo giá thiết bị (lò nướng, máy trộn bột), pháp lý (an toàn thực phẩm, đăng ký hộ kinh doanh) — mỗi nguồn có link + ngày truy cập 23/11/2026 + loại nguồn + mức tin cậy.
+
 
 
 ## 3. YouTube - Script video dài Thứ 2
@@ -110,7 +150,7 @@
 
 [Hình: cận cảnh tay thợ mở lò, bánh bông lan vàng nở phồng, hơi nóng bốc lên. Chữ trên màn hình: "Bánh trong lò nở đẹp, ra lò xẹp lép: lỗi ở đây"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: thợ làm bánh. Bánh trong lò nở đẹp, ra lò xẹp lép. Thợ nhìn là biết: bột ủ chưa tới, hoặc lò chưa đủ nóng. Nhìn là biết ngay bệnh. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm được bánh — nhưng muốn sống bằng nghề thì phải qua 6–12 tháng vừa học vừa làm ở tiệm: thợ làm bánh. Bánh trong lò nở đẹp, ra lò xẹp lép. Thợ nhìn là biết: bột ủ chưa tới, hoặc lò chưa đủ nóng. Nhìn là biết ngay bệnh. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30-2:00 - Nghề này là gì, 1 ngày làm việc thật
 
@@ -164,7 +204,7 @@ Phụ bếp bánh, chưa biết việc, vừa làm vừa học: 7-9 triệu mộ
 
 Về nhu cầu: ngày 23/11 mình đếm thấy TopCV có 8 tin đang tuyển thợ làm bánh, JobsGO ghi 18 việc làm bếp bánh trong tháng 11/2026. VietnamWorks thì không tìm thấy tin thợ bánh nào. Facebook cũng có tiệm bánh đăng tuyển, ví dụ Bơ Nơ Bakery ở Đà Nẵng tuyển thợ làm bánh kem. Nhu cầu có thật, nhưng nhớ là đang cuối tháng 11, chưa vào mùa lễ Tết. Lễ, Tết, Trung thu và mùa cưới cuối năm mới là lúc đơn đặt trước dồn dập.
 
-Về nhu cầu theo thành phố, tra ngày 23/11: TP.HCM tuyển nhiều nhất trên TopCV, 5 tin tìm thấy, lương phổ biến 7-12 triệu, thợ bánh kem có tay nghề 15-20 triệu. Hà Nội tuyển đều, lương phổ biến 8-12 triệu, thợ chính 13-20 triệu. Đà Nẵng tuyển qua sàn địa phương và Joboko nhiều hơn TopCV, lương phổ biến 7,5-11 triệu — ví dụ Le Bordeaux Bakery tuyển thợ bánh mì 7,5-9 triệu, Nata Dessert tuyển phụ bếp bánh tổng thu nhập dự kiến 9-11 triệu. Cần Thơ gần như không có tin công khai: TopCV và VietnamWorks đều không tìm thấy tin nào, chỉ có 1 tin trên Sàn Việc làm Cần Thơ mà nơi làm việc lại ở Vĩnh Long. Bạn ở Cần Thơ thì hỏi trực tiếp tiệm bánh gần nhà sẽ nhanh hơn nộp đơn online.
+Về nhu cầu theo thành phố, tra ngày 23/11: TP.HCM tuyển nhiều nhất trên TopCV, 5 tin tìm thấy, lương phổ biến 7-12 triệu, thợ bánh kem có tay nghề 15-20 triệu. Hà Nội tuyển đều, lương phổ biến 8-12 triệu, thợ chính 13-15 triệu (theo tin Love Maxx trên JobsGO, đăng 10/11/2026). Đà Nẵng tuyển qua sàn địa phương và Joboko nhiều hơn TopCV, lương phổ biến 7,5-11 triệu — ví dụ Le Bordeaux Bakery tuyển thợ bánh mì 7,5-9 triệu, Nata Dessert tuyển phụ bếp bánh tổng thu nhập dự kiến 9-11 triệu. Cần Thơ gần như không có tin công khai: TopCV và VietnamWorks đều không tìm thấy tin nào, chỉ có 1 tin trên Sàn Việc làm Cần Thơ mà nơi làm việc lại ở Vĩnh Long. Bạn ở Cần Thơ thì hỏi trực tiếp tiệm bánh gần nhà sẽ nhanh hơn nộp đơn online.
 
 Còn vốn mở tiệm: một bài trên CareerLink nói tiệm nhỏ cần khoảng 100-300 triệu đồng, gồm lò nướng công nghiệp, máy trộn bột, tủ trưng bày lạnh, nguyên liệu ban đầu và tiền thuê mặt bằng. Đây là con số tham khảo từ bài viết, chưa kiểm chứng bằng báo giá thật. Đi làm thuê thì vốn gần như bằng 0."
 
@@ -189,7 +229,7 @@ Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau m
 - Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026)
 - Giọng: nói với "bạn", không liệt kê Một/Hai/Ba, không bịa số liệu
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: thợ làm bánh.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm được bánh — nhưng muốn sống bằng nghề thì phải qua 6–12 tháng vừa học vừa làm ở tiệm: thợ làm bánh.
 
 Bánh trong lò nở đẹp, ra lò xẹp lép. Thợ nhìn là biết: bột ủ chưa tới, hoặc lò chưa đủ nóng. Nhìn là biết ngay bệnh. Bài này nói hết về nghề thợ làm bánh: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
@@ -251,7 +291,7 @@ Mình nói bằng tin tuyển thật, tra ngày 23/11/2026. Phụ bếp bánh, c
 
 Về nhu cầu: ngày 23/11 mình đếm thấy TopCV có 8 tin đang tuyển thợ làm bánh, JobsGO ghi 18 việc làm bếp bánh trong tháng 11/2026. VietnamWorks thì không tìm thấy tin thợ bánh nào. Nhu cầu có thật, nhưng nhớ là đang cuối tháng 11, chưa vào mùa lễ Tết. Lễ, Tết, Trung thu và mùa cưới cuối năm mới là lúc đơn đặt trước dồn dập.
 
-Về nhu cầu theo thành phố, tra ngày 23/11: TP.HCM tuyển nhiều nhất trên TopCV, 5 tin tìm thấy, lương phổ biến 7-12 triệu, thợ bánh kem có tay nghề 15-20 triệu. Hà Nội tuyển đều, lương phổ biến 8-12 triệu, thợ chính 13-20 triệu. Đà Nẵng tuyển qua sàn địa phương và Joboko nhiều hơn TopCV, lương phổ biến 7,5-11 triệu — ví dụ Le Bordeaux Bakery tuyển thợ bánh mì 7,5-9 triệu, Nata Dessert tuyển phụ bếp bánh tổng thu nhập dự kiến 9-11 triệu. Cần Thơ gần như không có tin công khai: TopCV và VietnamWorks đều không tìm thấy tin nào, chỉ có 1 tin trên Sàn Việc làm Cần Thơ mà nơi làm việc lại ở Vĩnh Long. Bạn ở Cần Thơ thì hỏi trực tiếp tiệm bánh gần nhà sẽ nhanh hơn nộp đơn online.
+Về nhu cầu theo thành phố, tra ngày 23/11: TP.HCM tuyển nhiều nhất trên TopCV, 5 tin tìm thấy, lương phổ biến 7-12 triệu, thợ bánh kem có tay nghề 15-20 triệu. Hà Nội tuyển đều, lương phổ biến 8-12 triệu, thợ chính 13-15 triệu (theo tin Love Maxx trên JobsGO, đăng 10/11/2026). Đà Nẵng tuyển qua sàn địa phương và Joboko nhiều hơn TopCV, lương phổ biến 7,5-11 triệu — ví dụ Le Bordeaux Bakery tuyển thợ bánh mì 7,5-9 triệu, Nata Dessert tuyển phụ bếp bánh tổng thu nhập dự kiến 9-11 triệu. Cần Thơ gần như không có tin công khai: TopCV và VietnamWorks đều không tìm thấy tin nào, chỉ có 1 tin trên Sàn Việc làm Cần Thơ mà nơi làm việc lại ở Vĩnh Long. Bạn ở Cần Thơ thì hỏi trực tiếp tiệm bánh gần nhà sẽ nhanh hơn nộp đơn online.
 
 Còn vốn mở tiệm: một bài trên CareerLink nói tiệm nhỏ cần khoảng 100-300 triệu đồng, gồm lò nướng công nghiệp, máy trộn bột, tủ trưng bày lạnh, nguyên liệu ban đầu và tiền thuê mặt bằng. Đây là con số tham khảo từ bài viết, chưa kiểm chứng bằng báo giá thật. Đi làm thuê thì vốn gần như bằng 0.
 
@@ -304,47 +344,38 @@ Mẹo này giữ cho bạn không quên đơn nào. Khách đặt bánh sinh nh�
 # Bài thực hành Thứ 6 - 3 việc thật + CV trước/sau + checklist 30 ngày
 
 - Đăng: Thứ 6 23/04/2027, 12:00, Facebook (carousel / bài viết)
-- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (Joboko, Vieclamdn.vn, TopCV). Trước khi đăng ngày 23/04/2027, kiểm tra lại xem tin còn hạn không - tin hết hạn thì thay bằng tin khác, không đăng tin hết hạn.
+- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (Joboko, Vieclamdn.vn, TopCV). **Cảnh báo: cả 3 tin tìm thấy ngày 23/11/2026 đều hết hạn trước ngày đăng 23/04/2027 — bài này KHÔNG đăng tin cũ, mà hướng dẫn cách tìm 3 việc thật còn hạn sát ngày đăng (xem mục dưới).**
 - Giọng: nói với "bạn", không bịa số liệu
 
 
-## 3 việc thật đang tuyển thợ làm bánh
+## Tìm 3 việc thật trước ngày đăng (thay cho 3 tin đã hết hạn)
 
-### Việc 1: Thợ Bánh Mì / Bánh Cán - Đà Nẵng
+3 tin tìm thấy ngày 23/11/2026 đều hết hạn trước ngày đăng 23/04/2027 — Le Bordeaux Bakery Đà Nẵng (hạn nộp 19/12/2026), Nata Dessert Đà Nẵng (đăng 21/11/2026), tiệm bánh Việt Quận 9 TP.HCM (không ghi hạn nộp) — nên bài này không đăng tin cũ. Trước ngày đăng, tìm 3 việc thật còn hạn theo 6 bước dưới đây, rồi điền vào đúng 3 khung Việc 1-3.
 
-- Công ty: Le Bordeaux Bakery (Le Bordeaux Factory)
-- Lương: 7,5–9 triệu/tháng (theo tay nghề) + phụ cấp bữa ăn 50.000đ/ngày + thưởng tháng, lương ngày lễ Tết x3 + thưởng Tết
-- Yêu cầu: kinh nghiệm làm bánh mì / bánh cán ít nhất 1 năm, hộ khẩu Đà Nẵng là lợi thế, định hướng làm việc ổn định
-- Thời gian: ca 1: 4:00–12:00, ca 2: 12:00–20:00 (nghỉ ăn 60 phút), 5,5 ngày/tuần (tháng nghỉ 6 ngày)
-- Địa điểm: 25 Trần Thánh Tông, Sơn Trà, Đà Nẵng
-- Ngày thấy tin: 19/11/2026 (Joboko), hạn nộp hồ sơ 19/12/2026
-- Link: https://vn.joboko.com/viec-lam-tho-banh-mi-banh-can-xvi6848602?apply=true
-- Hợp với bạn nếu: bạn ở Đà Nẵng, đã biết làm bánh mì cơ bản và dậy sớm được — ca 4 giờ sáng là ca chính của tiệm.
+### Bước 1: TopCV — tìm "thợ làm bánh", "phụ bếp bánh", "bếp bánh"
 
-### Việc 2: Phụ Bếp Bánh - Đà Nẵng
+- Lọc tin còn hạn sau 23/04/2027. Ưu tiên tin ghi "không yêu cầu kinh nghiệm" (7-9 triệu/tháng, vừa làm vừa học — ví dụ tiệm bánh Việt Quận 9 từng tuyển 7-9 triệu, không yêu cầu kinh nghiệm) hoặc "dưới 1 năm kinh nghiệm" (8-9 triệu/tháng — ví dụ T-MartStores Hà Nội từng tuyển Nhân Viên Bếp Bánh Mì 8-9 triệu, dưới 1 năm kinh nghiệm).
+- Ghi rõ cho mỗi tin: tên tiệm, lương, yêu cầu kinh nghiệm, ca làm (nhiều tiệm bắt đầu 4h-5h30 sáng), địa điểm, link tin.
 
-- Công ty: Nata Dessert
-- Lương: lương cơ bản 30.000–35.000đ/giờ (tùy kinh nghiệm và năng lực) + service charge khoảng 1–2 triệu/tháng + tip 500.000đ–1 triệu/tháng, tổng thu nhập dự kiến khoảng 9–11 triệu/tháng; bao ăn ca, lương tháng 13, 14 ngày phép năm
-- Yêu cầu: có kinh nghiệm làm bánh lạnh, bánh ngọt Âu, ưu tiên có kinh nghiệm làm bánh mì châu Âu và sourdough, chăm chỉ, đúng giờ
-- Thời gian: 08:00–16:00, nghỉ 1 ngày/tuần, được nghỉ Tết Âm lịch
-- Địa điểm: 77/25 Trần Khánh Dư, Đà Nẵng
-- Ngày thấy tin: 21/11/2026 (Vieclamdn.vn)
-- Link: https://vieclamdn.vn/nata-dessert/
-- Hợp với bạn nếu: bạn đã biết làm bánh lạnh, bánh ngọt Âu và muốn thu nhập có thêm service charge + tip, giờ làm ban ngày, không phải dậy 4 giờ sáng.
+### Bước 2: Joboko — tìm "thợ làm bánh"
 
-### Việc 3: Nhân Viên Bếp Bánh (bánh Việt) - TP.HCM
+- Lọc tin còn hạn sau 23/04/2027, ưu tiên Đà Nẵng và TP.HCM (ví dụ Le Bordeaux Bakery Đà Nẵng từng tuyển Thợ Bánh Mì / Bánh Cán 7,5-9 triệu, hạn 19/12/2026 — tìm lại tin tương tự còn hạn).
 
-- Công ty: tiệm bánh tại Quận 9 (112 đường Gò Cát, Long Trường) — tên công ty không ghi trong tin đăng
-- Lương: 7–9 triệu/tháng + thưởng 700.000đ–1 triệu/tháng + lương tháng 13, trợ cấp 1 suất cơm trong ca, làm lâu dài có BHXH, 12 ngày phép/năm, xem xét tăng lương hàng năm
-- Yêu cầu: không yêu cầu kinh nghiệm, nam/nữ 18–50 tuổi, yêu thích công việc làm bánh, nấu chè
-- Công việc: chế biến bánh Việt (bánh bò, bánh da lợn, bánh su kem, bánh dứa, bánh bông lan...), nấu các loại chè, chuẩn bị nguyên liệu, sơ chế theo công thức
-- Thời gian: ca làm việc 5h30–14h00, nghỉ 1 ngày bất kỳ trong tuần
-- Địa điểm: 112 đường Gò Cát, Phường Long Trường, TP.HCM
-- Ngày thấy tin: 23/11/2026 (TopCV)
-- Link: https://www.topcv.vn/viec-lam/tho-lam-banh-quan-9/2338073.html
-- Hợp với bạn nếu: bạn là người mới chuyển nghề, chưa biết việc — nộp vị trí này, vừa làm vừa học vẫn có lương, làm bánh Việt nên công thức gần gũi, dễ bắt đầu.
+### Bước 3: Vieclam24h — tìm "thợ làm bánh", lọc "dưới 1 năm kinh nghiệm"
 
-3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 23/04/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, Joboko hoặc sàn địa phương, không đăng tin hết hạn. Ở Hà Nội, tin Nhân Viên Bếp Bánh Mì của T-MartStores (8–9 triệu/tháng, dưới 1 năm kinh nghiệm) và tin Thợ Bánh Sinh Nhật của Abby.vn (8–10 triệu/tháng, không yêu cầu kinh nghiệm) cũng là cửa vào tốt cho người mới — tìm lại trên TopCV và JobsGO trước ngày đăng. Ở Cần Thơ gần như không có tin thợ làm bánh trên TopCV hay VietnamWorks. Bạn ở Cần Thơ thì tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com) và hỏi trực tiếp tiệm bánh gần nhà.
+- Ví dụ tin từng thấy: Thợ Bánh Kem (Bánh Mì C, TP.HCM) 15-20 triệu, hạn 27/11/2026 — tìm lại tin tương tự còn hạn sau 23/04/2027.
+
+### Bước 4: Sàn địa phương + CareerLink
+
+- Đà Nẵng: Vieclamdn.vn (ví dụ Nata Dessert từng tuyển Phụ Bếp Bánh, tổng thu nhập dự kiến 9-11 triệu). Cần Thơ: Sàn Việc làm Cần Thơ (sanvieclamcantho.com). CareerLink: tìm "phụ bếp bánh" (ví dụ từng tuyển 9-10 triệu, 0-1 năm kinh nghiệm).
+
+### Bước 5: Ngoài sàn — hỏi trực tiếp tiệm bánh gần nhà
+
+- Ở Cần Thơ gần như không có tin thợ bánh công khai trên TopCV hay VietnamWorks — hỏi trực tiếp tiệm bánh gần nhà và nhóm Facebook việc làm tay nghề (từ khóa "thợ làm bánh", "phụ bếp bánh").
+
+### Bước 6: Kiểm tra trước khi đăng
+
+- Mỗi tin phải còn hạn sau 23/04/2027 (mở link kiểm tra, tin nào ghi "Hết hạn ứng tuyển" thì bỏ). Không đăng tin hết hạn. Ghi rõ ngày thấy tin và link tin cho mỗi việc.
 
 
 ## CV mẫu: trước và sau
@@ -432,7 +463,7 @@ Học được, nhưng phải học an toàn thực phẩm trước khi đụng 
 
 **Cần vốn bao nhiêu để bắt đầu?**
 
-Đi làm thuê thì vốn gần như bằng 0. Xin làm phụ bếp bánh, tiệm có lò, có đồ dùng, bạn chỉ cần thời gian đi học việc. Tin tuyển TopCV ngày 23/11/2026 cho thấy phụ bếp bánh không yêu cầu kinh nghiệm, lương 7-9 triệu một tháng. Học khóa ngắn thì học phí khoảng 3-8 triệu đồng tùy nơi, khóa 1-2 tháng. Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1-2 năm: một bài trên CareerLink nói tiệm nhỏ cần khoảng 100-300 triệu đồng, gồm lò nướng công nghiệp, máy trộn bột, tủ trưng bày lạnh, nguyên liệu ban đầu và tiền thuê mặt bằng — con số tham khảo từ bài viết, chưa kiểm chứng bằng báo giá thật.
+Đi làm thuê thì vốn gần như bằng 0. Xin làm phụ bếp bánh, tiệm có lò, có đồ dùng, bạn chỉ cần thời gian đi học việc. Tin tuyển TopCV ngày 23/11/2026 cho thấy phụ bếp bánh không yêu cầu kinh nghiệm, lương 7-9 triệu một tháng. Học khóa ngắn thì học phí khoảng 3-8 triệu đồng tùy nơi, khóa 1-2 tháng. Vốn lớn chỉ cần khi bạn mở tiệm riêng sau 1-2 năm: một bài trên CareerLink nói tiệm nhỏ cần khoảng 100-300 triệu đồng, gồm lò nướng công nghiệp, máy trộn bột, tủ trưng bày lạnh, nguyên liệu ban đầu và tiền thuê mặt bằng — con số tham khảo từ bài viết, chưa kiểm chứng bằng báo giá trọn bộ. Báo giá thật tra ngày 23/11/2026 (xem mục 10 trong file nghiên cứu): lò nướng bánh ngọt 1 tầng 2 khay điện 9,5-9,7 triệu, máy trộn bột 10-30 triệu tùy dung tích; tủ trưng bày lạnh chưa có số giá — ghi "Chưa có số liệu".
 
 **Thợ làm bánh có bị AI thay thế không?**
 
@@ -490,7 +521,7 @@ Xem video đầy đủ tối nay 19 giờ trên YouTube. Follow để xem Tập 
 
 Follow để xem Tập 3.
 
-### 5.3. Reel Thứ 4 - Dev bị layoff đi làm bánh (144 từ, 6 đoạn)
+### 5.3. Reel Thứ 4 - Dev bị layoff đi làm bánh (161 từ, 6 đoạn)
 
 # Kịch bản reel Thứ 4 - Dev bị layoff đi làm bánh: 3 thứ mang theo được, 3 thứ phải học lại
 
@@ -499,7 +530,7 @@ Follow để xem Tập 3.
 - Sườn: `suon-chung-video.md` — 6 đoạn: Hook → Context → Value 1 → Value 2 → Value 3 → Payoff + CTA
 - Giọng đọc: Dapper Cuff, tốc độ 100, dọc 1080x1920, 30fps
 - Giọng: nói với "bạn", không liệt kê Một/Hai/Ba, không bịa số liệu
-- Số từ lời thoại: 144 từ (đếm bằng script, xem cuối file)
+- Số từ lời thoại: 161 từ (đếm bằng script, xem cuối file)
 
 ## Bảng kịch bản (lời thoại | chữ trên màn hình | hình gợi ý)
 
@@ -507,14 +538,14 @@ Follow để xem Tập 3.
 |---|---|---|---|---|
 | 01 HOOK | 0-3s | Dev bị layoff thì làm gì? Bạn là dev, vừa bị layoff, không code nữa thì làm gì? | "Dev bị layoff thì làm gì?" | Dev ôm thùng đồ ra khỏi văn phòng, nền navy |
 | 02 CONTEXT | 3-8s | 4 giờ sáng, lò bánh đã nóng, anh ấy đứng trước mẻ bánh đầu tiên của ngày. | "4 giờ sáng, lò đã nóng" | Thợ mở lò, bánh vàng bốc hơi, nền xanh lá |
-| 03 VALUE 1 | 8-16s | Học làm bánh vài tháng là làm được. Khóa ngắn 1 tới 2 tháng, học xong cầm đồ nghề đi làm ngay. | "Học 1-2 tháng là làm được" | Lịch học, cân bột, khuôn bánh, nền nâu |
+| 03 VALUE 1 | 8-16s | Học làm bánh vài tháng là làm được món đầu tiên. Khóa ngắn 1 tới 2 tháng, học xong thì xin làm phụ bếp — làm chính thì phải 6 tới 12 tháng vừa học vừa làm ở tiệm. | "Học 1-2 tháng là làm được" | Lịch học, cân bột, khuôn bánh, nền nâu |
 | 04 VALUE 2 | 16-26s | Dân IT có 1 cái lợi: nhận đơn online, quản lý đơn bánh theo ngày. Khách đặt bánh sinh nhật lúc 9 giờ tối, vẫn chốt được đơn. Đơn nào cũng ghi rõ ngày giao, không sợ quên đơn. | "Nhận đơn online, chốt đơn 9 giờ tối" | Điện thoại, tin nhắn đặt bánh, file đơn theo ngày, nền cam |
 | 05 VALUE 3 | 26-32s | Cái phải học lại thì không né được: dậy 4 giờ sáng, đứng cả ngày trước lò nóng, an toàn thực phẩm học nghiêm túc từng bước. | "Dậy 4 giờ sáng, lò nóng cả ngày" | Đồng hồ 4 giờ sáng, lò nóng, găng tay chịu nhiệt, nền tím |
 | 06 PAYOFF + CTA | 32-45s | Bị layoff không có nghĩa là hết nghề. Bài đầy đủ ở bài ghim. Tuần sau: giáo viên dạy lái xe. | "Bị layoff không có nghĩa là hết nghề" | Bánh ra lò vàng đều, chữ CTA, nền vàng |
 
 ## Lời thoại đầy đủ (đọc liền 1 mạch)
 
-"Dev bị layoff thì làm gì? Bạn là dev, vừa bị layoff, không code nữa thì làm gì? 4 giờ sáng, lò bánh đã nóng, anh ấy đứng trước mẻ bánh đầu tiên của ngày. Học làm bánh vài tháng là làm được. Khóa ngắn 1 tới 2 tháng, học xong cầm đồ nghề đi làm ngay. Dân IT có 1 cái lợi: nhận đơn online, quản lý đơn bánh theo ngày. Khách đặt bánh sinh nhật lúc 9 giờ tối, vẫn chốt được đơn. Đơn nào cũng ghi rõ ngày giao, không sợ quên đơn. Cái phải học lại thì không né được: dậy 4 giờ sáng, đứng cả ngày trước lò nóng, an toàn thực phẩm học nghiêm túc từng bước. Bị layoff không có nghĩa là hết nghề. Bài đầy đủ ở bài ghim. Tuần sau: giáo viên dạy lái xe."
+"Dev bị layoff thì làm gì? Bạn là dev, vừa bị layoff, không code nữa thì làm gì? 4 giờ sáng, lò bánh đã nóng, anh ấy đứng trước mẻ bánh đầu tiên của ngày. Học làm bánh vài tháng là làm được món đầu tiên. Khóa ngắn 1 tới 2 tháng, học xong thì xin làm phụ bếp — làm chính thì phải 6 tới 12 tháng vừa học vừa làm ở tiệm. Dân IT có 1 cái lợi: nhận đơn online, quản lý đơn bánh theo ngày. Khách đặt bánh sinh nhật lúc 9 giờ tối, vẫn chốt được đơn. Đơn nào cũng ghi rõ ngày giao, không sợ quên đơn. Cái phải học lại thì không né được: dậy 4 giờ sáng, đứng cả ngày trước lò nóng, an toàn thực phẩm học nghiêm túc từng bước. Bị layoff không có nghĩa là hết nghề. Bài đầy đủ ở bài ghim. Tuần sau: giáo viên dạy lái xe."
 
 ## CTA
 
@@ -618,14 +649,14 @@ Comment câu hỏi của bạn, tuần sau mình trả lời tiếp.
 # Clip TikTok - Tập 7 (ngoại truyện): Học làm bánh ở đâu, học phí bao nhiêu từ Bắc đến Nam?
 
 - Đăng: Chủ nhật 25/04/2027, 20:00, TikTok
-- Thời lượng: 30-45 giây (106 từ)
+- Thời lượng: 30-45 giây (127 từ)
 - Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` mục 2 (tra cứu 23/11/2026) - Hà Nội: Văn Lang khóa làm bánh 3 triệu, HNAAu khóa ngắn 4-8 triệu; Đà Nẵng: Thành Công Việt từ 5,5 triệu, Netspace 12-28 triệu; TP.HCM: HNAAu Bánh Kinh Doanh từng chuyên đề 1,2-4 triệu; Cần Thơ: HNAAu Bánh Việt 5-6 triệu trọn khóa
 - Viết dạng truyện nhiều tập: câu hook chung "Dev bị layoff thì làm gì?" + "Tập 7 (ngoại truyện)", nhân vật "anh ấy" tiếp nối Tập 6
 - Giọng: ngôi thứ ba "anh ấy", không bịa số liệu
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học làm bánh. Hà Nội thì lớp làm bánh 3 triệu 1 khóa, khóa ngắn theo dòng bánh 4 tới 8 triệu. Đà Nẵng, khóa 1 tới 3 tháng từ 5 triệu rưỡi, có chỗ 12 tới 28 triệu. Còn Sài Gòn, học theo chuyên đề mình định bán, từng chuyên đề 1 triệu 2 tới 4 triệu. Ba miền, giá khác nhau. Nhưng học xong khóa nào cũng cầm đồ nghề đi làm được ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học làm bánh. Hà Nội thì lớp làm bánh 3 triệu 1 khóa, khóa ngắn theo dòng bánh 4 tới 8 triệu. Đà Nẵng, khóa 1 tới 3 tháng từ 5 triệu rưỡi, có chỗ 12 tới 28 triệu. Còn Sài Gòn, học theo chuyên đề mình định bán, từng chuyên đề 1 triệu 2 tới 4 triệu. Ba miền, giá khác nhau. Nhưng học xong khóa chưa phải là làm chính được ngay — khóa ngắn xong thì xin làm phụ bếp, làm chính thì phải 6 tới 12 tháng vừa học vừa làm ở tiệm. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 

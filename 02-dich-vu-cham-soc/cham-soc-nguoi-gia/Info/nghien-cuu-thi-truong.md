@@ -150,7 +150,7 @@ Số tin dưới đây là số tin TÌM THẤY qua tìm kiếm công khai ngày
 | Nam (TP.HCM) | Seoul Academy | 2–3 tháng | Chưa tìm thấy học phí công khai |
 
 - Nhận xét: học phí khóa ngắn hạn dao động khoảng **4–14 triệu** tùy nơi; miền Trung (Đà Nẵng) đắt nhất trong các ví dụ tìm thấy, miền Bắc có lựa chọn rẻ nhất (4–4,9 triệu). Khóa học ở nghề này rẻ hơn nhiều so với khóa điện lạnh tuần 1 (6–15 triệu) vì không cần đồ nghề đắt tiền — chi phí chính là thời gian học và thời gian thực hành.
-- Khuyến nghị cho người chuyển nghề: muốn đi làm nhanh nhất thì đăng ký qua công ty dịch vụ/trung tâm giới thiệu việc (đào tạo tại chỗ, nhận việc ngay); muốn có chứng chỉ để xin việc công ty chuyên nghiệp thì học khóa ngắn hạn 2–3 tháng (4–9 triệu tùy miền).
+- Khuyến nghị cho người chuyển nghề: muốn đi làm nhanh nhất thì đăng ký qua công ty dịch vụ/trung tâm giới thiệu việc (đào tạo tại chỗ, nhận việc ngay); muốn có chứng chỉ để xin việc công ty chuyên nghiệp thì học khóa ngắn hạn 2–3 tháng (4–14 triệu tùy miền).
 
 ## 3. Lương bao nhiêu (tin tuyển + bảng giá thật, tra cứu 23/11/2026)
 
@@ -158,6 +158,7 @@ Khoảng lương theo nấc, lấy từ tin tuyển đang mở và bảng giá d
 
 - Mới vào, chưa có kinh nghiệm, làm ca tối / theo giờ: ca tối 21h–7h (được ngủ) **6–8 triệu/tháng** (tin gia đình đăng Vieclamtot, Quận 12, TP.HCM, 17/11/2026); theo giờ **60.000–120.000đ/giờ** (Giúp Việc Cô Tấm, bảng giá 2026).
 - Ăn ở lại, chăm người già tự đi lại, không bệnh lý: **6–7 triệu/tháng** (Giúp Việc Cô Tấm, bảng giá 2026); tại Hà Nội **8–10 triệu/tháng** (Giúp Việc Cô Tấm, bảng lương Hà Nội, cập nhật 10/2025).
+- Lưu ý đối chiếu 2 nguồn lương Hà Nội: mức 6–7 triệu là bảng giá chung năm 2026 của Giúp Việc Cô Tấm (ăn ở lại, chăm người già tự đi lại, không bệnh lý); mức 8–10 triệu là bảng lương riêng Hà Nội của cùng công ty, cập nhật 10/2025. Hai bảng khác nhau về phạm vi (chung cả nước vs riêng Hà Nội) và thời điểm cập nhật — dùng bảng Hà Nội cho Hà Nội, bảng chung cho các nơi khác. Cả hai đều là giá gia đình trả qua công ty, chưa phải lương người lao động nhận về sau khi trừ phí trung gian.
 - Ăn ở lại, có kinh nghiệm, chăm người cần hỗ trợ sinh hoạt: **7,5–9 triệu/tháng** (Giúp Việc Cô Tấm, bảng giá 2026); tại Hà Nội **9–12 triệu/tháng**; tại Đà Nẵng **7–12 triệu/tháng**, bao ăn ở (Vieclamtot).
 - Chăm người bệnh nặng, liệt giường, cần kỹ năng y tế: **9–12 triệu/tháng**, có trường hợp lên tới **14 triệu/tháng** (Giúp Việc Cô Tấm, bảng giá 2026 + bảng lương Hà Nội).
 - Làm qua công ty dịch vụ chuyên nghiệp (có chứng chỉ, theo ca): **10–15 triệu/tháng** (San Care, sanpro.vn); **10–20 triệu/tháng** (Giúp việc Tâm An, TopCV); **12–20 triệu/tháng** (Tâm An, vị trí Điều dưỡng viên/Chăm sóc viên, TopCV — cả 2 tin Tâm An đều ghi hết hạn ở thời điểm tra cứu, kiểm tra lại trước khi dùng).
@@ -181,3 +182,173 @@ Khoảng lương theo nấc, lấy từ tin tuyển đang mở và bảng giá d
 - Ranh giới y tế: caregiver không được làm việc của điều dưỡng (tiêm, truyền, thay băng). Làm quá phạm vi khi không có bằng thì rủi ro cho người già và cho chính bạn khi có sự cố.
 - Thu nhập không đều nếu làm theo giờ: có ca thì có tiền, không có ca thì không; làm qua công ty thì ổn định hơn nhưng công ty giữ lại một phần giá dịch vụ.
 - Không có chuyện "chắc chắn có việc" hay "làm giàu nhanh". Nghề này làm ra tiền bằng thời gian, sức khỏe và sự tin tưởng — xây dần từng gia đình một.
+
+
+## 5. Nghề là gì / Ai hợp / Lợi thế ex-IT / Career path (mục 1, 2, 3, 5 của _TEMPLATE.md)
+
+> Các mục này đã viết đầy đủ trong bài dài Facebook và script YouTube tuần 7; phần dưới đây là bản ghi trong file nghiên cứu để đủ 12 mục, không thêm số liệu mới. Mọi số lương trong mục này lấy từ mục 3 ở trên (tin tuyển thật, tra cứu 23/11/2026).
+
+### 5.1. Nghề là gì / Công việc hằng ngày (mục 1)
+
+- Người chăm sóc người già tại nhà (caregiver tại nhà) làm 4 việc chính: chăm sóc sinh hoạt (tắm rửa, thay đồ, đỡ di chuyển), ăn uống (nấu ăn, đút ăn), nhắc thuốc và đo dấu hiệu sinh tồn (huyết áp, thân nhiệt, nhịp tim), trò chuyện và ghi nhật ký chăm sóc gửi gia đình. Làm tại nhà người được chăm, không phải bệnh viện.
+- Một ngày thật theo giờ: ca ban ngày — sáng đỡ người già dậy, vệ sinh cá nhân, ăn sáng, nhắc thuốc, đo huyết áp, ghi nhật ký; trưa nấu ăn, trò chuyện, đi dạo quanh nhà; chiều vệ sinh, thay đồ, nhắc thuốc buổi chiều; tối báo cáo gia đình. Ca đêm 21h–7h — dậy 2–3 lần đỡ ông qua toilet (tin Vieclamtot: ông 60kg), ngoài lúc đó thì ngủ.
+- Thể lực: đỡ/khiêng người già di chuyển, tắm rửa và thay đồ cho người nằm liệt — lưng, vai, cổ tay chịu tải mỗi ngày. Giờ giấc phụ thuộc vào gia đình thuê: ăn ở lại nghĩa là ở trong nhà người ta 24/7, tháng nghỉ 4 ngày.
+
+### 5.2. Ai hợp / Ai không hợp (mục 2)
+
+- **Hợp:** kiên nhẫn với người già lẫn, hay cáu, lặp lại câu hỏi nhiều lần; chịu được dậy đêm 2–3 lần và làm việc trong nhà người lạ; chịu làm việc tay chân, đỡ người nặng; chấp nhận thu nhập tháng đầu chỉ 6–8 triệu và xây niềm tin từng gia đình một.
+- **Không hợp:** cần thu nhập ổn định ngay tháng đầu; muốn giờ giấc cố định, ngồi văn phòng; sức khỏe lưng/yếu, không đỡ nổi người 60kg; không chịu được mất mát — người già bệnh nặng dần, có người qua đời trong lúc bạn đang chăm; không chịu được ở trong nhà người khác 24/7.
+
+### 5.3. Lợi thế của người ex-IT (mục 3)
+
+- Nhật ký chăm sóc gửi gia đình mỗi tối: ghi thuốc, huyết áp, ăn uống, bất thường vào bảng tính/app — gia đình ở xa đọc là biết, đây là thứ tạo niềm tin nhanh nhất.
+- Nhắc uống thuốc đúng giờ bằng app, quản lý lịch ca và nhắc hẹn bằng công cụ quản lý lịch.
+- Tra cứu thông tin sức khỏe bằng tài liệu tiếng Anh và AI trước khi hỏi lại gia đình hoặc nhân viên y tế — chỉ để tham khảo, không thay thế lời bác sĩ.
+- Giới hạn nói thẳng: biết lập trình không giúp đỡ người nhẹ hơn hay kiên nhẫn hơn — tay nghề chăm sóc vẫn phải học trên ca thật; lợi thế IT nằm ở ghi chép, nhắc việc và giữ niềm tin với gia đình, không thay được sức khỏe và sự kiên nhẫn.
+
+### 5.4. Career path (mục 5)
+
+- **Tháng 1–3:** học khóa ngắn hạn 2–3 tháng + đi theo người có kinh nghiệm 2–3 ca, tự làm 1 ca ban ngày có người kèm; thu nhập ca tối/ăn ở lại 6–8 triệu/tháng [Cập nhật: 11/2026 – Vieclamtot, tin gia đình đăng 17/11/2026].
+- **Tháng 3–6:** làm chính ca ban ngày/ăn ở lại, chăm người cần hỗ trợ sinh hoạt: 7,5–12 triệu/tháng (Giúp Việc Cô Tấm, bảng giá 2026 + bảng lương Hà Nội 10/2025).
+- **Tháng 6–12:** có chứng chỉ chăm sóc người cao tuổi, làm qua công ty dịch vụ theo ca: 10–15 triệu/tháng (San Care, sanpro.vn, tra 23/11/2026).
+- **Năm 1–2:** chăm người bệnh nặng, liệt giường: 9–14 triệu/tháng (Giúp Việc Cô Tấm); hoặc làm hộ lý/chăm sóc viên ở viện dưỡng lão: 6–8 triệu/tháng (Viện dưỡng lão Bình Mỹ, Vieclamtot 22/11/2026). Muốn lên điều dưỡng thì phải học trung cấp điều dưỡng 1,5–3 năm — đó là nghề khác, không phải caregiver.
+
+## 6. Lộ trình học theo tuần/tháng (mục 9 của _TEMPLATE.md)
+
+Mốc thời gian theo mục 2: làm được việc cơ bản sau khóa ngắn hạn 1–3 tháng + thực hành tại nhà khách có người kèm (pool nghiên cứu). Các mốc dưới đây là ước lượng dựa trên mốc đó + checklist 30 ngày (`Info/checklist-30-ngay.md`); chỗ nào là ước lượng thì ghi rõ.
+
+- **Tuần đầu:** học sơ cấp cứu cơ bản trước khi nhận ca thật; tập đo huyết áp, thân nhiệt, nhịp tim cho quen tay; liệt kê 5 công ty dịch vụ/trung tâm giới thiệu việc gần nhà; đi đăng ký ở 2–3 chỗ, hỏi rõ hợp đồng, ai trả lương, phí trung gian bao nhiêu.
+- **Tháng đầu:** đi theo người có kinh nghiệm 2–3 ca, tự làm 1 ca ban ngày có người kèm; làm file nhật ký chăm sóc mẫu; ghi 10 tình huống hay gặp. Làm được: chăm sóc sinh hoạt cơ bản có người kèm. Thu nhập: 6–8 triệu/tháng nếu nhận ca tối/ăn ở lại [Cập nhật: 11/2026 – Vieclamtot, tin 17/11/2026].
+- **Tháng 2:** tự nhận 1 ca riêng trọn vẹn (ban ngày); hỏi bảng giá và quy định của công ty/trung tâm; tập viết tin nhắn báo cáo cuối ngày cho gia đình; cài app nhắc uống thuốc.
+- **Tháng 3:** nhận ca tháng thứ 2; đăng ký khóa ngắn hạn 2–3 tháng (4–14 triệu tùy miền — xem mục 2) hoặc học sơ cấp cứu tại Hội Chữ thập đỏ nếu chưa có chứng chỉ. Nhận ca chăm người bệnh nặng: **chưa** — đừng nhận khi chưa học xong và chưa có người kèm.
+- **Sau 6 tháng:** tới nấc làm chính qua công ty dịch vụ, có chứng chỉ; thu nhập 10–15 triệu/tháng (San Care). Còn thiếu để chăm ca bệnh nặng/liệt giường: kinh nghiệm thực tế + kỹ năng y tế cơ bản — và vẫn không làm việc của điều dưỡng (tiêm, truyền, thay băng).
+- **Lưu ý chống hứa quá tay:** học xong khóa 2–3 tháng chỉ làm được việc chăm sóc sinh hoạt cơ bản có người kèm, **không phải cầm chứng chỉ là làm độc lập ca khó được ngay**. Làm độc lập ca thường cần 3–6 tháng làm thật; chăm người bệnh nặng cần thêm kinh nghiệm sau đó. Mọi câu hook trong tuần này đã sửa theo lộ trình này.
+
+## 7. Thử nghề (mục 10 của _TEMPLATE.md)
+
+Thử trước khi đóng học phí lớn hoặc nhận ca ăn ở lại dài ngày. Không khuyến khích bỏ vốn lớn hoặc nghỉ việc trước khi thử.
+
+- **Theo người có kinh nghiệm 2–3 ca:** xin đi theo 1 người chăm có kinh nghiệm 2–3 ca (ban ngày) để xem công việc thật: đỡ người ra sao, dậy đêm thế nào, gia đình nói gì. Xin ở đâu: 5 công ty/trung tâm đã liệt kê trong checklist 30 ngày, hoặc người quen làm nghề. Chi phí: 0 đồng (đi theo xem, chưa làm).
+- **Tự làm 1 ca ban ngày có người kèm:** sau 2–3 ca đi theo, tự làm 1 ca ban ngày có người kèm đứng cạnh — đó là "ca thử" đầu tiên, xem mình có đỡ nổi người 60kg, có chịu được việc lặp lại và ở trong nhà người lạ cả ngày không.
+- **Học thử:** Chưa có số liệu về khóa nào cho học thử miễn phí — đã tra các trang trung tâm trong mục 2 ngày 23/11/2026, không nơi nào ghi "học thử miễn phí". Không ghi tên trung tâm cho học thử khi chưa kiểm chứng được.
+- **Làm thử quy mô nhỏ:** nhận 1 ca tối hoặc 1 ca ban ngày ngắn trước khi nhận ca ăn ở lại dài ngày; chỉ đóng học phí khóa ngắn hạn sau khi đã thử xong và quyết theo nghề.
+- **Tiêu chí dừng/tiếp — đánh giá sau 2–3 ca đi theo và sau 1 ca tự làm:**
+  - **Tiếp tục nếu:** chịu được dậy đêm 2–3 lần, đỡ được người 60kg qua toilet, kiên nhẫn với người lẫn hay cáu; gia đình/người kèm đồng ý cho nhận ca riêng; chi phí học (4–14 triệu tùy miền — xem mục 2) trong khả năng.
+  - **Dừng lại nếu:** lưng không chịu được việc đỡ/khiêng người; không chịu được ở trong nhà người lạ 24/7; sợ khi người già trở nặng hoặc qua đời trong ca của mình; chi phí học vượt quá tiền dự phòng của bạn.
+  - **Sau bao lâu thì đánh giá:** sau 2–3 ca đi theo (quyết định có đóng học phí khóa ngắn hạn không) và sau 1 tháng nhận ca riêng (quyết định có theo tiếp tới mốc 6 tháng không).
+
+## 8. Kết luận (mục 11 của _TEMPLATE.md)
+
+Không thêm số liệu mới ở mục này; mọi số dưới đây đã có ở các mục trên.
+
+- **Ưu điểm:** (1) Cửa vào nhanh — nhiều nơi đào tạo tại chỗ, nhận việc ngay, không thu học phí trước. (2) Nhu cầu dài hạn nhờ già hóa dân số (16,5 triệu người 60+ năm 2026). (3) Thu nhập ăn ở lại đã bao gồm ăn ở — so với lương văn phòng phải tính thêm phần này. (4) Lợi thế IT thật: nhật ký chăm sóc gửi gia đình, nhắc thuốc bằng app.
+- **Nhược điểm:** (1) Thu nhập tháng đầu chỉ 6–8 triệu. (2) Lao động nặng về thể lực và cảm xúc: đỡ người 60kg, dậy đêm, người già qua đời trong lúc đang chăm. (3) Rào cản giới tính/tuổi tác: phần lớn tin gia đình đăng trực tiếp tuyển nữ 35–55 tuổi — dev nam 25–40 tuổi ít tin phù hợp. (4) Làm qua công ty thì công ty giữ lại một phần giá dịch vụ; làm theo giờ thì có ca mới có tiền.
+- **Ai nên thử:** người kiên nhẫn, chịu được dậy đêm và làm việc tay chân; chấp nhận thu nhập tháng đầu 6–8 triệu; có thể đi làm qua công ty dịch vụ hoặc viện dưỡng lão nếu tin gia đình trực tiếp ít nhận nam.
+- **Ai không nên thử:** người cần thu nhập ổn định ngay tháng đầu; sức khỏe lưng yếu; muốn giờ giấc cố định; không chịu được ở trong nhà người lạ 24/7 hoặc không chịu được mất mát.
+- **Mức độ phù hợp với người chuyển nghề từ IT:** phù hợp nhất khi đi làm thuê qua công ty/trung tâm trước (đào tạo tại chỗ, có người kèm), dùng lợi thế IT để giữ niềm tin với gia đình — không phù hợp nếu nghĩ học xong khóa 2–3 tháng là nhận ngay ca bệnh nặng làm độc lập. Điều người ex-IT hay đánh giá sai: tưởng chứng chỉ là đủ (thực tế gia đình thuê theo niềm tin và giới thiệu), và tưởng biết AI là đủ (AI chỉ giúp ghi chép/nhắc việc, tay nghề chăm sóc vẫn phải học bằng tay).
+- **Điều chưa biết:** phí khám sức khỏe để nộp hồ sơ (Chưa có số liệu); quy định pháp luật cụ thể về trách nhiệm bồi thường của caregiver khi người già gặp sự cố y tế trong ca trực (Chưa có số liệu — xem mục 9).
+
+## 9. Pháp lý lao động — hợp đồng, bảo hiểm, giấy tờ, trách nhiệm khi có sự cố
+
+> Chỉ áp dụng khi nhận ca làm việc thường xuyên cho gia đình (ăn ở lại, ca cố định) hoặc qua công ty dịch vụ. Làm theo giờ lẻ, không thường xuyên thì thỏa thuận miệng vẫn phổ biến — nhưng có hợp đồng vẫn an toàn hơn cho cả hai bên.
+
+- **Hợp đồng lao động bằng văn bản là bắt buộc:** người sử dụng lao động phải giao kết hợp đồng lao động bằng văn bản với lao động là người giúp việc gia đình (Điều 162 Bộ luật Lao động 2019). Thời hạn hợp đồng do hai bên thỏa thuận. Một bên có quyền đơn phương chấm dứt hợp đồng bất kỳ lúc nào nhưng phải báo trước ít nhất 15 ngày. Hai bên thỏa thuận trong hợp đồng về hình thức trả lương, kỳ hạn trả lương, thời giờ làm việc hằng ngày, chỗ ở. Nguồn: thuvienphapluat.vn (hỏi đáp pháp luật, tra cứu 23/11/2026); hanoimoi.vn (tra cứu 23/11/2026).
+- **Bảo hiểm xã hội / bảo hiểm y tế:** chủ nhà có trách nhiệm trả cùng lúc với kỳ trả lương cho người giúp việc một khoản tiền bằng mức đóng BHXH, BHYT thuộc trách nhiệm của chủ nhà theo quy định, để người lao động chủ động tham gia BHXH, BHYT (Điều 89 Nghị định 145/2020/NĐ-CP). Nghĩa là caregiver làm trực tiếp cho gia đình thường **không** được đóng BHXH qua gia đình như nhân viên công ty — mà nhận khoản tiền tương ứng để tự tham gia. Hỏi rõ khoản này trước khi nhận ca: chủ nhà có trả không, bao nhiêu. Làm qua công ty dịch vụ thì hỏi công ty về chế độ BHXH theo hợp đồng với công ty. Nguồn: như trên.
+- **Nghĩa vụ khác của chủ nhà (Điều 163 Bộ luật Lao động 2019):** thực hiện đầy đủ thỏa thuận đã giao kết; tôn trọng danh dự, nhân phẩm của người giúp việc; bố trí chỗ ăn, ở hợp vệ sinh nếu có thỏa thuận; trả tiền tàu xe đi đường khi người giúp việc thôi việc về nơi cư trú (trừ trường hợp người giúp việc chấm dứt hợp đồng trước thời hạn).
+- **Hành vi bị cấm với chủ nhà (Điều 165):** ngược đãi, quấy rối tình dục, cưỡng bức lao động, dùng vũ lực với người giúp việc; giao việc không theo hợp đồng; giữ giấy tờ tùy thân của người lao động. Gặp các hành vi này thì dừng ca và báo cơ quan chức năng địa phương.
+- **Khám sức khỏe / lý lịch tư pháp:** gia đình thuê thường yêu cầu giấy khám sức khỏe và phiếu lý lịch tư pháp (hoặc giấy xác nhận hạnh kiểm tại công an phường) trước ca đầu — hỏi rõ gia đình yêu cầu giấy gì trước khi nhận ca, đừng đợi tới ngày nhận ca mới đi làm giấy. Phí cấp Phiếu lý lịch tư pháp: **200.000đ/lần/người** (Thông tư 244/2016/TT-BTC; mức này áp lại từ 01/01/2026 sau giai đoạn giảm phí khi nộp trực tuyến 24/4–31/12/2025). Nguồn: moj.gov.vn, tra cứu 23/11/2026. Phí khám sức khỏe: **Chưa có số liệu** — tùy cơ sở khám, không tìm thấy bảng giá công khai ngày 23/11/2026.
+- **Trách nhiệm pháp lý khi người già ngã / tử vong trong ca trực:** ranh giới quan trọng nhất — caregiver **không** làm việc của điều dưỡng (tiêm, truyền dịch, thay băng, đặt sonde); làm quá phạm vi khi không có bằng thì rủi ro cho người già và cho chính bạn khi có sự cố. Khi có sự cố trong ca: gọi 115, sơ cấp cứu cơ bản trong phạm vi đã học, báo gia đình ngay, ghi lại diễn biến + giờ giấc vào nhật ký chăm sóc (nhật ký là bằng chứng bạn đã làm đúng phạm vi). Quy định pháp luật cụ thể về trách nhiệm bồi thường của caregiver khi người già gặp sự cố y tế trong ca trực: **Chưa có số liệu** — không tìm thấy văn bản quy định riêng cho caregiver ngày 23/11/2026, không bịa. Cách tự bảo vệ: ghi rõ phạm vi công việc (chỉ chăm sóc sinh hoạt, không làm việc y tế) trong hợp đồng lao động bằng văn bản, và giữ nhật ký chăm sóc đầy đủ mỗi ca.
+
+## 10. Chi phí khởi điểm chi tiết
+
+> Mọi khoản tiền kèm thẻ cập nhật hoặc ghi "Chưa có số liệu". Nghề này gần như không tốn tiền mua đồ nghề — chi phí chính là học phí (nếu chọn đường học có chứng chỉ) và tiền sống trong lúc chờ ca đều.
+
+### A. Dụng cụ / thiết bị cần mua
+
+| # | Dụng cụ / thiết bị | Giá tham khảo | Nguồn / Ngày tra cứu |
+|---|---|---|---|
+| 1 | Máy đo huyết áp, nhiệt kế (nếu tự mua — thường gia đình/công ty đã có sẵn) | Chưa có số liệu | Đã tra ngày 23/11/2026, không tìm thấy bảng giá công khai cho bộ dụng cụ caregiver. |
+| 2 | Găng tay, khẩu trang dùng trong ca (thường gia đình/công ty cấp) | Chưa có số liệu | Như trên. |
+| 3 | Áo blu (nằm trong học phí khóa Tuệ Tĩnh, không mua riêng) | 175.000đ [Cập nhật: 11/2026 – Trường Trung cấp Y Dược Tuệ Tĩnh Hà Nội] | Xem mục 2 (tổng học phí khóa 4.855.000đ đã gồm áo blu). |
+| | **Tổng dụng cụ / thiết bị** | **Chưa có số liệu** | Nghề này đi làm thuê thì gần như không cần mua đồ nghề — hỏi công ty/gia đình cấp món nào trước khi tự mua. |
+
+### B. Học phí
+
+| Nấc học | Nơi học | Học phí | Nguồn / Ngày tra cứu |
+|---|---|---|---|
+| Tự học / đi làm qua công ty | Công ty dịch vụ / trung tâm giới thiệu việc (đào tạo tại chỗ) | 0đ (không thu học phí trước) [Cập nhật: 11/2026 – Giúp Việc Cô Tấm / Tâm An / San Care] | Xem mục 2. |
+| Khóa ngắn (rẻ nhất tìm được) | Cao đẳng Công nghệ Y–Dược VN, cơ sở Trần Cung, Hà Nội, 2 tháng | 4.000.000đ [Cập nhật: 11/2026 – webtretho.vn, nguồn cũ — gọi hỏi lại] | Xem mục 2. |
+| Khóa ngắn (nấc chuẩn dùng trong tổng) | Trường Trung cấp Y Dược Tuệ Tĩnh Hà Nội, dưới 3 tháng | 4.855.000đ [Cập nhật: 11/2026 – thông báo tuyển sinh 26/10/2026] | Xem mục 2. |
+| Khóa ngắn | Trung tâm Miền Nam, Bình Thạnh, TP.HCM, 2 tháng | 6.000.000đ [Cập nhật: 11/2026 – mnec.edu.vn] | Xem mục 2. |
+| Khóa ngắn | Trường Trung cấp Mai Linh, TP.HCM, 200 tiết, 2 tháng | 9.000.000đ [Cập nhật: 11/2026 – mlc.edu.vn, nguồn cũ — gọi hỏi lại] | Xem mục 2. |
+| Khóa ngắn (đắt nhất tìm được) | Hướng Nghiệp Á Âu, Đà Nẵng, 32 buổi | 14.000.000đ [Cập nhật: 11/2026 – huongnghiepaau.com] | Xem mục 2. |
+| Khóa ngắn | Bệnh viện Lão khoa TW, 56 buổi; CTECH, sơ cấp 3–6 tháng; Seoul Academy, 2–3 tháng | Chưa tìm thấy học phí công khai | Xem mục 2. |
+
+### C. Chi phí dự phòng 2 tháng đầu
+
+| Khoản | Chi phí / tháng | 2 tháng |
+|---|---|---|
+| Ăn ở, sinh hoạt (tiền nhà, ăn uống, đi lại) | Chưa có số liệu | Chưa có số liệu |
+| Tiền xăng / đi lại làm việc | Chưa có số liệu | Chưa có số liệu |
+| Tiền điện thoại, mạng | Chưa có số liệu | Chưa có số liệu |
+| Phí làm Phiếu lý lịch tư pháp (1 lần) | 200.000đ (1 lần, không phải theo tháng) | 200.000đ |
+| **Tổng dự phòng 2 tháng** | | **Chưa có số liệu** |
+
+- Vì sao "Chưa có số liệu": chi phí sinh hoạt 2 tháng tùy nơi ở và hoàn cảnh từng người — không bịa con số thay thế. Lưu ý giảm dự phòng: ca ăn ở lại được bao ăn ở nên tiền sống 2 tháng đầu thấp hơn nhiều so với đi làm thuê khác; ca theo giờ thì thu nhập tháng đầu không đều (có ca mới có tiền), cần dự phòng nhiều hơn.
+
+### D. Tổng chi phí khởi điểm
+
+| Hạng mục | Số tiền |
+|---|---|
+| Dụng cụ / thiết bị (A) | Chưa có số liệu (gần như 0đ nếu đi làm thuê) |
+| Học phí (B — chọn 1 nấc) | 0đ (đường công ty đào tạo tại chỗ) hoặc 4–14 triệu (khóa ngắn hạn có chứng chỉ) |
+| Dự phòng 2 tháng đầu (C) | Chưa có số liệu |
+| **Tổng cộng** | **Chưa chốt được con số — tiền phải chuẩn bị chắc chắn nhất là học phí 1 khóa 4–14 triệu nếu chọn đường học có chứng chỉ, hoặc 0đ nếu đi đường công ty đào tạo tại chỗ** |
+
+- 2 tháng đầu gần như chưa có thu nhập ổn định nếu làm theo giờ — chi phí dự phòng là tiền sống, không phải tiền đầu tư sinh lời ngay. Tháng đầu làm ca tối/ăn ở lại lương 6–8 triệu/tháng (xem mục 3).
+
+## 11. Nguồn tham khảo tách riêng (mục 12 của _TEMPLATE.md)
+
+Mỗi nguồn 1 dòng: link trực tiếp + ngày truy cập (23/11/2026) + loại nguồn + mức độ tin cậy.
+
+### Tin tuyển (mức tin cậy: cao — tin tuyển thật, có tên + lương + link)
+
+- Vieclamtot — Tìm người chăm ông buổi tối 21h–7h, Quận 12, TP.HCM, 6–8tr, đăng 17/11/2026: https://www.vieclamtot.com/viec-lam-quan-12-tp-ho-chi-minh/135898016.htm — truy cập 23/11/2026 — tin tuyển — cao.
+- vieclamngay.vn — Giúp việc Thành Công Đà Nẵng, tuyển 10 người, 7–8tr, đăng 14/11/2026, hạn 31/12/2026: https://www.vieclamngay.vn/viec-lam/ung-vien-nhan-giup-viec-cham-em-cham-gia-nau-an-ngon-viec-lam-hoang-ha-0afa8552-1775-417f-8511-bdcab57d6a9d — truy cập 23/11/2026 — tin tuyển — cao (đã hết hạn trước ngày đăng 15/01/2027 — chỉ dùng làm bằng chứng loại tin).
+- TopCV — Chuyên Viên Chăm Sóc Sức Khoẻ Người Cao Tuổi, Giúp việc Tâm An (V.U Group), TP.HCM, 10–20tr: https://www.topcv.vn/viec-lam/chuyen-vien-cham-soc-suc-khoe-nguoi-cao-tuoi/1700166.html — truy cập 23/11/2026 — tin tuyển — cao (ghi "Hết hạn ứng tuyển" lúc tra cứu).
+- TopCV — Điều Dưỡng Viên / Chăm Sóc Viên, Tâm An, TP.HCM, 12–20tr: https://www.topcv.vn/viec-lam/dieu-duong-vien-cham-soc-vien/1726330.html — truy cập 23/11/2026 — tin tuyển — cao (ghi "Hết hạn ứng tuyển" lúc tra cứu).
+- San Care Platform — tuyển đội San Nurse, 10–15tr: https://sanpro.vn/en/recruitment/ — truy cập 23/11/2026 — trang tuyển dụng công ty — cao (không ghi hạn nộp).
+- Vieclamtot — trang tổng hợp giúp việc trông người già Đà Nẵng, 7–12tr: https://www.vieclamtot.com/tags/giup-viec-trong-nguoi-gia-da-nang — truy cập 23/11/2026 — trang tổng hợp sàn — trung bình.
+- Vieclamtot — Viện dưỡng lão Bình Mỹ tuyển dụng, hộ lý 6–8tr, điều dưỡng 8–12tr: https://www.vieclamtot.com/tags/vien-duong-lao-binh-my-tuyen-dung — truy cập 23/11/2026 — trang tổng hợp sàn — trung bình.
+
+### Bảng lương / bảng giá dịch vụ (mức tin cậy: trung bình — số của công ty cung ứng, chưa kiểm chứng độc lập)
+
+- Giúp Việc Cô Tấm — bảng lương giúp việc Hà Nội (cập nhật 10/2025): https://giupvieccotam.com/bang-luong-giup-viec-ha-noi-cho-tung-v-t-c-v.html — truy cập 23/11/2026 — bảng lương công ty — trung bình (giá gia đình trả qua công ty, chưa phải lương nhận về).
+- Giúp Việc Cô Tấm — bảng giá 2026 (ăn ở lại 6–7tr, theo giờ 60–120k/giờ): giupvieccotam.com — truy cập 23/11/2026 — bảng giá công ty — trung bình.
+- Thành Tâm Care — dịch vụ chăm sóc người già Cần Thơ, tại nhà 8–12tr/tháng: https://thanhtamcare.vn/tin-tuc/dich-vu-cham-soc-nguoi-gia-nguoi-benh-tai-can-tho — truy cập 23/11/2026 — bảng giá công ty — trung bình (giá dịch vụ, chưa phải lương nhận về).
+
+### Bảng học phí trung tâm (mức tin cậy: cao với thông báo tuyển sinh mới, thấp với nguồn cũ)
+
+- Trường Trung cấp Y Dược Tuệ Tĩnh Hà Nội — thông báo tuyển sinh 26/10/2026, tổng 4.855.000đ: https://yduoctuetinhhanoi.edu.vn/thong-bao-lop-ky-nang-cham-soc-suc-khoe-nguoi-cao-tuoi-co-ung-dung-y-hoc-co-truyen-nam-2026.html — truy cập 23/11/2026 — bảng học phí trung tâm — cao.
+- Hướng Nghiệp Á Âu — Khóa Chăm sóc Người Cao Tuổi, 32 buổi, 14.000.000đ: https://www.huongnghiepaau.com/khoa-hoc-cham-soc-nguoi-cao-tuoi — truy cập 23/11/2026 — bảng học phí trung tâm — cao.
+- Trung tâm Miền Nam — Khóa Chăm sóc người cao tuổi, 2 tháng, 6.000.000đ: https://mnec.edu.vn/?p=2026 — truy cập 23/11/2026 — bảng học phí trung tâm — cao.
+- Trường Trung cấp Mai Linh — Khóa Chăm sóc Người cao tuổi, 200 tiết, 9.000.000đ: https://mlc.edu.vn/cham-soc-nguoi-cao-tuoi-la-gi-cham-soc-nguoi-cao-tuoi-bao-gom-nhung-viec-gi/ — truy cập 23/11/2026 — bảng học phí trung tâm — thấp (bài cũ 1.159 ngày trước — gọi hỏi lại).
+- CTECH — Chương trình Nhân viên chăm sóc người cao tuổi, sơ cấp 3–6 tháng: https://tuyensinhmientrung.ctech.edu.vn/en/nhan-vien-cham-soc-nguoi-cao-tuoi — truy cập 23/11/2026 — trang tuyển sinh — trung bình (chưa tìm thấy học phí công khai).
+- Seoul Academy — Khóa học chăm sóc người cao tuổi, 2–3 tháng: https://seoulacademy.edu.vn/khoa-hoc-cham-soc-nguoi-cao-tuoi — truy cập 23/11/2026 — trang khóa học — trung bình (chưa tìm thấy học phí công khai).
+- Bệnh viện Lão khoa TW / Cao đẳng Công nghệ Y–Dược VN — qua bài tổng hợp webtretho.vn: https://www.webtretho.vn/f/mua-gi-o-dau/top-5-dia-chi-dao-tao-khoa-hoc-cham-soc-nguoi-cao-tuoi-chat-luong — truy cập 23/11/2026 — bài tổng hợp — thấp (bài cũ 982 ngày trước).
+
+### Bối cảnh già hóa / pháp lý (mức tin cậy: cao với nguồn chính thống)
+
+- Bộ Y tế (qua chinhsachcuocsong.vnanet.vn) — 16,5 triệu người 60+ năm 2026, 16% dân số; 60,9% người cao tuổi mắc từ 3 bệnh trở lên — truy cập 23/11/2026 — nguồn chính thống qua báo — cao.
+- Quyết định 3538/QĐ-BYT ngày 16/11/2026 — Kế hoạch chăm sóc sức khỏe người cao tuổi đến 2030: thuvienphapluat.vn — truy cập 23/11/2026 — văn bản pháp luật — cao.
+- Bộ luật Lao động 2019 (Điều 161–165) + Nghị định 145/2020/NĐ-CP (Điều 89) về lao động giúp việc gia đình — hỏi đáp pháp luật: https://thuvienphapluat.vn/hoi-dap-phap-luat/839F5B4-hd-nam-2024-thue-giup-viec-co-phai-ky-hop-dong-lao-dong-khong.html — truy cập 23/11/2026 — hỏi đáp pháp luật — cao (trích đúng điều luật; đối chiếu văn bản gốc trước khi ký hợp đồng).
+- Thông tư 244/2016/TT-BTC — phí cấp Phiếu lý lịch tư pháp 200.000đ/lần/người: https://moj.gov.vn:443/qt/tintuc/Pages/van-ban-chinh-sach-moi.aspx?ItemID=2509 — truy cập 23/11/2026 — trang Bộ Tư pháp — cao.
+
+### Số liệu Mỹ — chỉ để tham khảo (không phải thu nhập Việt Nam)
+
+- BLS, tháng 5/2024: home health & personal care aides median 34.900 USD/năm, tăng trưởng 17% giai đoạn 2024–2034 — nguồn: Cục Thống kê Lao động Hoa Kỳ (BLS) — truy cập 23/11/2026 — số liệu Mỹ — chỉ để tham khảo, không quy đổi thành lương Việt Nam.
+
+### Nguồn chưa kiểm chứng / chỉ đối chiếu (không dùng làm số chính)
+
+- Giúp Việc Cô Tấm — claim "cháy nhân sự nếu không đặt lịch trước 1–2 tuần": giupvieccotam.com — truy cập 23/11/2026 — claim của công ty cung ứng — thấp, chưa kiểm chứng độc lập.
+- Facebook / Google Maps / TikTok: chưa đếm được (cần đếm thủ công trước ngày đăng — xem mục 1).

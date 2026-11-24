@@ -61,7 +61,7 @@ Nấc thứ hai là làm độc lập: tự nhận 1 ca, tự lo bữa ăn, thu�
 
 Nấc thứ ba là chăm người bệnh nặng: người liệt giường, người sau tai biến, người lẫn nặng. Mốc này thường sau 6–12 tháng, và phải học thêm về chăm sóc người bệnh, vật lý trị liệu cơ bản. Làm được nấc này thì lương cao hơn, nhưng trách nhiệm cũng nặng hơn.
 
-Học ở đâu thì có 3 đường. Đường nhanh nhất: đăng ký làm qua công ty dịch vụ chăm sóc hoặc trung tâm giới thiệu việc — Giúp Việc Cô Tấm, Tâm An, San Care ở TP.HCM, Giúp việc Thành Công ở Đà Nẵng. Nhiều nơi đào tạo tại chỗ, nhận việc ngay, không thu học phí trước. Đường thứ hai: khóa ngắn hạn chăm sóc người cao tuổi, 2–3 tháng, học phí khoảng 4–9 triệu đồng tùy miền — ví dụ Trường Trung cấp Y Dược Tuệ Tĩnh Hà Nội, khóa dưới 3 tháng, tổng 4.855.000đ 1 khóa; Trung tâm Miền Nam ở Bình Thạnh, TP.HCM, khóa 2 tháng, 6 triệu 1 khóa, học cuối tuần; Hướng Nghiệp Á Âu, khóa 32 buổi, 14 triệu 1 khóa, có chi nhánh Đà Nẵng. Học xong được cấp chứng chỉ chăm sóc người cao tuổi. Đường thứ ba: học trung cấp điều dưỡng, 1,5–3 năm, có bằng — đường này hợp với người muốn làm điều dưỡng thật sự trong bệnh viện, không phải đường nhanh, và cũng không phải nghề caregiver này."
+Học ở đâu thì có 3 đường. Đường nhanh nhất: đăng ký làm qua công ty dịch vụ chăm sóc hoặc trung tâm giới thiệu việc — Giúp Việc Cô Tấm, Tâm An, San Care ở TP.HCM, Giúp việc Thành Công ở Đà Nẵng. Nhiều nơi đào tạo tại chỗ, nhận việc ngay, không thu học phí trước. Đường thứ hai: khóa ngắn hạn chăm sóc người cao tuổi, 2–3 tháng, học phí khoảng 4–14 triệu đồng tùy miền — ví dụ Trường Trung cấp Y Dược Tuệ Tĩnh Hà Nội, khóa dưới 3 tháng, tổng 4.855.000đ 1 khóa; Trung tâm Miền Nam ở Bình Thạnh, TP.HCM, khóa 2 tháng, 6 triệu 1 khóa, học cuối tuần; Hướng Nghiệp Á Âu, khóa 32 buổi, 14 triệu 1 khóa, có chi nhánh Đà Nẵng. Học xong được cấp chứng chỉ chăm sóc người cao tuổi. Đường thứ ba: học trung cấp điều dưỡng, 1,5–3 năm, có bằng — đường này hợp với người muốn làm điều dưỡng thật sự trong bệnh viện, không phải đường nhanh, và cũng không phải nghề caregiver này."
 
 ### 7:00–8:30 — Career path + tìm việc, tìm khách ở đâu
 
@@ -91,6 +91,6 @@ So sánh Mỹ, ghi rõ KHÔNG phải thu nhập VN: BLS tháng 5/2024, home heal
 
 "Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới.
 
-Học sơ cấp cứu cơ bản trước khi nhận ca thật. Tập đo huyết áp, thân nhiệt, nhịp tim cho quen tay. Liệt kê 5 công ty dịch vụ hoặc trung tâm giới thiệu việc gần nhà. Đi đăng ký ở 2–3 chỗ, hỏi rõ hợp đồng, ai trả lương, phí trung gian bao nhiêu. Và bắt đầu ghi nhật ký chăm sóc mẫu: mỗi ca ghi lại 1 dòng — thuốc, huyết áp, ăn uống, bất thường.
+Học sơ cấp cứu cơ bản trước khi nhận ca thật. Tập đo huyết áp, thân nhiệt, nhịp tim cho quen tay. Liệt kê 5 công ty dịch vụ hoặc trung tâm giới thiệu việc gần nhà. Đi đăng ký ở 2–3 chỗ, hỏi rõ hợp đồng, ai trả lương, phí trung gian bao nhiêu — và nhớ ký hợp đồng lao động bằng văn bản trước ca đầu, vì thuê giúp việc gia đình thì chủ nhà phải ký hợp đồng với bạn theo Điều 162 Bộ luật Lao động 2019. Trước khi đóng học phí khóa 4–14 triệu thì đi theo người có kinh nghiệm 2–3 ca thử trước đã. Và bắt đầu ghi nhật ký chăm sóc mẫu: mỗi ca ghi lại 1 dòng — thuốc, huyết áp, ăn uống, bất thường.
 
 Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau mình nói về cắt tỉa thú cưng. Comment nghề bạn muốn nghe, mình đọc hết."

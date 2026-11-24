@@ -7,7 +7,7 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 6, tập cuối tuần này. Có bạn comment hỏi: không biết nấu ăn thì mở quán bằng cách nào? Anh ấy cũng từng hỏi câu đó. Câu trả lời của anh ấy: đi làm phụ bếp trước. Nhiều quán tuyển phụ bếp không cần kinh nghiệm, lương 8 tới 10 triệu 1 tháng, vừa có lương vừa học nấu và học vận hành quán thật. Học xong 1 món, bán thử 1 ngày, rồi mới tính chuyện mở quán. Bạn còn câu hỏi nào? Comment bên dưới, tuần sau mình trả lời tiếp."
+"Dev bị layoff thì làm gì? Tập 6, tập cuối tuần này. Có bạn comment hỏi: không biết nấu ăn thì mở quán bằng cách nào? Anh ấy cũng từng hỏi câu đó. Câu trả lời của anh ấy: đi làm phụ bếp trước. Nhiều quán tuyển phụ bếp không cần kinh nghiệm, lương 8 tới 10 triệu 1 tháng, vừa có lương vừa học nấu và học vận hành quán thật. Học xong 1 món, bán thử 1 ngày đồ ăn sáng 30 tới 50 suất, rồi mới tính chuyện mở quán. Bạn còn câu hỏi nào? Comment bên dưới, tuần sau mình trả lời tiếp."
 
 ## Chữ trên màn hình
 

@@ -27,9 +27,9 @@
 
 WEF Future of Jobs 2025 (tháng 01/2025): tài xế giao hàng nằm trong nhóm nghề tăng trưởng lớn nhất về số lượng tuyệt đối giai đoạn 2025–2030, cùng nông dân, công nhân xây dựng, nhân viên bán hàng, công nhân chế biến thực phẩm. 170 triệu việc làm mới, 92 triệu bị thay thế, tăng ròng 78 triệu vào 2030. Đây là dự báo toàn cầu, không phải số Việt Nam.
 
-Nhu cầu (đếm 23/11/2026): Vieclamtot 4.931+ tin nhân viên giao hàng đang tuyển toàn quốc — TP.HCM 1.482 tin, Hà Nội 466 tin, Đà Nẵng 370 tin, Cần Thơ 112 tin. TopCV tìm thấy 10 tin trong 1 lần tìm kiếm. VietnamWorks không tìm thấy tin shipper trực tiếp. Facebook, Google Maps, TikTok hashtag: chưa đếm được (cần đăng nhập / đếm thủ công).
+Nhu cầu (đếm 23/11/2026): Vieclamtot 4.931+ tin nhân viên giao hàng đang tuyển toàn quốc — TP.HCM 1.482 tin, Hà Nội 466 tin, Đà Nẵng 370 tin, Cần Thơ 112 tin. TopCV tìm thấy 8 tin trong 1 lần tìm kiếm. VietnamWorks không tìm thấy tin shipper trực tiếp. Facebook, Google Maps, TikTok hashtag: chưa đếm được (cần đăng nhập / đếm thủ công).
 
-Thu nhập (tin tuyển thật 23/11/2026): làm hãng có lương cứng 7–12 triệu; GHN lấy hàng 12–18 triệu (lương đảm bảo 400.000đ/ngày 2 tháng đầu); GHN Đà Nẵng 10–20 triệu. Chạy app theo đơn: trung bình 8–15 triệu/tháng, giao đồ ăn chuyên nghiệp 400.000–700.000đ/ngày (tháng 15–18 triệu), bán thời gian 3–5 triệu. Thu nhập thực tế = tiền đơn + thưởng − xăng − bảo dưỡng − chiết khấu app.
+Thu nhập (tin tuyển thật 23/11/2026): làm hãng có lương cứng 7–12 triệu; GHN lấy hàng 12–15 triệu/tháng (cao điểm hơn — tiêu đề tin ghi 12–18 triệu/tháng; lương đảm bảo 400.000đ/ngày 2 tháng đầu); GHN Đà Nẵng 10–20 triệu. Chạy app theo đơn: trung bình 8–15 triệu/tháng, giao đồ ăn chuyên nghiệp 400.000–700.000đ/ngày (tháng 15–18 triệu), bán thời gian 3–5 triệu. Thu nhập thực tế = tiền đơn + thưởng − xăng − bảo dưỡng − chiết khấu app.
 
 Mùa vụ Tết: shipper J&T kể đơn tăng 70–80% so với ngày thường dịp giáp Tết; bưu cục tăng gấp 2–3 lần trong 1 tháng trước Tết; J&T dự kiến tăng shipper 20–30%. Sau Tết đơn giảm — mùa vụ bình thường.
 
@@ -39,7 +39,43 @@ Rủi ro: tai nạn xe máy (Cục CSGT: xe mô tô chiếm hơn 90% vụ TNGT �
 
 Nghiên cứu đầy đủ: xem file `Info/nghien-cuu-thi-truong.md`.
 
+### Lộ trình học theo tuần/tháng (tóm tắt — đầy đủ trong `Info/nghien-cuu-thi-truong.md` mục 7)
+
+- **Tuần đầu:** chuẩn bị giấy tờ (CCCD, bằng lái, cà vẹt, tài khoản ngân hàng; lý lịch tư pháp làm sớm); kiểm tra xe thật kỹ (phanh, lốp, đèn, còi, nhớt); đăng ký 1 app trước, mua đồng phục, nạp ví tài xế; học buổi hướng dẫn của app; chạy thử nửa ngày trong quận mình ở (giao đúng và an toàn, không ham giao nhiều).
+- **Tháng đầu:** chạy đơn đều trong 1 quận, làm bảng tính theo dõi thu nhập theo đơn, kiểm tra đánh giá của khách. Thu nhập khoảng 7–10 triệu nếu chạy đều [Cập nhật: 11/2026 – tin tuyển, tra 23/11/2026] — nhưng tuần Tết đơn nhiều bất thường, đừng lấy tuần cao điểm Tết làm chuẩn thu nhập bình thường.
+- **Tháng 2:** tập xếp tuyến (2–3 đơn 1 vòng), tìm khung giờ vàng của quận mình; chuẩn bị đồ nghề mang theo (áo mưa, túi giữ nhiệt, dây ràng hàng, sạc dự phòng).
+- **Tháng 3:** thử chạy thêm 1 app nữa; tính lại toàn bộ chi phí tháng đầu (xăng, nhớt, bảo dưỡng, điện thoại, ăn trưa ngoài đường) — tổng tiền đơn + thưởng trừ đi toàn bộ chi phí mới là thu nhập thực tế.
+- **Sau 6 tháng:** tới nấc chạy giỏi (nhiều app, khung thưởng, đánh giá cao) hoặc chuyển sang hãng vận chuyển có lương cứng + bảo hiểm (GHN).
+
+### Thử nghề (tóm tắt — đầy đủ trong `Info/nghien-cuu-thi-truong.md` mục 8)
+
+- **Chạy thử nửa ngày (chi phí: xăng 1 buổi + thời gian):** sau khi đăng ký app xong, chạy thử nửa ngày trong quận mình ở — nhận ít đơn, đi chậm, ghi lại đường nào hay kẹt, hẻm nào khó tìm. Mục tiêu ngày đầu là giao đúng và an toàn.
+- **Theo tài xế chạy trước 1 buổi (0 đồng):** ra điểm chờ đơn hoặc bưu cục gần nhà, hỏi tài xế chạy lâu về app nào, khung giờ nào, 1 ngày chạy được bao nhiêu đơn thật.
+- **Chạy thử 1 tuần trước khi quyết định chạy toàn thời gian:** ghi bảng tính theo đơn từ đơn đầu tiên, cuối tuần tính thu nhập thực tế sau khi trừ xăng. Chưa tính được tiền thật thì chưa quyết định nghỉ việc cũ.
+- **Tiêu chí dừng/tiếp (đánh giá sau 1 tuần chạy thử và sau 1 tháng):** tiếp tục nếu giao đúng giờ hầu hết đơn, chịu được nắng mưa và kẹt xe, thu nhập thực tế sau khi trừ xăng/bảo dưỡng vẫn đủ sống; dừng lại nếu sợ chạy xe ngoài đường cả ngày, đơn bị đánh giá thấp liên tục, hoặc tiền sửa xe ăn hết tiền đơn.
+
+### Kết luận (tóm tắt — đầy đủ trong `Info/nghien-cuu-thi-truong.md` mục 9)
+
+- **Ưu điểm:** vào nghề nhanh nhất trong các nghề đã làm (1–3 ngày làm thủ tục là chạy được đơn đầu tiên); nhu cầu tuyển đếm được và rất lớn (Vieclamtot 4.931+ tin); có đường lương cứng + bảo hiểm nếu vào hãng (GHN); tiền về theo từng đơn, thấy ngay trong ngày.
+- **Nhược điểm:** thu nhập theo mùa rõ rệt (giáp Tết nhiều đơn, sau Tết ít đơn); rủi ro tai nạn giao thông cao nhất trong các nghề đã làm; chạy app tự do thì không có BHXH/BHYT, không có lương tháng 13; chi phí xe trừ thẳng vào thu nhập; app đổi chính sách thì thu nhập thay đổi theo.
+- **Ai nên thử:** thích chạy xe ngoài đường, chịu được nắng mưa và kẹt xe, đã có xe máy và bằng lái, chấp nhận thu nhập tháng này khác tháng trước. **Ai không nên thử:** ghét chạy xe máy ngoài đường cả ngày; muốn ngồi văn phòng 8 tiếng; cần thu nhập ổn định ngay tháng đầu và có bảo hiểm đầy đủ; chưa có xe máy (giá xe là khoản lớn nhất, hiện Chưa có số liệu).
+
+### Chi phí khởi điểm chi tiết (tóm tắt — đầy đủ trong `Info/nghien-cuu-thi-truong.md` mục 11)
+
+| Hạng mục | Số tiền |
+|---|---|
+| Dụng cụ / thiết bị (đồng phục + ký quỹ + nạp ví + giấy tờ, nếu đã có xe) | khoảng 500.000–1.000.000đ |
+| Học phí | 0đ (không có khóa học chính quy — học qua buổi hướng dẫn của app) |
+| Chi phí xe / bảo dưỡng theo tháng | Chưa có số liệu tổng/tháng (phụ thuộc số km chạy) — giá từng hạng mục: thay dầu nhớt 100.000–440.000đ/lần, bảo dưỡng xe số 150.000–300.000đ/lần, thay lốp 200.000–800.000đ/bánh [Cập nhật: 11/2026 – giaytoxe.vn, tra 23/11/2026]; xăng khoảng 50.000–100.000đ/ngày khi chạy toàn thời gian (ước tính) |
+| Dự phòng 2 tháng đầu | Chưa có số liệu |
+| **Tổng cộng (chưa tính dự phòng, đã có xe)** | **khoảng 500.000–1.000.000đ** |
+
 ---
+
+### Nguồn tham khảo (tóm tắt — đầy đủ trong `Info/nghien-cuu-thi-truong.md` mục 12)
+
+- Đầy đủ trong file nghiên cứu mục 12: tin tuyển, báo cáo/thống kê, giá bảo dưỡng xe, nguồn chưa kiểm chứng — mỗi nguồn có link + ngày truy cập 23/11/2026 + loại nguồn + mức tin cậy.
+
 
 # Kế hoạch tuần 10 — Shipper / tài xế giao hàng (TUẦN TẾT — LÀM NHẸ)
 
@@ -116,7 +152,7 @@ Nghiên cứu đầy đủ: xem file `Info/nghien-cuu-thi-truong.md`.
 
 [Hình: cận cảnh tay shipper nhận đơn trên app, màn hình hiện "Đơn mới — giao trong 30 phút". Chữ trên màn hình: "Giáp Tết, đơn tăng 70–80%: shipper chạy không kịp nghỉ"]
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề chỉ cần bằng lái với cái xe máy là chạy được ngay: shipper giao hàng. Giáp Tết, shipper của J&T Express kể lượng đơn mỗi ngày tăng 70 tới 80 phần trăm so với ngày thường, chạy không kịp nghỉ. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề chạy được đơn đầu tiên sau khoảng 1–3 ngày làm thủ tục — nhưng không chỉ cần bằng lái với cái xe máy: còn cần CCCD, cà vẹt xe, lý lịch tư pháp, đồng phục 250.000–600.000đ và ký quỹ 300.000–500.000đ [Cập nhật: 11/2026 – Shopee Blog / Vieclamtot, tra 23/11/2026]: shipper giao hàng. Giáp Tết, shipper của J&T Express kể lượng đơn mỗi ngày tăng 70 tới 80 phần trăm so với ngày thường, chạy không kịp nghỉ. Hôm nay mình nói hết về nghề này: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì."
 
 ### 0:30–2:00 — Nghề này là gì, 1 ngày làm việc thật
 
@@ -168,7 +204,7 @@ Dạng chạy app tự do, thu nhập theo đơn, không có lương cứng: bà
 
 Và đây là phần quan trọng nhất: thu nhập thực tế bằng tiền đơn cộng tiền thưởng, trừ xăng, trừ bảo dưỡng xe, trừ chiết khấu app. Không tính chi phí xe thì con số thu nhập nhìn lúc nào cũng cao hơn thực tế.
 
-Về nhu cầu: ngày 23/11 mình đếm thấy Vieclamtot có 4.931 tin nhân viên giao hàng đang tuyển trên toàn quốc. TP.HCM nhiều nhất: 1.482 tin. Hà Nội: 466 tin. Đà Nẵng: 370 tin. Cần Thơ: 112 tin. TopCV tìm thấy 10 tin trong 1 lần tìm kiếm. Về xu hướng dài hạn: báo cáo Future of Jobs 2025 của Diễn đàn Kinh tế Thế giới xếp tài xế giao hàng vào nhóm nghề tăng trưởng lớn nhất về số lượng tuyệt đối giai đoạn 2025–2030. Đó là dự báo toàn cầu, không phải số Việt Nam — mình nhắc để bạn thấy hướng đi chung, không phải để hứa thu nhập.
+Về nhu cầu: ngày 23/11 mình đếm thấy Vieclamtot có 4.931 tin nhân viên giao hàng đang tuyển trên toàn quốc. TP.HCM nhiều nhất: 1.482 tin. Hà Nội: 466 tin. Đà Nẵng: 370 tin. Cần Thơ: 112 tin. TopCV tìm thấy 8 tin trong 1 lần tìm kiếm. Về xu hướng dài hạn: báo cáo Future of Jobs 2025 của Diễn đàn Kinh tế Thế giới xếp tài xế giao hàng vào nhóm nghề tăng trưởng lớn nhất về số lượng tuyệt đối giai đoạn 2025–2030. Đó là dự báo toàn cầu, không phải số Việt Nam — mình nhắc để bạn thấy hướng đi chung, không phải để hứa thu nhập.
 
 Về mùa vụ Tết: giáp Tết là mùa cao điểm nhất. Shipper J&T kể lượng đơn mỗi ngày tăng 70 tới 80 phần trăm so với ngày thường, bưu cục tăng gấp 2–3 lần trong vòng 1 tháng trước Tết. Sau Tết đơn giảm — đó là mùa vụ bình thường, không phải do bạn chạy kém."
 
@@ -192,7 +228,7 @@ Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau m
 
 ---
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề chỉ cần bằng lái với cái xe máy là chạy được ngay: shipper giao hàng.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề chạy được đơn đầu tiên sau khoảng 1–3 ngày làm thủ tục — nhưng không chỉ cần bằng lái với cái xe máy: còn cần CCCD, cà vẹt xe, lý lịch tư pháp, đồng phục 250.000–600.000đ và ký quỹ 300.000–500.000đ [Cập nhật: 11/2026 – Shopee Blog / Vieclamtot, tra 23/11/2026]: shipper giao hàng.
 
 Giáp Tết, shipper của J&T Express kể lượng đơn mỗi ngày tăng 70 tới 80 phần trăm so với ngày thường, bưu cục tăng gấp 2–3 lần trong vòng 1 tháng trước Tết. Chạy không kịp nghỉ. Bài này nói hết về nghề shipper: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
@@ -306,13 +342,14 @@ Mẹo này tiết kiệm cho bạn xăng và thời gian mỗi ngày, và cuối
 
 ## 3 việc thật đang tuyển shipper
 
-### Việc 1: Nhân Viên Lấy Hàng — thu nhập 12–18 triệu/tháng — TP.HCM
+### Việc 1: Nhân Viên Lấy Hàng — thu nhập 12–15 triệu/tháng (cao điểm hơn) — TP.HCM
 
 - Công ty: Công ty CP Dịch vụ Giao Hàng Nhanh (GHN)
-- Thu nhập: 12–15 triệu/tháng hoặc hơn vào mùa cao điểm. Lương đảm bảo 400.000đ/ngày trong 2 tháng đầu, trung bình 400.000–500.000đ/ngày, cao điểm 700.000–800.000đ/ngày.
+- Thu nhập: 12–15 triệu/tháng hoặc hơn vào mùa cao điểm (tiêu đề tin ghi 12–18 triệu/tháng — xem chốt số trong `Info/nghien-cuu-thi-truong.md` mục 2). Lương đảm bảo 400.000đ/ngày trong 2 tháng đầu, trung bình 400.000–500.000đ/ngày, cao điểm 700.000–800.000đ/ngày.
 - Công việc: lấy hàng trong khu vực được phân công.
 - Địa điểm: 508 Lê Thị Riêng, phường Thới An, Quận 12, TP.HCM.
 - Ngày thấy tin: 23/11/2026 (TopCV)
+- Hạn nộp: không ghi hạn nộp trong bản tra cứu 23/11/2026 — tin tra 23/11/2026, PHẢI tra lại sát ngày đăng 05/02/2027, mở lại link kiểm tra còn hạn không trước khi đăng
 - Link: https://www.topcv.vn/viec-lam/nhan-vien-lay-hang-thu-nhap-12-18-trieu-thang/2331369.html
 - Hợp với bạn nếu: bạn ở TP.HCM, muốn thu nhập theo đơn nhưng vẫn có lương đảm bảo 2 tháng đầu để yên tâm làm quen tuyến.
 
@@ -323,6 +360,7 @@ Mẹo này tiết kiệm cho bạn xăng và thời gian mỗi ngày, và cuối
 - Yêu cầu: nam 18–45 tuổi, có xe máy cá nhân, điện thoại thông minh, thông thuộc đường xá. Không yêu cầu kinh nghiệm (tin đăng ghi "KO CẦN KN").
 - Địa điểm: nhiều bưu cục — Hải Châu (217 Tiểu La), Liên Chiểu, Hòa Vang, Thanh Khê, Sơn Trà, Ngũ Hành Sơn (404 Lê Văn Hiến), Cẩm Lệ.
 - Ngày thấy tin: 20/11/2026 (Vieclamtot, tin đăng ngày 20/11/2026)
+- Hạn nộp: không ghi hạn nộp trong bản tra cứu 23/11/2026 — tin tra 23/11/2026, PHẢI tra lại sát ngày đăng 05/02/2027, mở lại link kiểm tra còn hạn không trước khi đăng
 - Link: https://www.vieclamtot.com/viec-lam-quan-lien-chieu-da-nang/135944098.htm
 - Hợp với bạn nếu: bạn ở Đà Nẵng, muốn làm hãng có bảo hiểm đầy đủ thay vì chạy app tự do.
 
@@ -332,8 +370,8 @@ Mẹo này tiết kiệm cho bạn xăng và thời gian mỗi ngày, và cuối
 - Thu nhập: đến 15 triệu/tháng (tin tuyển tài xế tháng 11/2026).
 - Công việc: giao đồ ăn theo app ShopeeFood Driver, có 3 mô hình — Part-time (lịch tự do), HUB Food và HUB Ship (đăng ký giờ trước, có thu nhập đảm bảo và thưởng theo tuần).
 - Địa điểm: Hà Nội. Văn phòng tiếp nhận hồ sơ Hà Nội: tầng 3, tòa nhà 101 Láng Hạ.
-- Ngày thấy tin: 23/11/2026 (Vieclamtot — trang nghề nhân viên giao hàng, cập nhật 23/11/2026)
-- Link: https://www.vieclamtot.com/nghe-giao-hang-sd6a0e
+- Ngày thấy tin: 23/11/2026 (Vieclamtot — tin tuyển tài xế tháng 11/2026)
+- Link: https://www.vieclamtot.com/kinh-nghiem/dang-ky-lam-tai-xe-shopeefood.html — **link này là trang tổng hợp tin tuyển + hướng dẫn đăng ký tài xế ShopeeFood trên Vieclamtot (cập nhật liên tục), thay cho link trang nghề chung trước đây**. Mở link, lọc tin tuyển ShopeeFood theo thành phố của bạn (Hà Nội: văn phòng tầng 3, tòa nhà 101 Láng Hạ), chỉ nộp tin còn hạn sau ngày đăng 05/02/2027. Đăng ký ShopeeFood cũng có thể làm trực tiếp trên app ShopeeFood Driver rồi tới văn phòng đối chiếu giấy tờ — không cần chờ tin tuyển của công ty.
 - Hợp với bạn nếu: bạn ở Hà Nội, muốn bắt đầu nhanh — đăng ký app, 1–3 ngày là chạy được đơn đầu tiên, không phải chờ phỏng vấn công ty.
 
 Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 05/02/2027 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV hoặc Vieclamtot, không đăng tin hết hạn. Ở Cần Thơ gần như không có tin shipper trên TopCV (0 tin trong kết quả tìm thấy ngày 23/11/2026, Vieclamtot có 112 tin, chưa công bố lương trung bình) — nếu bạn ở Cần Thơ thì đăng ký app trực tiếp (ShopeeFood phủ sóng tại Cần Thơ, theo Shopee Blog) hoặc hỏi bưu cục GHN / Viettel Post gần nhà.
@@ -403,7 +441,7 @@ Tuần này mình nói về shipper, đúng vào tuần giáp Tết — lúc đ�
 
 Tóm tắt nhanh tuần này, để bạn lưu lại:
 
-Nghề shipper chỉ cần bằng lái với cái xe máy là chạy được ngay — đăng ký app khoảng 1–3 ngày là có đơn đầu tiên, không có khóa học dài nào ở giữa. Thu nhập thì có 2 dạng: làm hãng có lương cứng 7–12 triệu, GHN lấy hàng 12–18 triệu; chạy app tự do thì theo đơn, trung bình 8–15 triệu, chạy giỏi lên tới 15–18 triệu. Và thu nhập thực tế bằng tiền đơn cộng tiền thưởng, trừ xăng, trừ bảo dưỡng xe, trừ chiết khấu app. Giáp Tết đơn nhiều, sau Tết đơn ít — đó là mùa vụ bình thường, không phải do bạn chạy kém.
+Nghề shipper chạy được đơn đầu tiên sau khoảng 1–3 ngày làm thủ tục — nhưng phải đủ giấy tờ (CCCD, bằng lái, cà vẹt xe, lý lịch tư pháp), đồng phục và ký quỹ trước đã. Không có khóa học dài nào ở giữa. Thu nhập thì có 2 dạng: làm hãng có lương cứng 7–12 triệu, GHN lấy hàng 12–18 triệu; chạy app tự do thì theo đơn, trung bình 8–15 triệu, chạy giỏi lên tới 15–18 triệu. Và thu nhập thực tế bằng tiền đơn cộng tiền thưởng, trừ xăng, trừ bảo dưỡng xe, trừ chiết khấu app. Giáp Tết đơn nhiều, sau Tết đơn ít — đó là mùa vụ bình thường, không phải do bạn chạy kém.
 
 Tuần sau mình nói về nghề nhà nào có đám cưới cũng cần: chụp ảnh cưới và sự kiện. Dev bị layoff cầm máy ảnh đi chụp đám cưới — học bao lâu, máy móc tốn bao nhiêu, khách đầu tiên tìm ở đâu. Bạn đoán xem, chụp 1 đám cưới được bao nhiêu? Comment con số bạn đoán bên dưới, tuần sau mình đối chiếu với số thật.
 
@@ -455,7 +493,7 @@ Comment câu hỏi của bạn, tuần sau mình trả lời tiếp — tuần s
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Tối đó, anh ấy mở tin tuyển shipper: không cần kinh nghiệm, chỉ cần bằng lái với cái xe máy. Làm hãng thì lương cứng 7 đến 8 triệu một tháng. Chạy app thì theo đơn, trung bình 8 đến 15 triệu. Tháng đầu chạy shipper, anh ấy được bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
+"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Tối đó, anh ấy mở tin tuyển shipper: không cần kinh nghiệm, chỉ cần bằng lái với cái xe máy. Nhưng chạy được đơn đầu tiên phải sau 1–3 ngày làm thủ tục — còn cần CCCD, cà vẹt xe, lý lịch tư pháp, đồng phục và ký quỹ. Làm hãng thì lương cứng 7 đến 8 triệu một tháng. Chạy app thì theo đơn, trung bình 8 đến 15 triệu. Tháng đầu chạy shipper, anh ấy được bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
 
 ## Chữ trên màn hình
 
@@ -504,12 +542,12 @@ Follow để xem Tập 3.
 
 | Đoạn | Thời gian | Lời thoại | Chữ trên màn hình |
 |---|---|---|---|
-| 01 HOOK | 0–3s | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề chỉ cần bằng lái với cái xe máy là chạy được: shipper giao hàng. | "Dev bị layoff thì làm gì?" |
+| 01 HOOK | 0–3s | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề chạy được đơn đầu tiên sau khoảng 1–3 ngày làm thủ tục: shipper giao hàng — nhưng phải đủ giấy tờ, đồng phục và ký quỹ trước đã. | "Dev bị layoff thì làm gì?" |
 | 02 CONTEXT | 3–8s | Mỗi sáng, anh ấy mở app, nhận đơn trong quận mình chạy. Lấy hàng ở kho, giao tới tay khách, chụp ảnh xác nhận, nhận đơn khác. | "Mở app — nhận đơn — giao tới tay khách" |
 | 03 VALUE 1 | 8–16s | Đăng ký xong là chạy được, 1 tới 3 ngày làm thủ tục, học hướng dẫn của app rồi nhận đơn. | "Đăng ký 1–3 ngày là chạy được" |
 | 04 VALUE 2 | 16–26s | Dân IT có lợi: bảng tính theo dõi từng đơn, biết đơn nào lãi, đơn nào lỗ. Tuyến đường xếp bằng app, chạy ít vòng mà giao nhiều đơn hơn. | "Bảng tính theo đơn + xếp tuyến bằng app" |
 | 05 VALUE 3 | 26–32s | Cái khó thì không né được: nắng, mưa, kẹt xe. Giao muộn là khách đánh giá thấp, đơn sau ít đi. | "Nắng, mưa, kẹt xe — giao muộn là mất điểm" |
-| 06 PAYOFF + CTA | 32–45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền ngay. Bài đầy đủ ở bài ghim. | "Bài đầy đủ ở bài ghim" |
+| 06 PAYOFF + CTA | 32–45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề này — chạy đơn nào, tiền về đơn đó. Bài đầy đủ ở bài ghim. | "Bài đầy đủ ở bài ghim" |
 
 ## CTA
 

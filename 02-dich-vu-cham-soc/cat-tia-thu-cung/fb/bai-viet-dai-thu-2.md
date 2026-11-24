@@ -7,7 +7,7 @@
 
 ---
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: cắt tỉa thú cưng.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học 1–2 tháng là bắt đầu làm được, nhưng cắt đẹp theo giống thì cần thêm nhiều tháng làm thật: cắt tỉa thú cưng.
 
 Chó nhà khách sủa ầm lên, lông rối thành cục, chủ thì sắp Tết rồi, muốn bé đẹp đón Tết. Groomer đón bé, tắm, sấy, cắt tỉa, 2 tiếng rưỡi sau giao lại 1 bé sạch sẽ, gọn gàng. Bài này nói hết về nghề cắt tỉa thú cưng: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
@@ -56,6 +56,12 @@ Về nhu cầu theo thành phố, tra ngày 23/11: Hà Nội và TP.HCM tuyển 
 **Rủi ro thật**
 
 Mùa vụ rõ rệt, cao điểm trước Tết: khách đưa thú cưng đi làm đẹp đón Tết, sau Tết nhu cầu hạ xuống. Thú cưng cắn, cào: làm việc với động vật sống, mỗi bé một tính nết — có bé sợ, có bé cắn khi đau hoặc giật mình. Dị ứng lông, bụi lông: lông bay khắp phòng trong lúc sấy và cắt. Đứng cả ngày, làm việc ướt, làm cả cuối tuần: spa thường nghỉ 3–4 ngày/tháng, không nghỉ T7, CN. Mỗi bé một giống, một kiểu lông: cắt sai form 1 lần, chủ không quay lại nữa. Và không có chuyện "chắc chắn có việc" hay "làm giàu nhanh" — nghề này làm ra tiền bằng tay, theo lịch hẹn, và phải xây khách quen dần — khách quen quay lại mỗi 4–6 tuần cắt lại 1 lần mới là thu nhập đều.
+
+**Thử nghề trước khi đóng học phí:** xin làm thợ phụ tắm/sấy ở spa 1–2 tuần trước — xem mình có chịu được lông bay, nước bắn, tiếng sủa cả ngày không, rồi mới quyết định học khóa cắt tỉa 5–15 triệu. Học xong khóa 1–2 tháng chỉ cắt được bé đơn giản có người kèm, cắt đẹp theo giống cần thêm nhiều tháng làm thật.
+
+**Pháp lý cần biết khi mở spa:** chỉ tắm/cắt tỉa thì đăng ký hộ kinh doanh là đủ (mã ngành tham khảo 96090), không cần giấy phép chuyên ngành riêng; có khám chữa bệnh cho thú thì cần bằng thú y. Chứng chỉ grooming Level C/B là yêu cầu của nhà tuyển dụng, không phải giấy phép hành nghề bắt buộc. Thú bị thương hay chết tại spa thì mức bồi thường theo luật: Chưa có số liệu — tự bảo vệ bằng thỏa thuận văn bản với chủ thú trước khi nhận bé, chụp ảnh bé trước khi làm. Quy định tiêm phòng bắt buộc khi gửi spa: Chưa có số liệu — thực hành nên làm là yêu cầu chủ thú xác nhận bé đã tiêm phòng đầy đủ và đang khỏe mạnh; không nhận bé đang mang thai, đang điều trị bệnh, mới phẫu thuật.
+
+**Chi phí khởi điểm:** học phí khóa cắt tỉa cơ bản 5–15 triệu (Pet Mart 5 triệu; LanLan 10 triệu; KimiPet 14 triệu; Teddy/DogParadise 15 triệu); 3 trung tâm Đà Nẵng chưa công khai học phí — gọi hotline RITDO PET 0898 222 215 để hỏi. Giá bộ đồ nghề trọn bộ: Chưa có số liệu.
 
 ---
 

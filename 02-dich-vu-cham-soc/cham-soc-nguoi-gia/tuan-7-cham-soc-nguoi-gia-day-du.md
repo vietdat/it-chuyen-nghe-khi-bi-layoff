@@ -85,7 +85,7 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026, K
 ### Lương theo nấc (tin tuyển + bảng giá thật, tra cứu 23/11/2026)
 
 - Mới vào, ca tối 21h–7h (được ngủ): **6–8 triệu/tháng** (tin gia đình đăng Vieclamtot, Quận 12, TP.HCM, 17/11/2026). Theo giờ: **60.000–120.000đ/giờ** (Giúp Việc Cô Tấm, bảng giá 2026).
-- Ăn ở lại, chăm người già tự đi lại: **6–7 triệu/tháng**; tại Hà Nội **8–10 triệu/tháng**.
+- Ăn ở lại, chăm người già tự đi lại: **6–7 triệu/tháng**; tại Hà Nội **8–10 triệu/tháng**. Lưu ý đối chiếu 2 nguồn: mức 6–7 triệu là bảng giá chung năm 2026 của Giúp Việc Cô Tấm; mức 8–10 triệu là bảng lương riêng Hà Nội của cùng công ty, cập nhật 10/2025 — hai bảng khác phạm vi và thời điểm cập nhật, dùng bảng Hà Nội cho Hà Nội. Cả hai đều là giá gia đình trả qua công ty, chưa phải lương nhận về.
 - Ăn ở lại, có kinh nghiệm, chăm người cần hỗ trợ sinh hoạt: **7,5–9 triệu/tháng**; tại Hà Nội **9–12 triệu**; tại Đà Nẵng **7–12 triệu**, bao ăn ở.
 - Chăm người bệnh nặng, liệt giường, cần kỹ năng y tế: **9–12 triệu/tháng**, có trường hợp lên tới **14 triệu/tháng**.
 - Làm qua công ty dịch vụ chuyên nghiệp (có chứng chỉ, theo ca): **10–15 triệu/tháng** (San Care); **10–20 triệu/tháng** (Tâm An, TopCV — tin ghi hết hạn, kiểm tra lại trước khi dùng).
@@ -105,7 +105,43 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026, K
 - Thu nhập không đều nếu làm theo giờ: có ca thì có tiền, không có ca thì không.
 - Không có chuyện "chắc chắn có việc" hay "làm giàu nhanh".
 
+### Lộ trình học theo tuần/tháng (tóm tắt mục 6 file nghiên cứu)
+
+- Tuần đầu: học sơ cấp cứu cơ bản, tập đo huyết áp/thân nhiệt/nhịp tim, liệt kê 5 công ty/trung tâm gần nhà, đăng ký 2–3 chỗ.
+- Tháng đầu: đi theo người có kinh nghiệm 2–3 ca, tự làm 1 ca ban ngày có người kèm; làm được chăm sóc sinh hoạt cơ bản có người kèm; thu nhập 6–8 triệu nếu nhận ca tối/ăn ở lại.
+- Tháng 2: tự nhận 1 ca riêng trọn vẹn (ban ngày); tập viết tin nhắn báo cáo cuối ngày cho gia đình.
+- Tháng 3: nhận ca tháng thứ 2; đăng ký khóa ngắn hạn 2–3 tháng (4–14 triệu tùy miền) hoặc học sơ cấp cứu nếu chưa có chứng chỉ. Chưa nhận ca chăm người bệnh nặng.
+- Sau 6 tháng: làm chính qua công ty dịch vụ, có chứng chỉ, thu nhập 10–15 triệu/tháng. Học xong khóa 2–3 tháng chỉ làm được việc cơ bản có người kèm — không phải cầm chứng chỉ là làm độc lập ca khó được ngay.
+
+### Thử nghề (tóm tắt mục 7 file nghiên cứu)
+
+- Đi theo người có kinh nghiệm 2–3 ca (0đ), rồi tự làm 1 ca ban ngày có người kèm — đó là "ca thử" đầu tiên. Nhận 1 ca tối/ca ban ngày ngắn trước khi nhận ca ăn ở lại dài ngày; chỉ đóng học phí khóa ngắn hạn sau khi thử xong và quyết theo nghề. Học thử miễn phí: Chưa có số liệu (không nơi nào ghi học thử miễn phí ngày 23/11/2026).
+- Tiếp tục nếu: chịu được dậy đêm 2–3 lần, đỡ được người 60kg qua toilet, kiên nhẫn với người lẫn hay cáu; chi phí học 4–14 triệu trong khả năng. Dừng lại nếu: lưng không chịu được việc đỡ/khiêng người; không chịu được ở trong nhà người lạ 24/7; sợ khi người già trở nặng trong ca của mình. Đánh giá sau 2–3 ca đi theo và sau 1 tháng nhận ca riêng.
+
+### Pháp lý lao động cần biết (tóm tắt mục 9 file nghiên cứu)
+
+- Hợp đồng lao động bằng văn bản là bắt buộc khi thuê giúp việc gia đình (Điều 162 Bộ luật Lao động 2019); một bên được đơn phương chấm dứt nhưng phải báo trước ít nhất 15 ngày; thỏa thuận rõ lương, kỳ trả lương, giờ làm, chỗ ở.
+- Chủ nhà trả cùng lúc với kỳ lương một khoản tiền bằng mức đóng BHXH, BHYT thuộc trách nhiệm của chủ nhà để người lao động tự tham gia BHXH, BHYT (Điều 89 Nghị định 145/2020/NĐ-CP) — hỏi rõ khoản này trước khi nhận ca. Làm qua công ty thì hỏi công ty về chế độ BHXH.
+- Gia đình thường yêu cầu giấy khám sức khỏe + phiếu lý lịch tư pháp trước ca đầu. Phí cấp Phiếu lý lịch tư pháp: 200.000đ/lần/người (Thông tư 244/2016/TT-BTC). Phí khám sức khỏe: Chưa có số liệu.
+- Khi người già ngã/tử vong trong ca trực: không làm việc y tế vượt phạm vi caregiver (tiêm, truyền, thay băng cần bằng điều dưỡng); gọi 115, sơ cấp cứu trong phạm vi đã học, báo gia đình ngay, ghi nhật ký chăm sóc. Quy định cụ thể về trách nhiệm bồi thường của caregiver: Chưa có số liệu — ghi rõ phạm vi công việc trong hợp đồng bằng văn bản là cách tự bảo vệ.
+
+### Chi phí khởi điểm (tóm tắt mục 10 file nghiên cứu)
+
+- Dụng cụ: gần như 0đ nếu đi làm thuê (gia đình/công ty cấp đồ dùng); tự mua máy đo huyết áp/nhiệt kế: Chưa có số liệu.
+- Học phí: 0đ (đường công ty đào tạo tại chỗ) hoặc khóa ngắn hạn 4–14 triệu (Tuệ Tĩnh 4.855.000đ; Trung tâm Miền Nam 6 triệu; Mai Linh 9 triệu; Hướng Nghiệp Á Âu Đà Nẵng 14 triệu).
+- Dự phòng 2 tháng: Chưa có số liệu (ca ăn ở lại được bao ăn ở nên tiền sống 2 tháng đầu thấp hơn). Tổng chưa chốt được con số — tiền phải chuẩn bị chắc chắn nhất là học phí 1 khóa 4–14 triệu nếu chọn đường học có chứng chỉ.
+
+### Kết luận (tóm tắt mục 8 file nghiên cứu)
+
+- Ưu điểm: cửa vào nhanh (đào tạo tại chỗ, nhận việc ngay); nhu cầu dài hạn nhờ già hóa dân số; thu nhập ăn ở lại đã bao ăn ở; lợi thế IT thật (nhật ký chăm sóc, nhắc thuốc bằng app). Nhược điểm: thu nhập tháng đầu chỉ 6–8 triệu; nặng về thể lực và cảm xúc; phần lớn tin gia đình tuyển nữ 35–55 tuổi nên dev nam ít tin phù hợp; làm qua công ty thì công ty giữ lại một phần giá dịch vụ.
+- Ai nên thử: người kiên nhẫn, chịu được dậy đêm và làm việc tay chân, chấp nhận thu nhập tháng đầu 6–8 triệu. Ai không nên thử: người cần thu nhập ổn định ngay tháng đầu, lưng yếu, muốn giờ giấc cố định, không chịu được ở trong nhà người lạ 24/7.
+
 ---
+
+### Nguồn tham khảo (tóm tắt mục 11 file nghiên cứu)
+
+- Đầy đủ trong file nghiên cứu mục 11: tin tuyển, bảng lương/bảng giá dịch vụ, bảng học phí trung tâm, bối cảnh già hóa/pháp lý, số liệu Mỹ, nguồn chưa kiểm chứng — mỗi nguồn có link + ngày truy cập 23/11/2026 + loại nguồn + mức tin cậy.
+
 
 ## 3. YouTube — Script video dài Thứ 2
 
@@ -170,7 +206,7 @@ Nấc thứ hai là làm độc lập: tự nhận 1 ca, tự lo bữa ăn, thu�
 
 Nấc thứ ba là chăm người bệnh nặng: người liệt giường, người sau tai biến, người lẫn nặng. Mốc này thường sau 6–12 tháng, và phải học thêm về chăm sóc người bệnh, vật lý trị liệu cơ bản. Làm được nấc này thì lương cao hơn, nhưng trách nhiệm cũng nặng hơn.
 
-Học ở đâu thì có 3 đường. Đường nhanh nhất: đăng ký làm qua công ty dịch vụ chăm sóc hoặc trung tâm giới thiệu việc — Giúp Việc Cô Tấm, Tâm An, San Care ở TP.HCM, Giúp việc Thành Công ở Đà Nẵng. Nhiều nơi đào tạo tại chỗ, nhận việc ngay, không thu học phí trước. Đường thứ hai: khóa ngắn hạn chăm sóc người cao tuổi, 2–3 tháng, học phí khoảng 4–9 triệu đồng tùy miền — ví dụ Trường Trung cấp Y Dược Tuệ Tĩnh Hà Nội, khóa dưới 3 tháng, tổng 4.855.000đ 1 khóa; Trung tâm Miền Nam ở Bình Thạnh, TP.HCM, khóa 2 tháng, 6 triệu 1 khóa, học cuối tuần; Hướng Nghiệp Á Âu, khóa 32 buổi, 14 triệu 1 khóa, có chi nhánh Đà Nẵng. Học xong được cấp chứng chỉ chăm sóc người cao tuổi. Đường thứ ba: học trung cấp điều dưỡng, 1,5–3 năm, có bằng — đường này hợp với người muốn làm điều dưỡng thật sự trong bệnh viện, không phải đường nhanh, và cũng không phải nghề caregiver này."
+Học ở đâu thì có 3 đường. Đường nhanh nhất: đăng ký làm qua công ty dịch vụ chăm sóc hoặc trung tâm giới thiệu việc — Giúp Việc Cô Tấm, Tâm An, San Care ở TP.HCM, Giúp việc Thành Công ở Đà Nẵng. Nhiều nơi đào tạo tại chỗ, nhận việc ngay, không thu học phí trước. Đường thứ hai: khóa ngắn hạn chăm sóc người cao tuổi, 2–3 tháng, học phí khoảng 4–14 triệu đồng tùy miền — ví dụ Trường Trung cấp Y Dược Tuệ Tĩnh Hà Nội, khóa dưới 3 tháng, tổng 4.855.000đ 1 khóa; Trung tâm Miền Nam ở Bình Thạnh, TP.HCM, khóa 2 tháng, 6 triệu 1 khóa, học cuối tuần; Hướng Nghiệp Á Âu, khóa 32 buổi, 14 triệu 1 khóa, có chi nhánh Đà Nẵng. Học xong được cấp chứng chỉ chăm sóc người cao tuổi. Đường thứ ba: học trung cấp điều dưỡng, 1,5–3 năm, có bằng — đường này hợp với người muốn làm điều dưỡng thật sự trong bệnh viện, không phải đường nhanh, và cũng không phải nghề caregiver này."
 
 ### 7:00–8:30 — Career path + tìm việc, tìm khách ở đâu
 
@@ -247,7 +283,7 @@ Bạn ghi nhật ký chăm sóc bằng bảng tính hoặc app ghi chú: hôm na
 
 Chia làm 3 nấc. Nấc đầu là làm được việc cơ bản: chăm sóc sinh hoạt, nhắc thuốc, đo huyết áp, ghi nhật ký — học tập trung thì khoảng 1–3 tháng (theo pool nghiên cứu 100 nghề). Học sơ cấp cứu trước — nhận biết dấu hiệu đột quỵ, xử lý khi người già ngã, khi nào gọi cấp cứu 115 — rồi học đo huyết áp, thân nhiệt, nhịp tim, rồi mới nhận ca thật. Nấc thứ hai là làm độc lập: tự nhận 1 ca, tự lo bữa ăn, thuốc men, báo cáo cho gia đình, không cần người kèm — thường mất 3–6 tháng. Nấc thứ ba là chăm người bệnh nặng: người liệt giường, người sau tai biến, người lẫn nặng — thường sau 6–12 tháng, và phải học thêm về chăm sóc người bệnh, vật lý trị liệu cơ bản.
 
-Học ở đâu thì có 3 đường. Nhanh nhất: đăng ký làm qua công ty dịch vụ chăm sóc hoặc trung tâm giới thiệu việc — Giúp Việc Cô Tấm, Tâm An, San Care ở TP.HCM, Giúp việc Thành Công ở Đà Nẵng. Nhiều nơi đào tạo tại chỗ, nhận việc ngay, không thu học phí trước. Thứ hai: khóa ngắn hạn chăm sóc người cao tuổi 2–3 tháng, học phí khoảng 4–9 triệu đồng — ví dụ Trường Trung cấp Y Dược Tuệ Tĩnh Hà Nội, khóa dưới 3 tháng, tổng 4.855.000đ 1 khóa; Trung tâm Miền Nam ở Bình Thạnh, TP.HCM, khóa 2 tháng, 6 triệu 1 khóa, học cuối tuần; Hướng Nghiệp Á Âu, khóa 32 buổi, 14 triệu 1 khóa, có chi nhánh Đà Nẵng. Học xong được cấp chứng chỉ chăm sóc người cao tuổi. Thứ ba: học trung cấp điều dưỡng, 1,5–3 năm, có bằng — đường này hợp với người muốn làm điều dưỡng thật sự trong bệnh viện, không phải đường nhanh, và cũng không phải nghề caregiver này.
+Học ở đâu thì có 3 đường. Nhanh nhất: đăng ký làm qua công ty dịch vụ chăm sóc hoặc trung tâm giới thiệu việc — Giúp Việc Cô Tấm, Tâm An, San Care ở TP.HCM, Giúp việc Thành Công ở Đà Nẵng. Nhiều nơi đào tạo tại chỗ, nhận việc ngay, không thu học phí trước. Thứ hai: khóa ngắn hạn chăm sóc người cao tuổi 2–3 tháng, học phí khoảng 4–14 triệu đồng — ví dụ Trường Trung cấp Y Dược Tuệ Tĩnh Hà Nội, khóa dưới 3 tháng, tổng 4.855.000đ 1 khóa; Trung tâm Miền Nam ở Bình Thạnh, TP.HCM, khóa 2 tháng, 6 triệu 1 khóa, học cuối tuần; Hướng Nghiệp Á Âu, khóa 32 buổi, 14 triệu 1 khóa, có chi nhánh Đà Nẵng. Học xong được cấp chứng chỉ chăm sóc người cao tuổi. Thứ ba: học trung cấp điều dưỡng, 1,5–3 năm, có bằng — đường này hợp với người muốn làm điều dưỡng thật sự trong bệnh viện, không phải đường nhanh, và cũng không phải nghề caregiver này.
 
 **Career path**
 
@@ -331,7 +367,7 @@ Mẹo này không tốn tiền, chỉ tốn 5 phút mỗi tối. Lưu bài này 
 
 ---
 
-## 3 việc thật đang tuyển người chăm sóc người già
+## Việc thật đang tuyển người chăm sóc người già (2 việc còn tra được + 1 việc đã hết hạn, thay bằng hướng dẫn tìm tin mới)
 
 ### Việc 1: Tìm người chăm ông buổi tối (được ngủ) 21h–7h — TP.HCM
 
@@ -340,28 +376,24 @@ Mẹo này không tốn tiền, chỉ tốn 5 phút mỗi tối. Lưu bài này 
 - Công việc: chăm ông lớn tuổi không đi lại được; buổi tối đi vệ sinh 2–3 lần cần người khiêng ngồi qua toilet (ông 60kg); ngoài lúc đỡ ông qua toilet thì ngủ bình thường
 - Yêu cầu: nữ, 20–60 tuổi, không yêu cầu học vấn, không yêu cầu kinh nghiệm
 - Ngày đăng tin: 17/11/2026 (Vieclamtot)
+- Lưu ý hạn: tin đăng 17/11/2026, không ghi hạn nộp — tới ngày đăng bài 15/01/2027 đã gần 2 tháng, kiểm tra lại link trước khi đăng; nếu tin đã có người nhận thì tìm tin thay thế theo hướng dẫn ở cuối bài
 - Link: https://www.vieclamtot.com/viec-lam-quan-12-tp-ho-chi-minh/135898016.htm
 - Hợp với bạn nếu: bạn muốn bắt đầu bằng ca tối, công việc nhẹ về chuyên môn nhưng đòi hỏi dậy đêm 2–3 lần. Lưu ý: tin này tuyển nữ — bạn nam thì hỏi rõ gia đình trước khi ứng tuyển.
 
-### Việc 2: Ứng viên nhận giúp việc chăm em, chăm già, nấu ăn — Đà Nẵng
+### Việc 2: ĐÃ HẾT HẠN 31/12/2026 — tìm tin thay thế theo hướng dẫn dưới đây (không đăng tin hết hạn)
 
-- Người đăng: Giúp việc Thành Công (trung tâm giới thiệu việc), Đà Nẵng — 98 Lê Thạch, An Khê
-- Lương: 7–8 triệu/tháng
-- Công việc: giúp việc nhà, chăm em bé, chăm người già, nấu ăn, tạp vụ, chăm bệnh
-- Yêu cầu: nữ, 30–55 tuổi, không yêu cầu kinh nghiệm, tuyển 10 người
-- Ngày đăng tin: 14/11/2026, hạn nộp 31/12/2026 (vieclamngay.vn)
-- Link: https://www.vieclamngay.vn/viec-lam/ung-vien-nhan-giup-viec-cham-em-cham-gia-nau-an-ngon-viec-lam-hoang-ha-0afa8552-1775-417f-8511-bdcab57d6a9d
-- Hợp với bạn nếu: bạn ở Đà Nẵng và muốn vào nghề qua trung tâm giới thiệu việc. Lưu ý: tin này tuyển nữ 30–55 tuổi; bạn nam hoặc dưới 30 tuổi thì hỏi trung tâm xem có gia đình nào nhận nam không trước khi đăng ký.
+- Tin cũ (chỉ để tham khảo, KHÔNG nộp đơn): Giúp việc Thành Công, Đà Nẵng — ứng viên nhận giúp việc chăm em, chăm già, nấu ăn, lương 7–8 triệu/tháng, tuyển 10 người, nữ 30–55 tuổi, đăng 14/11/2026, **hạn nộp 31/12/2026 — đã hết hạn trước ngày đăng bài 15/01/2027**. Link cũ: https://www.vieclamngay.vn/viec-lam/ung-vien-nhan-giup-viec-cham-em-cham-gia-nau-an-ngon-viec-lam-hoang-ha-0afa8552-1775-417f-8511-bdcab57d6a9d
+- Cách tìm tin thay thế (làm sát ngày đăng 15/01/2027): (1) Vào vieclamtot.com, tìm "chăm người già Đà Nẵng" / "giúp việc chăm người già", lọc tin đăng trong 7 ngày gần nhất, ưu tiên tin ghi rõ giờ làm, lương, tình trạng sức khỏe người được chăm. (2) Vào vieclamngay.vn, tìm "giúp việc chăm già Đà Nẵng", lọc tin còn hạn sau 15/01/2027. (3) Hỏi trực tiếp Giúp việc Thành Công (98 Lê Thạch, An Khê, Đà Nẵng) xem có gia đình nào đang cần người không — trung tâm giới thiệu việc nhận đăng ký quanh năm, không chỉ qua tin đăng. (4) Tiêu chí chọn tin thay thế: còn hạn sau ngày đăng, ghi rõ lương + giờ làm + yêu cầu giới tính/độ tuổi, không yêu cầu kinh nghiệm nếu bạn mới vào nghề.
 
 ### Việc 3: San Nurse — Chăm sóc người già tại nhà theo giờ — TP.HCM
 
 - Công ty: San Care Platform (San Pro), 220/27 Nguyễn Trọng Tuyên, Phú Nhuận, TP.HCM
 - Thu nhập: 10–15 triệu đồng/tháng, có thưởng thâm niên và thưởng hiệu suất
-- Ngày thấy tin: 23/11/2026 (trang tuyển dụng sanpro.vn — không ghi hạn, kiểm tra lại trước ngày đăng)
+- Ngày thấy tin: 23/11/2026 (trang tuyển dụng sanpro.vn — không ghi hạn, kiểm tra lại link trước ngày đăng 15/01/2027; nếu trang đã gỡ tin thì tìm tin thay thế theo hướng dẫn ở cuối bài)
 - Link: https://sanpro.vn/en/recruitment/
 - Hợp với bạn nếu: bạn muốn làm qua công ty chuyên nghiệp, có đào tạo, có thưởng thâm niên. Hỏi rõ trước khi nhận: làm theo giờ thì tháng được bao nhiêu giờ, công ty giữ lại bao nhiêu phần giá dịch vụ.
 
-Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 15/01/2027 — gần 2 tháng sau — trước khi đăng, kiểm tra lại link xem tin còn hạn không. 2 tin TopCV của Tâm An (10–20 triệu; 12–20 triệu, TP.HCM) đã ghi "Hết hạn ứng tuyển" ở thời điểm tra cứu 23/11/2026 nên KHÔNG đưa vào 3 việc thật. Ở Hà Nội và Cần Thơ không tìm thấy tin tuyển trực tiếp nào trên TopCV/VietnamWorks ngày 23/11/2026 — nếu bạn ở 2 nơi này thì tìm việc qua trung tâm giới thiệu việc địa phương (Hà Nội: Giúp Việc Cô Tấm; Cần Thơ: Thành Tâm Care — chăm sóc tại nhà 8–12 triệu/tháng theo giá dịch vụ, hỏi rõ lương nhận về trước khi nhận việc).
+Lưu ý: Việc 1 và Việc 3 là tin tìm thấy ngày 23/11/2026; Việc 2 đã hết hạn 31/12/2026 nên bài này không đăng tin đó mà để hướng dẫn tìm tin thay thế ở trên. Ngày đăng bài là 15/01/2027 — gần 2 tháng sau ngày tra cứu — trước khi đăng, kiểm tra lại link xem tin còn hạn không. 2 tin TopCV của Tâm An (10–20 triệu; 12–20 triệu, TP.HCM) đã ghi "Hết hạn ứng tuyển" ở thời điểm tra cứu 23/11/2026 nên KHÔNG đưa vào 3 việc thật. Ở Hà Nội và Cần Thơ không tìm thấy tin tuyển trực tiếp nào trên TopCV/VietnamWorks ngày 23/11/2026 — nếu bạn ở 2 nơi này thì tìm việc qua trung tâm giới thiệu việc địa phương (Hà Nội: Giúp Việc Cô Tấm; Cần Thơ: Thành Tâm Care — chăm sóc tại nhà 8–12 triệu/tháng theo giá dịch vụ, hỏi rõ lương nhận về trước khi nhận việc).
 
 ---
 
@@ -469,7 +501,7 @@ Câu hook chung mọi clip: **"Dev bị layoff thì làm gì?"** + số tập. 6
 
 File kịch bản: `tiktok/kich-ban-reel-thu-4.md` — hoạt hình flat 2D có màu kiểu Kurzgesagt, dọc 1080x1920, 30fps, 40–45 giây, giọng Dapper Cuff tốc độ 100, 150 từ, đủ 6 đoạn theo sườn.
 
-Hook: "Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có nghề học 2 đến 3 tháng là làm được: chăm sóc người già tại nhà." Tóm tắt: Context (2 giờ sáng ông dậy đi vệ sinh) → 3 ý giá trị (học 2–3 tháng là đi làm được; nhật ký chăm sóc gửi gia đình mỗi tối; đỡ người, dậy đêm, không có phím tắt) → Payoff: "Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền ngay." + hé nghề tuần sau: cắt tỉa thú cưng.
+Hook: "Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có nghề học 2 đến 3 tháng là làm được: chăm sóc người già tại nhà." Tóm tắt: Context (2 giờ sáng ông dậy đi vệ sinh) → 3 ý giá trị (học 2–3 tháng rồi làm phụ có người kèm; nhật ký chăm sóc gửi gia đình mỗi tối; đỡ người, dậy đêm, không có phím tắt) → Payoff: "Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền, xây từng gia đình một." + hé nghề tuần sau: cắt tỉa thú cưng.
 
 ### 5.1. Tập 1 — Thứ 2
 
@@ -611,7 +643,7 @@ Comment câu hỏi của bạn, tuần sau mình trả lời tiếp.
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Ở Hà Nội, khóa dưới 3 tháng khoảng 4 triệu 8. Vào Đà Nẵng, khóa 32 buổi 14 triệu. Xuống Sài Gòn, khóa 2 tháng 6 triệu, có chỗ 9 triệu. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong là cầm chứng chỉ đi làm được ngay. Còn không muốn học khóa thì đăng ký qua công ty, đào tạo tại chỗ, nhận việc ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Ở Hà Nội, khóa dưới 3 tháng khoảng 4 triệu 8. Vào Đà Nẵng, khóa 32 buổi 14 triệu. Xuống Sài Gòn, khóa 2 tháng 6 triệu, có chỗ 9 triệu. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong cầm chứng chỉ đi làm phụ có người kèm, làm độc lập sau 3–6 tháng làm thật. Còn không muốn học khóa thì đăng ký qua công ty, đào tạo tại chỗ, nhận việc ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 
@@ -658,7 +690,7 @@ Comment tỉnh của bạn, mình tìm khóa học gần nhất cho bạn.
 ## Tuần 4 (ngày 22–30): Nhận ca riêng + chuẩn bị tháng thứ 2
 
 - Ngày 22–24: Xin nhận 1 ca riêng trọn vẹn (từ lúc tới nhà đến lúc bàn giao ca): chuẩn bị bữa ăn, nhắc thuốc, đo huyết áp, ghi nhật ký, gửi tin nhắn báo cáo cho gia đình. Nhờ người kèm kiểm tra lại nhật ký trước khi gửi.
-- Ngày 25–26: Đăng ký 1 khóa ngắn hạn chăm sóc người cao tuổi (2–3 tháng, 4–9 triệu tùy miền) nếu chưa học; hoặc đăng ký học sơ cấp cứu tại Hội Chữ thập đỏ địa phương nếu chưa có chứng chỉ.
+- Ngày 25–26: Đăng ký 1 khóa ngắn hạn chăm sóc người cao tuổi (2–3 tháng, 4–14 triệu tùy miền) nếu chưa học; hoặc đăng ký học sơ cấp cứu tại Hội Chữ thập đỏ địa phương nếu chưa có chứng chỉ.
 - Ngày 27–28: Hỏi công ty hoặc gia đình xem tháng thứ 2 mình nhận thêm ca nào được, cần thêm kỹ năng gì (chăm người liệt giường, chăm người sau tai biến...). Ghi lại thành mục tiêu tháng thứ 2.
 - Ngày 29–30: Tổng kết 30 ngày: bạn đã chăm được bao nhiêu ca, học được bao nhiêu tình huống, có bao nhiêu gia đình tin tưởng giao ca, thu nhập thực tế tháng đầu là bao nhiêu. So với mục tiêu ngày 1, cái gì đạt, cái gì chưa — viết ra, đừng chỉ nghĩ.
 

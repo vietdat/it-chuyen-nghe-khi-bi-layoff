@@ -8,7 +8,7 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Ở Hà Nội, khóa cơ bản 2 tới 3 tháng, 8 tới 10 triệu, có chỗ 18 triệu. Vào Đà Nẵng, khóa 2 tới 3 tháng, 6 triệu, có chỗ 10 triệu. Xuống Sài Gòn, khóa 2 tới 3 tháng, 6 tới 8 triệu, có chỗ 8 tới 15 triệu. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong là cầm tông đơ đứng ghế được ngay. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
+"Dev bị layoff thì làm gì? Tập 7, ngoại truyện. Anh ấy mở điện thoại, tìm chỗ học nghề. Ở Hà Nội, khóa cơ bản 2 tới 3 tháng, 8 tới 10 triệu, có chỗ 18 triệu. Vào Đà Nẵng, khóa 2 tới 3 tháng, 6 triệu, có chỗ 10 triệu. Xuống Sài Gòn, khóa 2 tới 3 tháng, 6 tới 8 triệu, có chỗ 8 tới 15 triệu. Ba miền, giá khác nhau, nhưng điểm chung là 1 điều: học xong khóa cơ bản là cầm tông đơ cắt được tóc đơn giản dưới sự kèm cặp — còn đứng ghế cắt khách riêng độc lập thì phải 6–12 tháng vừa học vừa làm. Bạn ở miền nào? Comment tỉnh của bạn, mình tìm khóa gần nhất."
 
 ## Chữ trên màn hình
 

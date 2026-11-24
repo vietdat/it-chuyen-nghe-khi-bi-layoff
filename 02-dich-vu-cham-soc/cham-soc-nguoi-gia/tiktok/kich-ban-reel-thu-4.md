@@ -13,16 +13,16 @@
 |---|---|---|---|---|
 | 01 HOOK | 0–3s | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có nghề học 2 đến 3 tháng là làm được: chăm sóc người già tại nhà. (28 từ) | "Dev bị layoff thì làm gì?" | Dev ôm thùng đồ ra khỏi văn phòng, nền navy |
 | 02 CONTEXT | 3–8s | 2 giờ sáng, ông dậy đi vệ sinh. Người chăm ông dậy cùng, đỡ ông qua toilet. Ban ngày nấu ăn, nhắc thuốc, đo huyết áp. (26 từ) | "2 giờ sáng: ai đỡ ông dậy?" | Tay người chăm đỡ tay cụ già vịn thành giường, đèn ngủ vàng, nền xanh lá |
-| 03 VALUE 1 | 8–16s | Học 2 đến 3 tháng: sơ cấp cứu, đo huyết áp, nhắc thuốc. Học xong là đi làm được ngay. (20 từ) | "Học 2–3 tháng là đi làm được" | Người học đo huyết áp cho cụ già, nền nâu |
+| 03 VALUE 1 | 8–16s | Học 2 đến 3 tháng: sơ cấp cứu, đo huyết áp, nhắc thuốc. Học xong làm phụ có người kèm, chưa làm độc lập ngay. (25 từ) | "Học 2–3 tháng, làm phụ có người kèm" | Người học đo huyết áp cho cụ già, nền nâu |
 | 04 VALUE 2 | 16–26s | Dân IT có 1 cái lợi: nhật ký chăm sóc gửi gia đình. Ông ăn mấy bát, thuốc uống đúng giờ không — nhà xa đọc là biết. (28 từ) | "Nhật ký chăm sóc gửi gia đình mỗi tối" | Điện thoại hiện tin nhắn báo cáo: ăn, thuốc, huyết áp, nền cam |
 | 05 VALUE 3 | 26–32s | Cái phải học lại thì không né được: đỡ người, dậy đêm, kiên nhẫn với người lẫn hay cáu. Làm bằng tay, không có phím tắt. (26 từ) | "Đỡ người, dậy đêm — không có phím tắt" | Người chăm đỡ cụ già đi bộ trong nhà, nền tím |
-| 06 PAYOFF + CTA | 32–45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền ngay. Tuần sau: cắt tỉa thú cưng. (22 từ) | "Bài đầy đủ ở bài ghim" | Cụ già mỉm cười, người chăm ngồi trò chuyện bên cạnh, nền vàng |
+| 06 PAYOFF + CTA | 32–45s | Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền, xây từng gia đình một. Tuần sau: cắt tỉa thú cưng. (26 từ) | "Bài đầy đủ ở bài ghim" | Cụ già mỉm cười, người chăm ngồi trò chuyện bên cạnh, nền vàng |
 
 Tổng lời thoại: 28 + 26 + 20 + 28 + 26 + 22 = 150 từ.
 
 ## Lời thoại đầy đủ (đọc liền)
 
-"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có nghề học 2 đến 3 tháng là làm được: chăm sóc người già tại nhà. 2 giờ sáng, ông dậy đi vệ sinh. Người chăm ông dậy cùng, đỡ ông qua toilet. Ban ngày nấu ăn, nhắc thuốc, đo huyết áp. Học 2 đến 3 tháng: sơ cấp cứu, đo huyết áp, nhắc thuốc. Học xong là đi làm được ngay. Dân IT có 1 cái lợi: nhật ký chăm sóc gửi gia đình. Ông ăn mấy bát, thuốc uống đúng giờ không — nhà xa đọc là biết. Cái phải học lại thì không né được: đỡ người, dậy đêm, kiên nhẫn với người lẫn hay cáu. Làm bằng tay, không có phím tắt. Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền ngay. Tuần sau: cắt tỉa thú cưng."
+"Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có nghề học 2 đến 3 tháng là làm được: chăm sóc người già tại nhà. 2 giờ sáng, ông dậy đi vệ sinh. Người chăm ông dậy cùng, đỡ ông qua toilet. Ban ngày nấu ăn, nhắc thuốc, đo huyết áp. Học 2 đến 3 tháng: sơ cấp cứu, đo huyết áp, nhắc thuốc. Học xong làm phụ có người kèm, chưa làm độc lập được ngay. Dân IT có 1 cái lợi: nhật ký chăm sóc gửi gia đình. Ông ăn mấy bát, thuốc uống đúng giờ không — nhà xa đọc là biết. Cái phải học lại thì không né được: đỡ người, dậy đêm, kiên nhẫn với người lẫn hay cáu. Làm bằng tay, không có phím tắt. Layoff rồi, giờ làm gì? Có người đổi sang nghề tay mình làm ra tiền, xây từng gia đình một. Tuần sau: cắt tỉa thú cưng."
 
 ## CTA
 

@@ -7,15 +7,15 @@
 
 ## 4 việc thật đang tuyển nhân viên giặt ủi
 
-### Việc 1: Nhân viên vận hành cửa hàng giặt là - Hà Nội
+### Việc 1: Cách tìm tin vận hành cửa hàng giặt là đang mở — thay cho tin Vinplus đã hết hạn 31/12/2026
 
-- Công ty: Công ty CP Vinplus (thuộc Asiatech Holding)
-- Lương: 9–13 triệu/tháng + phụ cấp ăn trưa + % thưởng cửa hàng + phụ cấp tay nghề (sau khi làm chính thức từ 2 tháng trở lên)
-- Yêu cầu: học việc 2 tháng hưởng 85% lương (có thể rút ngắn nếu năng lực tốt); không ghi yêu cầu kinh nghiệm cứng
-- Địa điểm: 174 La Casta Văn Phú, phường Kiến Hưng, Hà Nội
-- Ngày thấy tin: 23/11/2026 (Viecday, tin đăng 30/10/2026, hạn nộp 31/12/2026)
-- Link: https://viecday.com/viec-lam/nhan-vien-van-hanh-cua-hang-giat-la-2558739/
-- Hợp với bạn nếu: bạn là người mới chuyển nghề, chưa biết việc — nộp vị trí này để học việc có lương, rồi lên vận hành cửa hàng.
+- Tin cũ chỉ để tham khảo: Nhân viên vận hành cửa hàng giặt là, Công ty CP Vinplus (Asiatech Holding), Hà Nội, 9–13 triệu/tháng + phụ cấp ăn trưa + % thưởng cửa hàng + phụ cấp tay nghề, học việc 2 tháng hưởng 85% lương, hạn nộp 31/12/2026 — ĐÃ HẾT HẠN trước ngày đăng 26/02/2027, KHÔNG nộp đơn. Link cũ để đối chiếu lương và hình thức học việc: https://viecday.com/viec-lam/nhan-vien-van-hanh-cua-hang-giat-la-2558739/
+- Cách tìm tin thay thế sát ngày đăng 26/02/2027 (4 bước):
+  1. Viecday / TopCV → tìm "vận hành cửa hàng giặt là", "nhân viên giặt là", "nhân viên giặt sấy" → lọc tin còn hạn sau 26/02/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm" và "học việc hưởng % lương".
+  2. Việc Làm Tốt → tìm "nhân viên giặt sấy" Hà Nội → lọc tin còn hạn sau 26/02/2027.
+  3. Ưu tiên tin ghi rõ lương tháng (mốc tham khảo: vận hành cửa hàng 9–13 triệu; nhân viên giặt sấy 7–8 triệu).
+  4. Hỏi trực tiếp tiệm giặt gần nhà — nhiều tiệm nhận học việc mà không đăng tin.
+- Hợp với bạn nếu: bạn là người mới chuyển nghề, chưa biết việc — tìm vị trí học việc có lương tương tự để học việc rồi lên vận hành cửa hàng.
 
 ### Việc 2: Nhân viên giặt sấy - Quận 4, TP.HCM
 
@@ -39,18 +39,16 @@
 - Link: https://www.vieclamtot.com/viec-lam-quan-thanh-khe-da-nang/135860870.htm
 - Hợp với bạn nếu: bạn ở Đà Nẵng, muốn việc ổn định ở xưởng giặt công nghiệp, chấp nhận làm ca sớm hoặc ca tối, có chỗ ở nếu ở xa.
 
-### Việc 4: Nhân viên xưởng giặt - Khách sạn Lion, Cần Thơ
+### Việc 4: Cách tìm tin xưởng giặt Cần Thơ đang mở — thay cho tin Lion đã hết hạn 31/12/2026
 
-- Công ty: Khách sạn Lion
-- Lương: thỏa thuận theo năng lực + phụ cấp + tăng ca + lương tháng 13, xét thưởng hàng tháng
-- Yêu cầu: nam 18–45 tuổi, siêng năng, chịu khó, có trách nhiệm, sức khỏe tốt; không yêu cầu kinh nghiệm (được đào tạo), ưu tiên từng làm giặt ủi khách sạn / xưởng giặt công nghiệp
-- Công việc: phân loại đồ giặt (ga, khăn...), vận hành máy giặt, máy sấy, máy ủi công nghiệp, gấp, đóng gói đồ sạch
-- Địa điểm: 62-64 đường 30 Tháng 4, phường Ninh Kiều, Cần Thơ
-- Ngày thấy tin: 23/11/2026 (Sàn Việc làm Cần Thơ, tin đăng 17/11/2026, hạn nộp 31/12/2026)
-- Link: https://sanvieclamcantho.com/khach-san-lion-tuyen-dung-nhan-vien-xuong-giat-116929.html
+- Tin cũ chỉ để tham khảo: Nhân viên xưởng giặt, Khách sạn Lion, Cần Thơ, lương thỏa thuận + phụ cấp + tăng ca + lương tháng 13, không yêu cầu kinh nghiệm (được đào tạo), hạn nộp 31/12/2026 — ĐÃ HẾT HẠN trước ngày đăng 26/02/2027, KHÔNG nộp đơn. Link cũ để đối chiếu: https://sanvieclamcantho.com/khach-san-lion-tuyen-dung-nhan-vien-xuong-giat-116929.html
+- Cách tìm tin thay thế sát ngày đăng 26/02/2027 (3 bước):
+  1. Sàn Việc làm Cần Thơ (sanvieclamcantho.com) → tìm "xưởng giặt", "nhân viên giặt sấy" → lọc tin còn hạn sau 26/02/2027.
+  2. Việc Làm Tốt → chọn Cần Thơ → tìm "nhân viên giặt sấy" (tin dự phòng đăng 22/11/2026: 1 NV Giặt Sấy Cần Thơ, 5 triệu/tháng, ca 14h–22h — kiểm tra lại link trước khi đăng: https://www.vieclamtot.com/viec-lam-quan-ninh-kieu-can-tho/135988404.htm).
+  3. Hỏi trực tiếp khách sạn và tiệm giặt gần nhà ở Ninh Kiều — Cần Thơ gần như không có tin giặt ủi trên TopCV hay VietnamWorks.
 - Hợp với bạn nếu: bạn ở Cần Thơ, muốn học vận hành máy công nghiệp trong khách sạn, chưa biết việc vẫn được đào tạo.
 
-4 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 26/02/2027, nên trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên Việc Làm Tốt hoặc sàn địa phương, không đăng tin hết hạn. Tin dự phòng tìm thấy cùng ngày 23/11/2026: NV Giặt Hấp Ủi, Nhà Bè, TP.HCM, thu nhập 7,5–8,5 triệu/tháng, đăng 21/11/2026 (https://www.vieclamtot.com/viec-lam-huyen-nha-be-tp-ho-chi-minh/135741991.htm); 1 Nhân Viên Giặt Sấy Cần Thơ, 5 triệu/tháng, ca 14h–22h, đăng 22/11/2026 (https://www.vieclamtot.com/viec-lam-quan-ninh-kieu-can-tho/135988404.htm). Ở Cần Thơ gần như không có tin giặt ủi trên TopCV hay VietnamWorks. Bạn ở Cần Thơ thì tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com) và hỏi trực tiếp tiệm giặt gần nhà.
+Tin tuyển tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 26/02/2027 — PHẢI tra lại sát ngày đăng. Việc 1 (Vinplus) và Việc 4 (Lion) đã hết hạn 31/12/2026, đã thay bằng hướng dẫn tìm tin đang mở ở trên; Việc 2 (Q.4, đăng 15/11/2026, không ghi hạn) và Việc 3 (Đức Khoa, đăng 19/11/2026, không ghi hạn) giữ lại nhưng PHẢI kiểm tra lại link trước khi đăng — nếu tin đã gỡ thì thay bằng tin dự phòng (NV Giặt Hấp Ủi Nhà Bè 7,5–8,5 triệu, đăng 21/11/2026; 1 NV Giặt Sấy Cần Thơ 5 triệu, đăng 22/11/2026) hoặc tin đang mở khác trên Việc Làm Tốt / sàn địa phương, không đăng tin hết hạn. Tin dự phòng tìm thấy cùng ngày 23/11/2026: NV Giặt Hấp Ủi, Nhà Bè, TP.HCM, thu nhập 7,5–8,5 triệu/tháng, đăng 21/11/2026 (https://www.vieclamtot.com/viec-lam-huyen-nha-be-tp-ho-chi-minh/135741991.htm); 1 Nhân Viên Giặt Sấy Cần Thơ, 5 triệu/tháng, ca 14h–22h, đăng 22/11/2026 (https://www.vieclamtot.com/viec-lam-quan-ninh-kieu-can-tho/135988404.htm). Ở Cần Thơ gần như không có tin giặt ủi trên TopCV hay VietnamWorks. Bạn ở Cần Thơ thì tìm việc qua Sàn Việc làm Cần Thơ (sanvieclamcantho.com) và hỏi trực tiếp tiệm giặt gần nhà.
 
 
 ## CV mẫu: trước và sau

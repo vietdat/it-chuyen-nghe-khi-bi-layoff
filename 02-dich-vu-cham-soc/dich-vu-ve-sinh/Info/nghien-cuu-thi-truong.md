@@ -148,7 +148,7 @@ Số tin dưới đây là số tin TÌM THẤY qua tìm kiếm công khai ngày
 | Nam (TP.HCM) | bTaskee / JupViec / Ting TP.HCM — đào tạo + đồng phục miễn phí (Ting), nhận việc qua app | Hướng dẫn của nền tảng, nhận việc qua app | 0đ (đăng ký miễn phí, theo ting.vn) |
 | Nam (TP.HCM) | Xin làm tạp vụ nhà hàng / khách sạn / văn phòng (El Gaucho, Azumaya...) | Học việc tại chỗ | 0đ (đi làm có lương ngay) |
 
-- Nhận xét: nghề vệ sinh không tốn học phí học nghề. Chi phí ban đầu là hồ sơ (công chứng CCCD, lý lịch tư pháp — phí công chứng tùy địa phương, chưa có số liệu cụ thể nên không ghi con số) và đồ nghề cơ bản nếu tự nhận khách riêng. **Giá bộ đồ nghề trọn bộ: Chưa có số liệu** (không tìm thấy bảng giá trọn bộ có nguồn ngày 23/11/2026, không bịa giá).
+- Nhận xét: nghề vệ sinh không tốn học phí học nghề. Chi phí ban đầu là hồ sơ (công chứng CCCD, lý lịch tư pháp — phí công chứng bản sao tùy địa phương: **Chưa có số liệu** — không tìm thấy bảng giá công chứng công khai ngày 23/11/2026) và đồ nghề cơ bản nếu tự nhận khách riêng. Giá từng món cây lau theo Yên Phát (yenphat.vn, tra cứu 23/11/2026): cây lau nhà xoay 360 độ 200.000–500.000đ; cây lau phẳng 150.000–400.000đ; cây lau truyền thống 50.000–120.000đ; cây lau công nghiệp 200.000–560.000đ. Bộ dụng cụ 1 nhân sự vệ sinh chuyên nghiệp gồm: xe đẩy vệ sinh 2 xô có vắt, cây lau sàn microfiber, chổi–hốt rác, bình xịt, gạt kính, chổi cọ bồn cầu, biển "sàn ướt", khăn phân màu theo khu, hóa chất (nước lau sàn, lau kính, tẩy nhà vệ sinh, tẩy cặn vôi) — theo ANITIME (anitime.vn, tra cứu 23/11/2026), nhưng ANITIME không công khai giá bộ đồ nghề (đã nằm trong đơn giá dịch vụ 10.500.000đ/người/tháng). **Giá bộ đồ nghề trọn bộ: Chưa có số liệu** (không tìm thấy bảng giá trọn bộ có nguồn ngày 23/11/2026 — chỉ có giá lẻ từng món cây lau; máy hút bụi, máy chà sàn cũng Chưa có số liệu). Đi làm qua app hoặc công ty thì app/công ty có đồ nghề, không cần tự mua.
 
 ### 3 nấc học nghề (ước lượng, ghi rõ)
 
@@ -162,7 +162,7 @@ Khoảng lương theo nấc, lấy từ tin tuyển đang mở và trang tuyển
 
 - Làm thuê toàn thời gian, tạp vụ / nhân viên vệ sinh (mới vào, không cần kinh nghiệm): **5–8 triệu/tháng** (Vieclam24h: dưới 1 năm kinh nghiệm 5–8 triệu; TopCV Hà Nội: housekeeping 6–7 triệu, dọn dẹp 6–8 triệu; El Gaucho TP.HCM 6–8,5 triệu; El Gaucho Đà Nẵng 6–6,5 triệu; Cần Thơ 5–7 triệu).
 - Làm thuê toàn thời gian, có kinh nghiệm / ca đặc thù: **8–11 triệu/tháng** (T-Khoa Đà Nẵng 8–11 triệu; Esco Beach Đà Nẵng chính thức 8,5–9 triệu; Lavender Hà Nội thu nhập 8–9 triệu, tạp vụ thẩm mỹ 8–10 triệu; Haviland House Đà Nẵng 8–10 triệu).
-- Làm theo giờ qua app (nhận nhiều ca, làm đều): **60.000–120.000đ/giờ** ca thường (bTaskee 65.000–80.000đ/giờ ca cơ bản, cuối tuần +20%, theo báo Thanh Niên 04/02/2026; JupViec 70.000–120.000đ/giờ, lễ Tết đến 250.000đ/giờ, theo tin TopCV HMC; Ting thực nhận 70.000–90.000đ/giờ, không chiết khấu, theo ting.vn). Thu nhập tháng nếu làm đều: bTaskee ghi bình quân khoảng 19 triệu/tháng chưa tính thưởng (đại diện bTaskee, báo Thanh Niên 04/02/2026); JupViec ghi 15–25 triệu/tháng (tin TopCV HMC). Hai con số này là mức nền tảng công bố cho người làm đều, nhiều ca — làm ít ca thì ít hơn, không lấy làm thu nhập đảm bảo.
+- Làm theo giờ qua app (nhận nhiều ca, làm đều): **60.000–120.000đ/giờ** ca thường (bTaskee 65.000–80.000đ/giờ ca cơ bản, cuối tuần +20%, theo báo Thanh Niên 04/02/2026; JupViec 70.000–120.000đ/giờ, lễ Tết đến 250.000đ/giờ, theo tin TopCV HMC; Ting thực nhận 70.000–90.000đ/giờ, không chiết khấu, theo ting.vn). Thu nhập tháng nếu làm đều: bTaskee ghi bình quân khoảng 19 triệu/tháng chưa tính thưởng (đại diện bTaskee, báo Thanh Niên 04/02/2026 — số này đã hơn 9 tháng trước ngày tra cứu 23/11/2026, kiểm tra lại trước ngày đăng 19/02/2027); JupViec ghi 15–25 triệu/tháng (tin TopCV HMC). Hai con số này là mức nền tảng công bố cho người làm đều, nhiều ca — làm ít ca thì ít hơn, không lấy làm thu nhập đảm bảo.
 - Giám sát / tổ trưởng / quản lý vệ sinh: **10–15 triệu/tháng** (Hygiene Supervisor The Yacht Hotel 10–18 triệu, VietnamWorks; Quản lý / Giám sát vệ sinh công nghiệp TINA 12–15 triệu, Joboko, hạn 19/12/2026; Vieclam24h: giám sát từ 10 triệu trở lên sau 3–5 năm).
 - Mức cao bất thường, ghi rõ chưa kiểm chứng: VinCons tuyển vệ sinh công trường 14–18 triệu/tháng (CafeF, khoảng 04/11/2026, làm 26 công/tháng, ca 8 tiếng, có chỗ ở miễn phí); dọn phòng homestay Q10 đến 14 triệu/tháng; nhân viên nghiệp vụ vệ sinh MMC đến 20 triệu/tháng (Việc Làm Tốt, 23/11/2026).
 - Giá khách trả (chỉ để tham khảo, khác với thu nhập người làm): dọn nhà ngày thường 60.000–80.000đ/giờ; cận Tết 120.000–150.000đ/giờ, ngày 26–29 Tết 180.000–200.000đ/giờ (afamily.vn, khảo sát Tết 2026); bTaskee Tết 400.000đ/2 giờ; JupViec Tết 415.000đ/buổi 2 giờ (cùng nguồn).
@@ -188,3 +188,164 @@ Khoảng lương theo nấc, lấy từ tin tuyển đang mở và trang tuyển
 - Mùa vụ rõ rệt: cao điểm dọn nhà đón Tết (tháng Chạp, trước Tết 06/02/2027) — báo Thanh Niên 04/02/2026 ghi bTaskee tuyển thêm liên tục dịp cao điểm, thu nhập cộng tác viên tháng Tết có thể lên 30–40 triệu nếu làm kín lịch; Be Group tuyển 300–500 lao động thời vụ dịp Tết. Sau Tết (tuần 15–21/02/2027) nhu cầu tổng vệ sinh chững lại, quay về dọn định kỳ và hợp đồng văn phòng. Thu nhập theo mùa, không đều cả năm.
 - Cạnh tranh: app nào cũng có hàng nghìn cộng tác viên, công ty vệ sinh nào cũng tuyển. Khách quen và đánh giá tốt mới là thứ giữ bạn lại lâu dài.
 - Không có chuyện "chắc chắn có việc" hay "làm giàu nhanh". Nghề này làm ra tiền bằng tay, theo ca, theo giờ, và phải xây khách quen dần.
+
+
+## 5. Nghề là gì / Ai hợp / Lợi thế ex-IT / Career path (mục 1, 2, 3, 5 của _TEMPLATE.md)
+
+> Các mục này đã viết đầy đủ trong bài dài Facebook và script YouTube tuần 12; phần dưới đây là bản ghi trong file nghiên cứu để đủ 12 mục, không thêm số liệu mới. Mọi số lương trong mục này lấy từ mục 3 ở trên (tin tuyển thật + số nền tảng công bố, tra cứu 23/11/2026).
+
+### 5.1. Nghề là gì / Công việc hằng ngày (mục 1)
+
+- Nhân viên vệ sinh / dọn dẹp nhà cửa, văn phòng: làm theo ca, theo giờ, khách đặt lịch trước qua app hoặc công ty.
+- Một ngày thật theo ca: sáng tới nhà khách, 2 giờ dọn xong căn hộ — lau sàn, lau bếp, dọn nhà tắm, xếp đồ gọn lại; chiều sang văn phòng, dọn 3 tầng trước giờ tan làm. Việc cụ thể: quét/lau sàn, hút bụi, dọn phòng ngủ/bếp/nhà tắm, lau kính, rửa bát, dọn giường, giặt giũ, dọn văn phòng/bếp nhà hàng.
+- Thể lực: đứng cả ngày, tay ướt, tiếp xúc hóa chất tẩy rửa; làm cả cuối tuần khi khách đặt ca.
+
+### 5.2. Ai hợp / Ai không hợp (mục 2)
+
+- **Hợp:** chịu được đứng cả ngày và làm việc tay chân; không ngại nhà bẩn, nhà tắm bẩn; chịu được mùi hóa chất tẩy rửa; làm được buổi sáng sớm và cuối tuần; chấp nhận thu nhập theo ca, tháng đầu chưa đều.
+- **Không hợp:** muốn ngồi làm việc, muốn giờ giấc cố định và nghỉ cuối tuần; dị ứng hóa chất tẩy rửa hoặc bệnh hô hấp nặng thêm khi hít hơi hóa chất; không chịu được làm việc ướt cả ngày.
+
+### 5.3. Lợi thế của người ex-IT (mục 3)
+
+- Nhận ca qua app, quản lý lịch, nhắc khách đặt lại đúng hẹn, chụp ảnh trước/sau cho khách thấy — đúng thói quen dùng công cụ quản lý của dân IT.
+- Đọc hướng dẫn hóa chất và quy trình dọn từng khu vực bằng tiếng Anh khi cần (từ kinh nghiệm đọc tài liệu kỹ thuật).
+- Ghi sổ thu nhập theo ca để biết tháng nào làm đều, tháng nào vắng.
+- Giới hạn nói thẳng: biết lập trình không giúp dọn nhanh hơn — tay nghề dọn vẫn phải học trên ca thật; lợi thế IT nằm ở nhận ca, quản lý lịch và giữ khách, không thay được tay nghề.
+
+### 5.4. Career path (mục 5)
+
+- **Tuần 1:** đăng ký app (bTaskee, JupViec, Ting), làm bài kiểm tra 15 câu, thử việc 1 ca, đi theo người có kinh nghiệm vài ca rồi nhận việc. Học phí: 0đ.
+- **Tháng 1–3:** làm tốt dọn nhà theo ca; làm thuê toàn thời gian mới vào, không cần kinh nghiệm: 5–8 triệu/tháng (Vieclam24h dưới 1 năm kinh nghiệm; TopCV Hà Nội housekeeping 6–7tr, dọn dẹp 6–8tr; El Gaucho TP.HCM 6–8,5tr, Đà Nẵng 6–6,5tr; Cần Thơ 5–7tr — xem mục 3).
+- **Tháng 3–12:** làm đều qua app, nhận nhiều ca: theo giờ 60–120k/giờ ca thường; bTaskee bình quân khoảng 19 triệu/tháng chưa tính thưởng (số từ báo Thanh Niên 04/02/2026 — đã hơn 9 tháng trước ngày tra cứu 23/11/2026, kiểm tra lại trước ngày đăng); JupViec 15–25 triệu/tháng. Hai con số này đi kèm điều kiện làm nhiều ca, cuối tuần, lễ Tết — làm ít ca thì ít hơn, không lấy làm thu nhập đảm bảo.
+- **Năm 1–2:** tổ trưởng / giám sát đội vệ sinh — quản lý ca, kiểm tra chất lượng dọn của người khác. Lương nấc này: Chưa có số liệu từ tin tuyển thật.
+- **Sau 2 năm:** tự nhận khách riêng / mở công ty vệ sinh — cần đăng ký hộ kinh doanh (xem mục 9) và đồ nghề riêng (xem mục 10).
+
+## 6. Lộ trình học theo tuần/tháng (mục 9 của _TEMPLATE.md)
+
+Mốc thời gian theo mục 2 (pool nghiên cứu + tin tuyển): học việc vài ngày–1 tuần là nhận ca được; làm tốt sau 1–3 tháng; tổ trưởng sau 1–2 năm. Các mốc dưới đây là ước lượng dựa trên các mốc đó + checklist 30 ngày (`Info/checklist-30-ngay.md`); chỗ nào là ước lượng thì ghi rõ.
+
+- **Tuần đầu:** đăng ký app bTaskee/JupViec/Ting, nộp hồ sơ (CCCD công chứng, sơ yếu lý lịch công chứng, xác nhận hạnh kiểm hoặc lý lịch tư pháp — xem mục 9), làm bài kiểm tra 15 câu, thử việc 1 ca, đi theo người có kinh nghiệm vài ca. Làm được: nhận ca nhỏ có người kèm. Học phí: 0đ.
+- **Tháng đầu:** nhận 1 ca/ngày, học phân biệt hóa chất theo bề mặt (sàn, kính, bếp, nhà tắm), học quy trình dọn từng khu vực, chụp ảnh trước/sau mỗi ca.
+- **Tháng 2–3:** nhận 2 ca/ngày, dọn căn hộ 2 giờ xong, khách đặt lại đúng hẹn. Thu nhập theo ca, chưa đều.
+- **Sau 6 tháng:** tới nấc làm tốt dọn nhà/văn phòng độc lập, khách quen đặt lại đều.
+- **Sau 1–2 năm:** tới nấc tổ trưởng/giám sát hoặc tự nhận khách riêng — cần thêm kinh nghiệm quản lý ca và kiểm tra chất lượng, không chỉ dọn nhanh.
+
+## 7. Thử nghề (mục 10 của _TEMPLATE.md)
+
+Thử trước khi nghỉ việc. Nghề này thử được gần như miễn phí vì học phí 0đ — chi phí thử chỉ là hồ sơ và thời gian.
+
+- **Đăng ký app và làm bài kiểm tra (0đ):** tải app bTaskee Partner / JupViec / Ting, nộp hồ sơ, làm bài kiểm tra 15 câu — xem mình có qua được vòng hồ sơ không. Chi phí: phí lý lịch tư pháp 200.000đ/lần/người (xem mục 9) + phí công chứng bản sao (Chưa có số liệu).
+- **Thử việc 1 ca:** nhận 1 ca thử qua app (theo quy trình của app) — xem mình có dọn xong 1 căn hộ trong 2 giờ không, có chịu được mùi hóa chất không.
+- **Đi theo người có kinh nghiệm vài ca:** xin đi theo 1 người làm vệ sinh có kinh nghiệm vài ca để xem quy trình dọn từng khu vực thật, cách phân biệt hóa chất theo bề mặt.
+- **Làm thử quy mô nhỏ:** dọn nhà người quen 1–2 lần, chụp ảnh trước/sau — đó là "ca thử" đầu tiên; chi phí thử là thời gian + đồ nghề cơ bản (xem mục 10 — đi làm qua app thì app/công ty có đồ nghề).
+- **Tiêu chí dừng/tiếp — đánh giá sau 1 tuần thử:**
+  - **Tiếp tục nếu:** dọn xong 1 ca 2 giờ không kiệt sức; chịu được mùi hóa chất tẩy rửa; không dị ứng da/hô hấp sau ca thử; qua được bài kiểm tra 15 câu của app; nhận được ca đều trong tuần đầu.
+  - **Dừng lại nếu:** dị ứng hóa chất (viêm da, khó thở) sau ca thử; không chịu được làm việc ướt, đứng cả ngày; không qua được bài kiểm tra của app; không nhận được ca nào trong 1 tuần.
+  - **Sau bao lâu thì đánh giá:** sau 1 tuần thử (quyết định có theo tiếp không) và sau 3 tháng (quyết định có làm đều qua app hay chuyển sang làm thuê toàn thời gian không).
+
+## 8. Kết luận (mục 11 của _TEMPLATE.md)
+
+Không thêm số liệu mới ở mục này; mọi số dưới đây đã có ở các mục trên.
+
+- **Ưu điểm:** (1) Cửa vào nhanh nhất trong 24 nghề — học phí 0đ, đăng ký app, làm bài kiểm tra, đi theo người có kinh nghiệm vài ca là nhận việc được; app tuyển liên tục quanh năm, không có hạn nộp. (2) Không cần bằng cấp, không cần kinh nghiệm. (3) Thu nhập theo ca, làm nhiều nhận nhiều; làm đều qua app có thể tới 15–25 triệu/tháng theo số nền tảng công bố (đi kèm điều kiện làm nhiều ca, cuối tuần, lễ Tết). (4) Lợi thế IT thật: nhận ca qua app, quản lý lịch, nhắc khách đặt lại, chụp ảnh trước/sau.
+- **Nhược điểm:** (1) Thu nhập tháng đầu chưa đều — theo ca, có ca thì có tiền, không có ca thì không. (2) Rủi ro sức khỏe thật: hít hơi hóa chất (VOC), viêm da tiếp xúc (10–15% người làm vệ sinh so với 2–3% dân số chung — xem mục 4). (3) Đứng cả ngày, tay ướt, làm cả cuối tuần. (4) Một số app tuyển chủ yếu nữ 18–50 tuổi — bạn là nam thì đăng ký sẽ khó được nhận hơn (bTaskee).
+- **Ai nên thử:** người cần việc ngay, chấp nhận làm việc tay chân, chịu được hóa chất và đứng cả ngày; muốn bắt đầu với 0đ học phí.
+- **Ai không nên thử:** người dị ứng hóa chất tẩy rửa hoặc bệnh hô hấp; muốn ngồi làm việc, giờ giấc cố định, nghỉ cuối tuần; cần thu nhập ổn định ngay tháng đầu.
+- **Mức độ phù hợp với người chuyển nghề từ IT:** phù hợp nhất khi đăng ký app và thử 1 ca trước khi nghỉ việc — không phù hợp nếu nghĩ thu nhập 19–25 triệu/tháng là đảm bảo (đó là mức nền tảng công bố cho người làm đều, nhiều ca, cuối tuần, lễ Tết). Điều người ex-IT hay đánh giá sai: tưởng thu nhập app là lương tháng cố định (thực tế theo ca, làm ít thì ít hơn), và tưởng không cần học gì (thực tế phải học phân biệt hóa chất theo bề mặt — dùng sai hóa chất làm hỏng bề mặt nhà khách).
+- **Điều chưa biết:** phí công chứng bản sao hồ sơ (Chưa có số liệu); giá máy hút bụi, máy chà sàn (Chưa có số liệu); giá bộ đồ nghề trọn bộ (Chưa có số liệu — chỉ có giá lẻ từng món cây lau); lương tổ trưởng/giám sát (Chưa có số liệu).
+
+## 9. Pháp lý / Thủ tục hồ sơ (mục 9 của _TEMPLATE.md)
+
+> Chỉ cần khi đi làm qua app hoặc làm thuê cho công ty vệ sinh. Tự nhận khách riêng thì xem thêm phần đăng ký hộ kinh doanh ở cuối mục.
+
+- **Hồ sơ đăng ký app (bTaskee, JupViec, Ting):** CCCD công chứng, hộ khẩu hoặc xác nhận cư trú công chứng, sơ yếu lý lịch công chứng, xác nhận hạnh kiểm hoặc lý lịch tư pháp. Riêng Ting yêu cầu lý lịch tư pháp trong 6 tháng gần nhất và giấy khám sức khỏe có xét nghiệm ma túy. Nguồn: trang tuyển dụng của các app, tra cứu 23/11/2026 (xem mục 1).
+- **Phí lý lịch tư pháp:** 200.000đ/lần/người (Thông tư 244/2016/TT-BTC). Sinh viên, người có công với cách mạng, thân nhân liệt sĩ: 100.000đ. Lưu ý: nộp hồ sơ trực tuyến trong giai đoạn 24/4–31/12/2025 được giảm còn 170.000đ; từ 01/01/2026 áp lại mức 200.000đ. Nguồn: moj.gov.vn, thuvienphapluat.vn (tra cứu 23/11/2026 — loại nguồn: cổng thông tin Bộ Tư pháp + thư viện pháp luật, mức tin cậy: cao).
+- **Phí công chứng bản sao CCCD / sơ yếu lý lịch:** **Chưa có số liệu** — không tìm thấy bảng giá công chứng công khai ngày 23/11/2026, không bịa. Hỏi phòng công chứng gần nhà trước khi làm hồ sơ.
+- **Phí khám sức khỏe (Ting yêu cầu có xét nghiệm ma túy):** **Chưa có số liệu** — không tìm thấy bảng giá công khai ngày 23/11/2026.
+- **Quan hệ với app:** người làm việc qua app là cộng tác viên hợp tác với app, không phải hợp đồng lao động với app — người làm tự chịu trách nhiệm về thuế thu nhập cá nhân của mình. Cách tính thuế thu nhập cá nhân cho người giúp việc qua app: **Chưa có số liệu** — không tìm thấy văn bản quy định cụ thể ngày 23/11/2026; hỏi trực tiếp app khi đăng ký.
+- **Tự nhận khách riêng / mở công ty vệ sinh:** khi đã cứng tay và tự nhận khách riêng, đăng ký hộ kinh doanh để có tư cách pháp lý và xuất hóa đơn khi khách yêu cầu. Thủ tục cụ thể hỏi UBND cấp xã nơi đặt địa điểm kinh doanh. Từ 01/01/2026 đã bỏ thuế khoán đối với hộ kinh doanh (khoản 6 Điều 10 Nghị quyết 198/2025/QH15) nên không còn "mức thuế khoán" để tra; hộ chuyển sang tự kê khai theo doanh thu thực tế, hộ có doanh thu từ 1 tỷ đồng/năm trở xuống không chịu thuế GTGT và không phải nộp thuế TNCN (Nghị định 141/2026/NĐ-CP, hiệu lực từ 01/01/2026). [Cập nhật: 11/2026 – Nghị quyết 198/2025/QH15, Nghị định 141/2026/NĐ-CP]
+- **Lương tối thiểu vùng làm mốc:** từ 01/01/2026, lương tối thiểu vùng I–IV là 5.310.000 / 4.730.000 / 4.140.000 / 3.700.000đ/tháng, tối thiểu vùng I theo giờ 25.500đ/giờ (Nghị định 293/2025/NĐ-CP). Lương làm thuê 5–8tr/tháng vẫn trên mức tối thiểu vùng — nếu tin tuyển ghi lương thấp hơn mức này thì xem lại trước khi nộp.
+
+## 10. Chi phí khởi điểm chi tiết
+
+> Mọi khoản tiền kèm thẻ cập nhật hoặc ghi "Chưa có số liệu". Giá cây lau là giá niêm yết tìm được công khai ngày 23/11/2026, không phải giá trung bình thị trường. Giá có thể đổi theo thời điểm — kiểm tra lại trước khi mua.
+
+### A. Dụng cụ / thiết bị cần mua
+
+| # | Dụng cụ / thiết bị | Giá tham khảo | Nguồn / Ngày tra cứu |
+|---|---|---|---|
+| 1 | Cây lau nhà xoay 360 độ | 200.000–500.000đ | Yên Phát (yenphat.vn), tra cứu 23/11/2026 |
+| 2 | Cây lau phẳng | 150.000–400.000đ | Yên Phát (yenphat.vn), tra cứu 23/11/2026 |
+| 3 | Cây lau truyền thống | 50.000–120.000đ | Yên Phát (yenphat.vn), tra cứu 23/11/2026 |
+| 4 | Cây lau công nghiệp | 200.000–560.000đ | Yên Phát (yenphat.vn), tra cứu 23/11/2026 |
+| 5 | Bộ dụng cụ 1 nhân sự vệ sinh chuyên nghiệp: xe đẩy vệ sinh 2 xô có vắt, cây lau sàn microfiber, chổi–hốt rác, bình xịt, gạt kính, chổi cọ bồn cầu, biển "sàn ướt", khăn phân màu theo khu, hóa chất (nước lau sàn, lau kính, tẩy nhà vệ sinh, tẩy cặn vôi) | Chưa có số liệu giá bộ (ANITIME không công khai giá bộ đồ nghề — đã nằm trong đơn giá dịch vụ 10.500.000đ/người/tháng) | ANITIME (anitime.vn), tra cứu 23/11/2026 |
+| 6 | Máy hút bụi, máy chà sàn | Chưa có số liệu | Đã tra ngày 23/11/2026, không tìm thấy bảng giá công khai |
+| | **Tổng dụng cụ / thiết bị** | **Chưa chốt được tổng — chỉ có giá lẻ từng món cây lau; đi làm qua app hoặc công ty thì app/công ty có đồ nghề, không cần tự mua** | |
+
+- Tự nhận khách riêng thì cần mua đủ bộ theo danh mục ANITIME ở trên — giá trọn bộ: **Chưa có số liệu**. Không bịa giá.
+
+### B. Học phí
+
+| Nấc học | Nơi học | Học phí | Nguồn / Ngày tra cứu |
+|---|---|---|---|
+| Học việc tại chỗ | App bTaskee / JupViec / Ting (đăng ký, làm bài kiểm tra 15 câu, đi theo người có kinh nghiệm vài ca) | 0đ | Xem mục 2. |
+| Khóa đào tạo nghề vệ sinh | Chưa tìm thấy khóa đào tạo nghề vệ sinh có học phí công khai | Chưa có số liệu | Đã tra ngày 23/11/2026. |
+
+### C. Chi phí dự phòng 2 tháng đầu
+
+| Khoản | Chi phí / tháng | 2 tháng |
+|---|---|---|
+| Ăn ở, sinh hoạt (tiền nhà, ăn uống, đi lại) | Chưa có số liệu | Chưa có số liệu |
+| Tiền xăng / đi lại làm việc | Chưa có số liệu | Chưa có số liệu |
+| Tiền điện thoại, mạng | Chưa có số liệu | Chưa có số liệu |
+| Phí hồ sơ 1 lần: lý lịch tư pháp 200.000đ + công chứng bản sao (Chưa có số liệu) + khám sức khỏe (Chưa có số liệu) | 200.000đ (1 lần, chưa tính công chứng + khám sức khỏe) | 200.000đ |
+| **Tổng dự phòng 2 tháng** | | **Chưa có số liệu** |
+
+- Vì sao "Chưa có số liệu": đã tra cứu ngày 23/11/2026, không tìm thấy bảng chi phí sinh hoạt áp dụng được cho người làm vệ sinh tại chỗ — không bịa con số thay thế. Giảm dự phòng bằng việc thật: app tuyển liên tục, nhận ca có thu nhập ngay từ tuần đầu (thu nhập theo ca, chưa đều).
+
+### D. Tổng chi phí khởi điểm
+
+| Hạng mục | Số tiền |
+|---|---|
+| Dụng cụ / thiết bị (A) | Chưa chốt được tổng (chỉ có giá lẻ cây lau 50.000–560.000đ/món; đi làm qua app thì không cần mua) |
+| Học phí (B) | 0đ |
+| Dự phòng 2 tháng đầu (C) | Chưa có số liệu (+ 200.000đ phí lý lịch tư pháp 1 lần) |
+| **Tổng cộng** | **Chưa chốt được con số — tiền phải chuẩn bị chắc chắn nhất là 200.000đ phí lý lịch tư pháp + đồ nghề cơ bản nếu tự nhận khách riêng (giá trọn bộ Chưa có số liệu)** |
+
+- 2 tháng đầu thu nhập theo ca, chưa đều — chi phí dự phòng là tiền sống, không phải tiền đầu tư sinh lời ngay. Nghề này là nghề có chi phí khởi điểm thấp nhất trong 24 nghề vì học phí 0đ và app tuyển liên tục.
+
+## 11. Nguồn tham khảo tách riêng (mục 12 của _TEMPLATE.md)
+
+Mỗi nguồn 1 dòng: link trực tiếp + ngày truy cập (23/11/2026) + loại nguồn + mức độ tin cậy. Tin tuyển: link đầy đủ trong mục 1.
+
+### Tin tuyển (mức tin cậy: cao — tin tuyển thật, có tên công ty + lương + link)
+
+- Việc Làm Tốt — 2.069+ tin tạp vụ toàn quốc, lương 4,5–13,37tr; 1.604 việc tạp vụ tại TP.HCM (đếm ngày 23/11/2026): https://www.vieclamtot.com — truy cập 23/11/2026 — sàn tuyển dụng — cao (số đếm ngày tra cứu, kiểm tra lại trước ngày đăng).
+- Vieclam24h — 4.954 việc vệ sinh dưới 1 năm kinh nghiệm, lương 5–8tr: https://vieclam24h.vn — truy cập 23/11/2026 — sàn tuyển dụng — cao.
+- El Gaucho TP.HCM 6–8,5tr (hạn 08/02/2027 — đã hết hạn trước ngày đăng) và El Gaucho Đà Nẵng 6–6,5tr (hạn 28/02/2027): link đầy đủ trong mục 1 — truy cập 23/11/2026 — tin tuyển — cao.
+- T-Khoa Đà Nẵng 8–11tr (hạn 31/12/2026): link đầy đủ trong mục 1 — truy cập 23/11/2026 — tin tuyển — cao.
+- TopCV — 10 tin tạp vụ/vệ sinh (Hà Nội housekeeping 6–7tr, dọn dẹp 6–8tr): link đầy đủ trong mục 1 — truy cập 23/11/2026 — tin tuyển — cao.
+- bTaskee Đà Nẵng CTV 300–500k/ngày (worklink.vn, tin đăng 04/11/2026): https://worklink.vn/job/376389/tuyen-ctv-don-dep-nha-linh-dong-thoi-gian/ — truy cập 23/11/2026 — tin tuyển — cao (tuyển liên tục qua app).
+
+### Số nền tảng công bố (mức tin cậy: trung bình — số do nền tảng tự công bố, đi kèm điều kiện làm nhiều ca)
+
+- Báo Thanh Niên (04/02/2026) — bTaskee 65–80k/giờ, bình quân 19tr/tháng chưa tính thưởng (đại diện bTaskee): https://thanhnien.vn — truy cập 23/11/2026 — báo chí — trung bình (số đã hơn 9 tháng trước ngày tra cứu 23/11/2026, kiểm tra lại trước ngày đăng 19/02/2027).
+- JupViec 15–25tr/tháng (tin TopCV HMC); Ting thực nhận 70–90k/giờ, không chiết khấu (ting.vn): link đầy đủ trong mục 1 — truy cập 23/11/2026 — số nền tảng công bố — trung bình.
+
+### Lương tối thiểu vùng (mức tin cậy: cao — văn bản pháp luật)
+
+- Nghị định 293/2025/NĐ-CP — lương tối thiểu vùng từ 01/01/2026: vùng I–IV 5.310.000/4.730.000/4.140.000/3.700.000đ/tháng, vùng I theo giờ 25.500đ/giờ. Nguồn đối chiếu: nhansutot.vn, vieclamtot.com — truy cập 23/11/2026 — văn bản pháp luật — cao.
+
+### Giá đồ nghề (mức tin cậy: cao — bảng giá công khai của cửa hàng)
+
+- Yên Phát — giá cây lau nhà (xoay 360 độ 200–500k; phẳng 150–400k; truyền thống 50–120k; công nghiệp 200–560k): https://yenphat.vn — truy cập 23/11/2026 — bảng giá cửa hàng — cao (giá lẻ từng món, không phải giá bộ).
+- ANITIME — danh mục bộ dụng cụ 1 nhân sự vệ sinh chuyên nghiệp (không công khai giá bộ; đơn giá dịch vụ 10.500.000đ/người/tháng): https://anitime.vn — truy cập 23/11/2026 — bài hướng dẫn — trung bình.
+
+### Phí hồ sơ (mức tin cậy: cao — văn bản pháp luật / cổng Bộ Tư pháp)
+
+- Thông tư 244/2016/TT-BTC — phí lý lịch tư pháp 200.000đ/lần/người (sinh viên/người có công/thân nhân liệt sĩ 100.000đ; nộp trực tuyến 24/4–31/12/2025 giảm còn 170.000đ, từ 01/01/2026 áp lại 200.000đ). Nguồn: moj.gov.vn, thuvienphapluat.vn — truy cập 23/11/2026 — văn bản pháp luật — cao.
+- Phí công chứng bản sao CCCD/sơ yếu lý lịch, phí khám sức khỏe: Chưa có số liệu (không tìm thấy bảng giá công khai ngày 23/11/2026).
+
+### Nguồn chưa kiểm chứng / chỉ đối chiếu (không dùng làm số chính)
+
+- Facebook / Google Maps / TikTok: chưa đếm được (cần đếm thủ công trước ngày đăng — xem mục 1).

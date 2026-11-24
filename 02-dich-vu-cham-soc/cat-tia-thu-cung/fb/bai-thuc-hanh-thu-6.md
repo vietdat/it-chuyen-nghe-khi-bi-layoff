@@ -1,7 +1,7 @@
 # Bài thực hành Thứ 6 — 3 việc thật + CV trước/sau + checklist 30 ngày
 
 - Đăng: Thứ 6 22/01/2027, 12:00, Facebook (carousel / bài viết)
-- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). **Lưu ý quan trọng: 2 trong 3 tin dưới đây đã hiện "Hết hạn ứng tuyển" trong kết quả tìm kiếm ngày 23/11/2026 — trước khi đăng ngày 22/01/2027, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn.**
+- Nguồn: tin tuyển tra cứu ngày 23/11/2026 (TopCV). **Lưu ý quan trọng: tin tra 23/11/2026, gần như chắc chắn hết hạn trước ngày đăng 22/01/2027 — PHẢI tra lại sát ngày đăng. 2 trong 3 tin dưới đây đã hiện "Hết hạn ứng tuyển" ngay lúc tra cứu 23/11/2026; tin còn lại (PetHealth) cũng đã qua 2 tháng tới ngày đăng. Không đăng tin hết hạn — thay bằng tin đang mở theo hướng dẫn ở cuối bài.**
 - Giọng: nói với "bạn", không bịa số liệu
 
 ---
@@ -27,7 +27,7 @@
 - Yêu cầu: 1 năm kinh nghiệm; có chứng chỉ/chứng nhận grooming là lợi thế; tham gia bài test kỹ năng khi phỏng vấn
 - Địa điểm: Hưng Yên (Vincom Ocean Mega Mall, Văn Giang) + Hà Nội (Long Biên, Gia Lâm)
 - Giờ làm: xoay ca, 44 giờ/tuần
-- Ngày thấy tin: 23/11/2026 (TopCV — tin này hiện "Hết hạn ứng tuyển", kiểm tra lại hạn trước ngày đăng 22/01/2027)
+- Ngày thấy tin: 23/11/2026 (TopCV — tin này ĐÃ HIỆN "Hết hạn ứng tuyển" ngay lúc tra cứu, KHÔNG nộp đơn — chỉ tham khảo mức lương; thay bằng tin đang mở theo hướng dẫn ở cuối bài)
 - Link: https://www.topcv.vn/viec-lam/nhan-vien-grooming-cat-tia-ve-sinh-thu-cung-thu-nhap-9-12-trieu-thang-tai-hung-yen/1949912.html
 - Hợp với bạn nếu: bạn đã có 1 năm kinh nghiệm grooming và ở Hưng Yên hoặc phía Đông Hà Nội.
 
@@ -38,11 +38,12 @@
 - Yêu cầu: đạt bằng C/B grooming; kinh nghiệm trên 1 năm; tuổi 18–30
 - Giờ làm: 7h30/ngày hoặc ca 9h/ngày; nghỉ 3 ngày/tháng, không nghỉ T7, CN, T2, ngày lễ
 - Địa điểm: Nhà số 9 đường số 3, khu phố 5, P. Hiệp Bình Chánh, TP. Thủ Đức
-- Ngày thấy tin: 23/11/2026 (TopCV — tin này hiện "Hết hạn ứng tuyển", kiểm tra lại hạn trước ngày đăng 22/01/2027)
+- Ngày thấy tin: 23/11/2026 (TopCV — tin này ĐÃ HIỆN "Hết hạn ứng tuyển" ngay lúc tra cứu, KHÔNG nộp đơn — chỉ tham khảo mức lương; thay bằng tin đang mở theo hướng dẫn ở cuối bài)
 - Link: https://www.topcv.vn/viec-lam/nhan-vien-groomer-tam-cat-tia-thu-cung/1684635.html
 - Hợp với bạn nếu: bạn đã có bằng C/B grooming và muốn thu nhập theo ca, không chỉ lương cứng.
 
-Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 22/01/2027 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV, không đăng tin hết hạn. Ở Đà Nẵng gần như không có tin groomer trên TopCV — nếu bạn ở Đà Nẵng thì hỏi trực tiếp spa gần nhà và qua 3 trung tâm dạy grooming tại chỗ (RITDO PET, Phú Spa Academy, Alo and Pom). Ở Cần Thơ, tin tìm thấy gần nhất là Pet Zone tuyển 3 nhân viên pet shop (Vieclamtot, đăng 22/11/2026): thử việc 5 triệu, chính thức 5,5–6 triệu + doanh số, 18B Võ Thị Sáu, Ninh Kiều — đây là vị trí pet shop chung, không phải groomer riêng.
+Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026, trong đó Việc 2 và Việc 3 đã hết hạn ngay lúc tra cứu — tới ngày đăng 22/01/2027 thì gần như chắc chắn cả 3 tin đều không còn nộp được. Trước khi đăng, PHẢI tìm lại 3 tin đang mở sát ngày 22/01/2027 (cách tìm: vào TopCV, tìm "groomer", "grooming", "cắt tỉa thú cưng", lọc tin còn hạn sau 22/01/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm" hoặc "chấp nhận tay nghề còn yếu"; vào Vieclamtot, tìm "spa thú cưng", "chăm sóc thú cưng", lọc tin đăng trong 7 ngày gần nhất). Tin mới tìm thấy 23/11/2026 để kiểm tra lại: Vieclamtot tuyển CHUYÊN VIÊN SPA/CHĂM SÓC THÚ CƯNG (đăng 20/11/2026), không cần kinh nghiệm, đào tạo miễn phí — tin không ghi lương: https://www.vieclamtot.com/viec-lam-quan-1-tp-ho-chi-minh/135741870.htm?_ga=2.1795173762212.8628489.1795173746&ctfp=79514645-61e8-479c-a347-338d92f8c61e
+Ở Đà Nẵng gần như không có tin groomer trên TopCV (0 tin riêng Đà Nẵng ngày 23/11/2026, tra lại vẫn 0 tin) — đừng chỉ nộp đơn online. Tìm việc qua Facebook/Zalo và hỏi trực tiếp spa có tên cụ thể: Pet Mart Đà Nẵng; RITDO PET (21 Lý Tự Trọng, hotline 0898 222 215); Phú Spa Academy (184 Lý Tự Trọng); Alo and Pom Pet Grooming Academy (90/26 Nguyễn Văn Linh). Ở Cần Thơ cũng 0 tin groomer trên TopCV — hỏi trực tiếp Pet Zone (18B Võ Thị Sáu, Ninh Kiều; tin pet shop đăng 22/11/2026: thử việc 5 triệu, chính thức 5,5–6 triệu + doanh số — đây là vị trí pet shop chung, không phải groomer riêng) và các spa thú cưng gần nhà, theo dõi Group Facebook/Zalo yêu chó mèo Cần Thơ.
 
 ---
 

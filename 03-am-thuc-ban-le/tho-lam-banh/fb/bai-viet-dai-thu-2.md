@@ -5,7 +5,7 @@
 - Nguồn số liệu: `Info/nghien-cuu-thi-truong.md` (tra cứu 23/11/2026)
 - Giọng: nói với "bạn", không liệt kê Một/Hai/Ba, không bịa số liệu
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm ra tiền: thợ làm bánh.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề học vài tháng là làm được bánh — nhưng muốn sống bằng nghề thì phải qua 6–12 tháng vừa học vừa làm ở tiệm: thợ làm bánh.
 
 Bánh trong lò nở đẹp, ra lò xẹp lép. Thợ nhìn là biết: bột ủ chưa tới, hoặc lò chưa đủ nóng. Nhìn là biết ngay bệnh. Bài này nói hết về nghề thợ làm bánh: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
@@ -67,7 +67,7 @@ Mình nói bằng tin tuyển thật, tra ngày 23/11/2026. Phụ bếp bánh, c
 
 Về nhu cầu: ngày 23/11 mình đếm thấy TopCV có 8 tin đang tuyển thợ làm bánh, JobsGO ghi 18 việc làm bếp bánh trong tháng 11/2026. VietnamWorks thì không tìm thấy tin thợ bánh nào. Nhu cầu có thật, nhưng nhớ là đang cuối tháng 11, chưa vào mùa lễ Tết. Lễ, Tết, Trung thu và mùa cưới cuối năm mới là lúc đơn đặt trước dồn dập.
 
-Về nhu cầu theo thành phố, tra ngày 23/11: TP.HCM tuyển nhiều nhất trên TopCV, 5 tin tìm thấy, lương phổ biến 7-12 triệu, thợ bánh kem có tay nghề 15-20 triệu. Hà Nội tuyển đều, lương phổ biến 8-12 triệu, thợ chính 13-20 triệu. Đà Nẵng tuyển qua sàn địa phương và Joboko nhiều hơn TopCV, lương phổ biến 7,5-11 triệu — ví dụ Le Bordeaux Bakery tuyển thợ bánh mì 7,5-9 triệu, Nata Dessert tuyển phụ bếp bánh tổng thu nhập dự kiến 9-11 triệu. Cần Thơ gần như không có tin công khai: TopCV và VietnamWorks đều không tìm thấy tin nào, chỉ có 1 tin trên Sàn Việc làm Cần Thơ mà nơi làm việc lại ở Vĩnh Long. Bạn ở Cần Thơ thì hỏi trực tiếp tiệm bánh gần nhà sẽ nhanh hơn nộp đơn online.
+Về nhu cầu theo thành phố, tra ngày 23/11: TP.HCM tuyển nhiều nhất trên TopCV, 5 tin tìm thấy, lương phổ biến 7-12 triệu, thợ bánh kem có tay nghề 15-20 triệu. Hà Nội tuyển đều, lương phổ biến 8-12 triệu, thợ chính 13-15 triệu (theo tin Love Maxx trên JobsGO, đăng 10/11/2026). Đà Nẵng tuyển qua sàn địa phương và Joboko nhiều hơn TopCV, lương phổ biến 7,5-11 triệu — ví dụ Le Bordeaux Bakery tuyển thợ bánh mì 7,5-9 triệu, Nata Dessert tuyển phụ bếp bánh tổng thu nhập dự kiến 9-11 triệu. Cần Thơ gần như không có tin công khai: TopCV và VietnamWorks đều không tìm thấy tin nào, chỉ có 1 tin trên Sàn Việc làm Cần Thơ mà nơi làm việc lại ở Vĩnh Long. Bạn ở Cần Thơ thì hỏi trực tiếp tiệm bánh gần nhà sẽ nhanh hơn nộp đơn online.
 
 Còn vốn mở tiệm: một bài trên CareerLink nói tiệm nhỏ cần khoảng 100-300 triệu đồng, gồm lò nướng công nghiệp, máy trộn bột, tủ trưng bày lạnh, nguyên liệu ban đầu và tiền thuê mặt bằng. Đây là con số tham khảo từ bài viết, chưa kiểm chứng bằng báo giá thật. Đi làm thuê thì vốn gần như bằng 0.
 

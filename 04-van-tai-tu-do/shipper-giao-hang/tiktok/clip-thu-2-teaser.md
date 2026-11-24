@@ -7,7 +7,7 @@
 
 ## Lời thoại đầy đủ
 
-"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Tối đó, anh ấy mở tin tuyển shipper: không cần kinh nghiệm, chỉ cần bằng lái với cái xe máy. Làm hãng thì lương cứng 7 đến 8 triệu một tháng. Chạy app thì theo đơn, trung bình 8 đến 15 triệu. Tháng đầu chạy shipper, anh ấy được bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
+"Dev bị layoff thì làm gì? Tập 1. Sáng thứ hai, anh ấy nhận tin layoff, ôm thùng đồ ra khỏi văn phòng. Tối đó, anh ấy mở tin tuyển shipper: không cần kinh nghiệm, chỉ cần bằng lái với cái xe máy. Nhưng chạy được đơn đầu tiên phải sau 1–3 ngày làm thủ tục — còn cần CCCD, cà vẹt xe, lý lịch tư pháp, đồng phục và ký quỹ. Làm hãng thì lương cứng 7 đến 8 triệu một tháng. Chạy app thì theo đơn, trung bình 8 đến 15 triệu. Tháng đầu chạy shipper, anh ấy được bao nhiêu? Tối nay 19 giờ trên YouTube, mình kể hết."
 
 ## Chữ trên màn hình
 

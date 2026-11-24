@@ -14,18 +14,14 @@
 - Lương: 70.000–135.000đ/giờ, thu nhập 2–5 triệu/tháng
 - Công việc: giảng dạy tiếng Anh trực tuyến 1:1 hoặc 1:6 cho học sinh tiểu học/THCS qua phần mềm ClassIn
 - Ngày thấy tin: 23/11/2026 (TopCV)
+- Hạn nộp: không ghi hạn nộp trong bản tra cứu 23/11/2026 — tin tra 23/11/2026, gần như chắc chắn phải tra lại sát ngày đăng 29/01/2027, PHẢI mở lại link kiểm tra còn hạn không trước khi đăng
 - Link: https://www.topcv.vn/viec-lam/gia-su-tieng-anh-tieu-hoc-thcs-online-70-135k-h/1425327.html
 - Hợp với bạn nếu: bạn muốn bắt đầu dạy online, có giáo trình và phần mềm sẵn, chưa cần kinh nghiệm dạy nhiều.
 
-### Việc 2: Gia Sư/Giáo Viên Tiếng Anh Online/Remote Part-time (sẵn giáo trình) — Langmaster
+### Việc 2: [ĐÃ HẾT HẠN — THAY BẰNG TIN MỚI] Gia Sư/Giáo Viên Tiếng Anh Online/Remote Part-time — Langmaster
 
-- Công ty: Công ty CP Đầu tư Giáo dục và Phát triển Công nghệ Quốc tế Langmaster
-- Lương: 100.000đ/giờ, tổng thu nhập lên đến 8.000.000đ/tháng
-- Công việc: giảng dạy tiếng Anh giao tiếp trực tuyến 1 kèm 1 cho học viên (sinh viên, người đi làm) qua Skype/Google Meet; lớp 60 phút/buổi, 3 buổi/tuần, dạy tối thiểu 2 lớp/tuần
-- Yêu cầu: không yêu cầu kinh nghiệm (đào tạo từ đầu); có lộ trình đánh giá sau 3–6 tháng, có cơ hội lên tester/core team/trainer với mức đến 30.000.000đ/tháng (theo tin đăng)
-- Hạn nộp: 20/01/2027 — còn hạn lúc tra cứu 23/11/2026, nhưng đã gần hết hạn vào ngày đăng bài 29/01/2027, kiểm tra lại link trước khi đăng
-- Ngày thấy tin: 23/11/2026 (viecday.com)
-- Link: https://viecday.com/viec-lam/gia-su-giao-vien-tieng-anh-online-remote-parttime-san-giao-trinh-2558746.html
+- Tin gốc tìm thấy ngày 23/11/2026 (viecday.com): Langmaster tuyển gia sư giao tiếp online 1:1, 100.000đ/giờ, tổng thu nhập lên đến 8.000.000đ/tháng, không yêu cầu kinh nghiệm dạy (đào tạo từ đầu), lớp 60 phút/buổi, 3 buổi/tuần, dạy tối thiểu 2 lớp/tuần. Link tin gốc (để đối chiếu, không nộp nữa): https://viecday.com/viec-lam/gia-su-giao-vien-tieng-anh-online-remote-parttime-san-giao-trinh-2558746.html
+- **Tin này hết hạn nộp 20/01/2027, trước ngày đăng bài 29/01/2027 — KHÔNG nộp tin này.** Cách tìm tin thay thế trước ngày đăng: vào viecday.com và topcv.vn, tìm "gia sư tiếng Anh online 1:1" hoặc "gia sư tiếng Anh Langmaster", lọc tin còn hạn sau 29/01/2027, ưu tiên tin ghi "không yêu cầu kinh nghiệm" và mức 100.000đ/giờ; kiểm tra kỹ yêu cầu trình độ tiếng Anh của tin mới — vị trí 1:1 giao tiếp toàn quốc của Langmaster không ghi yêu cầu chứng chỉ, còn vị trí Langmaster tại Đà Nẵng yêu cầu TOEIC ≥ 900 / IELTS ≥ 7.0 (xem gỡ mâu thuẫn Langmaster trong `Info/nghien-cuu-thi-truong.md` mục 1). Nếu Langmaster không còn tin mở thì nộp VUIHOC tiểu học online (Việc 1) hoặc đăng hồ sơ Superprof.
 - Hợp với bạn nếu: bạn là người mới chuyển nghề, chưa có kinh nghiệm dạy, muốn có giáo trình sẵn và lịch dạy linh hoạt buổi tối.
 
 ### Việc 3: Gia Sư Tiếng Anh IELTS (IELTS Tutor) — VUIHOC.vn
@@ -34,10 +30,11 @@
 - Lương: 250.000–500.000đ/giờ, thu nhập 24–48 triệu/tháng (theo tin đăng)
 - Công việc: giảng dạy IELTS online 1:1, tối 20:00–21:30, thứ 2 đến Chủ nhật, ưu tiên ứng viên dạy được cuối tuần; làm việc online tại nhà, địa điểm Hà Nội
 - Ngày thấy tin: 23/11/2026 (TopCV)
+- Hạn nộp: không ghi hạn nộp trong bản tra cứu 23/11/2026 — tin tra 23/11/2026, gần như chắc chắn phải tra lại sát ngày đăng 29/01/2027, PHẢI mở lại link kiểm tra còn hạn không trước khi đăng
 - Link: https://www.topcv.vn/viec-lam/gia-su-tieng-anh-ielts-ielts-tutor/1111256.html?basic-ui=1
 - Hợp với bạn nếu: bạn đã có IELTS 7.0–7.5 thật và kinh nghiệm dạy — đây là mức cao nhất trong 3 việc, và cũng là việc yêu cầu cao nhất. Chưa đủ trình độ thì nộp Việc 1 hoặc Việc 2 trước, đừng nộp việc này cho có.
 
-Lưu ý: 3 tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 29/01/2027 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV hoặc viecday.com, không đăng tin hết hạn. Ở Đà Nẵng, EduPath tuyển giáo viên tiếng Anh (IELTS 7.0 bắt buộc, hạn 06/12/2026) đã hết hạn trước ngày đăng — không dùng. Ở Cần Thơ gần như không có tin gia sư tiếng Anh trên TopCV — nếu bạn ở Cần Thơ thì đăng hồ sơ Superprof, liên hệ trung tâm Gia sư Tây Đô và nộp nền tảng online (VUIHOC, Langmaster tuyển online toàn quốc).
+Lưu ý: các tin trên là tin tìm thấy ngày 23/11/2026. Ngày đăng bài là 29/01/2027 — trước khi đăng, kiểm tra lại link xem tin còn hạn không. Tin nào hết hạn thì thay bằng tin khác đang mở trên TopCV hoặc viecday.com, không đăng tin hết hạn. Riêng Việc 2 (Langmaster) đã hết hạn 20/01/2027 — bắt buộc thay bằng tin mới theo hướng dẫn trong mục Việc 2 ở trên, không đăng lại tin cũ. Ở Đà Nẵng, EduPath tuyển giáo viên tiếng Anh (IELTS 7.0 bắt buộc, hạn 06/12/2026) đã hết hạn trước ngày đăng — không dùng. Ở Cần Thơ gần như không có tin gia sư tiếng Anh trên TopCV — nếu bạn ở Cần Thơ thì đăng hồ sơ Superprof, liên hệ trung tâm Gia sư Tây Đô và nộp nền tảng online (VUIHOC, Langmaster tuyển online toàn quốc).
 
 ---
 

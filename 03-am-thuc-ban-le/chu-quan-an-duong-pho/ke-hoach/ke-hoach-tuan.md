@@ -15,11 +15,11 @@
 | Ngày | Kênh | Giờ đăng | Định dạng | Tầng phễu | Chủ đề | Hook | CTA |
 |---|---|---|---|---|---|---|---|
 | Thứ 2 28/12 | TikTok | — | Clip teaser 15–30s | TOFU | Teaser kéo sang video dài tối Thứ 2 | Sáng thứ hai, anh ấy đứng trước 1 xe phở, tay cầm chìa khóa | Xem video đầy đủ trên YouTube tối nay 19 giờ |
-| Thứ 2 28/12 | YouTube | 19:00 | Video dài 5–10 phút | MOFU | Chủ quán ăn đường phố — Dev bị layoff mở quán ăn được không? (đủ 8 mục) | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? | Xem hết video rồi comment nghề bạn muốn nghe tuần sau |
-| Thứ 2 28/12 | Facebook | 20:00 | Bài viết dài | MOFU | Chủ quán ăn đường phố — bản đầy đủ 8 mục (lưu lại) | Cả nước có 329.500 quán ăn, nửa đầu năm 2025 hơn 50.000 quán đóng cửa | Lưu bài này lại, comment "Quán ăn" để nhận checklist 30 ngày |
+| Thứ 2 28/12 | YouTube | 19:00 | Video dài 5–10 phút | MOFU | Chủ quán ăn đường phố — Dev bị layoff mở quán ăn được không? (đủ 12 mục) | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? | Xem hết video rồi comment nghề bạn muốn nghe tuần sau |
+| Thứ 2 28/12 | Facebook | 20:00 | Bài viết dài | MOFU | Chủ quán ăn đường phố — bản đầy đủ 12 mục (lưu lại) | Cả nước có 329.500 quán ăn, nửa đầu năm 2025 hơn 50.000 quán đóng cửa | Lưu bài này lại, comment "Quán ăn" để nhận checklist 30 ngày |
 | Thứ 3 29/12 | TikTok | 12:00 | Clip 15–30s | TOFU | 1 lỗi hay gặp nhất khi mới vào nghề: nấu ngon mà lỗ vì không tính giá vốn | Dev bị layoff thì làm gì? — Tập 2 | Follow để xem Tập 3 |
 | Thứ 3 29/12 | Facebook | — | Bài tương tác ngắn (poll) | Retention | Sau layoff, bạn đang ở bước nào? (4 lựa chọn) | Bị layoff rồi, bạn không cô đơn đâu | Comment số của bạn bên dưới |
-| Thứ 3 29/12 | — (chuẩn bị) | — | Chuẩn bị reel Thứ 4 + trả lời comment bài Thứ 2 | — | Reel theo sườn 6 đoạn (kịch bản 141 từ, flat 2D) | — | — |
+| Thứ 3 29/12 | — (chuẩn bị) | — | Chuẩn bị reel Thứ 4 + trả lời comment bài Thứ 2 | — | Reel theo sườn 6 đoạn (kịch bản 150 từ, flat 2D) | — | — |
 | Thứ 4 30/12 | TikTok / Reels / Shorts | 20:00 | Reel 40–45s (hoạt hình flat 2D) | TOFU | Dev bị layoff mở quán ăn đường phố: học nấu 1 món, bảng tính giá vốn, dậy sớm đứng bếp | Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? | Comment "1" nếu bạn đã từng nghĩ tới nghề này, "2" nếu chưa bao giờ nghĩ tới |
 | Thứ 5 31/12 | TikTok | 12:00 | Clip 15–30s | TOFU | Lợi thế IT khi mở quán ăn: bảng tính giá vốn, đặt món online, quảng cáo theo khu vực | Dev bị layoff thì làm gì? — Tập 3 | Follow để xem Tập 4 |
 | Thứ 5 31/12 | Facebook | — | Bài mẹo ngắn | MOFU | Tính giá vốn 1 tô bằng bảng tính — các bước làm thật | 1 tô phở bán 40.000đ, tiền nguyên liệu hết bao nhiêu? | Lưu bài này lại để lúc cần mở ra xem |

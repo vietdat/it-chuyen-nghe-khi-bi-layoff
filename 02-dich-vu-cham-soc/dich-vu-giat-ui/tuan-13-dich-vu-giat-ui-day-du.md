@@ -9,11 +9,11 @@
 
 ## Mục lục
 
-1. [Lịch tuần 13 - 7 ngày, 15 bài](#1-lịch-tuần-13--7-ngày-15-bài)
+1. [Lịch tuần 13 - 7 ngày, 15 bài](#1-lịch-tuần-13---7-ngày-15-bài)
 2. [Nghiên cứu thị trường tóm tắt](#2-nghiên-cứu-thị-trường-tóm-tắt)
-3. [YouTube - Script video dài Thứ 2](#3-youtube--script-video-dài-thứ-2)
-4. [Facebook - 6 bài](#4-facebook--6-bài)
-5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok--8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
+3. [YouTube - Script video dài Thứ 2](#3-youtube---script-video-dài-thứ-2)
+4. [Facebook - 6 bài](#4-facebook---6-bài)
+5. [TikTok - 8 món (1 reel + 6 tập truyện + 1 ngoại truyện)](#5-tiktok---8-món-1-reel--6-tập-truyện--1-ngoại-truyện)
 6. [Checklist 30 ngày đầu](#6-checklist-30-ngày-đầu)
 7. [Lưu ý trước khi đăng](#7-lưu-ý-trước-khi-đăng)
 
@@ -64,7 +64,7 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 | Đà Nẵng | 0 tin riêng Đà Nẵng | 0 | Vieclamtot 1 tin tuyển 10 người + tổng hợp sàn | 8tr; trung bình sàn 9,1tr |
 | Cần Thơ | 0 | 0 | Vieclamtot 1 tin; Sàn Cần Thơ 2 tin | 5tr (tiệm nhỏ); xưởng khách sạn thỏa thuận |
 
-- Hà Nội tuyển nhiều nhất qua TopCV, lương phổ biến 7-10 triệu, vận hành cửa hàng lên tới 9-13 triệu. Tin còn hạn rõ nhất là Viecday (Vinplus, hạn 31/12/2026).
+- Hà Nội tuyển nhiều nhất qua TopCV, lương phổ biến 7-10 triệu, vận hành cửa hàng lên tới 9-13 triệu. Tin Vinplus (hạn 31/12/2026) đã hết hạn trước ngày đăng 26/02/2027 — xem hướng dẫn tìm tin thay thế ở mục 4.4.
 - TP.HCM tuyển qua Việc Làm Tốt và tiệm trực tiếp, lương tính theo giờ là chính: 25.000đ/giờ, tháng khoảng 7 triệu.
 - Đà Nẵng có tin tuyển 10 người cho xưởng giặt công nghiệp, 8 triệu/tháng, bao chỗ ở; mức trung bình theo tổng hợp sàn là 9,1 triệu/tháng.
 - Cần Thơ lương thấp nhất trong 4 nơi: tiệm nhỏ 5 triệu/tháng, xưởng khách sạn lương thỏa thuận. Tuyển chủ yếu qua sàn địa phương và Facebook Group.
@@ -86,11 +86,11 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 
 ### Vốn mở tiệm (theo nấc, tra cứu 23/11/2026)
 
-- Tiệm nhỏ: 80-200 triệu (misaeshop.vn; pos365.vn). Máy giặt dân dụng 5-10 triệu/máy; máy giặt công nghiệp 30-60 triệu/máy; máy sấy 10-30 triệu/máy; bàn ủi hơi 2-5 triệu.
+- Tiệm nhỏ: 80-200 triệu (misaeshop.vn; pos365.vn). Máy giặt dân dụng 5-10 triệu/máy; máy giặt công nghiệp 30-60 triệu/máy (số chính đã chốt — nguồn thietkewebwio.com ghi khác: 60-120 triệu/máy); máy sấy 10-30 triệu/máy (thietkewebwio ghi khác: 50-100 triệu/máy công nghiệp); bàn ủi hơi 2-5 triệu. Hóa chất 3-7 triệu/tháng, điện nước 5-10 triệu/tháng (số chính đã chốt — thietkewebwio ghi khác: hóa chất 5-10 triệu/tháng, điện nước 5-15 triệu/tháng).
 - Laundromat (tự phục vụ): 300-600 triệu.
 - Xưởng giặt khách sạn + giặt khô cao cấp: khoảng 770 triệu theo ví dụ giả định.
 - Mặt bằng 25-45m² khu dân cư: 8-18 triệu/tháng, cọc 2-3 tháng. Điện nước là chi phí vận hành lớn nhất, nhất là máy sấy.
-- Đăng ký kinh doanh mã ngành 9610, thường đăng ký hộ kinh doanh; giặt là thông thường không cần giấy phép chuyên ngành.
+- Đăng ký kinh doanh mã ngành 9610 (giặt là, theo Quyết định 36/2025/QĐ-TTg [Cập nhật: 11/2026]), thường đăng ký hộ kinh doanh; giặt là thông thường không cần giấy phép chuyên ngành.
 
 ### Rủi ro thật
 
@@ -98,7 +98,39 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 - Hỏng đồ khách, mất đồ khách là đền tiền thật: làm rách 1 áo hàng hiệu hoặc mất 1 mẻ đồ, tiền đền bằng cả tuần tiền lãi, chưa kể mất uy tín.
 - Tính giá sai là lỗ mà không biết: đồ nhẹ cồng kềnh chiếm trọn 1 mẻ máy mà cân chỉ 1-2kg; ví dụ nhận chăn ga 50.000đ/cái, giặt riêng 1 mẻ tốn 35.000đ điện nước hóa chất + 15.000đ công gấp, lãi bằng 0.
 - Máy chạy liên tục 8-12 tiếng/ngày thì nhanh hỏng trục, hỏng bo mạch sau 1-2 năm.
+- Rủi ro sức khỏe: viêm da tiếp xúc do hóa chất giặt–tẩy và tay ướt liên tục ("wet work" >2h/ca hoặc rửa tay >20 lần/ca làm tăng nguy cơ; >90% bệnh da nghề nghiệp là viêm da tiếp xúc; ~28% người làm vệ sinh ở Anh bị viêm da vs 18% dân số chung — số của người làm vệ sinh nói chung, không phải riêng nghề giặt ủi); bỏng hơi nước nóng từ bàn là hơi nước công nghiệp và máy sấy nhiệt cao (không có số liệu tỉ lệ riêng); hít bụi vải khi gấp/sấy đồ (không có số liệu tỉ lệ riêng). Giảm rủi ro: găng tay chống hóa chất, không để tay ướt liên tục cả ca, khẩu trang khi gấp/sấy nhiều đồ, kiểm tra bàn là hơi nước trước khi dùng.
+
+### Lộ trình học theo tuần/tháng (tóm tắt mục 6 file nghiên cứu)
+
+- Tuần 1: học phân biệt chất liệu vải + đọc nhãn giặt, học quy trình nhận đồ, liệt kê 5 tiệm gần nhà, xin làm nhân viên giặt sấy ở 2-3 chỗ. Tuần 2: theo nhân viên cũ, tự giặt 1 mẻ có người kèm. Tuần 3: hỏi bảng giá, tập tính giá vốn 1 mẻ. Tuần 4: tự làm 1 ca trọn vẹn.
+- Tháng 2-3: làm được việc cơ bản độc lập; bắt đầu học tẩy điểm và vận hành máy công nghiệp. Tháng 3-6: tới nấc làm tốt. Sau 1-2 năm: mở tiệm hoặc quản lý.
+
+### Thử nghề (tóm tắt mục 7 file nghiên cứu)
+
+- Xin làm nhân viên giặt sấy tại tiệm 1-2 tuần trước khi tính mở tiệm — xem mình có chịu được đứng máy cả ngày, tay ướt, mùi nước giặt và ca thất thường (có ca 4h30 sáng) không. Học thử miễn phí / khóa học chính quy: Chưa có số liệu — nghề này học bằng cách đi làm tại tiệm.
+- Tiếp tục nếu: chịu được đứng máy cả ngày, tay ướt; làm xong 1 ca trọn vẹn có người kèm; không dị ứng hóa chất; chủ tiệm đồng ý cho học tiếp lên kỹ thuật. Dừng lại nếu: dị ứng hóa chất hoặc hít bụi vải tới mức không làm nổi 1 ca; không chịu được ca 4h30 sáng hoặc ca tới 22h; chán việc lặp lại. Đánh giá sau 1-2 tuần làm tại tiệm và sau 3 tháng.
+
+### Pháp lý cần biết (tóm tắt mục 9 file nghiên cứu)
+
+- Mở tiệm: đăng ký kinh doanh mã ngành 9610 (Dịch vụ giặt là, làm sạch các sản phẩm dệt và lông thú — theo Quyết định 36/2025/QĐ-TTg [Cập nhật: 11/2026]), thường đăng ký hộ kinh doanh; giặt là thông thường không cần giấy phép chuyên ngành. Từ 01/01/2026 đã bỏ thuế khoán (Nghị quyết 198/2025/QH15); hộ có doanh thu từ 1 tỷ đồng/năm trở xuống không chịu thuế GTGT, không phải nộp thuế TNCN (Nghị định 141/2026/NĐ-CP). [Cập nhật: 11/2026 – Nghị quyết 198/2025/QH15, Nghị định 141/2026/NĐ-CP]
+- Đền đồ hỏng/mất đồ: đền tiền thật — tự bảo vệ bằng phiếu nhận đồ (cân ký trước mặt khách, ghi số ký/số món/vết bẩn/đồ có giá trị, khách ký xác nhận); không nhận đồ mà không ghi phiếu.
+- Đi làm thuê thì không cần đăng ký kinh doanh; hỏi rõ tiệm/xưởng có đóng BHXH/BHYT/BHTN không trước khi nhận việc.
+
+### Chi phí khởi điểm (tóm tắt mục 10 file nghiên cứu)
+
+- Dụng cụ: máy giặt dân dụng 5-10 triệu/máy; máy giặt công nghiệp 30-60 triệu/máy (số chính đã chốt); máy sấy 10-30 triệu/máy; bàn ủi hơi 2-5 triệu. Tổng theo nấc: tiệm nhỏ 80-200 triệu; laundromat 300-600 triệu; xưởng ~770 triệu (ví dụ giả định).
+- Học phí: 0đ (học việc tại tiệm) hoặc 200-300 triệu vốn nhượng quyền (Giặt Là Sạch Cộng Basic). Dự phòng 2 tháng (mặt bằng + hóa chất + điện nước): 32-70 triệu; quỹ dự phòng mở tiệm theo khuyến nghị: 3-6 tháng (số tiền cụ thể: Chưa có số liệu). Thu nhập chủ tiệm: Chưa có số liệu.
+
+### Kết luận (tóm tắt mục 8 file nghiên cứu)
+
+- Ưu điểm: cửa vào nhanh (học việc 0đ, có lương từ tháng đầu); làm xong thấy kết quả ngay trong ngày; khách quen gửi đồ theo tuần/tháng; lợi thế IT thật (quản lý đơn bằng bảng tính, tính giá vốn từng mẻ, quảng cáo theo khu vực). Nhược điểm: rủi ro lớn nhất là không có khách; rủi ro sức khỏe thật (viêm da, bỏng hơi nước, hít bụi vải); đứng máy cả ngày, ca thất thường; nhu cầu tuyển nhỏ và rải rác; thu nhập chủ tiệm Chưa có số liệu.
+- Ai nên thử: người thích việc đều tay, lặp lại mỗi ngày mà không chán. Ai không nên thử: người chán việc lặp lại, muốn ngồi văn phòng 8 tiếng giờ cố định, dị ứng hóa chất giặt–tẩy.
 - Mùa vụ theo thời tiết: mưa kéo dài, nồm ẩm miền Bắc và miền Trung làm tiệm quá tải theo đợt; trời nắng khô, khách gửi tiệm ít hơn.
+
+### Nguồn tham khảo (tóm tắt mục 11 file nghiên cứu)
+
+- Đầy đủ trong file nghiên cứu mục 11: tin tuyển, giá máy/vốn mở tiệm, rủi ro sức khỏe, đào tạo kèm nhượng quyền, nguồn chưa kiểm chứng — mỗi nguồn có link + ngày truy cập 23/11/2026 + loại nguồn + mức tin cậy.
+
 
 
 ## 3. YouTube - Script video dài Thứ 2
@@ -121,7 +153,7 @@ Số tin là số tin TÌM THẤY qua tìm kiếm công khai ngày 23/11/2026. �
 
 ### 3:30-5:30 - Lợi thế của dân IT
 
-"Dân IT chuyển sang nghề này có một cái lợi mà thợ thường không có: bạn quen làm việc với hệ thống, với dữ liệu, với khách hàng online. Cái lợi đầu tiên là nhận đồ qua app và quản lý đơn bằng bảng tính. Khách đặt lịch qua điện thoại, bạn ghi đơn vào bảng: tên khách, số ký, ngày hẹn trả, đã trả hay chưa. Tới giờ trả mà khách chưa lấy, bảng nhắc bạn nhắn khách. Tiệm thường ghi sổ giấy, thất lạc đơn nào thì tìm mệt. Bạn quản lý bằng bảng tính thì đơn nào cũng có dấu vết. Rồi tới nhắc khách lấy đồ đúng hẹn. Đồ nằm ở tiệm càng lâu càng dễ nhầm, càng chật chỗ. Bạn nhắn khách đúng ngày hẹn trả, khách tới lấy, chỗ trống ra cho đơn mới. Khách nhớ mình là nhờ được nhắc đúng lúc. Còn bảng tính giá vốn từng mẻ giặt. Bạn biết 1 mẻ máy 10kg tốn bao nhiêu điện, nước, hóa chất, công gấp — cộng lại chia cho số ký là ra giá vốn 1kg. Tiệm không tính thì làm nhiều mà không biết đơn nào lãi, đơn nào hòa vốn. Có 1 ví dụ thật: nhận chăn ga 50.000đ 1 cái, giặt riêng 1 mẻ tốn điện nước hóa chất 35.000đ, công phơi gấp 15.000đ — tổng đúng bằng giá bán, lãi bằng 0. Bạn tính được cái này thì không nhận đơn hòa vốn mà tưởng đang có lãi. Và quảng cáo theo khu vực. Tiệm giặt ủi sống bằng khách quanh tiệm: chung cư, khu sinh viên, khu văn phòng. Bạn chạy quảng cáo theo quận, theo phường, đăng video gấp đồ lên TikTok cho khách khu vực thấy. Thợ thường chỉ chờ khách đi ngang qua cửa, bạn thì đi tìm khách quanh tiệm."
+"Dân IT chuyển sang nghề này có một cái lợi mà thợ thường không có: bạn quen làm việc với hệ thống, với dữ liệu, với khách hàng online. Cái lợi đầu tiên là nhận đồ qua app và quản lý đơn bằng bảng tính. Khách đặt lịch qua điện thoại, bạn ghi đơn vào bảng: tên khách, số ký, ngày hẹn trả, đã trả hay chưa. Tới giờ trả mà khách chưa lấy, bảng nhắc bạn nhắn khách. Tiệm thường ghi sổ giấy, thất lạc đơn nào thì tìm mệt. Bạn quản lý bằng bảng tính thì đơn nào cũng có dấu vết. Rồi tới nhắc khách lấy đồ đúng hẹn. Đồ nằm ở tiệm càng lâu càng dễ nhầm, càng chật chỗ. Bạn nhắn khách đúng ngày hẹn trả, khách tới lấy, chỗ trống ra cho đơn mới. Khách nhớ mình là nhờ được nhắc đúng lúc. Còn bảng tính giá vốn từng mẻ giặt. Bạn biết 1 mẻ máy 10kg tốn bao nhiêu điện, nước, hóa chất, công gấp — cộng lại chia cho số ký là ra giá vốn 1kg. Tiệm không tính thì làm nhiều mà không biết đơn nào lãi, đơn nào hòa vốn. Có 1 ví dụ minh họa (e-biz.com.vn): nhận chăn ga 50.000đ 1 cái, giặt riêng 1 mẻ tốn điện nước hóa chất 35.000đ, công phơi gấp 15.000đ — tổng đúng bằng giá bán, lãi bằng 0. Bạn tính được cái này thì không nhận đơn hòa vốn mà tưởng đang có lãi. Và quảng cáo theo khu vực. Tiệm giặt ủi sống bằng khách quanh tiệm: chung cư, khu sinh viên, khu văn phòng. Bạn chạy quảng cáo theo quận, theo phường, đăng video gấp đồ lên TikTok cho khách khu vực thấy. Thợ thường chỉ chờ khách đi ngang qua cửa, bạn thì đi tìm khách quanh tiệm."
 
 ### 5:30-7:00 - Học gì, học ở đâu, bao lâu
 
@@ -157,10 +189,10 @@ Mẹo: lúc nhận đồ, ghi đơn vào bảng tính — tên khách, số đi�
 ### 4.4 Bài thực hành Thứ 6 (26/02, 12:00) - 4 việc thật + CV trước/sau + checklist
 
 4 việc thật (tra cứu 23/11/2026, kiểm tra lại hạn trước khi đăng 26/02/2027):
-- Việc 1: Nhân viên vận hành cửa hàng giặt là — Vinplus, Hà Nội, 9-13 triệu/tháng + thưởng cửa hàng, học việc 2 tháng 85% lương, hạn 31/12/2026. Link: https://viecday.com/viec-lam/nhan-vien-van-hanh-cua-hang-giat-la-2558739/
+- Việc 1: ĐÃ HẾT HẠN 31/12/2026 — thay bằng hướng dẫn tìm tin vận hành cửa hàng giặt là đang mở (xem fb/bai-thuc-hanh-thu-6.md). Tin cũ Vinplus Hà Nội 9-13 triệu/tháng chỉ để tham khảo lương và hình thức học việc 2 tháng 85% lương. Link cũ: https://viecday.com/viec-lam/nhan-vien-van-hanh-cua-hang-giat-la-2558739/
 - Việc 2: Nhân viên giặt sấy Quận 4, TP.HCM — 25.000đ/giờ (~7 triệu/tháng), đăng 15/11/2026. Link: https://www.vieclamtot.com/viec-lam-quan-4-tp-ho-chi-minh/135787406.htm
 - Việc 3: Tuyển 10 lao động phổ thông, xưởng giặt công nghiệp Đức Khoa, Đà Nẵng — 8 triệu/tháng, bao chỗ ở, đăng 19/11/2026. Link: https://www.vieclamtot.com/viec-lam-quan-thanh-khe-da-nang/135860870.htm
-- Việc 4: Nhân viên xưởng giặt, Khách sạn Lion, Cần Thơ — lương thỏa thuận, không yêu cầu kinh nghiệm, hạn 31/12/2026. Link: https://sanvieclamcantho.com/khach-san-lion-tuyen-dung-nhan-vien-xuong-giat-116929.html
+- Việc 4: ĐÃ HẾT HẠN 31/12/2026 — thay bằng hướng dẫn tìm tin xưởng giặt Cần Thơ đang mở (xem fb/bai-thuc-hanh-thu-6.md). Tin cũ Khách sạn Lion Cần Thơ lương thỏa thuận, không yêu cầu kinh nghiệm, chỉ để tham khảo. Link cũ: https://sanvieclamcantho.com/khach-san-lion-tuyen-dung-nhan-vien-xuong-giat-116929.html
 - Tin dự phòng: NV Giặt Hấp Ủi Nhà Bè 7,5-8,5 triệu (đăng 21/11/2026); 1 NV Giặt Sấy Cần Thơ 5 triệu (đăng 22/11/2026).
 - CV trước: "Lê Văn A - Backend Developer", 5 năm Java/Spring Boot — chủ tiệm đọc xong không biết bạn làm được việc gì trong nghề của họ. CV sau: "Lê Văn A - Nhân viên giặt sấy (đang học nghề, tìm việc học việc)" — giữ lại đọc nhãn giặt + tài liệu tiếng Anh, tra cứu + ghi chép quy trình, quản lý đơn bằng bảng tính; kỹ năng nghề ghi đúng những gì đã học được, không phóng đại; bỏ danh sách framework và dự án phần mềm không liên quan.
 - Nơi tìm việc/khách: tiệm gần nhà (Google Maps + Group cư dân), Việc Làm Tốt + TopCV, Sàn Việc làm Cần Thơ cho bạn ở Cần Thơ, TikTok/Facebook theo quận khi đã cứng tay.

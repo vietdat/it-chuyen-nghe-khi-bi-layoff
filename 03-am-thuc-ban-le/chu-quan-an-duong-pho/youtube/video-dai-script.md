@@ -13,8 +13,8 @@
 
 ## Caption YouTube
 
-- Dòng 1: Dev bị layoff mở quán ăn đường phố được không? Bài đầy đủ 8 mục trong video.
-- Dòng 2: Trong video: nghề này làm gì mỗi ngày, ai hợp ai không hợp, lợi thế của dân IT, học ở đâu bao lâu, career path, tìm khách đầu tiên ở đâu, thu nhập bao nhiêu, rủi ro thật.
+- Dòng 1: Dev bị layoff mở quán ăn đường phố được không? Bài đầy đủ 12 mục trong video.
+- Dòng 2: Trong video: nghề này làm gì mỗi ngày, ai hợp ai không hợp, lợi thế của dân IT, học ở đâu bao lâu, career path, tìm khách đầu tiên ở đâu, thu nhập bao nhiêu, rủi ro thật, lộ trình học theo tuần/tháng, thử nghề bằng bán đồ ăn sáng, kết luận.
 - Dòng 3 (CTA): Lưu video lại, comment nghề bạn muốn nghe tuần sau: thợ cắt tóc nam.
 - Hashtag: #devbilayoff #chuyennghe #itrehhuong #bilayoff #nghemoi #vieclam #hocnghe #quananvuahe
 
@@ -58,7 +58,7 @@ Bạn làm nghề bằng tay, nhưng quản lý bằng cách của dân IT. Đó
 
 Nấc tiếp theo là học vận hành quán thật: mua nguyên liệu lúc nào, nấu số lượng lớn ra sao, dọn dẹp cuối ngày như thế nào. Nấc này không học trong lớp, học bằng cách đi làm phụ bếp hoặc phụ quán ở quán đang bán tốt 1–2 tháng. Nhiều quán không yêu cầu kinh nghiệm, lương phụ bếp 8–10 triệu 1 tháng, phụ quán 5–8 triệu 1 tháng, theo tin tuyển Việc Làm Tốt tháng 11/2026. Vừa có lương, vừa học được cả nấu và vận hành.
 
-Nấc cao hơn là học mở quán và quản lý: tính giá vốn, điểm hòa vốn, quản lý dòng tiền. Khóa Mở Quán Kinh Doanh của Hướng Nghiệp Á Âu học phí niêm yết 11 triệu đồng; khóa Khởi Sự Kinh Doanh Nhà Hàng 20–22 triệu đồng, dạy tính food cost, đưa ra giá bán, điểm hòa vốn. Trường Saigontourist ở TP.HCM có khóa Chế biến món ăn Việt 2, 1,5 tháng, học phí 12 triệu đồng trọn gói. Trước khi đóng tiền khóa nào, bạn gọi hỏi lại trường để chốt học phí hiện hành, vì giá ưu đãi trên trang có thời hạn."
+Nấc cao hơn là học mở quán và quản lý: tính giá vốn, điểm hòa vốn, quản lý dòng tiền. Khóa Mở Quán Kinh Doanh của Hướng Nghiệp Á Âu học phí niêm yết 11 triệu đồng; khóa Khởi Sự Kinh Doanh Nhà Hàng 20–22 triệu đồng, dạy tính food cost, đưa ra giá bán, điểm hòa vốn. Trường Saigontourist ở TP.HCM có khóa Chế biến món ăn Việt 2, 1,5 tháng, học phí 12 triệu đồng trọn gói — lịch khai giảng thay đổi theo đợt, xem trực tiếp trên website trường trước khi đăng ký. Trước khi đóng tiền khóa nào, bạn gọi hỏi lại trường để chốt học phí hiện hành, vì giá ưu đãi trên trang có thời hạn."
 
 ### 7:00–8:30 — Career path + tìm việc, tìm khách ở đâu
 
@@ -66,20 +66,26 @@ Nấc cao hơn là học mở quán và quản lý: tính giá vốn, điểm h�
 
 Tìm khách đầu tiên ở đâu? Khách đi ngang là nguồn đầu tiên: chọn điểm đặt xe hoặc mặt bằng gần trường, khu văn phòng, khu dân cư đông — khách ăn vì tiện đường. Khách đặt trước qua Zalo và Facebook là nguồn tiếp theo: đăng ảnh món thật, ghi rõ món, giá, giờ bán, khu vực giao. Khách quen giới thiệu khách mới thì chậm mà chắc: 1 khách ăn ngon giới thiệu 1 khách mới. Đừng mở quán lớn ngay khi chưa có khách quen — vốn lớn mà không có khách thì vốn cạn rất nhanh."
 
-### 8:30–9:30 — Thu nhập + sự thật + nhu cầu thị trường
+### 8:30–9:30 — Thu nhập + sự thật + nhu cầu thị trường + lộ trình học
 
 "Giờ tới phần bạn hỏi nhiều nhất: thu nhập bao nhiêu. Mình nói thẳng: thu nhập của chủ quán ăn đường phố, tra ngày 23/11/2026, là chưa có số liệu. Không có khảo sát hay tin tuyển nào ghi doanh thu thực tế của 1 quán vỉa hè cụ thể. Mình không bịa 1 con số doanh thu nào cho bạn.
 
 Những gì có số thật là lương đi làm thuê — đường vào nghề. Phụ bếp toàn thời gian lương phổ biến 8–10 triệu 1 tháng, theo 1.804 tin trên Việc Làm Tốt cập nhật 18/11/2026. Phụ bếp quán cơm trung bình toàn quốc 8,7 triệu, Hà Nội 10,1 triệu, TP.HCM 8,9 triệu. Phục vụ quán ăn 7–9,5 triệu 1 tháng, trung bình 8,1 triệu, theo 7.298 tin cập nhật 21/11/2026. Phụ quán bún, phụ quán cơm thì 5–8 triệu 1 tháng tùy ca.
 
-Còn làm chủ thì tiền của bạn tính được bằng bảng tính, không hứa bằng miệng: giá bán 1 tô trừ giá vốn nguyên liệu — khoảng 35–40% giá bán — trừ tiền thuê điểm hoặc mặt bằng, điện nước gas, nhân viên, còn lại mới là tiền của bạn. Xe đẩy thuê điểm đặt 1,5–4 triệu 1 tháng thì nhẹ; mặt tiền Hà Nội 20–80 triệu 1 tháng, TP.HCM 15–60 triệu 1 tháng thì nặng. Vốn mở quán theo nấc, tra ngày 23/11/2026: xe đẩy 20–35 triệu, quán nhỏ có chỗ ngồi 30–60 triệu, quán bình dân 150–300 triệu, quán 30m² ở phố tỉnh 176 triệu, ở thành phố lớn 352 triệu — đã gồm vốn lưu động 3 tháng và dự phòng.
+Còn làm chủ thì tiền của bạn tính được bằng bảng tính, không hứa bằng miệng: giá bán 1 tô trừ giá vốn nguyên liệu — khoảng 35–40% giá bán — trừ tiền thuê điểm hoặc mặt bằng, điện nước gas, nhân viên, còn lại mới là tiền của bạn. Xe đẩy thuê điểm đặt 1,5–4 triệu 1 tháng thì nhẹ; mặt tiền Hà Nội 20–80 triệu 1 tháng, TP.HCM 15–60 triệu 1 tháng thì nặng. Vốn mở quán theo nấc, tra ngày 23/11/2026: xe đẩy 20–35 triệu, quán nhỏ có chỗ ngồi 30–60 triệu, quán bình dân 150–300 triệu, quán 30m² ở phố tỉnh 176 triệu, ở thành phố lớn 352 triệu — đã gồm vốn lưu động 3 tháng và dự phòng. Bóc tách chi tiết từng món thiết bị — xe phở kèm nồi 12,9–19,9 triệu, nồi điện bộ 3 từ 7–12 triệu, bàn ghế inox — mình để trong file nghiên cứu, mục chi phí khởi điểm.
 
-Về nhu cầu: doanh thu ngành F&B năm 2025 khoảng 726.500 tỷ đồng, tăng 5,5%, cả nước khoảng 329.500 cửa hàng. Nhưng nửa đầu năm 2025, hơn 50.000 cửa hàng đã đóng cửa do áp lực chi phí. Người Việt ăn ngoài mỗi ngày, tiền vẫn chảy vào ngành — nhưng quán mở ra rồi đóng cửa cũng rất nhiều. Quán sống được là quán giữ được khách quen, không phải quán mở to nhất."
+Về nhu cầu: doanh thu ngành F&B năm 2025 khoảng 726.500 tỷ đồng, tăng 5,5%, cả nước khoảng 329.500 cửa hàng. Nhưng nửa đầu năm 2025, hơn 50.000 cửa hàng đã đóng cửa do áp lực chi phí. Người Việt ăn ngoài mỗi ngày, tiền vẫn chảy vào ngành — nhưng quán mở ra rồi đóng cửa cũng rất nhiều. Quán sống được là quán giữ được khách quen, không phải quán mở to nhất.
 
-### 9:30–10:00 — Checklist 5 việc + CTA
+Lộ trình học thì như thế này. Tuần 1: chọn 1 món duy nhất, ưu tiên món ăn sáng, nấu thử 3 lần, làm bảng tính giá vốn. Tuần 2–3: đi làm phụ bếp hoặc phụ quán ở quán đang bán tốt để học vận hành thật. Hết tháng 1: nấu được 1 món vị ổn định và có 1 ngày bán thử thật 30–50 suất. Tháng 3: nếu bán thử 2–3 lần đều hết hàng và giá vốn đã đúng, mới tính mở xe đẩy cố định. Sau 6 tháng: có khách quen buổi sáng ổn định thì mới tính thêm món. Mốc sau tháng 1 là ước lượng, không phải thời gian của trường nào."
 
-"Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới.
+### 9:30–10:00 — Thử nghề + kết luận + Checklist 5 việc + CTA
 
-Chọn 1 món duy nhất để bán, nấu thử 3 lần và ghi lại từng lần. Làm bảng tính giá vốn 1 tô, đừng bán theo cảm tính. Đi ăn thử 5 quán bán cùng món gần nhà, ghi giá và giờ đông khách. Đi xin làm phụ bếp hoặc phụ quán ở 1–2 quán đang bán tốt để học vận hành thật. Và hỏi 3 chỗ cho thuê điểm đặt xe hoặc mặt bằng nhỏ, hỏi UBND phường về thủ tục an toàn thực phẩm cho mô hình của bạn.
+"Trước khi bỏ vốn, thử nghề bằng bán đồ ăn sáng — đây là cách thử rẻ nhất của nghề này. Bước 1: nấu thử 1 món 3 lần ở nhà, qua được khi nấu 3 lần vị giống nhau. Bước 2: bán thử 1 ngày đồ ăn sáng 30–50 suất, xe hoặc bàn ghế mượn, chưa mua xe — bán sáng vì khách đi làm, đi học mua nhanh, trả tiền ngay, 1 buổi sáng là biết món mình có người mua không. Qua được khi bán hết ít nhất 30 suất và ngày đó không lỗ tiền nguyên liệu. Bước 3: xin làm phụ bếp hoặc phụ quán 1–2 tháng, không mất học phí mà có lương 5–10 triệu 1 tháng — qua được khi chịu nổi dậy 3–4 giờ sáng 2 tuần liên tục. Dừng lại nếu nấu 3 lần vị vẫn lệch, bán thử 2 lần đều thừa quá nửa, hoặc không dậy nổi 3–4 giờ sáng. Đánh giá sau 30 ngày thử.
 
-Bài đầy đủ 8 mục mình để ở bài ghim trên Facebook. Tuần sau mình nói về thợ cắt tóc nam. Comment nghề bạn muốn nghe, mình đọc hết."
+Kết luận ngắn gọn. Ưu điểm: tiền về trong ngày, đường vào rẻ, bán đồ ăn sáng thử rẻ. Nhược điểm: dậy 3–4 giờ sáng, đứng bếp cả ngày, tháng đầu gần như chưa có lãi ổn định, thu nhập chủ quán chưa có số liệu. Nên thử nếu bạn chịu được dậy sớm và sẵn sàng làm phụ quán 1–2 tháng trước khi mở. Không nên thử nếu bạn cần thu nhập ổn định ngay tháng đầu hoặc muốn mở quán to ngay khi chưa bán thử lần nào. Bị layoff không phải hết nghề — mà là cơ hội bắt đầu một nghề mới — nhưng nghề mới này bắt đầu bằng bán thử, không bắt đầu bằng vay vốn mở quán to.
+
+Nếu bạn muốn bắt đầu, 5 việc làm ngay trong 7 ngày tới.
+
+Chọn 1 món duy nhất để bán, nấu thử 3 lần và ghi lại từng lần. Làm bảng tính giá vốn 1 tô, đừng bán theo cảm tính. Đi ăn thử 5 quán bán cùng món gần nhà, ghi giá và giờ đông khách. Đi xin làm phụ bếp hoặc phụ quán ở 1–2 quán đang bán tốt để học vận hành thật. Và hỏi 3 chỗ cho thuê điểm đặt xe hoặc mặt bằng nhỏ, hỏi UBND phường về thủ tục an toàn thực phẩm, đăng ký hộ kinh doanh và sử dụng vỉa hè cho mô hình của bạn.
+
+Bài đầy đủ 12 mục mình để ở bài ghim trên Facebook. Tuần sau mình nói về thợ cắt tóc nam. Comment nghề bạn muốn nghe, mình đọc hết."

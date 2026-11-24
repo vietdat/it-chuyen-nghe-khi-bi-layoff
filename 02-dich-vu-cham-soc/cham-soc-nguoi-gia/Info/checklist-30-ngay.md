@@ -27,7 +27,7 @@
 ## Tuần 4 (ngày 22–30): Nhận ca riêng + chuẩn bị tháng thứ 2
 
 - Ngày 22–24: Xin nhận 1 ca riêng trọn vẹn (từ lúc tới nhà đến lúc bàn giao ca): chuẩn bị bữa ăn, nhắc thuốc, đo huyết áp, ghi nhật ký, gửi tin nhắn báo cáo cho gia đình. Nhờ người kèm kiểm tra lại nhật ký trước khi gửi.
-- Ngày 25–26: Đăng ký 1 khóa ngắn hạn chăm sóc người cao tuổi (2–3 tháng, 4–9 triệu tùy miền — xem `Info/nghien-cuu-thi-truong.md` mục 2) nếu chưa học; hoặc đăng ký học sơ cấp cứu tại Hội Chữ thập đỏ địa phương nếu chưa có chứng chỉ. Chứng chỉ là thứ giúp bạn nhận ca qua công ty với lương cao hơn.
+- Ngày 25–26: Đăng ký 1 khóa ngắn hạn chăm sóc người cao tuổi (2–3 tháng, 4–14 triệu tùy miền — xem `Info/nghien-cuu-thi-truong.md` mục 2) nếu chưa học; hoặc đăng ký học sơ cấp cứu tại Hội Chữ thập đỏ địa phương nếu chưa có chứng chỉ. Chứng chỉ là thứ giúp bạn nhận ca qua công ty với lương cao hơn.
 - Ngày 27–28: Hỏi công ty hoặc gia đình xem tháng thứ 2 mình nhận thêm ca nào được, cần thêm kỹ năng gì (chăm người liệt giường, chăm người sau tai biến...). Ghi lại thành mục tiêu tháng thứ 2.
 - Ngày 29–30: Tổng kết 30 ngày: bạn đã chăm được bao nhiêu ca, học được bao nhiêu tình huống, có bao nhiêu gia đình tin tưởng giao ca, thu nhập thực tế tháng đầu là bao nhiêu. So với mục tiêu ngày 1, cái gì đạt, cái gì chưa — viết ra, đừng chỉ nghĩ.
 

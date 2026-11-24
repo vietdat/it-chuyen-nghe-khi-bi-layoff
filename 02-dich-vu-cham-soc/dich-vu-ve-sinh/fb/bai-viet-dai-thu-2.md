@@ -58,7 +58,13 @@ Học phí học nghề là 0 đồng. Chi phí ban đầu là hồ sơ (CCCD c�
 
 **Tìm việc, tìm khách đầu tiên ở đâu**
 
-Đăng ký app dọn dẹp theo giờ: bTaskee, JupViec, Ting — tải app, nộp hồ sơ, làm bài kiểm tra, thử việc 1 ca rồi nhận việc. Xin làm tạp vụ văn phòng, khách sạn, nhà hàng gần nhà: tìm trên TopCV và Việc Làm Tốt, đa số tin ghi không yêu cầu kinh nghiệm. Khi đã cứng tay thì đăng video trước/sau lên TikTok, Facebook theo quận mình làm, để khách khu vực biết bạn.
+Đăng ký app dọn dẹp theo giờ: bTaskee, JupViec, Ting — tải app, nộp hồ sơ, làm bài kiểm tra, thử việc 1 ca rồi nhận việc.
+
+**Thử nghề trước khi nghỉ việc:** đăng ký app và làm bài kiểm tra 15 câu (0đ, chỉ tốn phí hồ sơ), thử việc 1 ca, đi theo người có kinh nghiệm vài ca — xem mình có dọn xong 1 căn hộ trong 2 giờ không, có chịu được mùi hóa chất không. Dừng lại nếu dị ứng hóa chất (viêm da, khó thở) sau ca thử.
+
+**Thủ tục hồ sơ:** CCCD công chứng, xác nhận cư trú công chứng, sơ yếu lý lịch công chứng, xác nhận hạnh kiểm hoặc lý lịch tư pháp; Ting yêu cầu lý lịch tư pháp trong 6 tháng + giấy khám sức khỏe có xét nghiệm ma túy. Phí lý lịch tư pháp 200.000đ/lần/người (Thông tư 244/2016/TT-BTC; từ 01/01/2026 áp lại 200.000đ). Phí công chứng bản sao và phí khám sức khỏe: Chưa có số liệu. Tự nhận khách riêng thì đăng ký hộ kinh doanh.
+
+**Chi phí khởi điểm:** học phí 0đ; cây lau xoay 360 độ 200–500k, cây lau phẳng 150–400k, cây lau truyền thống 50–120k, cây lau công nghiệp 200–560k (Yên Phát); giá bộ đồ nghề trọn bộ, máy hút bụi, máy chà sàn: Chưa có số liệu. Đi làm qua app thì app/công ty có đồ nghề, không cần tự mua. Xin làm tạp vụ văn phòng, khách sạn, nhà hàng gần nhà: tìm trên TopCV và Việc Làm Tốt, đa số tin ghi không yêu cầu kinh nghiệm. Khi đã cứng tay thì đăng video trước/sau lên TikTok, Facebook theo quận mình làm, để khách khu vực biết bạn.
 
 Lưu ý thật: bTaskee và JupViec tuyển chủ yếu nữ, 18–50 tuổi. Bạn là nam thì đăng ký app sẽ khó được nhận hơn, đi làm thuê cho công ty vệ sinh hoặc khách sạn sẽ dễ hơn. Đừng nhận ca tổng vệ sinh nhà bẩn nặng khi chưa cứng tay. Làm ẩu 1 ca, khách đánh giá thấp, app khóa tài khoản thì mất luôn đường nhận việc.
 
@@ -68,7 +74,7 @@ Mình nói bằng tin tuyển thật và số nền tảng công bố, tra ngày
 
 Có kinh nghiệm hoặc ca đặc thù: 8–11 triệu một tháng. T-Khoa Đà Nẵng 8–11 triệu, Esco Beach Đà Nẵng chính thức 8,5–9 triệu, Lavender Hà Nội thu nhập 8–9 triệu, Haviland House Đà Nẵng 8–10 triệu.
 
-Làm theo giờ qua app, nhận ca đều: 60.000–120.000đ một giờ ca thường. bTaskee ca cơ bản 65.000–80.000đ một giờ, cuối tuần cộng thêm 20%. JupViec 70.000–120.000đ một giờ, lễ Tết đến 250.000đ một giờ. Ting thực nhận 70.000–90.000đ một giờ, không chiết khấu. Thu nhập tháng nếu làm đều: bTaskee công bố bình quân khoảng 19 triệu một tháng chưa tính thưởng, JupViec ghi 15–25 triệu một tháng. Hai con số này đi kèm điều kiện làm nhiều ca, cuối tuần, lễ Tết — làm ít ca thì ít hơn, không lấy làm thu nhập đảm bảo.
+Làm theo giờ qua app, nhận ca đều: 60.000–120.000đ một giờ ca thường. bTaskee ca cơ bản 65.000–80.000đ một giờ, cuối tuần cộng thêm 20%. JupViec 70.000–120.000đ một giờ, lễ Tết đến 250.000đ một giờ. Ting thực nhận 70.000–90.000đ một giờ, không chiết khấu. Thu nhập tháng nếu làm đều: bTaskee công bố bình quân khoảng 19 triệu một tháng chưa tính thưởng (con số từ báo Thanh Niên 04/02/2026 — đã hơn 9 tháng trước ngày tra cứu 23/11/2026, kiểm tra lại trước ngày đăng), JupViec ghi 15–25 triệu một tháng. Hai con số này đi kèm điều kiện làm nhiều ca, cuối tuần, lễ Tết — làm ít ca thì ít hơn, không lấy làm thu nhập đảm bảo.
 
 Lên giám sát hoặc quản lý: 10–15 triệu một tháng. Quản lý, giám sát vệ sinh công nghiệp TINA 12–15 triệu, Hygiene Supervisor khách sạn 10–18 triệu.
 

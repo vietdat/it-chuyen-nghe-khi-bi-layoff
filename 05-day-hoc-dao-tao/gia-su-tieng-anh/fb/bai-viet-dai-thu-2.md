@@ -7,7 +7,7 @@
 
 ---
 
-Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề không cần mặt bằng, không cần vốn, làm được từ nhà: gia sư tiếng Anh.
+Bạn là dev, vừa bị layoff. Không code nữa thì làm gì? Có một nghề không cần mặt bằng, vốn bắt đầu thấp — tai nghe có mic khoảng 175.000–279.000đ [Cập nhật: 11/2026 – trang bán hàng, tra 23/11/2026] — làm được từ nhà: gia sư tiếng Anh. Nhưng tháng đầu thu nhập gần như bằng 0: dạy thử miễn phí, học viên nghỉ dần vì Tết.
 
 Học viên nói 1 câu tiếng Anh, sai 3 chỗ. Gia sư sửa từng chỗ, học viên nói lại đúng ngay buổi đó. Bài này nói hết về nghề gia sư tiếng Anh: làm gì mỗi ngày, ai hợp, học ở đâu, lương bao nhiêu, và cái khó thật sự là gì. Lưu lại đọc từ từ.
 
@@ -73,7 +73,7 @@ Về nhu cầu theo thành phố, tra ngày 23/11: Hà Nội tuyển nhiều nh�
 
 **Rủi ro thật**
 
-Học viên nghỉ giữa chừng là rủi ro lớn nhất: tháng có 5 học viên, tháng còn 2. Thu học phí theo khóa 8–12 buổi thay vì thu từng buổi, và chốt lịch sau Tết ngay trong tuần này. Mùa vụ rõ rệt: cao điểm đầu năm học và trước kỳ thi, thấp điểm Tết — tuần này là tuần cuối trước Tết (mùng 1 Tết 06/02/2027), nhiều học viên xin nghỉ dần. Cạnh tranh từ trung tâm và app AI: app dạy phát âm và giao tiếp cơ bản rẻ hơn, gia sư chỉ hơn app ở chỗ sửa lỗi trực tiếp theo từng người và giữ động lực cho học viên. Phí nhận lớp qua trung tâm tháng đầu mất 30–40%. Và tiếng Anh không đủ thì không dạy được — kiểm tra thật trình độ của mình trước, đừng tự tin theo cảm tính.
+Học viên nghỉ giữa chừng là rủi ro lớn nhất: tháng có 5 học viên, tháng còn 2. Thu học phí theo khóa 8–12 buổi thay vì thu từng buổi, và chốt lịch sau Tết ngay trong tuần này. Mùa vụ rõ rệt: cao điểm đầu năm học và trước kỳ thi, thấp điểm Tết — tuần này là tuần cuối trước Tết (mùng 1 Tết 06/02/2027), nhiều học viên xin nghỉ dần. Cạnh tranh từ trung tâm và app AI: app dạy phát âm và giao tiếp cơ bản rẻ hơn, gia sư chỉ hơn app ở chỗ sửa lỗi trực tiếp theo từng người và giữ động lực cho học viên. Phí nhận lớp qua trung tâm tháng đầu mất 30–40%. Sức khỏe: dạy online nhiều giờ liền thì mỏi giọng, mỏi mắt, ngồi nhiều giờ trước màn hình — mỗi buổi dạy xong đứng dậy đi lại vài phút, uống nước ấm, đừng dạy liền 4–5 buổi không nghỉ. Và tiếng Anh không đủ thì không dạy được — kiểm tra thật trình độ của mình trước, đừng tự tin theo cảm tính.
 
 ---
 
